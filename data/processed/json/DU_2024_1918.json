@@ -1,0 +1,493 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Infrastruktury z dnia 18 grudnia 2024 r. w sprawie wprowadzenia do stosowania wymagań ustanowionych przez Organizację Międzynarodowego\nLotnictwa Cywilnego w zakresie procedur lotu 1) Minister Infrastruktury kieruje działem administracji rządowej - transport, na podstawie\n§ 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w\nsprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).\nTreść rozporządzenia\nNa podstawie art. 3 ust. 4 pkt 1 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze\n(Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222) zarządza się, co następuje:\n§ 1.\nWprowadza się do stosowania wymagania ustanowione przez Organizację Międzynarodowego\nLotnictwa Cywilnego (ICAO):\n1)\n„Procedury Służb Żeglugi Powietrznej - Operacje Statków Powietrznych” (Doc. 8168):\na)\ntom I „Procedury lotu”, ogłoszony w załączniku do obwieszczenia nr 6/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 21 kwietnia 2023 r.\nw sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa\nCywilnego (ICAO) w Doc. 8168 - Procedury Służb Żeglugi Powietrznej - Operacje Statków\nPowietrznych, tom I „Procedury lotu”\n(Dz. Urz. ULC poz. 22),\nb)\ntom II „Opracowywanie procedur lotu z widocznością i według wskazań przyrządów”, ogłoszony\nw załączniku do obwieszczenia nr 13 Prezesa Urzędu Lotnictwa Cywilnego z dnia 13 września 2022 r.\nw sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa\nCywilnego (ICAO) w Doc. 8168 - Procedury Służb Żeglugi Powietrznej - Operacje Statków\nPowietrznych, tom II „Opracowywanie procedur lotu z widocznością i według wskazań\nprzyrządów”\n(Dz. Urz. ULC poz. 50),\nc)\ntom III „Procedury operacyjne statków powietrznych”, ogłoszony w załączniku do obwieszczenia nr 7/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 21 kwietnia 2023 r.\nw sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa\nCywilnego (ICAO) w Doc. 8168 - Procedury Służb Żeglugi Powietrznej - Operacje Statków\nPowietrznych, Tom III „Procedury operacyjne statków powietrznych”\n(Dz. Urz. ULC poz. 23),\n2)\n„Podręcznik zapewniania jakości projektowania procedur lotu” (Doc. 9906):\na)\ntom 1 „System zapewniania jakości projektowania procedur lotu”, ogłoszony w załączniku\ndo obwieszczenia nr 10/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 4 maja 2023 r.\nw sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa\nCywilnego (ICAO) w Doc. 9906 - Podręcznik zapewniania jakości projektowania procedur\nlotu, tom 1 „System zapewniania jakości projektowania procedur lotu”\n(Dz. Urz. ULC poz. 26),\nb)\ntom 5 „Walidacja instrumentalnych procedur lotu”, ogłoszony w załączniku do obwieszczenia nr 12 Prezesa Urzędu Lotnictwa Cywilnego z dnia 28 lipca 2022 r. w sprawie\nogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa Cywilnego\n(ICAO) w Doc. 9906 - Podręcznik zapewniania jakości w procesie projektowania procedur\nlotu, tom 5 „Walidacja instrumentalnych procedur lotu”\n(Dz. Urz. ULC poz. 44)\n- w zakresie procedur lotu.\n§ 2.\n1.\nKompetencje i obowiązki „właściwej władzy państwowej” określone w dokumencie „Procedury\nSłużb Żeglugi Powietrznej - Operacje Statków Powietrznych” (Doc. 8168), o którym mowa\nw § 1 pkt 1, wykonuje Prezes Urzędu Lotnictwa Cywilnego.\n2.\nKompetencje i obowiązki „właściwej władzy” oraz „właściwej władzy ATS” określone w\ndokumencie „Procedury Służb Żeglugi Powietrznej - Operacje Statków Powietrznych” (Doc.\n8168), o którym mowa w § 1 pkt 1, wykonuje instytucja zapewniająca służby ruchu lotniczego,\nwyznaczona na podstawie art. 127 ust. 2 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 296,
+            "end": 297,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 298,
+            "end": 299,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 300,
+            "end": 304,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 305,
+            "end": 306,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 307,
+            "end": 310,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 311,
+            "end": 312,
+            "text": "3",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 444,
+            "end": 455,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 456,
+            "end": 460,
+            "text": "2725",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 497,
+            "end": 501,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 502,
+            "end": 503,
+            "text": "3",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 504,
+            "end": 508,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 509,
+            "end": 510,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 511,
+            "end": 514,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 515,
+            "end": 516,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 565,
+            "end": 586,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 587,
+            "end": 591,
+            "text": "2110",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 599,
+            "end": 603,
+            "text": "2024",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 612,
+            "end": 615,
+            "text": "731",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 618,
+            "end": 622,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 652,
+            "end": 653,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 654,
+            "end": 655,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3112,
+            "end": 3113,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3114,
+            "end": 3115,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3296,
+            "end": 3297,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3298,
+            "end": 3299,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3300,
+            "end": 3303,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3304,
+            "end": 3305,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3547,
+            "end": 3548,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3549,
+            "end": 3550,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3551,
+            "end": 3554,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3555,
+            "end": 3556,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3640,
+            "end": 3644,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3645,
+            "end": 3648,
+            "text": "127",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3649,
+            "end": 3653,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3654,
+            "end": 3655,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3704,
+            "end": 3705,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3706,
+            "end": 3707,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

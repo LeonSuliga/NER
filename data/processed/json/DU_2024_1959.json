@@ -1,0 +1,519 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 27 grudnia 2024 r. w sprawie nadania Instytutowi Badań Edukacyjnych w Warszawie statusu państwowego instytutu\nbadawczego\nTreść rozporządzenia\nNa podstawie art. 21 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych\n(Dz. U. z 2024 r. poz. 534) zarządza się, co następuje:\n§ 1.\n1.\nInstytutowi Badań Edukacyjnych z siedzibą w Warszawie, o numerze identyfikacyjnym\nREGON 000178235 i numerze identyfikacji podatkowej NIP 525-000-86-95, utworzonemu\nzarządzeniem nr 21 Ministra Edukacji Narodowej z dnia 29 czerwca 1990 r. w sprawie\nprzekształcenia Instytutu Badań Pedagogicznych w Instytut Badań Edukacyjnych\n(Dz. Urz. MEN poz. 31 oraz z 1994 r. poz. 25), zwanemu dalej „Instytutem”, nadaje się status państwowego instytutu badawczego.\n2.\nInstytut używa nazwy „Instytut Badań Edukacyjnych - Państwowy Instytut Badawczy”.\n3.\nInstytut może używać skróconej nazwy „IBE - Państwowy Instytut Badawczy” lub „IBE\nPIB”.\n4.\nNadzór nad Instytutem sprawuje minister właściwy do spraw oświaty i wychowania.\n§ 2.\nPrzedmiotem działania Instytutu jest:\n1)\nprowadzenie badań naukowych i prac rozwojowych w zakresie nauk społecznych i humanistycznych,\nścisłych i przyrodniczych oraz założeń, organizacji, metodyki i efektywności systemu\nkształcenia, roli rodziny i innych podmiotów uczestniczących w procesie kształcenia\ni wychowania, a także rozwiązań na rzecz uczenia się przez całe życie;\n2)\nprzystosowywanie i wdrażanie wyników prowadzonych badań do zastosowania w praktyce;\n3)\nbadanie funkcjonowania systemu oświaty i innych podmiotów uczestniczących w procesie\nkształcenia i wychowania, a także rozwiązań na rzecz uczenia się przez całe życie,\noraz opracowywanie propozycji kierunków ich rozwoju.\n§ 3.\nDo zadań Instytutu, szczególnie ważnych dla planowania i realizacji polityki państwa,\nktórych wykonywanie jest niezbędne dla rozwoju edukacji oraz poprawy jakości życia\nobywateli, dotyczących opracowywania i opiniowania standardów w zakresie rozwoju edukacji,\nwykonywanych w sposób ciągły, należy:\n1)\nprowadzenie badań naukowych i prac rozwojowych w zakresie, o którym mowa w § 2 pkt\n1, oraz przystosowanie ich wyników do upowszechnienia lub wdrożenia w praktyce;\n2)\nprowadzenie, reprezentatywnych i dających podstawę do ewaluacji polityki oświatowej\ni na rzecz uczenia się przez całe życie oraz monitorowania stanu systemu oświaty i\nrozwiązań na rzecz uczenia się przez całe życie, badań dotyczących:\na)\nnauczycieli, wychowawców i innych pracowników pedagogicznych oraz pracowników niepedagogicznych\nzatrudnionych w jednostkach systemu oświaty,\nb)\ndzieci objętych wychowaniem przedszkolnym, uczniów, słuchaczy, wychowanków i innych\nosób uczących się oraz osób zdających egzaminy zewnętrzne,\nc)\njednostek systemu oświaty oraz innych podmiotów uczestniczących w procesie kształcenia\ni wychowania, egzaminowania oraz uczenia się przez całe życie;\n3)\newaluacja programów i przedsięwzięć istotnych dla rozwoju systemu kształcenia i uczenia\nsię przez całe życie;\n4)\nanaliza danych umożliwiających monitorowanie losów uczniów, słuchaczy, wychowanków\ni absolwentów szkół i placówek działających w systemie oświaty w celu oceny efektów\nkształcenia oraz zapotrzebowania na kwalifikacje uczniów i nauczycieli;\n5)\nwsparcie ministra właściwego do spraw oświaty i wychowania w analizie, doskonaleniu\ni wdrażaniu kluczowych regulacji systemu oświaty, w tym dotyczących podstaw programowych,\nramowych planów nauczania, podręczników, zasad oceniania, klasyfikowania i promowania\nuczniów i słuchaczy, przyznawania im stypendiów, warunków kształcenia, pracy, doskonalenia\ni awansu zawodowego nauczycieli;\n6)\nformułowanie rekomendacji i wspieranie ministra właściwego do spraw oświaty i wychowania\noraz innych organów państwowych i samorządowych w osiąganiu celów stawianych przed\nsystemem kształcenia i uczenia się przez całe życie.\n§ 4.\nŹródłem finansowania zadań Instytutu są środki finansowe:\n1)\nuzyskiwane ze źródeł, o których mowa w art. 18 ust. 7 i 8 oraz art. 21 ust. 6 ustawy z dnia 30 kwietnia 2010 r. o instytutach\nbadawczych;\n2)\nprzyznawane Instytutowi przez ministra właściwego do spraw szkolnictwa wyższego i\nnauki na podstawie przepisów ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce\n(Dz. U. z 2024 r. poz. 1571, 1871 i 1897);\n3)\npozyskiwane na realizację projektów finansowanych z Narodowego Centrum Badań i Rozwoju\noraz Narodowego Centrum Nauki;\n4)\npozyskiwane na realizację projektów finansowanych z funduszy Unii Europejskiej oraz\ninnych źródeł zagranicznych;\n5)\nuzyskiwane z innych źródeł.\n§ 5.\nDysponentem środków budżetowych na realizację zadań, o których mowa w § 3, jest minister\nwłaściwy do spraw oświaty i wychowania.\n§ 6.\nUmowy zawarte przez Instytut Badań Edukacyjnych przed dniem wejścia w życie rozporządzenia\nzachowują moc. Umowy te są realizowane na dotychczasowych zasadach.\n§ 7.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 192,
+            "end": 196,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 197,
+            "end": 199,
+            "text": "21",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 200,
+            "end": 204,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 205,
+            "end": 206,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 267,
+            "end": 288,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 289,
+            "end": 292,
+            "text": "534",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 322,
+            "end": 323,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 324,
+            "end": 325,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1040,
+            "end": 1041,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1042,
+            "end": 1043,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1731,
+            "end": 1732,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1733,
+            "end": 1734,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2112,
+            "end": 2113,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2114,
+            "end": 2115,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2116,
+            "end": 2119,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2120,
+            "end": 2121,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3851,
+            "end": 3852,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3853,
+            "end": 3854,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3956,
+            "end": 3960,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3961,
+            "end": 3963,
+            "text": "18",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3964,
+            "end": 3968,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3969,
+            "end": 3970,
+            "text": "7",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3973,
+            "end": 3974,
+            "text": "8",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3980,
+            "end": 3984,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3985,
+            "end": 3987,
+            "text": "21",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3988,
+            "end": 3992,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3993,
+            "end": 3994,
+            "text": "6",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4240,
+            "end": 4261,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4262,
+            "end": 4266,
+            "text": "1571",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4268,
+            "end": 4272,
+            "text": "1871",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4275,
+            "end": 4279,
+            "text": "1897",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4550,
+            "end": 4551,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4552,
+            "end": 4553,
+            "text": "5",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4625,
+            "end": 4626,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4627,
+            "end": 4628,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4684,
+            "end": 4685,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4686,
+            "end": 4687,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4848,
+            "end": 4849,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4850,
+            "end": 4851,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

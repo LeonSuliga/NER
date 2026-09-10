@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 15 maja 2024 r. o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i\nRozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu\nobowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia\n29 maja 1990 r., polegającej na:\n1)\nwprowadzeniu do Artykułu 1 tej Umowy zmiany przyjętej w uchwale nr 259 Rady Gubernatorów\nEuropejskiego Banku Odbudowy i Rozwoju z dnia 18 maja 2023 r. - Zmiana Artykułu 1\nUmowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju w celu umożliwienia ograniczonego\ni stopniowego rozszerzenia zakresu geograficznego operacji Banku na obszar Afryki\nSubsaharyjskiej i Iraku;\n2)\nwprowadzeniu do Artykułu 12.1 tej Umowy zmiany przyjętej w uchwale nr 260 Rady Gubernatorów\nEuropejskiego Banku Odbudowy i Rozwoju z dnia 18 maja 2023 r. - Zmiana Artykułu 12.1\nUmowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju w celu usunięcia statutowych\nograniczeń kapitału dla zwykłych operacji.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 177,
+            "end": 181,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 182,
+            "end": 183,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1089,
+            "end": 1093,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1094,
+            "end": 1095,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

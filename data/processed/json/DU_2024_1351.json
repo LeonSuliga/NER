@@ -1,0 +1,727 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 września 2024 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu\nudzielania wsparcia na wykonywanie działalności w zakresie przechowywania lub wprowadzania\ndo obrotu produktów rolnych, rybołówstwa lub akwakultury oraz artykułów rolno-spożywczych\nw ramach Krajowego Planu Odbudowy i Zwiększania Odporności 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne,\nna podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi\n(Dz. U. poz. 2706).\nTreść rozporządzenia\nNa podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju\n(Dz. U. z 2024 r. poz. 324 i 862) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2022 r. w sprawie\nszczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wykonywanie działalności\nw zakresie przechowywania lub wprowadzania do obrotu produktów rolnych, rybołówstwa\nlub akwakultury oraz artykułów rolno-spożywczych w ramach Krajowego Planu Odbudowy\ni Zwiększania Odporności\n(Dz. U. poz. 2758 oraz z 2023 r. poz. 740) wprowadza się następujące zmiany:\n1)\nw § 4 ust. 1 otrzymuje brzmienie:\n„1.\nWsparcia udziela się na przedsięwzięcia, których realizacja trwa nie dłużej niż 24\nmiesiące od dnia zawarcia umowy o objęcie przedsięwzięcia wsparciem i nie dłużej niż\ndo dnia 31 marca 2026 r.”;\n2)\nw § 7 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 marca 2026 r.”.\n§ 2.\nDo spraw dotyczących udzielania wsparcia w zakresie przechowywania lub wprowadzania\ndo obrotu produktów rolnych, rybołówstwa lub akwakultury oraz artykułów rolno-spożywczych\nw ramach inwestycji A1.4.1 „Inwestycje na rzecz dywersyfikacji i skracania łańcucha\ndostaw produktów rolnych i spożywczych oraz budowy odporności podmiotów uczestniczących\nw łańcuchu” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, wszczętych\ni niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje\nsię przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.\n§ 3.\n1.\nPrzedsięwzięcie objęte wsparciem określonym w § 2, w przypadku którego przed dniem\nwejścia w życie niniejszego rozporządzenia zawarto umowę o objęcie przedsięwzięcia\nwsparciem, może zostać zrealizowane w okresie dłuższym niż 18 miesięcy od dnia zawarcia\numowy o objęcie przedsięwzięcia wsparciem, ale nie dłuższym niż 24 miesiące od dnia\nzawarcia umowy o objęcie przedsięwzięcia wsparciem, i przed upływem terminu określonego\nw § 4 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.\n2.\nW przypadku, o którym mowa w ust. 1, koszty, o których mowa w § 6 ust. 1 rozporządzenia\nzmienianego w § 1, poniesione przez wnioskodawcę po upływie terminu realizacji przedsięwzięcia\nokreślonego w umowie o objęcie przedsięwzięcia wsparciem, ale przed upływem terminu\nokreślonego w § 7 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym\nrozporządzeniem, uznaje się za koszty kwalifikowalne.\n§ 4.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 501,
+            "end": 502,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 503,
+            "end": 504,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 505,
+            "end": 509,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 510,
+            "end": 511,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 512,
+            "end": 515,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 516,
+            "end": 517,
+            "text": "4",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 658,
+            "end": 669,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 670,
+            "end": 674,
+            "text": "2706",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 711,
+            "end": 715,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 716,
+            "end": 719,
+            "text": "14l",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 721,
+            "end": 725,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 726,
+            "end": 727,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 801,
+            "end": 822,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 823,
+            "end": 826,
+            "text": "324",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 829,
+            "end": 832,
+            "text": "862",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 862,
+            "end": 863,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 864,
+            "end": 865,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1240,
+            "end": 1251,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1252,
+            "end": 1256,
+            "text": "2758",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1264,
+            "end": 1268,
+            "text": "2023",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1277,
+            "end": 1280,
+            "text": "740",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1321,
+            "end": 1322,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1323,
+            "end": 1324,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1325,
+            "end": 1329,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1330,
+            "end": 1331,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1557,
+            "end": 1558,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1559,
+            "end": 1560,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1632,
+            "end": 1633,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1634,
+            "end": 1635,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2189,
+            "end": 2190,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2191,
+            "end": 2192,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2241,
+            "end": 2242,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2243,
+            "end": 2244,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2295,
+            "end": 2296,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2297,
+            "end": 2298,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2677,
+            "end": 2678,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2679,
+            "end": 2680,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2681,
+            "end": 2685,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2686,
+            "end": 2687,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2717,
+            "end": 2718,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2719,
+            "end": 2720,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2801,
+            "end": 2805,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2806,
+            "end": 2807,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2834,
+            "end": 2835,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2836,
+            "end": 2837,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2838,
+            "end": 2842,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2843,
+            "end": 2844,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2874,
+            "end": 2875,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2876,
+            "end": 2877,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3053,
+            "end": 3054,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3055,
+            "end": 3056,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3086,
+            "end": 3087,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3088,
+            "end": 3089,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3175,
+            "end": 3176,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3177,
+            "end": 3178,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
