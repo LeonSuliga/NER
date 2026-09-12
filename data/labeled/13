@@ -1,0 +1,486 @@
+{
+  "id": 13,
+  "result": [
+    {
+      "value": {
+        "start": 247,
+        "end": 248,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "lxtw6518pl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 249,
+        "end": 250,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "jwcM7q-lAt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 251,
+        "end": 255,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ht0YAYlG4W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 256,
+        "end": 257,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ABJXKwnQiN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 384,
+        "end": 395,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0vd_6qgd8q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 396,
+        "end": 400,
+        "text": "2727",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DV7rV6zWOv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 421,
+        "end": 424,
+        "text": "289",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8aYBD1HfL_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 427,
+        "end": 430,
+        "text": "999",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "r7CTnTmN7W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 783,
+        "end": 787,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fcBQSehCiq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 788,
+        "end": 790,
+        "text": "26",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "eteIHkTu-x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 791,
+        "end": 794,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "YGw1xP2UPT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 795,
+        "end": 796,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Onm6f2PLSU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 887,
+        "end": 908,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7eHsgsHp9h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 909,
+        "end": 913,
+        "text": "1209",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "r5wIVkYleC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 915,
+        "end": 919,
+        "text": "1940",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "YwOwBZ9odN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 922,
+        "end": 926,
+        "text": "1946",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GdGHw2Mytx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1082,
+        "end": 1093,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wkz4hLLypm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1094,
+        "end": 1098,
+        "text": "1058",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "cROMPQrFGN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1145,
+        "end": 1146,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "B286azgbyq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1147,
+        "end": 1148,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "9rZ_-N2uaE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1151,
+        "end": 1154,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "FinlwF1r3z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1155,
+        "end": 1156,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "XGOTKsMgUz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1324,
+        "end": 1327,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "2nd6f9W82k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1328,
+        "end": 1331,
+        "text": "6.1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "6w0FXhQ-8-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "value": {
+        "start": 406,
+        "end": 420,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7N2w4OtOP6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 731,
+        "end": 742,
+        "text": "Dz. Urz. UE",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "76GQkmiFbN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 743,
+        "end": 754,
+        "text": "L 2024/2522",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "viYZSXi5rw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1334,
+        "end": 1340,
+        "text": "zdaniu",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "Ryvqz6_eAc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1341,
+        "end": 1350,
+        "text": "pierwszym",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "l6TGmMDABe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 48,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Przemys\u0142u z dnia 27 grudnia 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie metod badania jako\u015bci paliw ciek\u0142ych 1) Minister Przemys\u0142u kieruje dzia\u0142em administracji rz\u0105dowej - gospodarka surowcami energetycznymi,\nna podstawie \u00a7 1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia 2023 r.\nw sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Przemys\u0142u (Dz. U. poz. 2727 oraz\nz 2024 r. poz. 289 i 999).\nTre\u015b\u0107 rozporz\u0105dzenia\n2) Niniejsze rozporz\u0105dzenie s\u0142u\u017cy stosowaniu rozporz\u0105dzenia wykonawczego Komisji (UE)\n2024/2522 z dnia 23 wrze\u015bnia 2024 r. zmieniaj\u0105cego za\u0142\u0105cznik I do rozporz\u0105dzenia Rady\n(EWG) nr 2658/87 w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wsp\u00f3lnej\nTaryfy Celnej (Dz. Urz. UE L 2024/2522 z 31.10.2024).\nNa podstawie art. 26 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania\njako\u015bci paliw\n(Dz. U. z 2024 r. poz. 1209, 1940 i 1946) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Klimatu i \u015arodowiska z dnia 26 czerwca 2024 r. w sprawie metod\nbadania jako\u015bci paliw ciek\u0142ych\n(Dz. U. poz. 1058) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\n1)\nu\u017cyte w \u00a7 1 w pkt 2 oraz w za\u0142\u0105czniku do rozporz\u0105dzenia w cz\u0119\u015bci II w tytule wyrazy\n\u201eCN 2710 19 43\u201d zast\u0119puje si\u0119 wyrazami \u201eCN 2710 19 44\u201d;\n2)\nw za\u0142\u0105czniku do rozporz\u0105dzenia w cz\u0119\u015bci I w pkt 6.1 w zdaniu pierwszym wyrazy \u201e90 \uf0b0C\u201d zast\u0119puje si\u0119 wyrazami \u201e98 \uf0b0C\u201d.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2025 r."
+    },
+    "meta": {},
+    "created_at": "2026-09-12T13:26:21.132613Z",
+    "updated_at": "2026-09-12T13:26:21.132613Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 48,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-09-12T19:21:03.536203Z",
+  "updated_at": "2026-09-12T19:21:03.536203Z",
+  "draft_created_at": "2026-09-12T19:20:05.182397Z",
+  "lead_time": 64.088,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 48,
+  "parent_annotation": null,
+  "last_created_by": null
+}

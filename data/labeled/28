@@ -1,0 +1,591 @@
+{
+  "id": 28,
+  "result": [
+    {
+      "value": {
+        "start": 275,
+        "end": 276,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Oa5DMcbc2N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 277,
+        "end": 278,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "26_VY9EggJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 279,
+        "end": 283,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ZTUpWRDxSv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 284,
+        "end": 285,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2L-xYTmlEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 410,
+        "end": 421,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VRqLyL6RRs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 422,
+        "end": 426,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Ba4F_LPceb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 463,
+        "end": 467,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dV8OKYjBqD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 468,
+        "end": 471,
+        "text": "137",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "C0oQsez4cD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 472,
+        "end": 476,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "QZmCPrkbf4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 477,
+        "end": 478,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "OB7PCiKssT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 585,
+        "end": 606,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "cLbjW5XQAu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 607,
+        "end": 610,
+        "text": "146",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AVpFmDOroJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 612,
+        "end": 615,
+        "text": "858",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ZN0J0FVIEe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 617,
+        "end": 621,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "bAjLOD_8-X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 623,
+        "end": 627,
+        "text": "1593",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "TmsyDlbP-x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 630,
+        "end": 634,
+        "text": "1615",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gvYU1ZMd4P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 832,
+        "end": 843,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "HMiGVcL5p7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 844,
+        "end": 848,
+        "text": "1548",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gz7C5mqoAO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 920,
+        "end": 941,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VYQyAGNagR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 942,
+        "end": 946,
+        "text": "1837",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Znf3Nv9YQ3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 949,
+        "end": 953,
+        "text": "2142",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "elq9gzfGF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 970,
+        "end": 973,
+        "text": "263",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LPdQNN4N-E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 975,
+        "end": 978,
+        "text": "745",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vUi0vprSZ1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 980,
+        "end": 984,
+        "text": "1327",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BdLP8nQNSh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 987,
+        "end": 991,
+        "text": "2003",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "x2arTVpXfU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1012,
+        "end": 1016,
+        "text": "2644",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tCCJAsQd1p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1021,
+        "end": 1022,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "9_H6rnbOUa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1023,
+        "end": 1024,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "mZwvSqOJ7M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1025,
+        "end": 1029,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "4bs16HIeHx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1030,
+        "end": 1031,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "05SbtEncrk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1133,
+        "end": 1137,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "p9HHT0JL2U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1138,
+        "end": 1139,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "unEynhAxIG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1548,
+        "end": 1552,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "FAISzGfRb2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1553,
+        "end": 1554,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-e3V0Sqdkw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 955,
+        "end": 969,
+        "text": "z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-Ucar0XBAI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 997,
+        "end": 1011,
+        "text": "z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "2GvoURzmDk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 70,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Zdrowia z dnia 5 grudnia 2024 r. w sprawie zmiany rozporz\u0105dzenia zmieniaj\u0105cego rozporz\u0105dzenie w sprawie og\u00f3lnych warunk\u00f3w\num\u00f3w o udzielanie \u015bwiadcze\u0144 opieki zdrowotnej 1) Minister Zdrowia kieruje dzia\u0142em administracji rz\u0105dowej - zdrowie, na podstawie \u00a7\n1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie\nszczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o \u015bwiadczeniach opieki zdrowotnej\nfinansowanych ze \u015brodk\u00f3w publicznych\n(Dz. U. z 2024 r. poz. 146, 858, 1222, 1593 i 1615) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Zdrowia z dnia 4 wrze\u015bnia 2020 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie og\u00f3lnych warunk\u00f3w um\u00f3w o udzielanie \u015bwiadcze\u0144 opieki zdrowotnej\n(Dz. U. poz. 1548, z p\u00f3\u017an. zm. 2) Zmiany wymienionego rozporz\u0105dzenia zosta\u0142y og\u0142oszone w Dz. U. z 2020 r. poz. 1837\ni 2142, z 2021 r. poz. 263, 745, 1327 i 2003 oraz z 2023 r. poz. 2644.) w \u00a7 2 ust. 4 otrzymuje brzmienie:\n\u201e4.\nW przypadku gdy okres rozliczeniowy przed\u0142u\u017cony po raz kolejny na podstawie ust. 2\nup\u0142yn\u0105\u0142 i \u015brodki wynikaj\u0105ce z wyp\u0142aty \u015bwiadczeniodawcy nale\u017cno\u015bci ustalonych jako\niloczyn odwrotno\u015bci liczby okres\u00f3w sprawozdawczych w okresie rozliczeniowym i kwoty\nzobowi\u0105zania dla danego zakresu \u015bwiadcze\u0144 nie zosta\u0142y rozliczone, dyrektor oddzia\u0142u\nwojew\u00f3dzkiego Narodowego Funduszu Zdrowia, na wniosek \u015bwiadczeniodawcy, mo\u017ce rozliczy\u0107\nte \u015brodki w nast\u0119pnych okresach rozliczeniowych umowy, o kt\u00f3rej mowa w ust. 1, lub\nw ramach kolejnych um\u00f3w zawartych przez danego \u015bwiadczeniodawc\u0119, nie p\u00f3\u017aniej ni\u017c do\ndnia 31 grudnia 2025 r.\u201d.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia."
+    },
+    "meta": {},
+    "created_at": "2026-09-12T15:02:42.406213Z",
+    "updated_at": "2026-09-12T15:02:42.441519Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 70,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-09-12T20:21:35.374078Z",
+  "updated_at": "2026-09-12T20:21:35.374078Z",
+  "draft_created_at": "2026-09-12T20:21:19.893860Z",
+  "lead_time": 24.459,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 70,
+  "parent_annotation": null,
+  "last_created_by": null
+}
