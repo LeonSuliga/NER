@@ -219,11 +219,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 695,
-            "end": 699,
-            "text": "2024",
+            "start": 693,
+            "end": 707,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -4756,11 +4756,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 25292,
-            "end": 25296,
-            "text": "2024",
+            "start": 25290,
+            "end": 25304,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -5788,6 +5788,84 @@
             "text": "f",
             "labels": [
               "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36603,
+            "end": 36608,
+            "text": "tiret",
+            "labels": [
+              "TIR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36609,
+            "end": 36615,
+            "text": "drugie",
+            "labels": [
+              "TIR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36616,
+            "end": 36630,
+            "text": "podwójne tiret",
+            "labels": [
+              "PODW_TIR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36625,
+            "end": 36630,
+            "text": "tiret",
+            "labels": [
+              "TIR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36631,
+            "end": 36638,
+            "text": "trzecie",
+            "labels": [
+              "TIR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 36631,
+            "end": 36638,
+            "text": "trzecie",
+            "labels": [
+              "PODW_TIR_VAL"
             ]
           }
         },
@@ -8713,6 +8791,32 @@
             "text": "3",
             "labels": [
               "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54684,
+            "end": 54690,
+            "text": "zdanie",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54691,
+            "end": 54697,
+            "text": "drugie",
+            "labels": [
+              "ZDA_VAL"
             ]
           }
         },
@@ -12777,6 +12881,58 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 67264,
+            "end": 67269,
+            "text": "tiret",
+            "labels": [
+              "TIR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 67270,
+            "end": 67278,
+            "text": "pierwsze",
+            "labels": [
+              "TIR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 67280,
+            "end": 67286,
+            "text": "drugie",
+            "labels": [
+              "TIR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 67289,
+            "end": 67296,
+            "text": "trzecie",
+            "labels": [
+              "TIR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 67302,
             "end": 67305,
             "text": "pkt",
@@ -13050,11 +13206,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 68135,
-            "end": 68139,
-            "text": "2024",
+            "start": 68133,
+            "end": 68147,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
