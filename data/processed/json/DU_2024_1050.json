@@ -63,6 +63,32 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 588,
+            "end": 594,
+            "text": "zdanie",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 595,
+            "end": 603,
+            "text": "pierwsze",
+            "labels": [
+              "ZDA_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 703,
             "end": 724,
             "text": "Dz. U. z 2019 r. poz.",
@@ -2130,11 +2156,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 16629,
-            "end": 16633,
-            "text": "2024",
+            "start": 16627,
+            "end": 16641,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -2278,6 +2304,32 @@
             "text": "5",
             "labels": [
               "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 17067,
+            "end": 17073,
+            "text": "zdanie",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 17074,
+            "end": 17082,
+            "text": "pierwsze",
+            "labels": [
+              "ZDA_VAL"
             ]
           }
         },
@@ -2780,11 +2832,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 25123,
-            "end": 25127,
-            "text": "2024",
+            "start": 25121,
+            "end": 25135,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -3365,11 +3417,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 31236,
-            "end": 31240,
-            "text": "2024",
+            "start": 31234,
+            "end": 31248,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -6568,6 +6620,58 @@
             "text": "1",
             "labels": [
               "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54104,
+            "end": 54140,
+            "text": "Dz. Urz. UE L 119 z 04.05.2016, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54141,
+            "end": 54142,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54215,
+            "end": 54251,
+            "text": "Dz. Urz. UE L 127 z 23.05.2018,\nstr.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 54252,
+            "end": 54253,
+            "text": "2",
+            "labels": [
+              "PUB_VAL"
             ]
           }
         },

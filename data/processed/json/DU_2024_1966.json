@@ -89,11 +89,11 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 408,
-            "end": 412,
-            "text": "2024",
+            "start": 406,
+            "end": 420,
+            "text": "z 2024 r. poz.",
             "labels": [
-              "PUB_VAL"
+              "PUB_KEY"
             ]
           }
         },
@@ -354,6 +354,32 @@
             "text": "6",
             "labels": [
               "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1334,
+            "end": 1340,
+            "text": "zdaniu",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1341,
+            "end": 1350,
+            "text": "pierwszym",
+            "labels": [
+              "ZDA_VAL"
             ]
           }
         },
