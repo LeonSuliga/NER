@@ -4,8 +4,10 @@ from pathlib import Path
 
 # Article references
 ART_PATTERN = re.compile(
-    r'\bart\.\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'\b(?:art\.|artykułem|artykułu|artykuł)\s*'
+    r'\d+(?:\.\d+)*[a-z]*'
+    r'(?:\s*(?:,|i|oraz|-|–)\s*'
+    r'\d+(?:\.\d+)*[a-z]*)*',
     re.IGNORECASE
 )
 
@@ -401,11 +403,11 @@ def find_references(text):
                 match,
                 "ART",
                 re.compile(
-                    r'\bart\.',
+                    r'\b(?:art\.|artykuł|artykułu|artykułem)',
                     re.IGNORECASE
                 ),
                 re.compile(
-                    r'\d+[a-z]*',
+                    r'\d+(?:\.\d+)*[a-z]*',
                     re.IGNORECASE
                 )
             )
