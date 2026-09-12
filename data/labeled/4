@@ -1,0 +1,1026 @@
+{
+  "id": 4,
+  "result": [
+    {
+      "value": {
+        "start": 334,
+        "end": 335,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "g9gYIuVcIg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 336,
+        "end": 337,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Xwg3hCdb5R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 338,
+        "end": 342,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Tw9xKeW1G9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 343,
+        "end": 344,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QzaG309rcm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 345,
+        "end": 348,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "lDPB-lExdo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 349,
+        "end": 350,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "7faVEmMxvP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 488,
+        "end": 499,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kmZvZooTBd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 500,
+        "end": 504,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "G_IBeAHMGb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1254,
+        "end": 1258,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Y7zPwonVkD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1259,
+        "end": 1261,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "9jdsYaYmyA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1262,
+        "end": 1266,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "RhTnQMkTFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1267,
+        "end": 1268,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "nhhO-JodGH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1368,
+        "end": 1389,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "SA0nAqjO7v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1390,
+        "end": 1394,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AFhVWRW3oU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1615,
+        "end": 1626,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "m9nTT925D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1627,
+        "end": 1631,
+        "text": "1253",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hP-tmb4Sek",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1863,
+        "end": 1874,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TmqQovw6Qg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1875,
+        "end": 1879,
+        "text": "2195",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GFDkFRCjea",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1978,
+        "end": 1979,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "PaMqlaiQ1Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1980,
+        "end": 1981,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "WS06mA1aQv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2174,
+        "end": 2185,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "SDYB_F5P8Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2186,
+        "end": 2190,
+        "text": "2195",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "j0g6--Q-nw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2622,
+        "end": 2623,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "rNPCI2FL0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2624,
+        "end": 2625,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "jgZIujptoY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2626,
+        "end": 2630,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "nXx_sImB4j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2631,
+        "end": 2632,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "htBhib0iNp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2633,
+        "end": 2636,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "rvBxOxBoYF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2637,
+        "end": 2638,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9HkOmlpbun",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2776,
+        "end": 2787,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-6-0LcI7D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2788,
+        "end": 2792,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9gL-7epIW2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2808,
+        "end": 2812,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dOtkEH7w4-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2813,
+        "end": 2816,
+        "text": "27a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "nVpOHv7WI5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2817,
+        "end": 2821,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "6BQSXljJ4W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2822,
+        "end": 2823,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "voVGBarFSh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2879,
+        "end": 2900,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "PPiUkcaFjT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2901,
+        "end": 2905,
+        "text": "1336",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Lm10XyWXwN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2907,
+        "end": 2911,
+        "text": "1688",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9BaEMm-bpq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2914,
+        "end": 2918,
+        "text": "1890",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "IK5S_ByeMZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3505,
+        "end": 3509,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "78iCMG-4IE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3510,
+        "end": 3511,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fyDpotlXWR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3658,
+        "end": 3659,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "74jLdXwuvj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3660,
+        "end": 3661,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "FqG2kcqY0d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3744,
+        "end": 3745,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "yrL3amT7Kr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3746,
+        "end": 3747,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "482NOK6WD_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4014,
+        "end": 4017,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "x5zeWM3PMb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4018,
+        "end": 4019,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "-EbWV2O8Zv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4020,
+        "end": 4024,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "-C_F9zjX3l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4025,
+        "end": 4026,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "BDYDk6c4Ws",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4118,
+        "end": 4119,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "8G1ga8QEEs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4120,
+        "end": 4121,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "1w5gyjY1up",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25133,
+        "end": 25137,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "J0Kc53VXb-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25138,
+        "end": 25139,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "QzA1hsGNea",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25140,
+        "end": 25144,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_VsUdEre2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25145,
+        "end": 25146,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_558JSGeDl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25214,
+        "end": 25235,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xDYjLXL9Xy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25236,
+        "end": 25240,
+        "text": "1752",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iwAY5ziblF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25242,
+        "end": 25246,
+        "text": "1615",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "X63lI1622i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25248,
+        "end": 25252,
+        "text": "1688",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "A14mucz4mo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25255,
+        "end": 25259,
+        "text": "1762",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "XmoJwuINex",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26813,
+        "end": 26834,
+        "text": "Dz. U. z 2014 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Yb-y6Ggr-R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26835,
+        "end": 26839,
+        "text": "1713",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "rC51DUy79t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27176,
+        "end": 27177,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Y8VnjM0ssd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27178,
+        "end": 27179,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "rXcZgNvF9T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27372,
+        "end": 27383,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "UruyGAlHTi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27384,
+        "end": 27388,
+        "text": "2195",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VCNNnKp7AW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 8,
+    "data": {
+      "text": "Obwieszczenie Ministra Klimatu i \u015arodowiska z dnia 10 czerwca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra \u015arodowiska w sprawie\nspecjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002) 1) Minister Klimatu i \u015arodowiska kieruje dzia\u0142em administracji rz\u0105dowej - \u015brodowisko,\nna podstawie \u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz.\nU. poz. 2726).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra \u015arodowiska z dnia 11 maja 2017 r. w sprawie specjalnego obszaru\nochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nZa\u0142\u0105cznik nr 1 - Granica specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nZa\u0142\u0105cznik nr 2 - Mapa specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nZa\u0142\u0105cznik nr 3 - Siedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\nUroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nZa\u0142\u0105cznik nr 4 - Gatunki zwierz\u0105t innych ni\u017c ptaki, b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze\nochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra \u015arodowiska z dnia 11 maja 2017 r. w sprawie specjalnego obszaru\nochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\n(Dz. U. poz. 1253), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Klimatu i \u015arodowiska z dnia 22 wrze\u015bnia 2023 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej\n(PLH300002)\n(Dz. U. poz. 2195).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 22 wrze\u015bnia 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej\n(PLH300002)\n(Dz. U. poz. 2195), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra \u015arodowiska z dnia 11 maja 2017 r. w sprawie specjalnego obszaru\nochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002) 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - \u015brodowisko kieruje Minister Klimatu i \u015arodowiska, na podstawie\n\u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz. U. poz.\n2726).\nNa podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody\n(Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1.\nWyznacza si\u0119 specjalny obszar ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002 2) Kod obszaru zosta\u0142 okre\u015blony zgodnie z decyzj\u0105 wykonawcz\u0105 Komisji (UE) 2016/2334 z\ndnia 9 grudnia 2016 r. w sprawie przyj\u0119cia dziesi\u0105tego zaktualizowanego wykazu teren\u00f3w\nmaj\u0105cych znaczenie dla Wsp\u00f3lnoty sk\u0142adaj\u0105cych si\u0119 na kontynentalny region biogeograficzny\n(notyfikowan\u0105 jako dokument nr C(2016) 8191) (Dz. Urz. UE L 353 z 23.12.2016, str.\n324).), obejmuj\u0105cy obszar 34 225,2 ha, po\u0142o\u017cony w wojew\u00f3dztwie wielkopolskim.\n2.\nGranica obszaru, o kt\u00f3rym mowa w ust. 1, w postaci wykazu wsp\u00f3\u0142rz\u0119dnych punkt\u00f3w za\u0142amania\ngranicy, jest okre\u015blona w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia.\n\u00a7 2.\nMapa obszaru, o kt\u00f3rym mowa w \u00a7 1, jest okre\u015blona w za\u0142\u0105czniku nr 2 do rozporz\u0105dzenia.\n\u00a7 3.\nObszar, o kt\u00f3rym mowa w \u00a7 1, wyznacza si\u0119 w celu:\n1)\ntrwa\u0142ej ochrony:\na)\nsiedlisk przyrodniczych,\nb)\npopulacji zagro\u017conych wygini\u0119ciem gatunk\u00f3w zwierz\u0105t innych ni\u017c ptaki lub\n2)\nodtworzenia w\u0142a\u015bciwego stanu ochrony siedlisk przyrodniczych lub w\u0142a\u015bciwego stanu\nochrony gatunk\u00f3w, o kt\u00f3rych mowa w pkt 1 lit. b\n- w stosunku do przedmiot\u00f3w ochrony.\n\u00a7 4.\nPrzedmiotem ochrony na obszarze, o kt\u00f3rym mowa w \u00a7 1, s\u0105:\n1)\nsiedliska przyrodnicze okre\u015blone w za\u0142\u0105czniku nr 3 do rozporz\u0105dzenia;\n2)\ngatunki zwierz\u0105t innych ni\u017c ptaki, okre\u015blone w za\u0142\u0105czniku nr 4 do rozporz\u0105dzenia,\noraz ich siedliska.\n\u00a7 5.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 27 czerwca 2017 r..\nZa\u0142\u0105cznik nr 1\n-\nGranica specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nNumer punktu za\u0142amania granicy\nWsp\u00f3\u0142rz\u0119dne punkt\u00f3w za\u0142amania granicy (PL-1992) 1)\nX\nY\n1\n2\n3\n1\n415091,61\n403356,01\n2\n414916,99\n402948,55\n3\n414752,95\n402586,07\n4\n414612,72\n402324,13\n5\n414448,48\n402023,72\n6\n414418,87\n401969,56\n7\n414113,02\n401441,47\n8\n414041,22\n401289,61\n9\n414229,07\n401220,82\n10\n414274,05\n401249,92\n11\n414480,43\n401207,59\n12\n414628,59\n401144,09\n13\n414707,97\n401077,94\n14\n414956,68\n401083,23\n15\n414972,55\n401107,05\n16\n414991,07\n401112,34\n17\n415020,18\n401043,55\n18\n415253,01\n401067,36\n19\n415239,78\n401136,15\n20\n415329,74\n401133,50\n21\n415491,14\n401141,44\n22\n415615,49\n401162,61\n23\n415623,43\n401236,69\n24\n415723,97\n401342,53\n25\n415766,30\n401342,53\n26\n415784,82\n401239,34\n27\n416046,76\n401257,86\n28\n416015,01\n401326,65\n29\n416062,64\n401331,94\n30\n416059,99\n401342,53\n31\n416089,10\n401337,23\n32\n416099,68\n401215,53\n33\n416208,16\n401215,53\n34\n416340,45\n401226,11\n35\n416345,74\n401178,48\n36\n416414,53\n401186,42\n37\n416425,12\n401152,03\n38\n416594,45\n401204,94\n39\n416512,43\n401284,32\n40\n416443,64\n401313,42\n41\n416647,84\n401401,86\n42\n416847,73\n401318,62\n43\n416933,89\n401232,43\n44\n416947,09\n401181,83\n45\n417105,52\n401232,43\n46\n417114,32\n401155,42\n47\n417193,53\n401159,82\n48\n417307,95\n401034,40\n49\n417365,16\n401008,00\n50\n417409,17\n400959,59\n51\n417404,77\n400849,57\n52\n417404,77\n400783,56\n53\n417422,37\n400693,34\n54\n417453,18\n400587,73\n55\n417464,18\n400552,52\n56\n417466,38\n400504,11\n57\n417453,18\n400446,90\n58\n417442,18\n400363,29\n59\n417450,98\n400314,88\n60\n417490,58\n400240,07\n61\n417547,79\n400143,25\n62\n417585,20\n400017,83\n63\n417587,40\n399929,82\n64\n417580,80\n399839,60\n65\n417543,39\n399731,78\n66\n417488,38\n399577,76\n67\n417391,57\n399487,54\n68\n417272,75\n399333,52\n69\n417164,93\n399146,48\n70\n417043,91\n398952,85\n71\n416898,51\n398753,53\n72\n416880,20\n398728,44\n73\n416861,68\n398609,37\n74\n416861,68\n398519,42\n75\n416877,55\n398437,39\n76\n416914,60\n398395,06\n77\n416956,93\n398360,67\n78\n417038,95\n398360,67\n79\n417075,99\n398276,00\n80\n417136,85\n398225,73\n81\n417208,28\n398175,46\n82\n417287,66\n398109,31\n83\n417361,74\n398064,33\n84\n417388,20\n398024,64\n85\n417414,66\n397984,96\n86\n417443,76\n397929,39\n87\n417480,81\n397879,12\n88\n417531,08\n397857,96\n89\n417560,18\n397852,66\n90\n417589,29\n397847,37\n91\n417642,20\n397831,50\n92\n417708,35\n397810,33\n93\n417787,72\n397799,75\n94\n417872,39\n397781,23\n95\n417949,12\n397741,54\n96\n418025,85\n397704,50\n97\n418110,52\n397667,46\n98\n418192,54\n397619,83\n99\n418237,52\n397574,85\n100\n418282,50\n397532,52\n101\n418273,91\n397414,79\n102\n418245,31\n397328,98\n103\n418225,51\n397210,16\n104\n418203,50\n397095,74\n105\n418190,30\n396992,32\n106\n418161,70\n396937,31\n107\n418108,89\n396873,50\n108\n417996,67\n396778,89\n109\n417946,06\n396732,68\n110\n417904,25\n396717,28\n111\n417827,24\n396642,46\n112\n417792,03\n396561,05\n113\n417783,23\n396506,04\n114\n417767,83\n396402,62\n115\n417750,23\n396325,61\n116\n417844,84\n396290,40\n117\n417880,05\n396182,59\n118\n417902,05\n396127,58\n119\n417930,66\n396002,16\n120\n417983,47\n395903,14\n121\n418036,27\n395852,53\n122\n418075,88\n395782,12\n123\n418150,69\n395680,90\n124\n418192,50\n395643,50\n125\n418104,49\n395590,69\n126\n418146,29\n395504,87\n127\n418100,09\n395476,27\n128\n418201,30\n395328,84\n129\n418262,91\n395333,24\n130\n418271,71\n395256,23\n131\n418485,15\n395271,63\n132\n418562,16\n395150,61\n133\n418524,76\n395133,01\n134\n418599,57\n394915,17\n135\n418597,37\n394899,77\n136\n418610,57\n394835,96\n137\n418650,18\n394739,14\n138\n418632,58\n394710,54\n139\n418691,99\n394587,32\n140\n418729,39\n394475,10\n141\n418645,78\n394415,69\n142\n418680,98\n394373,88\n143\n418722,79\n394343,08\n144\n418788,80\n394314,47\n145\n418828,41\n394268,26\n146\n418838,82\n394219,22\n147\n418851,80\n394198,64\n148\n418880,04\n394128,02\n149\n418891,80\n394073,29\n150\n418907,56\n393992,68\n151\n418903,23\n393984,14\n152\n418916,77\n393917,17\n153\n418925,89\n393869,65\n154\n418920,85\n393861,29\n155\n418907,56\n393842,27\n156\n418882,72\n393745,96\n157\n418866,77\n393646,94\n158\n418865,77\n393578,10\n159\n418889,89\n393408,15\n160\n418914,31\n393410,63\n161\n418992,49\n393414,72\n162\n419048,27\n393416,88\n163\n419088,85\n393418,45\n164\n419179,74\n393179,09\n165\n419254,26\n392989,70\n166\n419256,23\n392984,47\n167\n419267,35\n392956,30\n168\n419330,00\n392788,10\n169\n419351,32\n392734,27\n170\n419353,91\n392728,15\n171\n419403,51\n392600,93\n172\n419467,04\n392434,73\n173\n419509,46\n392325,65\n174\n419511,64\n392320,12\n175\n419547,01\n392225,91\n176\n419573,55\n392156,57\n177\n419587,01\n392120,30\n178\n419598,84\n392088,07\n179\n419628,29\n392005,10\n180\n419650,51\n391941,70\n181\n419512,79\n391910,92\n182\n419532,01\n391872,22\n183\n419536,38\n391854,15\n184\n419538,29\n391812,91\n185\n419536,99\n391790,96\n186\n419538,13\n391751,92\n187\n419554,84\n391698,52\n188\n419577,98\n391659,65\n189\n419586,25\n391645,11\n190\n419590,95\n391635,86\n191\n419595,39\n391625,01\n192\n419599,45\n391598,37\n193\n419601,22\n391592,78\n194\n419613,94\n391559,69\n195\n419617,28\n391551,26\n196\n419621,15\n391516,01\n197\n419623,17\n391504,55\n198\n419625,64\n391478,69\n199\n419628,33\n391444,65\n200\n419628,57\n391427,09\n201\n419628,93\n391412,60\n202\n419629,30\n391398,11\n203\n419847,18\n391476,00\n204\n420054,01\n391546,41\n205\n420296,05\n391647,63\n206\n420494,09\n391731,24\n207\n420577,70\n391784,05\n208\n420644,81\n391801,65\n209\n420711,92\n391819,25\n210\n420826,34\n391781,85\n211\n420967,17\n391691,63\n212\n421055,18\n391605,82\n213\n421171,80\n391513,40\n214\n421288,42\n391453,99\n215\n421378,64\n391423,19\n216\n421462,25\n391398,98\n217\n421693,29\n391370,38\n218\n421796,71\n391363,78\n219\n421972,74\n391357,18\n220\n421955,13\n391082,13\n221\n421999,14\n390813,68\n222\n422025,54\n390670,66\n223\n422091,56\n390573,84\n224\n422487,62\n390256,99\n225\n422721,57\n390358,25\n226\n422812,47\n390291,74\n227\n422925,54\n390154,28\n228\n422974,31\n390050,08\n229\n423034,17\n389937,01\n230\n423071,86\n389786,25\n231\n423062,99\n389624,41\n232\n423043,04\n389517,99\n233\n423065,21\n389391,62\n234\n423171,63\n389116,71\n235\n423391,12\n388436,08\n236\n423136,16\n388254,28\n237\n423191,58\n388116,82\n238\n423222,62\n388030,36\n239\n423235,92\n387917,29\n240\n423291,35\n387813,09\n241\n423364,51\n387744,36\n242\n423413,29\n387589,17\n243\n423521,92\n387307,60\n244\n423495,32\n387192,32\n245\n423457,63\n387156,85\n246\n423424,37\n387057,08\n247\n423402,20\n386986,13\n248\n423324,60\n386930,71\n249\n423295,78\n386833,16\n250\n423275,83\n386746,69\n251\n423273,61\n386655,80\n252\n423244,79\n386571,55\n253\n423209,32\n386416,36\n254\n423058,56\n386334,32\n255\n423058,56\n386294,42\n256\n423098,47\n386210,17\n257\n422745,96\n386021,72\n258\n423107,33\n385571,66\n259\n423362,29\n385261,28\n260\n423599,52\n384979,71\n261\n423847,83\n384724,75\n262\n423936,51\n384609,47\n263\n423940,94\n384509,70\n264\n423983,07\n384232,57\n265\n423991,93\n384039,69\n266\n424020,75\n383957,66\n267\n424162,65\n383791,38\n268\n424603,84\n383121,84\n269\n424792,28\n382835,84\n270\n424875,30\n382701,70\n271\n424989,80\n382519,97\n272\n425014,79\n382516,64\n273\n425058,13\n382461,64\n274\n425159,79\n382546,64\n275\n425201,46\n382493,30\n276\n425278,12\n382354,97\n277\n425321,45\n382339,97\n278\n425334,79\n382308,31\n279\n425329,79\n382168,31\n280\n425498,11\n382173,31\n281\n425503,11\n382139,98\n282\n425608,11\n382143,31\n283\n425614,78\n382089,98\n284\n425629,78\n382088,31\n285\n425681,44\n382116,65\n286\n425671,44\n382394,97\n287\n425741,44\n382394,97\n288\n425743,11\n382288,31\n289\n425828,11\n382288,31\n290\n425834,77\n382193,31\n291\n425850,01\n382194,41\n292\n426012,59\n382261,64\n293\n426153,83\n382334,03\n294\n426208,57\n382448,80\n295\n426302,15\n382759,54\n296\n426365,71\n382946,70\n297\n426635,85\n383848,92\n298\n426671,16\n383970,75\n299\n426667,63\n384051,97\n300\n426671,16\n384115,53\n301\n426692,35\n384129,66\n302\n426759,44\n384186,16\n303\n426755,91\n384230,30\n304\n426738,25\n384276,20\n305\n426683,52\n384458,06\n306\n426775,33\n384516,32\n307\n426773,56\n384541,04\n308\n426740,02\n384661,10\n309\n426681,75\n384788,23\n310\n426660,56\n384842,96\n311\n426665,86\n384876,51\n312\n426653,50\n384936,54\n313\n426595,24\n384993,04\n314\n426574,05\n385060,13\n315\n426574,05\n385111,33\n316\n426614,66\n385185,49\n317\n426658,80\n385287,89\n318\n426678,22\n385374,41\n319\n426842,42\n385441,50\n320\n426796,52\n385524,49\n321\n426803,58\n385658,67\n322\n426838,89\n385773,44\n323\n426814,17\n385814,05\n324\n426810,64\n385902,33\n325\n426868,91\n385916,45\n326\n426851,25\n386138,92\n327\n426985,44\n386158,34\n328\n426981,90\n386250,15\n329\n427158,47\n386281,93\n330\n427151,40\n386417,88\n331\n427350,92\n386449,66\n332\n427269,70\n386975,82\n333\n427398,59\n387037,61\n334\n427439,20\n386857,52\n335\n427880,60\n386951,10\n336\n427862,94\n387125,89\n337\n427956,52\n387145,31\n338\n427916,38\n387279,51\n339\n427894,72\n387351,89\n340\n427783,49\n387358,95\n341\n427799,38\n387507,26\n342\n427659,90\n387510,80\n343\n427463,92\n387456,06\n344\n427437,43\n387514,33\n345\n427398,59\n387514,33\n346\n427199,07\n387897,46\n347\n427093,14\n387904,53\n348\n426874,20\n387998,10\n349\n426824,77\n387892,17\n350\n426584,64\n388059,90\n351\n426288,02\n388275,30\n352\n426240,35\n388298,26\n353\n426014,35\n388270,01\n354\n425691,25\n388229,40\n355\n425362,84\n388199,38\n356\n425362,84\n388317,68\n357\n425327,53\n388764,38\n358\n425325,76\n388974,48\n359\n425309,87\n389091,01\n360\n425248,08\n389380,57\n361\n425165,25\n389727,10\n362\n425161,56\n389742,52\n363\n425050,33\n390224,53\n364\n424976,17\n390528,22\n365\n424924,97\n390771,87\n366\n425027,38\n390847,79\n367\n425106,83\n390884,87\n368\n425094,47\n391054,37\n369\n425078,58\n391199,15\n370\n425013,25\n391460,46\n371\n424940,86\n391675,86\n372\n424907,32\n391915,99\n373\n424995,60\n391923,05\n374\n424974,41\n392106,67\n375\n424932,03\n392459,79\n376\n424894,96\n392742,29\n377\n424847,29\n392948,87\n378\n424762,54\n393132,49\n379\n424603,63\n393610,97\n380\n424820,80\n393619,80\n381\n425078,58\n393665,70\n382\n425190,78\n393868,03\n383\n424621,92\n394283,43\n384\n424836,24\n394495,09\n385\n424905,03\n394595,64\n386\n424965,88\n394696,18\n387\n424722,47\n394958,12\n388\n424767,45\n395119,51\n389\n424807,13\n395198,89\n390\n424830,95\n395241,22\n391\n424894,45\n395246,51\n392\n424939,43\n395325,89\n393\n424950,01\n395418,49\n394\n424984,40\n395529,62\n395\n425002,93\n395691,01\n396\n425045,26\n395955,60\n397\n424979,71\n395983,95\n398\n424741,35\n396155,21\n399\n424591,27\n396338,83\n400\n424538,30\n396388,27\n401\n424490,63\n396462,43\n402\n424427,07\n396767,88\n403\n424395,29\n396946,20\n404\n424457,09\n397048,61\n405\n424487,10\n397161,61\n406\n424488,87\n397541,21\n407\n424497,69\n398291,60\n408\n424499,46\n398394,00\n409\n424471,21\n398551,14\n410\n424437,66\n398701,22\n411\n424411,90\n398817,37\n412\n424340,56\n399139,09\n413\n424298,18\n399275,04\n414\n424255,81\n399481,62\n415\n424209,90\n399598,15\n416\n424096,90\n399772,94\n417\n424040,40\n399857,69\n418\n423999,79\n399961,86\n419\n423966,25\n400140,19\n420\n423809,11\n400609,84\n421\n423915,04\n400842,90\n422\n424051,00\n401121,87\n423\n424298,18\n401107,74\n424\n425050,33\n401047,71\n425\n425908,42\n400991,21\n426\n426246,53\n400976,14\n427\n426222,66\n400715,46\n428\n426280,87\n400710,17\n429\n426892,05\n400572,59\n430\n427304,81\n400379,44\n431\n428042,99\n400572,59\n432\n428720,33\n400763,09\n433\n428728,27\n400315,94\n434\n428842,04\n400112,21\n435\n428889,66\n399895,25\n436\n428916,12\n399757,67\n437\n428976,98\n399628,02\n438\n429045,77\n399453,40\n439\n429162,18\n398585,56\n440\n429355,33\n398553,81\n441\n429580,23\n398519,42\n442\n430035,31\n399061,81\n443\n430151,73\n399334,33\n444\n430324,43\n399748,59\n445\n430549,46\n399705,32\n446\n430676,40\n400021,22\n447\n430757,62\n400225,98\n448\n430995,75\n400813,36\n449\n431096,29\n400760,44\n450\n431231,23\n400710,17\n451\n431667,79\n400538,19\n452\n431662,50\n400395,32\n453\n431993,23\n399966,69\n454\n432191,89\n399692,67\n455\n432224,10\n399646,95\n456\n432745,57\n399880,31\n457\n432837,76\n399681,52\n458\n432889,69\n399686,61\n459\n433451,09\n399744,44\n460\n434014,65\n399797,36\n461\n434324,21\n399805,29\n462\n434662,88\n400027,54\n463\n434411,53\n400591,11\n464\n434555,23\n400651,59\n465\n434820,65\n400774,20\n466\n435165,40\n400925,66\n467\n435452,45\n401039,61\n468\n435782,78\n401192,52\n469\n435755,38\n401264,64\n470\n435859,23\n401289,16\n471\n436154,94\n401394,46\n472\n436071,28\n401619,49\n473\n437013,22\n401900,78\n474\n436984,37\n401993,09\n475\n437380,16\n402101,88\n476\n437245,22\n402440,55\n477\n437134,10\n402414,09\n478\n436977,99\n402932,67\n479\n437509,80\n403165,51\n480\n438162,88\n403445,67\n481\n438367,71\n403653,39\n482\n438301,36\n403715,42\n483\n438233,56\n403848,13\n484\n437959,49\n404097,68\n485\n437903,23\n404217,40\n486\n437818,12\n404331,36\n487\n437734,46\n404409,25\n488\n437634,93\n404458,30\n489\n437460,39\n404508,78\n490\n437293,06\n404520,32\n491\n437130,06\n405319,46\n492\n437036,30\n405828,65\n493\n437353,65\n405844,52\n494\n437473,37\n406182,06\n495\n437463,27\n406479,21\n496\n437456,06\n406697,03\n497\n437581,56\n407248,06\n498\n437621,95\n407439,91\n499\n437640,70\n407533,67\n500\n437642,14\n407618,77\n501\n437627,72\n407690,90\n502\n437544,20\n407880,39\n503\n437552,14\n408240,23\n504\n437732,05\n408274,62\n505\n437751,77\n408354,44\n506\n437754,66\n408495,80\n507\n437757,54\n408756,89\n508\n437758,98\n409189,64\n509\n437911,89\n409180,98\n510\n438152,78\n409150,69\n511\n438297,03\n409129,05\n512\n438452,82\n409088,66\n513\n438533,60\n409062,70\n514\n438592,74\n409049,72\n515\n438822,09\n409006,44\n516\n438893,58\n409007,52\n517\n438983,54\n408610,64\n518\n439134,35\n408615,94\n519\n439295,75\n408618,58\n520\n439383,06\n408618,58\n521\n439483,69\n408870,04\n522\n439528,02\n408964,36\n523\n439547,49\n409005,79\n524\n439548,17\n409007,23\n525\n439575,74\n409068,24\n526\n439625,95\n409179,31\n527\n439633,03\n409193,49\n528\n439650,50\n409228,49\n529\n439675,24\n409278,06\n530\n439733,47\n409413,91\n531\n439738,27\n409426,65\n532\n439803,98\n409418,06\n533\n439916,94\n409416,11\n534\n439938,57\n409551,70\n535\n440000,60\n409815,67\n536\n440056,86\n410065,22\n537\n440105,90\n410311,89\n538\n440167,93\n410679,72\n539\n440204,11\n410896,43\n540\n440324,22\n410896,20\n541\n440364,14\n410896,14\n542\n440385,47\n410896,10\n543\n440403,56\n410896,06\n544\n440411,68\n410896,05\n545\n440445,76\n410895,78\n546\n440446,76\n410895,77\n547\n440541,51\n410895,02\n548\n440543,83\n411063,04\n549\n440545,17\n411160,44\n550\n440545,03\n411185,48\n551\n440545,03\n411186,49\n552\n440544,85\n411223,67\n553\n440544,62\n411268,80\n554\n440544,52\n411287,96\n555\n440544,51\n411288,96\n556\n440544,36\n411320,82\n557\n440613,42\n411322,28\n558\n440768,10\n411329,41\n559\n440898,49\n411336,62\n560\n440936,87\n411338,75\n561\n440939,81\n411338,89\n562\n440941,85\n411338,98\n563\n440970,63\n411340,37\n564\n441115,07\n411347,27\n565\n441125,33\n411347,77\n566\n441136,10\n411348,28\n567\n441137,35\n411348,34\n568\n441280,79\n411355,21\n569\n441292,70\n411355,78\n570\n441414,08\n411359,84\n571\n441428,68\n411360,33\n572\n441462,98\n411361,47\n573\n441464,97\n411361,54\n574\n441569,05\n411365,03\n575\n441610,78\n411366,74\n576\n441699,95\n411370,41\n577\n441726,29\n411367,94\n578\n441822,12\n411372,86\n579\n441860,16\n411374,83\n580\n441896,22\n411376,67\n581\n441993,25\n411380,53\n582\n442020,54\n411375,43\n583\n442030,94\n411423,46\n584\n442045,88\n411492,54\n585\n442079,82\n411640,67\n586\n442080,75\n411644,72\n587\n442095,34\n411790,09\n588\n442096,12\n411797,77\n589\n442102,85\n411888,38\n590\n442117,75\n412063,03\n591\n442118,81\n412078,52\n592\n442118,96\n412080,60\n593\n442125,25\n412171,86\n594\n442138,05\n412171,70\n595\n442137,92\n412170,20\n596\n442240,06\n412162,74\n597\n442281,72\n412159,03\n598\n442342,21\n412153,63\n599\n442389,68\n412150,21\n600\n442511,92\n412141,41\n601\n442646,54\n412131,61\n602\n442659,41\n412227,24\n603\n442671,86\n412341,52\n604\n442672,19\n412344,60\n605\n442675,55\n412417,93\n606\n442688,10\n412531,99\n607\n442763,77\n412497,50\n608\n442763,87\n412498,56\n609\n442764,10\n412501,19\n610\n442782,08\n412701,88\n611\n442800,40\n412906,49\n612\n442800,86\n412911,60\n613\n442812,14\n413048,23\n614\n442821,72\n413164,34\n615\n442830,40\n413265,21\n616\n442838,99\n413365,04\n617\n442839,26\n413368,15\n618\n442839,86\n413381,07\n619\n442850,11\n413504,60\n620\n442854,05\n413552,53\n621\n442858,80\n413610,27\n622\n442865,39\n413695,07\n623\n442866,12\n413704,45\n624\n442873,33\n413798,43\n625\n442874,62\n413815,11\n626\n442878,81\n413869,31\n627\n442879,39\n413876,82\n628\n442879,97\n413884,33\n629\n442798,43\n413883,74\n630\n442738,73\n413883,32\n631\n442665,51\n413883,76\n632\n442580,11\n413886,30\n633\n442528,36\n413886,38\n634\n442429,24\n413877,59\n635\n442283,86\n413863,42\n636\n442264,39\n413908,44\n637\n442260,27\n413910,58\n638\n442165,54\n413959,87\n639\n442077,32\n414005,76\n640\n441970,05\n414061,58\n641\n441957,02\n414068,35\n642\n441955,82\n414068,98\n643\n441844,15\n414127,07\n644\n441756,34\n414172,76\n645\n441749,76\n414176,18\n646\n441743,88\n414179,24\n647\n441665,66\n414219,94\n648\n441667,55\n414467,11\n649\n441443,08\n414490,76\n650\n440967,06\n414577,31\n651\n440130,42\n414723,00\n652\n439464,00\n414836,95\n653\n439182,71\n414883,11\n654\n438951,92\n414940,81\n655\n438487,44\n415079,29\n656\n438194,61\n415173,05\n657\n437907,56\n415262,49\n658\n437520,97\n415390,87\n659\n437085,34\n415532,23\n660\n436819,93\n415618,78\n661\n436700,20\n415657,73\n662\n436571,82\n415680,80\n663\n436274,67\n415532,23\n664\n436154,94\n415462,99\n665\n436004,92\n415383,65\n666\n435837,60\n415289,89\n667\n435710,66\n415222,10\n668\n435590,93\n415161,51\n669\n435510,15\n415128,33\n670\n435377,45\n415106,70\n671\n435306,76\n415066,31\n672\n435192,81\n414966,78\n673\n435039,90\n414835,51\n674\n434928,83\n414757,62\n675\n434780,26\n414682,61\n676\n434636,01\n414629,24\n677\n434621,58\n414617,61\n678\n434559,21\n414605,27\n679\n434558,70\n414605,17\n680\n434462,62\n414584,11\n681\n434364,72\n414564,47\n682\n434265,01\n414541,79\n683\n434263,87\n414541,54\n684\n434257,82\n414540,17\n685\n434155,08\n414532,57\n686\n433858,03\n414455,55\n687\n433730,41\n414385,14\n688\n433589,59\n414330,13\n689\n433453,16\n414204,71\n690\n433371,75\n414022,08\n691\n433316,74\n413819,65\n692\n433235,33\n413604,01\n693\n433156,11\n413452,19\n694\n433074,70\n413315,76\n695\n432944,88\n413126,53\n696\n432841,46\n413003,31\n697\n432828,26\n412910,90\n698\n432808,46\n412776,67\n699\n432757,85\n412539,03\n700\n432643,43\n412466,42\n701\n432608,22\n412338,80\n702\n432597,22\n412252,98\n703\n432374,98\n411753,50\n704\n432183,55\n411324,43\n705\n432049,33\n411331,03\n706\n431908,50\n411361,84\n707\n431516,84\n411432,25\n708\n431439,83\n411438,85\n709\n431310,00\n411454,25\n710\n430689,50\n411632,48\n711\n430135,85\n411790,94\n712\n429889,79\n411849,15\n713\n429736,33\n411891,48\n714\n429614,62\n411928,53\n715\n429572,29\n411753,90\n716\n429307,70\n411767,13\n717\n428878,60\n411689,69\n718\n428899,53\n411526,16\n719\n428784,63\n411497,88\n720\n428657,82\n411467,81\n721\n428467,55\n411430,12\n722\n428482,53\n411328,83\n723\n428493,53\n411199,01\n724\n428449,52\n411053,78\n725\n428398,91\n410904,16\n726\n428352,71\n410736,93\n727\n428260,29\n410600,51\n728\n428159,07\n410424,48\n729\n428060,06\n410250,65\n730\n428038,05\n410147,23\n731\n428027,05\n410070,22\n732\n427967,64\n410008,61\n733\n427923,63\n409955,80\n734\n427776,21\n410624,71\n735\n427686,00\n411044,98\n736\n427672,79\n411133,00\n737\n427393,35\n411097,79\n738\n427380,14\n411174,80\n739\n427047,89\n411172,60\n740\n426728,83\n411150,60\n741\n426563,81\n411159,40\n742\n426315,17\n411174,80\n743\n426233,75\n411155,00\n744\n426007,11\n411055,98\n745\n425798,08\n410950,37\n746\n425633,05\n410919,56\n747\n425403,57\n410882,84\n748\n425303,07\n410867,67\n749\n425183,72\n410842,68\n750\n425152,83\n410828,68\n751\n425145,62\n410824,53\n752\n425142,57\n410821,83\n753\n425062,33\n410780,68\n754\n425004,29\n410753,12\n755\n424946,93\n410724,45\n756\n424936,76\n410724,54\n757\n424772,53\n410744,56\n758\n424753,35\n410746,40\n759\n424381,04\n410743,53\n760\n424141,20\n410736,93\n761\n424015,78\n410602,71\n762\n423938,77\n410538,90\n763\n423467,89\n410470,69\n764\n423366,67\n410459,68\n765\n423236,85\n410470,69\n766\n422946,40\n410497,09\n767\n422781,37\n410552,10\n768\n422592,14\n410611,51\n769\n422534,36\n410634,71\n770\n422497,32\n410610,90\n771\n422378,25\n410557,98\n772\n422124,25\n410526,23\n773\n422034,29\n410513,00\n774\n421896,71\n410489,19\n775\n421843,79\n410579,15\n776\n421817,34\n410706,15\n777\n421711,50\n410716,73\n778\n421538,16\n410728,13\n779\n421447,95\n410712,73\n780\n421333,53\n410642,31\n781\n421166,30\n410609,31\n782\n421098,09\n410582,90\n783\n421005,67\n410510,29\n784\n420864,85\n410420,08\n785\n420818,64\n410413,48\n786\n420680,02\n410354,07\n787\n420600,81\n410292,46\n788\n420501,79\n410246,25\n789\n420462,18\n410208,84\n790\n420380,77\n410156,03\n791\n420261,95\n410107,62\n792\n420195,94\n410079,02\n793\n420094,72\n409986,60\n794\n420019,91\n409973,40\n795\n419934,09\n409975,60\n796\n419806,50\n409970,61\n797\n419777,39\n410544,75\n798\n419711,25\n410568,56\n799\n419613,35\n410497,13\n800\n419629,23\n410396,59\n801\n419414,91\n410372,77\n802\n419422,85\n409941,50\n803\n418848,70\n409854,19\n804\n418893,68\n409645,17\n805\n418954,54\n409626,65\n806\n419028,62\n409420,27\n807\n418528,06\n409073,45\n808\n418275,02\n408952,43\n809\n417866,98\n408723,67\n810\n417826,83\n408703,73\n811\n417806,68\n408585,57\n812\n417799,73\n408578,76\n813\n417456,48\n408259,31\n814\n417412,47\n408248,31\n815\n417392,67\n407986,47\n816\n417372,86\n407530,99\n817\n417386,07\n407471,58\n818\n417403,67\n407348,36\n819\n417430,07\n407165,73\n820\n417280,45\n407090,92\n821\n417192,43\n407042,51\n822\n416936,09\n407106,32\n823\n416753,46\n407156,93\n824\n416708,35\n407155,83\n825\n416666,54\n407081,02\n826\n416602,73\n406947,89\n827\n416538,92\n406808,17\n828\n416552,13\n406576,03\n829\n416534,52\n406461,61\n830\n416515,82\n406374,70\n831\n416509,78\n406247,91\n832\n416541,53\n406165,89\n833\n416575,93\n406120,91\n834\n416687,05\n406049,47\n835\n416824,64\n405798,12\n836\n416993,97\n405475,33\n837\n417237,39\n405038,76\n838\n417192,41\n404721,26\n839\n416980,74\n404649,82\n840\n416099,95\n404385,56\n841\n415356,20\n404168,28\n842\n415353,55\n404115,36\n843\n415319,16\n404107,43\n844\n415279,47\n404070,38\n845\n415239,78\n404051,86\n846\n415197,45\n404059,80\n847\n415126,01\n404017,47\n848\n415107,49\n403906,34\n849\n415126,01\n403779,34\n850\n415133,95\n403321,61\n851\n415091,61\n403356,01\n1) Uk\u0142ad wsp\u00f3\u0142rz\u0119dnych p\u0142askich prostok\u0105tnych PL-1992 jest jednym z uk\u0142ad\u00f3w tworz\u0105cych\npa\u0144stwowy system odniesie\u0144 przestrzennych, o kt\u00f3rym mowa w przepisach wydanych na\npodstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne\n(Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762).\nZa\u0142\u0105cznik nr 2\n-\nMapa specjalnego obszaru ochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nSiedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\nUroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\nLp.\nKod 1)\nNazwa\n1\n6120\nCiep\u0142olubne, \u015br\u00f3dl\u0105dowe murawy napiaskowe (Koelerion glaucae)\n2\n6410\nZmiennowilgotne \u0142\u0105ki trz\u0119\u015blicowe (Molinion)\n3\n6430\nZio\u0142oro\u015bla g\u00f3rskie (Adenostylion alliariae) i zio\u0142oro\u015bla nadrzeczne (Convolvuletalia sepium)\n4\n6510\nNi\u017cowe i g\u00f3rskie \u015bwie\u017ce \u0142\u0105ki u\u017cytkowane ekstensywnie (Arrhenatherion elatioris)\n5\n7230\nG\u00f3rskie i nizinne torfowiska zasadowe o charakterze m\u0142ak, turzycowisk i mechowisk\n6\n9110\nKwa\u015bne buczyny (Luzulo-Fagetum)\n7\n9170\nGr\u0105d \u015brodkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum)\n8\n9190\nKwa\u015bne d\u0105browy (Quercion robori-petraeae)\n9\n91D0\nBory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum,\nSphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne\n10\n91E0\n\u0141\u0119gi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy \u017ar\u00f3dliskowe\n11\n91F0\n\u0141\u0119gowe lasy d\u0119bowo-wi\u0105zowo-jesionowe (Ficario-Ulmetum)\n1) Kody siedlisk s\u0105 zgodne z rozporz\u0105dzeniem Ministra \u015arodowiska z dnia 13 kwietnia 2010 r.\nw sprawie siedlisk przyrodniczych oraz gatunk\u00f3w b\u0119d\u0105cych przedmiotem zainteresowania\nWsp\u00f3lnoty, a tak\u017ce kryteri\u00f3w wyboru obszar\u00f3w kwalifikuj\u0105cych si\u0119 do uznania lub wyznaczenia\njako obszary Natura 2000 (Dz. U. z 2014 r. poz. 1713).\nZa\u0142\u0105cznik nr 4\n-\nGatunki zwierz\u0105t innych ni\u017c ptaki, b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze\nochrony siedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002)\n4)\nLp.\nNazwa polska\nNazwa naukowa\nPopulacja obj\u0119ta ochron\u0105\n1\nkumak nizinny\nBombina bombina\nosiad\u0142a\n2\nmopek\nBarbastella barbastellus\nzimuj\u0105ca\n4) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia\n22 wrze\u015bnia 2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie specjalnego obszaru ochrony\nsiedlisk Uroczyska P\u0142yty Krotoszy\u0144skiej (PLH300002) (Dz. U. poz. 2195), kt\u00f3re wesz\u0142o\nw \u017cycie z dniem 27 pa\u017adziernika 2023 r."
+    },
+    "meta": {},
+    "created_at": "2026-09-12T13:26:21.124178Z",
+    "updated_at": "2026-09-12T13:26:21.124178Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 8,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-09-12T16:16:33.226646Z",
+  "updated_at": "2026-09-12T16:16:33.226646Z",
+  "draft_created_at": "2026-09-12T16:15:02.676483Z",
+  "lead_time": 107.003,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 8,
+  "parent_annotation": null,
+  "last_created_by": null
+}

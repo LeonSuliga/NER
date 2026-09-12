@@ -1,0 +1,1941 @@
+{
+  "id": 2,
+  "result": [
+    {
+      "value": {
+        "start": 907,
+        "end": 911,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Lq_hWMjSLE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 912,
+        "end": 914,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "veuVyLSpDj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 915,
+        "end": 919,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "oebt4ZapuE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 920,
+        "end": 921,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fuPZ32lBZf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1021,
+        "end": 1042,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "PKbjZQRIkL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1043,
+        "end": 1047,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xv1x8Uo0Vu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1447,
+        "end": 1468,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZRdKdbqQWC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1469,
+        "end": 1473,
+        "text": "1773",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "nFwgOyVnUJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1872,
+        "end": 1883,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "MlwXHowEuG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1884,
+        "end": 1887,
+        "text": "426",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OOAzJy2s3N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2256,
+        "end": 2267,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BsJRKAYe5r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2268,
+        "end": 2272,
+        "text": "2346",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BJtXbtj4Oz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2375,
+        "end": 2376,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TzHi-VA2VZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2377,
+        "end": 2378,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "2h8wEw1wKW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2381,
+        "end": 2382,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Q9hARJv090",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2383,
+        "end": 2384,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Ex9nSY6KK3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2740,
+        "end": 2751,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "y3b1K4fzjv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2752,
+        "end": 2755,
+        "text": "426",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ThmZsZ_NuW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2805,
+        "end": 2806,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nvFwjZ-l5p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2807,
+        "end": 2808,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "zmjDL3tX1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2809,
+        "end": 2812,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "TeJvCEUeAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2813,
+        "end": 2814,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "xY7oD0txfg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2815,
+        "end": 2819,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "u7j--xUe7S",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2820,
+        "end": 2821,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "kihxD-C_4q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3209,
+        "end": 3210,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "i0f4LWkiWY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3211,
+        "end": 3212,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "MpZhSWkBQ3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3215,
+        "end": 3216,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "6LD78vECBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3217,
+        "end": 3218,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "tq6JWWjMc9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3582,
+        "end": 3593,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "SRPzXkZi5O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3594,
+        "end": 3598,
+        "text": "2346",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6Y0NvuitNj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3646,
+        "end": 3647,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Cn8_fzYpVi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3648,
+        "end": 3649,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "IwWv-6bcZr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3650,
+        "end": 3654,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "k0d3giJble",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3655,
+        "end": 3656,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "FVTqXWpuPH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3686,
+        "end": 3687,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "lyReOU-vf9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3688,
+        "end": 3689,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "w0kDLx-X-7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3884,
+        "end": 3885,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TB-hG-Yfu4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3886,
+        "end": 3887,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "lTbgSg1xmu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4519,
+        "end": 4520,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "v86YwAAhah",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4521,
+        "end": 4522,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ILQLOfSZFa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4523,
+        "end": 4526,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "jbyB4eYO4o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4527,
+        "end": 4528,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "RI8Zg1Qtfu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4892,
+        "end": 4903,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "NSGLgdONNn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4904,
+        "end": 4908,
+        "text": "2346",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "yOL7AG6Krs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4974,
+        "end": 4978,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "yvWl4jiyEI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4979,
+        "end": 4981,
+        "text": "13",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "4ECqTcUX4S",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4982,
+        "end": 4983,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "0xCGY_jPcX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4984,
+        "end": 4985,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "STuC12rBZJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5075,
+        "end": 5096,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "SXZx-5PRpm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5097,
+        "end": 5101,
+        "text": "1634",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OQy9bVnBT8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5103,
+        "end": 5107,
+        "text": "1705",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "G2HSuouP9p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5110,
+        "end": 5114,
+        "text": "1860",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "HJD1zVHyEc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5165,
+        "end": 5169,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dEJc0uE-7z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5170,
+        "end": 5171,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "vNmYsA8ObS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5185,
+        "end": 5186,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KMBpbMSKXh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5187,
+        "end": 5188,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "UPcBODMkT_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5189,
+        "end": 5192,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "aNFEnydIGf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5193,
+        "end": 5194,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "4jSqaNy4LG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5195,
+        "end": 5199,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "AxYgIt8GCs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5200,
+        "end": 5201,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "sQXDCesGA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5333,
+        "end": 5334,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TcujcJhNCa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5335,
+        "end": 5336,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "CkiYxBU_aF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5337,
+        "end": 5340,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "F7h8JM8whi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5341,
+        "end": 5342,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Z4PNSSxUYc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5343,
+        "end": 5347,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "Wl9hzoejNF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5348,
+        "end": 5349,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "E41uDxXOof",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5581,
+        "end": 5585,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "9jRGdn4JKc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5586,
+        "end": 5589,
+        "text": "14b",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "N9ul7r9ah-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5647,
+        "end": 5668,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8UW80z3fFW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5669,
+        "end": 5673,
+        "text": "2383",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "TOMF09Fttg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5676,
+        "end": 5680,
+        "text": "2760",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9_Ko-EjmVv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5707,
+        "end": 5708,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "qS2mXGygLe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5709,
+        "end": 5710,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "drLfjPfykT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5711,
+        "end": 5714,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "7SL2JJnEdx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5715,
+        "end": 5716,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "IhHpg50An8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5717,
+        "end": 5721,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "hrU4MQmi80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5722,
+        "end": 5723,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "jauZ8ZrrPp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5815,
+        "end": 5816,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "2gPQWnqqxN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5817,
+        "end": 5818,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Gm-yvHmasz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6174,
+        "end": 6185,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "HpPHGErsMK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6186,
+        "end": 6189,
+        "text": "426",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "QfCCG7GL_W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6404,
+        "end": 6408,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "a4AoNXmPQP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6409,
+        "end": 6411,
+        "text": "28",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "mV_b1mbl4G",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6414,
+        "end": 6418,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "BXdVx5LRb3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6419,
+        "end": 6421,
+        "text": "29",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "_SxUxxxBu0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6496,
+        "end": 6517,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DmN9kvpfpK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6518,
+        "end": 6521,
+        "text": "497",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Hked6z0Ln-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6606,
+        "end": 6610,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fQCUki-2Iz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6611,
+        "end": 6615,
+        "text": "31zo",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "KE2VgZ8FvE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction-changed"
+    },
+    {
+      "value": {
+        "start": 6812,
+        "end": 6833,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7f49nWFpiS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6834,
+        "end": 6837,
+        "text": "340",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "F7AQRZXmvN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7014,
+        "end": 7018,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "hV7QBcoLNL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7019,
+        "end": 7022,
+        "text": "41a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Xqxf0NLkN9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7093,
+        "end": 7114,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "X4uXHQVRMY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7115,
+        "end": 7117,
+        "text": "90",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v6olxvwHCK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7267,
+        "end": 7268,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Q00VgwB_D_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7269,
+        "end": 7270,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "5M18jtp2jD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7271,
+        "end": 7274,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "rRL_Humh-Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7275,
+        "end": 7276,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "MazmJXIlGK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7277,
+        "end": 7281,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "kipWclHQjY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7282,
+        "end": 7283,
+        "text": "c",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "dwJKZRRcq-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7480,
+        "end": 7484,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "wpW2rIJvMI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7485,
+        "end": 7488,
+        "text": "42a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "4XY-rWHE2H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7550,
+        "end": 7571,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "qawDKQFTXw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7572,
+        "end": 7575,
+        "text": "361",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CEWmsY0XQu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7631,
+        "end": 7635,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "emHH5HjDUc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7636,
+        "end": 7638,
+        "text": "7d",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aFqeQYBaOQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7692,
+        "end": 7713,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "grk_qBnWf5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7714,
+        "end": 7718,
+        "text": "1542",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "drkgWFtHkQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7720,
+        "end": 7724,
+        "text": "1598",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8xR3B6qOBV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7727,
+        "end": 7731,
+        "text": "1723",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5Xb7WWfD0U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7824,
+        "end": 7828,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "35VK1feHQt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7829,
+        "end": 7831,
+        "text": "70",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "oe27eOP88q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7832,
+        "end": 7836,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "EVWbcbX6JE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7837,
+        "end": 7839,
+        "text": "2a",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "L2Oq5dNvRa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7886,
+        "end": 7907,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "fLlEJmPofR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7908,
+        "end": 7912,
+        "text": "1590",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DSpOssaoXl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7915,
+        "end": 7919,
+        "text": "1598",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "mjcd6k0vZO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8030,
+        "end": 8034,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ulwla3xK9d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8035,
+        "end": 8038,
+        "text": "42a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "bbBdJ3knxG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8153,
+        "end": 8157,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fgKCLDSWo1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8158,
+        "end": 8160,
+        "text": "7d",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OUxbRWUcw4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8633,
+        "end": 8644,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "IqZ8DEwrjH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8645,
+        "end": 8649,
+        "text": "1016",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Ih7yvsvRpx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5350,
+        "end": 5355,
+        "text": "tiret",
+        "labels": [
+          "TIR_KEY"
+        ]
+      },
+      "id": "TiiMcl3tOP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5356,
+        "end": 5364,
+        "text": "pierwsze",
+        "labels": [
+          "TIR_VAL"
+        ]
+      },
+      "id": "dDtvLcuqIP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 3,
+    "data": {
+      "text": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 12 kwietnia 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Prezydenta Rzeczypospolitej\nPolskiej w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym\nniekt\u00f3rych spraw z zakresu dzia\u0142ania Szefa Krajowej Administracji Skarbowej, Dyrektora\nKrajowej Informacji Skarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa\nKasy Rolniczego Ubezpieczenia Spo\u0142ecznego\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie\nprzekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym niekt\u00f3rych spraw\nz zakresu dzia\u0142ania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji\nSkarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia\nSpo\u0142ecznego\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie\nprzekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym niekt\u00f3rych spraw\nz zakresu dzia\u0142ania dyrektora Krajowej Informacji Skarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144\nSpo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Spo\u0142ecznego\n(Dz. U. z 2020 r. poz. 1773), z uwzgl\u0119dnieniem zmian wprowadzonych:\n1)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym\nniekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora Krajowej Informacji Skarbowej, Prezesa\nZak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Spo\u0142ecznego\n(Dz. U. poz. 426);\n2)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 24 pa\u017adziernika 2023 r.\nzmieniaj\u0105cym rozporz\u0105dzenie w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim\ns\u0105dom administracyjnym niekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora Krajowej Informacji\nSkarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia\nSpo\u0142ecznego\n(Dz. U. poz. 2346).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje:\n1)\n\u00a7 2 i \u00a7 3 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 4 marca 2021 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim\ns\u0105dom administracyjnym niekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora Krajowej Informacji\nSkarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia\nSpo\u0142ecznego\n(Dz. U. poz. 426), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nSprawy, o kt\u00f3rych mowa w \u00a7 1 pkt 2 lit. b zmienianego rozporz\u0105dzenia, w kt\u00f3rych skargi\nzosta\u0142y wniesione przed dniem wej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia i post\u0119powanie\nnie zosta\u0142o zako\u0144czone, rozpoznaje wojew\u00f3dzki s\u0105d administracyjny w\u0142a\u015bciwy w rozumieniu\nniniejszego rozporz\u0105dzenia, z wyj\u0105tkiem spraw, w kt\u00f3rych wyznaczono termin posiedzenia.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 7 dni od dnia og\u0142oszenia.\u201d;\n2)\n\u00a7 2 i \u00a7 3 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 pa\u017adziernika\n2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim\ns\u0105dom administracyjnym niekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora Krajowej Informacji\nSkarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia\nSpo\u0142ecznego\n(Dz. U. poz. 2346), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nDo spraw okre\u015blonych w \u00a7 1 ust. 2 rozporz\u0105dzenia zmienianego w \u00a7 1, w kt\u00f3rych skargi\nzosta\u0142y wniesione przed dniem wej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia i post\u0119powanie\nnie zosta\u0142o zako\u0144czone przed tym dniem, stosuje si\u0119 przepisy rozporz\u0105dzenia zmienianego\n\u00a7 1 w brzmieniu nadanym niniejszym rozporz\u0105dzeniem, z wyj\u0105tkiem spraw, w kt\u00f3rych wyznaczono\ntermin posiedzenia.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie\nprzekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym niekt\u00f3rych spraw\nz zakresu dzia\u0142ania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji\nSkarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia\nSpo\u0142ecznego 1) Okre\u015blenie przedmiotu rozporz\u0105dzenia w brzmieniu ustalonym przez \u00a7 1 pkt 1 rozporz\u0105dzenia\nPrezydenta Rzeczypospolitej Polskiej z dnia 24 pa\u017adziernika 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie przekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym\nniekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora Krajowej Informacji Skarbowej, Prezesa\nZak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Spo\u0142ecznego\n(Dz. U. poz. 2346), kt\u00f3re wesz\u0142o w \u017cycie z dniem 14 listopada 2023 r.\nNa podstawie art. 13 \u00a7 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o post\u0119powaniu przed s\u0105dami\nadministracyjnymi\n(Dz. U. z 2023 r. poz. 1634, 1705 i 1860) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1 2) Oznaczenie ust. 1 nadane przez \u00a7 1 pkt 2 lit. a rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku\n1..\nRozpoznawanie spraw z zakresu dzia\u0142ania:\n1)\nDyrektora 3) Ze zmian\u0105 wprowadzon\u0105 przez \u00a7 1 pkt 2 lit. b tiret pierwsze rozporz\u0105dzenia, o kt\u00f3rym\nmowa w odno\u015bniku 1. Krajowej Informacji Skarbowej dotycz\u0105cych wydawania:\na)\nw indywidualnych sprawach interpretacji przepis\u00f3w prawa podatkowego (interpretacje\nindywidualne), o kt\u00f3rych mowa w art. 14b ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa\n(Dz. U. z 2023 r. poz. 2383 i 2760),\nb)\n(uchylona), 4) Przez \u00a7 1 pkt 2 lit. b tiret drugie rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 1.\n2 5) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej\nz dnia 4 marca 2021 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie przekazania rozpoznawania\ninnym wojew\u00f3dzkim s\u0105dom administracyjnym niekt\u00f3rych spraw z zakresu dzia\u0142ania dyrektora\nKrajowej Informacji Skarbowej, Prezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych oraz Prezesa\nKasy Rolniczego Ubezpieczenia Spo\u0142ecznego (Dz. U. poz. 426), kt\u00f3re wesz\u0142o w \u017cycie\nz dniem 16 marca 2021 r.)\nPrezesa Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych dotycz\u0105cych:\na)\numorzenia, odroczenia terminu p\u0142atno\u015bci lub roz\u0142o\u017cenia na raty nale\u017cno\u015bci z tytu\u0142u\nsk\u0142adek, o kt\u00f3rych mowa w art. 28 i art. 29 ustawy z dnia 13 pa\u017adziernika 1998 r. o systemie ubezpiecze\u0144 spo\u0142ecznych\n(Dz. U. z 2024 r. poz. 497),\nb)\nzwolnienia z obowi\u0105zku op\u0142acenia nale\u017cno\u015bci z tytu\u0142u sk\u0142adek, o kt\u00f3rych mowa w art. 31zo ustawy z dnia 2 marca 2020 r. o szczeg\u00f3lnych rozwi\u0105zaniach zwi\u0105zanych z\nzapobieganiem, przeciwdzia\u0142aniem i zwalczaniem COVID-19, innych chor\u00f3b zaka\u017anych oraz\nwywo\u0142anych nimi sytuacji kryzysowych\n(Dz. U. z 2024 r. poz. 340),\n3)\nPrezesa Kasy Rolniczego Ubezpieczenia Spo\u0142ecznego dotycz\u0105cych umorzenia, odroczenia\nterminu p\u0142atno\u015bci lub roz\u0142o\u017cenia na raty nale\u017cno\u015bci z tytu\u0142u sk\u0142adek, o kt\u00f3rych mowa\nw art. 41a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu spo\u0142ecznym rolnik\u00f3w\n(Dz. U. z 2024 r. poz. 90)\n- przekazuje si\u0119 wojew\u00f3dzkim s\u0105dom administracyjnym, na kt\u00f3rych obszarze w\u0142a\u015bciwo\u015bci\nstrona skar\u017c\u0105ca zamieszkuje lub ma siedzib\u0119.\n2 6) Dodany przez \u00a7 1 pkt 2 lit. c rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 1..\nRozpoznawanie spraw z zakresu dzia\u0142ania:\n1)\nDyrektora Krajowej Informacji Skarbowej dotycz\u0105cych:\na)\nwi\u0105\u017c\u0105cych informacji stawkowych, o kt\u00f3rych mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towar\u00f3w i us\u0142ug\n(Dz. U. z 2024 r. poz. 361),\nb)\nwi\u0105\u017c\u0105cych informacji akcyzowych, o kt\u00f3rych mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym\n(Dz. U. z 2023 r. poz. 1542, 1598 i 1723),\nc)\nwi\u0105\u017c\u0105cych informacji taryfowych i wi\u0105\u017c\u0105cych informacji o pochodzeniu, o kt\u00f3rych mowa\nw art. 70 ust. 2a ustawy z dnia 19 marca 2004 r. - Prawo celne\n(Dz. U. z 2023 r. poz. 1590 i 1598),\n2)\nSzefa Krajowej Administracji Skarbowej dotycz\u0105cych:\na)\nwi\u0105\u017c\u0105cych informacji stawkowych, o kt\u00f3rych mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towar\u00f3w i us\u0142ug,\nb)\nwi\u0105\u017c\u0105cych informacji akcyzowych, o kt\u00f3rych mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym\n- przekazuje si\u0119 Wojew\u00f3dzkiemu S\u0105dowi Administracyjnemu w Opolu.\n\u00a7 2.\nTraci moc rozporz\u0105dzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 sierpnia 2008 r. w sprawie\nprzekazania rozpoznawania innym wojew\u00f3dzkim s\u0105dom administracyjnym niekt\u00f3rych spraw\nz zakresu dzia\u0142ania ministra w\u0142a\u015bciwego do spraw finans\u00f3w publicznych, Prezesa Zak\u0142adu\nUbezpiecze\u0144 Spo\u0142ecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Spo\u0142ecznego\n(Dz. U. poz. 1016).\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 marca 2017 r."
+    },
+    "meta": {},
+    "created_at": "2026-09-12T13:26:21.121621Z",
+    "updated_at": "2026-09-12T13:26:21.121621Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 3,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-09-12T15:41:57.964399Z",
+  "updated_at": "2026-09-12T15:41:57.964399Z",
+  "draft_created_at": "2026-09-12T15:27:00.418400Z",
+  "lead_time": 258.352,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
