@@ -1,4 +1,4 @@
-# PowerShell helper to start Docker Compose services and apply schema.sql
+w# PowerShell helper to start Docker Compose services and apply schema.sql
 # Usage: .\scripts\start_services.ps1
 
 $composeFile = Join-Path $PSScriptRoot "..\docker-compose.yml"
