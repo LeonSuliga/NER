@@ -4,16 +4,25 @@ IN = os.path.join(os.path.dirname(__file__), 'data', 'train_bio.json')
 OUT_DIR = os.path.join(os.path.dirname(__file__), 'data')
 TRAIN_OUT = os.path.join(OUT_DIR, 'train.spacy')
 DEV_OUT = os.path.join(OUT_DIR, 'dev.spacy')
+TEST_OUT = os.path.join(OUT_DIR, 'test.spacy')
 
-# Load BIO training data and split it into spaCy train/dev bins.
+# Load BIO training data and split it into spaCy train/dev/test bins.
 with open(IN, 'r', encoding='utf-8') as fh:
     samples = json.load(fh)
 
 random.seed(42)
 random.shuffle(samples)
-split = int(len(samples) * 0.8)
-train = samples[:split]
-dev = samples[split:]
+train_size = int(round(len(samples) * 0.8))
+val_size = int(round(len(samples) * 0.1))
+# ensure the remainder is kept for test and totals match all samples
+train = samples[:train_size]
+val = samples[train_size:train_size + val_size]
+test = samples[train_size + val_size:]
+if len(train) + len(val) + len(test) != len(samples):
+    # keep the remainder for test if rounding produced a mismatch
+    diff = len(samples) - (len(train) + len(val) + len(test))
+    if diff != 0:
+        test = samples[train_size + val_size:train_size + val_size + len(test) + diff]
 
 try:
     import spacy
@@ -72,10 +81,12 @@ def samples_to_docbin(examples):
         docbin.add(doc)
     return docbin
 
-print('Converting', len(train), 'train and', len(dev), 'dev samples to spaCy DocBin...')
+print('Converting', len(train), 'train,', len(val), 'val, and', len(test), 'test samples to spaCy DocBin...')
 train_db = samples_to_docbin(train)
-dev_db = samples_to_docbin(dev)
+val_db = samples_to_docbin(val)
+test_db = samples_to_docbin(test)
 
 train_db.to_disk(TRAIN_OUT)
-dev_db.to_disk(DEV_OUT)
-print('Wrote', TRAIN_OUT, 'and', DEV_OUT)
+val_db.to_disk(DEV_OUT)
+test_db.to_disk(TEST_OUT)
+print('Wrote', TRAIN_OUT, 'and', DEV_OUT, 'and', TEST_OUT)

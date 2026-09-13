@@ -3,6 +3,7 @@ import os, sys
 try:
     import spacy
     from spacy.tokens import DocBin
+    from spacy.training import Example
 except Exception:
     print('spaCy not installed; train_spacy_ner.py requires spaCy. Install it in your venv (pip install spacy) and a Polish model or use spacy.blank("pl").')
     sys.exit(1)
@@ -10,8 +11,8 @@ except Exception:
 import argparse
 
 p = argparse.ArgumentParser()
-p.add_argument('--train', default=os.path.join('data','train.spacy'))
-p.add_argument('--dev', default=os.path.join('data','dev.spacy'))
+p.add_argument('--train', default=os.path.join('data','spacy','train.spacy'))
+p.add_argument('--dev', default=os.path.join('data','spacy','dev.spacy'))
 p.add_argument('--output', default=os.path.join('models','ner_spacy'))
 p.add_argument('--epochs', type=int, default=10)
 args = p.parse_args()
@@ -39,17 +40,20 @@ for l in labels:
 # disable other pipes
 other_pipes = [p for p in nlp.pipe_names if p != 'ner']
 
+examples = []
+for doc in train_docs:
+    entities = [(ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+    examples.append(Example.from_dict(doc, {'entities': entities}))
+
 with nlp.select_pipes(disable=other_pipes):
-    optimizer = nlp.initialize(lambda: train_docs)
+    optimizer = nlp.initialize(lambda: examples)
     for ep in range(args.epochs):
         losses = {}
-        # naïve training: iterate docs
-        random_order = train_docs[:]
+        random_order = examples[:]
         import random
         random.shuffle(random_order)
-        for doc in random_order:
-            example = (doc.text, {'entities': [(ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]})
-            nlp.update([example[0]], [example[1]], sgd=optimizer, drop=0.2, losses=losses)
+        for example in random_order:
+            nlp.update([example], sgd=optimizer, drop=0.2, losses=losses)
         print(f'Epoch {ep+1}/{args.epochs} losses:', losses)
 
 # save model

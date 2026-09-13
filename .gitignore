@@ -6,4 +6,11 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 *.log
+*.tmp
+*.bak
+*.orig
+*.swp
+logs/
+tmp/
+scratch/
 .DS_Store
