@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 8 listopada 2024 r. o ratyfikacji Protokołu między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa\ni Współpracy w Europie zmieniającego Porozumienie między Rządem Rzeczypospolitej Polskiej\na Organizacją Bezpieczeństwa i Współpracy w Europie w sprawie statusu Organizacji\nBezpieczeństwa i Współpracy w Europie w Rzeczypospolitej Polskiej, podpisane w Warszawie\ndnia 28 czerwca 2017 r., podpisanego w Warszawie dnia 5 lipca 2024 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji\nProtokołu między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa i Współpracy\nw Europie zmieniającego Porozumienie między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa\ni Współpracy w Europie w sprawie statusu Organizacji Bezpieczeństwa i Współpracy w\nEuropie w Rzeczypospolitej Polskiej, podpisane w Warszawie dnia 28 czerwca 2017 r., podpisanego w Warszawie dnia 5 lipca 2024 r.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 471,
+            "end": 475,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 476,
+            "end": 477,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 974,
+            "end": 978,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 979,
+            "end": 980,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

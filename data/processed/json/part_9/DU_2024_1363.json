@@ -1,0 +1,324 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Infrastruktury z dnia 11 września 2024 r. w sprawie pozbawienia dróg kategorii dróg krajowych 1) Minister Infrastruktury kieruje działem administracji rządowej - transport, na podstawie\n§ 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w\nsprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).\nSpis treści\nTreść rozporządzenia\nZałącznik - Wykaz odcinków dróg pozbawionych kategorii dróg krajowych\nTreść rozporządzenia\nNa podstawie art. 5 ust. 2 i art. 10 ust. 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych\n(Dz. U. z 2024 r. poz. 320 i 1222) zarządza się, co następuje:\n§ 1.\nPozbawia się kategorii dróg krajowych odcinki dróg określone w załączniku do rozporządzenia.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.\nZałącznik\n-\nWykaz odcinków dróg pozbawionych kategorii dróg krajowych\n1.\nOdcinek drogi krajowej nr 1 - al. Wojska Polskiego (od węzła Częstochowa Północ do\nul. Warszawskiej) w mieście Częstochowa.\n2.\nOdcinek drogi krajowej nr 43 - ul. św. Rocha (od granicy miasta - węzła Częstochowa\nJasna Góra do ul. Okulickiego), ul. Okulickiego (od ul. św. Rocha do ul. św. Krzysztofa),\nul. św. Krzysztofa (od ul. Okulickiego do ul. św. Jadwigi), ul. św. Jadwigi (od ul.\nśw. Krzysztofa do ul. św. Barbary) w mieście Częstochowa.\n3.\nOdcinek drogi krajowej nr 46 - ul. Okulickiego (od ul. św. Krzysztofa do ul. Szajnowicza-Iwanowa),\nul. Szajnowicza-Iwanowa (od ul. Okulickiego do al. Jana Pawła II), al. Jana Pawła\nII (od ul. Szajnowicza-Iwanowa do al. Wojska Polskiego) w mieście Częstochowa.\n4.\nOdcinek drogi krajowej nr 48 - odcinek drogi (od węzła drogi ekspresowej S8 Tomaszów\nMazowiecki Centrum do granicy miasta Tomaszów Mazowiecki) w gminie Tomaszów Mazowiecki,\nulica bez nazwy (od granicy miasta Tomaszów Mazowiecki do ul. Ujezdzkiej), ul. Ujezdzka\n(od ulicy bez nazwy do ul. Warszawskiej), ul. Warszawska (od ul. Ujezdzkiej do ul.\nWysokiej) w mieście Tomaszów Mazowiecki.\n5.\nOdcinek drogi krajowej nr 78 - ul. Daszyńskiego (od ulicy bez nazwy - zachodniej obwodnicy\nmiasta - do ul. Styczyńskiego), ul. Styczyńskiego (od ul. Daszyńskiego do ul. Wyspiańskiego),\nul. Wyspiańskiego (od ul. Styczyńskiego do ul. Orlickiego), ul. Orlickiego (od ul.\nWyspiańskiego do Drogowej Trasy Średnicowej), Drogowa Trasa Średnicowa (od ul. Orlickiego\ndo al. Jana Nowaka-Jeziorańskiego) w mieście Gliwice.\n6.\nOdcinek drogi krajowej nr 88 - Drogowa Trasa Średnicowa (od ul. Orlickiego do autostrady\nA1) w mieście Gliwice."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 210,
+            "end": 211,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 212,
+            "end": 213,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 214,
+            "end": 218,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 219,
+            "end": 220,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 221,
+            "end": 224,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 225,
+            "end": 226,
+            "text": "3",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 358,
+            "end": 369,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 370,
+            "end": 374,
+            "text": "2725",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 514,
+            "end": 518,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 519,
+            "end": 520,
+            "text": "5",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 521,
+            "end": 525,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 526,
+            "end": 527,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 530,
+            "end": 534,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 535,
+            "end": 537,
+            "text": "10",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 538,
+            "end": 542,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 543,
+            "end": 544,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 547,
+            "end": 548,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 603,
+            "end": 624,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 625,
+            "end": 628,
+            "text": "320",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 631,
+            "end": 635,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 665,
+            "end": 666,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 667,
+            "end": 668,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 763,
+            "end": 764,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 765,
+            "end": 766,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
