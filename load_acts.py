@@ -29,7 +29,7 @@ types = [
 number_of_documents_per_type = [
     15,  # Rozporządzenie
     30,  # Obwieszczenie
-    5   # Ustawa
+    5    # Ustawa
 ]   
 
 def data_downloaded(random_acts, acts):
