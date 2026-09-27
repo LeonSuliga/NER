@@ -1,0 +1,298 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Sprawiedliwości z dnia 12 listopada 2024 r. w sprawie określenia wzoru pouczenia o uprawnieniach przysługujących oskarżonemu w\nwypadku zastosowania tymczasowego aresztowania 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy\nParlamentu Europejskiego i Rady 2012/13/UE z dnia 22 maja 2012 r. w sprawie prawa\ndo informacji w postępowaniu karnym (Dz. Urz. UE L 142 z 01.06.2012, str. 1).\nSpis treści\nTreść rozporządzenia\nZałącznik - Pouczenie o uprawnieniach oskarżonego w wypadku zastosowania tymczasowego aresztowania\n(wzór)\nTreść rozporządzenia\nNa podstawie art. 263 § 8 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego\n(Dz. U. z 2024 r. poz. 37, 1222 i 1248) zarządza się, co następuje:\n§ 1.\nOkreśla się wzór pouczenia o uprawnieniach przysługujących oskarżonemu w wypadku zastosowania\ntymczasowego aresztowania, stanowiący załącznik do rozporządzenia.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 15 listopada 2024 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości\nz dnia 13 kwietnia 2016 r. w sprawie określenia wzoru pouczenia o uprawnieniach tymczasowo\naresztowanego w postępowaniu karnym (Dz. U. poz. 513), które traci moc z dniem wejścia\nw życie niniejszego rozporządzenia zgodnie z art. 12 pkt 1 ustawy z dnia 26 lipca\n2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej\nPolskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa\n(Dz. U. poz. 1248).\nZałącznik\n-\nPouczenie o uprawnieniach oskarżonego w wypadku zastosowania tymczasowego aresztowania\n(wzór)\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 402,
+            "end": 438,
+            "text": "Dz. Urz. UE L 142 z 01.06.2012, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 439,
+            "end": 440,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 616,
+            "end": 620,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 621,
+            "end": 624,
+            "text": "263",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 625,
+            "end": 626,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 627,
+            "end": 628,
+            "text": "8",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 692,
+            "end": 713,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 714,
+            "end": 716,
+            "text": "37",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 718,
+            "end": 722,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 725,
+            "end": 729,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 759,
+            "end": 760,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 761,
+            "end": 762,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 925,
+            "end": 926,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 927,
+            "end": 928,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1204,
+            "end": 1215,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1216,
+            "end": 1219,
+            "text": "513",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1299,
+            "end": 1303,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1304,
+            "end": 1306,
+            "text": "12",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1307,
+            "end": 1310,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1311,
+            "end": 1312,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1517,
+            "end": 1528,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1529,
+            "end": 1533,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 28 czerwca 2024 r. o ratyfikacji Zaawansowanej umowy ramowej między Unią Europejską i jej państwami członkowskimi,\nz jednej strony, a Republiką Chile, z drugiej strony, sporządzonej w Brukseli dnia\n13 grudnia 2023 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji\nZaawansowanej umowy ramowej między Unią Europejską i jej państwami członkowskimi,\nz jednej strony, a Republiką Chile, z drugiej strony, sporządzonej w Brukseli dnia\n13 grudnia 2023 r.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 244,
+            "end": 248,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 249,
+            "end": 250,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 521,
+            "end": 525,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 526,
+            "end": 527,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

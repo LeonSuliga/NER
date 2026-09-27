@@ -1,0 +1,753 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 6 sierpnia 2024 r. w sprawie wzoru sprawozdań dotyczących realizacji planu łańcucha dostaw materiałów\ni usług 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - klimat, na\npodstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz.\nU. poz. 2726).\nSpis treści\nTreść rozporządzenia\nZałącznik - Sprawozdania dotyczące realizacji planu łańcucha dostaw materiałów i usług, o którym\nmowa w art. 42 ust. 1 i 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania\nenergii elektrycznej w morskich farmach wiatrowych, w zakresie budowy morskiej farmy\nwiatrowej wraz z zespołem urządzeń służących do wyprowadzenia mocy, w tym przyczyn\nistotnych odstępstw od realizacji tego planu, oraz eksploatacji morskiej farmy wiatrowej\nwraz z zespołem urządzeń służących do wyprowadzenia mocy, w tym przyczyn istotnych\nodstępstw od realizacji tego planu (wzór)\nTreść rozporządzenia\nNa podstawie art. 43 ust. 4 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej\nw morskich farmach wiatrowych\n(Dz. U. z 2024 r. poz. 182) zarządza się, co następuje:\n§ 1.\nRozporządzenie określa wzór sprawozdań dotyczących realizacji planu łańcucha dostaw\nmateriałów i usług, o którym mowa w art. 42 ust. 1 i 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii\nelektrycznej w morskich farmach wiatrowych, zwanej dalej „ustawą”, w zakresie:\n1)\nbudowy morskiej farmy wiatrowej wraz z zespołem urządzeń służących do wyprowadzenia\nmocy, w tym przyczyn istotnych odstępstw od realizacji tego planu;\n2)\neksploatacji morskiej farmy wiatrowej wraz z zespołem urządzeń służących do wyprowadzenia\nmocy, w tym przyczyn istotnych odstępstw od realizacji tego planu.\n§ 2.\nWzór, o którym mowa w § 1, jest określony w załączniku do rozporządzenia.\n§ 3.\nW przypadku gdy termin przekazania przez wytwórcę sprawozdania, o którym mowa w art.\n43 ust. 1 pkt 2 lit. a ustawy, przypada w terminie trzech miesięcy od dnia wejścia\nw życie niniejszego rozporządzenia, wytwórca może sporządzić to sprawozdanie według\nwzoru określonego w przepisach dotychczasowych.\n§ 4.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Klimatu i Środowiska\nz dnia 15 grudnia 2021 r. w sprawie wzoru sprawozdań dotyczących realizacji planu\nłańcucha dostaw materiałów i usług (Dz. U. poz. 2385), które traci moc z dniem wejścia\nw życie niniejszego rozporządzenia zgodnie z art. 47 ust. 4 ustawy z dnia 28 lipca\n2023 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (Dz. U.\npoz. 1681 oraz z 2024 r. poz. 859).\nZałącznik\n-\nSprawozdania dotyczące realizacji planu łańcucha dostaw materiałów i usług, o którym\nmowa w art. 42 ust. 1 i 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania\nenergii elektrycznej w morskich farmach wiatrowych, w zakresie budowy morskiej farmy\nwiatrowej wraz z zespołem urządzeń służących do wyprowadzenia mocy, w tym przyczyn\nistotnych odstępstw od realizacji tego planu, oraz eksploatacji morskiej farmy wiatrowej\nwraz z zespołem urządzeń służących do wyprowadzenia mocy, w tym przyczyn istotnych\nodstępstw od realizacji tego planu (wzór)\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 257,
+            "end": 258,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 259,
+            "end": 260,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 261,
+            "end": 265,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 266,
+            "end": 267,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 268,
+            "end": 271,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 272,
+            "end": 273,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 411,
+            "end": 422,
+            "text": "Dz.\nU. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 423,
+            "end": 427,
+            "text": "2726",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 567,
+            "end": 571,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 572,
+            "end": 574,
+            "text": "42",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 575,
+            "end": 579,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 580,
+            "end": 581,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 584,
+            "end": 585,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1060,
+            "end": 1064,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1065,
+            "end": 1067,
+            "text": "43",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1068,
+            "end": 1072,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1073,
+            "end": 1074,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1185,
+            "end": 1206,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1207,
+            "end": 1210,
+            "text": "182",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1240,
+            "end": 1241,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1242,
+            "end": 1243,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1365,
+            "end": 1369,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1370,
+            "end": 1372,
+            "text": "42",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1373,
+            "end": 1377,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1378,
+            "end": 1379,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1382,
+            "end": 1383,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1843,
+            "end": 1844,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1845,
+            "end": 1846,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1870,
+            "end": 1871,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1872,
+            "end": 1873,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1922,
+            "end": 1923,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1924,
+            "end": 1925,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2007,
+            "end": 2011,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2012,
+            "end": 2014,
+            "text": "43",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2015,
+            "end": 2019,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2020,
+            "end": 2021,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2022,
+            "end": 2025,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2026,
+            "end": 2027,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2028,
+            "end": 2032,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2033,
+            "end": 2034,
+            "text": "a",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2227,
+            "end": 2228,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2229,
+            "end": 2230,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2510,
+            "end": 2521,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2522,
+            "end": 2526,
+            "text": "2385",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2606,
+            "end": 2610,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2611,
+            "end": 2613,
+            "text": "47",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2614,
+            "end": 2618,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2619,
+            "end": 2620,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2720,
+            "end": 2731,
+            "text": "Dz. U.\npoz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2732,
+            "end": 2736,
+            "text": "1681",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2742,
+            "end": 2756,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2757,
+            "end": 2760,
+            "text": "859",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2867,
+            "end": 2871,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2872,
+            "end": 2874,
+            "text": "42",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2875,
+            "end": 2879,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2880,
+            "end": 2881,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2884,
+            "end": 2885,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

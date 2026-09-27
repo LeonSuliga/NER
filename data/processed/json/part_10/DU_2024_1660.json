@@ -1,0 +1,428 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Sprawiedliwości z dnia 7 listopada 2024 r. w sprawie określenia wzoru pisemnego pouczenia o uprawnieniach zatrzymanego na podstawie\neuropejskiego nakazu aresztowania oraz wzorów pisemnych wyjaśnień co do zakresu uprawnień\ntego zatrzymanego 1) Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy\nParlamentu Europejskiego i Rady 2012/13/UE z dnia 22 maja 2012 r. w sprawie prawa\ndo informacji w postępowaniu karnym (Dz. Urz. UE L 142 z 01.06.2012, str. 1) oraz\ndyrektywy Parlamentu Europejskiego i Rady (UE) 2016/800 z dnia 11 maja 2016 r. w sprawie\ngwarancji procesowych dla dzieci będących podejrzanymi lub oskarżonymi w postępowaniu\nkarnym (Dz. Urz. UE L 132 z 21.05.2016, str. 1).\nSpis treści\nTreść rozporządzenia\nZałącznik nr 1 - Pouczenie o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania\n(wzór)\nZałącznik nr 2 - na podstawie europejskiego nakazu aresztowania, który nie ukończył 18 lat (wzór)\nZałącznik nr 3 - Wyjaśnienia co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego nakazu\naresztowania nieporadnego ze względu na wiek lub stan zdrowia (wzór)\nZałącznik nr 4 - Wyjaśnienia co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego nakazu\naresztowania, który nie ukończył 18 lat (wzór)\nTreść rozporządzenia\nNa podstawie art. 607l § 4 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego\n(Dz. U. z 2024 r. poz. 37, 1222 i 1248) zarządza się, co następuje:\n§ 1.\nRozporządzenie określa:\n1)\nwzór pouczenia o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania;\n2)\nwzór pouczenia o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania,\nktóry nie ukończył 18 lat;\n3)\nwzór wyjaśnień co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego\nnakazu aresztowania nieporadnego ze względu na wiek lub stan zdrowia;\n4)\nwzór wyjaśnień co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego\nnakazu aresztowania, który nie ukończył 18 lat.\n§ 2.\nWzór pouczenia o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania\njest określony w załączniku nr 1 do rozporządzenia.\n§ 3.\nWzór pouczenia o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania,\nktóry nie ukończył 18 lat, jest określony w załączniku nr 2 do rozporządzenia.\n§ 4.\nWzór wyjaśnień co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego\nnakazu aresztowania nieporadnego ze względu na wiek lub stan zdrowia jest określony\nw załączniku nr 3 do rozporządzenia.\n§ 5.\nWzór wyjaśnień co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego\nnakazu aresztowania, który nie ukończył 18 lat, jest określony w załączniku nr 4 do\nrozporządzenia.\n§ 6.\nRozporządzenie wchodzi w życie z dniem 15 listopada 2024 r. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości\nz dnia 13 sierpnia 2024 r. w sprawie określenia wzoru pisemnego pouczenia o uprawnieniach\nzatrzymanego na podstawie europejskiego nakazu aresztowania oraz wzorów pisemnych\nwyjaśnień co do zakresu uprawnień tego zatrzymanego (Dz. U. poz. 1240), które traci\nmoc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 pkt 2 ustawy\nz dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił\nZbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia\nbezpieczeństwa państwa (Dz. U. poz. 1248).\nZałącznik nr 1\n-\nPouczenie o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania\n(wzór)\npatrz oryginał\nZałącznik nr 2\n-\nna podstawie europejskiego nakazu aresztowania, który nie ukończył 18 lat (wzór)\npatrz oryginał\nZałącznik nr 3\n-\nWyjaśnienia co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego nakazu\naresztowania nieporadnego ze względu na wiek lub stan zdrowia (wzór)\npatrz oryginał\nZałącznik nr 4\n-\nWyjaśnienia co do zakresu uprawnień dla zatrzymanego na podstawie europejskiego nakazu\naresztowania, który nie ukończył 18 lat (wzór)\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 468,
+            "end": 504,
+            "text": "Dz. Urz. UE L 142 z 01.06.2012, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 505,
+            "end": 506,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 696,
+            "end": 732,
+            "text": "Dz. Urz. UE L 132 z 21.05.2016, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 733,
+            "end": 734,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1336,
+            "end": 1340,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1341,
+            "end": 1345,
+            "text": "607l",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1346,
+            "end": 1347,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1348,
+            "end": 1349,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1413,
+            "end": 1434,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1435,
+            "end": 1437,
+            "text": "37",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1439,
+            "end": 1443,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1446,
+            "end": 1450,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1480,
+            "end": 1481,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1482,
+            "end": 1483,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2016,
+            "end": 2017,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2018,
+            "end": 2019,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2164,
+            "end": 2165,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2166,
+            "end": 2167,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2340,
+            "end": 2341,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2342,
+            "end": 2343,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2549,
+            "end": 2550,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2551,
+            "end": 2552,
+            "text": "5",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2737,
+            "end": 2738,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2739,
+            "end": 2740,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3113,
+            "end": 3124,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3125,
+            "end": 3129,
+            "text": "1240",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3209,
+            "end": 3213,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3214,
+            "end": 3216,
+            "text": "12",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3217,
+            "end": 3220,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3221,
+            "end": 3222,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3427,
+            "end": 3438,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3439,
+            "end": 3443,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Obrony Narodowej z dnia 2 grudnia 2024 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego oraz dodatków\ndo uposażenia zasadniczego żołnierzy niebędących żołnierzami zawodowymi\nTreść rozporządzenia\nNa podstawie art. 483 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny\n(Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Obrony Narodowej z dnia 28 grudnia 2022 r. w sprawie stawek\nuposażenia zasadniczego oraz dodatków do uposażenia zasadniczego żołnierzy niebędących\nżołnierzami zawodowymi\n(Dz. U. poz. 2850, z 2023 r. poz. 2794 oraz z 2024 r. poz. 1369) § 7 otrzymuje brzmienie:\n„§ 7.\nWysokość dodatku za wykonywanie zadań związanych ze zwalczaniem klęsk żywiołowych\nlub z likwidacją ich skutków, z akcjami poszukiwawczymi oraz akcjami ratowania lub\nochrony zdrowia i życia ludzkiego albo zadań z zakresu zarządzania kryzysowego, z\nwyłączeniem wykonywania tych zadań w okresie:\n1)\nczasowej zmiany miejsca postoju jednostki wojskowej lub wydzielonego pododdziału związanej\nz ochroną granicy Rzeczypospolitej Polskiej w zakresie ochrony niepodległości państwa,\nniepodzielności jego terytorium lub zapewnienia bezpieczeństwa i nienaruszalności\njego granic oraz\n2)\nodbywania krajowej podróży służbowej\n- dla żołnierza pełniącego zasadniczą służbę wojskową, służbę w aktywnej rezerwie,\nterytorialną służbę wojskową rotacyjnie oraz odbywającego ćwiczenia wojskowe wynosi\n180 zł za każdą rozpoczętą dobę wykonywania tych zadań.”.\n§ 2.\nŻołnierzom, którzy od dnia 12 września 2024 r. do dnia wejścia w życie niniejszego\nrozporządzenia wykonywali zadania związane ze zwalczaniem klęsk żywiołowych lub z\nlikwidacją ich skutków albo zadania z zakresu zarządzania kryzysowego, przysługuje\ndodatek z tytułu wykonywania tych zadań w wysokości:\n1)\n135 zł za każdą rozpoczętą dobę wykonywania tych zadań albo\n2)\n180 zł za każdą rozpoczętą dobę wykonywania tych zadań - jeżeli nie otrzymali dodatku,\no którym mowa w § 7 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym\n- z wyłączeniem wykonywania tych zadań w okresie odbywania krajowej podróży służbowej.\n§ 3.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 254,
+            "end": 258,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 259,
+            "end": 262,
+            "text": "483",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 314,
+            "end": 335,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 336,
+            "end": 339,
+            "text": "248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 341,
+            "end": 344,
+            "text": "834",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 346,
+            "end": 350,
+            "text": "1089",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 352,
+            "end": 356,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 358,
+            "end": 362,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 365,
+            "end": 369,
+            "text": "1585",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 399,
+            "end": 400,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 401,
+            "end": 402,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 601,
+            "end": 612,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 613,
+            "end": 617,
+            "text": "2850",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 619,
+            "end": 633,
+            "text": "z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 634,
+            "end": 638,
+            "text": "2794",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 644,
+            "end": 658,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 659,
+            "end": 663,
+            "text": "1369",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 665,
+            "end": 666,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 667,
+            "end": 668,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 691,
+            "end": 692,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 693,
+            "end": 694,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1534,
+            "end": 1535,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1536,
+            "end": 1537,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2009,
+            "end": 2010,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2011,
+            "end": 2012,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2042,
+            "end": 2043,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2044,
+            "end": 2045,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2160,
+            "end": 2161,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2162,
+            "end": 2163,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

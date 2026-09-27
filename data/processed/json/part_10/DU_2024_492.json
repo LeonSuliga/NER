@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 7 marca 2024 r. o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie,\npodpisanego w Paryżu dnia 19 listopada 1990 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu\nobowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia\n19 listopada 1990 r., przez zawieszenie jego stosowania.\nArt. 2.\nUstawa wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 178,
+            "end": 182,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 183,
+            "end": 184,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 427,
+            "end": 431,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 432,
+            "end": 433,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
