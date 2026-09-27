@@ -1,0 +1,454 @@
+{
+  "data": {
+    "text": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 23 kwietnia 2024 r. o sprostowaniu błędów 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej - sprawy zagraniczne,\nna podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r.\nw sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz.\n2713).\nTreść obwieszczenia\nNa podstawie art. 18b ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych\n(Dz. U. z 2020 r. poz. 127) obwieszcza się, że w tekście polskim Konwencji między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Tunezyjskiej\nw sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu, sporządzonej\nw Tunisie dnia 29 marca 1993 r.\n(Dz. U. z 1994 r. poz. 357) w:\n1)\nart. 3 w ust. 1 w lit. i zamiast wyrazów\n„określenie „właściwa władza” oznacza:\n1)\nw Polsce - Ministra Finansów lub jego upoważnionego przedstawiciela,\n2)\nw Tunezji - Ministra Finansów lub jego upoważnionego przedstawiciela.”\npowinny być wyrazy\n„określenie „właściwa władza” oznacza:\n-\nw Polsce - Ministra Finansów lub jego upoważnionego przedstawiciela,\n-\nw Tunezji - Ministra Finansów lub jego upoważnionego przedstawiciela.”;\n2)\nart. 7 w ust. 3:\na)\nw zdaniu drugim zamiast wyrazów „za wykorzystanie patentów lub innych praw” powinny być wyrazy „za wykorzystanie licencji, patentów lub innych praw”,\nb)\nw zdaniu trzecim zamiast wyrazów „lub innych jego oddziałów z tytułu należności licencyjnych, patentów lub innych praw\nalbo z tytułu prowizji (innych niż zwrot rzeczywistych wydatków) za usługi lub z tytułu\nzarządzania albo, z wyjątkiem zakładu bankowego, z tytułu odsetek od kwot pożyczonych\nprzedsiębiorstwu lub jednemu z jego zakładów.” powinny być wyrazy „lub jego oddziału z tytułu należności licencyjnych, honorariów lub innych podobnych\npłatności za wykorzystanie licencji, patentów lub innych praw albo z tytułu prowizji\n(innych niż zwrot rzeczywistych wydatków) za usługi lub z tytułu zarządzania albo,\nz wyjątkiem zakładu bankowego, z tytułu odsetek od kwot pożyczonych przedsiębiorstwu\nlub jego oddziałowi.”;\n3)\nart. 7 w ust. 5 zamiast wyrazów „uzasadnione powody,” powinny być wyrazy „uzasadnione i wystarczające powody,”;\n4)\nart. 13 w ust. 1 zamiast wyrazów „w artykule 6,” powinny być wyrazy „w artykule 6 ustęp 2,”."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 198,
+            "end": 199,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 200,
+            "end": 201,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 202,
+            "end": 206,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 207,
+            "end": 208,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 345,
+            "end": 356,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 357,
+            "end": 361,
+            "text": "2713",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 397,
+            "end": 401,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 402,
+            "end": 405,
+            "text": "18b",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 468,
+            "end": 489,
+            "text": "Dz. U. z 2020 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 490,
+            "end": 493,
+            "text": "127",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 736,
+            "end": 757,
+            "text": "Dz. U. z 1994 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 758,
+            "end": 761,
+            "text": "357",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 769,
+            "end": 773,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 774,
+            "end": 775,
+            "text": "3",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 778,
+            "end": 782,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 783,
+            "end": 784,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 787,
+            "end": 791,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 792,
+            "end": 793,
+            "text": "i",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1201,
+            "end": 1205,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1206,
+            "end": 1207,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1210,
+            "end": 1214,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1215,
+            "end": 1216,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1223,
+            "end": 1229,
+            "text": "zdaniu",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1230,
+            "end": 1236,
+            "text": "drugim",
+            "labels": [
+              "ZDA_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1376,
+            "end": 1382,
+            "text": "zdaniu",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1383,
+            "end": 1390,
+            "text": "trzecim",
+            "labels": [
+              "ZDA_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2097,
+            "end": 2101,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2102,
+            "end": 2103,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2106,
+            "end": 2110,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2111,
+            "end": 2112,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2212,
+            "end": 2216,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2217,
+            "end": 2219,
+            "text": "13",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2222,
+            "end": 2226,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2227,
+            "end": 2228,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Infrastruktury z dnia 12 listopada 2024 r. zmieniające rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków\nmorskich 1) Minister Infrastruktury kieruje działem administracji rządowej - gospodarka morska,\nna podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U.\npoz. 2725).\nTreść rozporządzenia\nNa podstawie art. 68 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim\n(Dz. U. z 2024 r. poz. 1068) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 kwietnia\n2018 r. w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich\n(Dz. U. z 2023 r. poz. 1383) wprowadza się następujące zmiany:\n1)\nw § 20:\na)\nw ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się pkt 6 w brzmieniu:\n„6)\nposiadanie 12-miesięcznej praktyki pływania na statku morskim w dziale maszynowym\nw specjalności mechanicznej oraz zdanie egzaminu na to świadectwo.”,\nb)\nuchyla się ust. 2;\n2)\nw § 22:\na)\nw ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „albo” oraz dodaje się pkt 6 w brzmieniu:\n„6)\nposiadanie 12-miesięcznej praktyki pływania na statku morskim w dziale maszynowym\nw specjalności elektrycznej oraz zdanie egzaminu na to świadectwo.”,\nb)\nuchyla się ust. 2;\n3)\nw § 32 dodaje się ust. 3 i 4 w brzmieniu:\n„3.\nAbsolwenci MJE typu A lub MJE typu B kształcących na poziomie zarządzania w żegludze\nmiędzynarodowej w dziale pokładowym, posiadający dyplom ukończenia studiów na kierunku\ni w specjalności uznanej przez ministra właściwego do spraw gospodarki morskiej, mogą\nukończyć szkolenie absolwentów dla marynarzy działu pokładowego na poziomie zarządzania\nw żegludze międzynarodowej.\n4.\nPrzepis ust. 3 stosuje się odpowiednio do osób, które ukończyły szkolenie w MJE typu\nD na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej.”;\n4)\nw § 33 dodaje się ust. 4 i 5 w brzmieniu:\n„4.\nAbsolwenci MJE typu A lub MJE typu B kształcących na poziomie zarządzania w żegludze\nmiędzynarodowej w dziale pokładowym, posiadający dyplom ukończenia studiów na kierunku\ni w specjalności uznanej przez ministra właściwego do spraw gospodarki morskiej, mogą\nukończyć szkolenie absolwentów dla marynarzy działu pokładowego na poziomie zarządzania\nw żegludze międzynarodowej.\n5.\nPrzepis ust. 4 stosuje się odpowiednio do osób, które ukończyły szkolenie w MJE typu\nD na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej.”;\n5)\nw § 50 dodaje się ust. 3 i 4 w brzmieniu:\n„3.\nAbsolwenci MJE typu A lub MJE typu B kształcących na poziomie zarządzania w żegludze\nmiędzynarodowej w dziale maszynowym, posiadający dyplom ukończenia studiów na kierunku\ni w specjalności uznanej przez ministra właściwego do spraw gospodarki morskiej, mogą\nukończyć szkolenie absolwentów dla marynarzy działu maszynowego na poziomie zarządzania\nw żegludze międzynarodowej.\n4.\nPrzepis ust. 3 stosuje się odpowiednio do osób, które ukończyły szkolenie w MJE typu\nD na poziomie zarządzania w dziale maszynowym w żegludze międzynarodowej.”;\n6)\nw § 51 dodaje się ust. 4 i 5 w brzmieniu:\n„4.\nAbsolwenci MJE typu A lub MJE typu B kształcących na poziomie zarządzania w żegludze\nmiędzynarodowej w dziale maszynowym, posiadający dyplom ukończenia studiów na kierunku\ni w specjalności uznanej przez ministra właściwego do spraw gospodarki morskiej, mogą\nukończyć szkolenie absolwentów dla marynarzy działu maszynowego na poziomie zarządzania\nw żegludze międzynarodowej.\n5.\nPrzepis ust. 4 stosuje się odpowiednio do osób, które ukończyły szkolenie w MJE typu\nD na poziomie zarządzania w dziale maszynowym w żegludze międzynarodowej.”.\n§ 2.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 263,
+            "end": 264,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 265,
+            "end": 266,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 267,
+            "end": 271,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 272,
+            "end": 273,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 274,
+            "end": 277,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 278,
+            "end": 279,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 411,
+            "end": 422,
+            "text": "Dz. U.\npoz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 423,
+            "end": 427,
+            "text": "2725",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 464,
+            "end": 468,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 469,
+            "end": 471,
+            "text": "68",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 533,
+            "end": 554,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 555,
+            "end": 559,
+            "text": "1068",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 589,
+            "end": 590,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 591,
+            "end": 592,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 759,
+            "end": 780,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 781,
+            "end": 785,
+            "text": "1383",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 826,
+            "end": 827,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 828,
+            "end": 830,
+            "text": "20",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 837,
+            "end": 841,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 842,
+            "end": 843,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 846,
+            "end": 849,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 850,
+            "end": 851,
+            "text": "5",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 927,
+            "end": 930,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 931,
+            "end": 932,
+            "text": "6",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1115,
+            "end": 1119,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1120,
+            "end": 1121,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1128,
+            "end": 1129,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1130,
+            "end": 1132,
+            "text": "22",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1139,
+            "end": 1143,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1144,
+            "end": 1145,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1148,
+            "end": 1151,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1152,
+            "end": 1153,
+            "text": "5",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1229,
+            "end": 1232,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1233,
+            "end": 1234,
+            "text": "6",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1417,
+            "end": 1421,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1422,
+            "end": 1423,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1430,
+            "end": 1431,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1432,
+            "end": 1434,
+            "text": "32",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1446,
+            "end": 1450,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1451,
+            "end": 1452,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1455,
+            "end": 1456,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1859,
+            "end": 1863,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1864,
+            "end": 1865,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2017,
+            "end": 2018,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2019,
+            "end": 2021,
+            "text": "33",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2033,
+            "end": 2037,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2038,
+            "end": 2039,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2042,
+            "end": 2043,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2446,
+            "end": 2450,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2451,
+            "end": 2452,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2604,
+            "end": 2605,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2606,
+            "end": 2608,
+            "text": "50",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2620,
+            "end": 2624,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2625,
+            "end": 2626,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2629,
+            "end": 2630,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3033,
+            "end": 3037,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3038,
+            "end": 3039,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3191,
+            "end": 3192,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3193,
+            "end": 3195,
+            "text": "51",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3207,
+            "end": 3211,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3212,
+            "end": 3213,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3216,
+            "end": 3217,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3620,
+            "end": 3624,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3625,
+            "end": 3626,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3773,
+            "end": 3774,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3775,
+            "end": 3776,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

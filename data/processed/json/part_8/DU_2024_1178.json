@@ -1,0 +1,168 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 29 lipca 2024 r. w sprawie reorganizacji Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra\nKaliskiego\nTreść rozporządzenia\nNa podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych\n(Dz. U. z 2024 r. poz. 534) zarządza się, co następuje:\n§ 1.\nNadzór nad Instytutem Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego\nz siedzibą w Warszawie, numer identyfikacyjny REGON 010371929, numer identyfikacji\npodatkowej NIP 525-000-71-93 1) Instytut Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego został utworzony\nna podstawie zarządzenia nr 44 Prezesa Rady Ministrów z dnia 25 lipca 1975 r. w sprawie\nutworzenia Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy, zmienionego zarządzeniem\nnr 61 Prezesa Rady Ministrów z dnia 5 października 1978 r. oraz zarządzeniem nr 12\nPrezesa Rady Ministrów z dnia 25 stycznia 1979 r., sprawuje minister właściwy do spraw gospodarki surowcami energetycznymi. 2) Do dnia wejścia w życie niniejszego rozporządzenia nadzór nad Instytutem Fizyki Plazmy\ni Laserowej Mikrosyntezy im. Sylwestra Kaliskiego z siedzibą w Warszawie sprawował\nminister właściwy do spraw energii na podstawie rozporządzenia Rady Ministrów z dnia\n31 sierpnia 2016 r. w sprawie reorganizacji Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy\nim. Sylwestra Kaliskiego (Dz. U. poz. 1465).\n§ 2.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 186,
+            "end": 190,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 191,
+            "end": 192,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 193,
+            "end": 197,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 198,
+            "end": 199,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 260,
+            "end": 281,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 282,
+            "end": 285,
+            "text": "534",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 315,
+            "end": 316,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 317,
+            "end": 318,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1369,
+            "end": 1380,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1381,
+            "end": 1385,
+            "text": "1465",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1388,
+            "end": 1389,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1390,
+            "end": 1391,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

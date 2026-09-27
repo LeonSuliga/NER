@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 5 grudnia 2024 r. o wypowiedzeniu Porozumienia o utworzeniu międzynarodowego systemu i organizacji łączności\nkosmicznej „Intersputnik”, sporządzonego w Moskwie dnia 15 listopada 1971 r., zmienionego\nProtokołem o wprowadzeniu zmian do Porozumienia sporządzonego w Moskwie dnia 15 listopada\n1971 r. o utworzeniu międzynarodowego systemu i organizacji łączności kosmicznej „Intersputnik”,\nprzyjętym podczas XXV Jubileuszowej Sesji Rady INTERSPUTNIK w Moskwie dnia 30 listopada\n1996 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej wypowiedzenia\nPorozumienia o utworzeniu międzynarodowego systemu i organizacji łączności kosmicznej\n„Intersputnik”, sporządzonego w Moskwie dnia 15 listopada 1971 r., zmienionego Protokołem o wprowadzeniu zmian do Porozumienia sporządzonego w Moskwie dnia 15 listopada 1971 r. o utworzeniu międzynarodowego\nsystemu i organizacji łączności kosmicznej „Intersputnik”, przyjętym podczas XXV Jubileuszowej Sesji Rady INTERSPUTNIK w Moskwie dnia 30 listopada\n1996 r.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 509,
+            "end": 513,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 514,
+            "end": 515,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1052,
+            "end": 1056,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1057,
+            "end": 1058,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

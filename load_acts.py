@@ -13,7 +13,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # OUTPUT_DIR_PDF = OUTPUT_DIR / "PDF"
 # OUTPUT_DIR_PDF.mkdir(parents=True, exist_ok=True)
 
-OUTPUT_DIR_HTML = OUTPUT_DIR / "HTML/part_7"
+OUTPUT_DIR_HTML = OUTPUT_DIR / "HTML/part_8"
 OUTPUT_DIR_HTML.mkdir(parents=True, exist_ok=True)
 
 metadata_file = OUTPUT_DIR / "metadata.csv"

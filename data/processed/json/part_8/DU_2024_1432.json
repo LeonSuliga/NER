@@ -1,0 +1,298 @@
+{
+  "data": {
+    "text": "Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2024 r. w sprawie szczegółowego zakresu działania Ministra - Członka Rady Ministrów Marcina\nKierwińskiego\nTreść rozporządzenia\nNa podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów\n(Dz. U. z 2024 r. poz. 1050) zarządza się, co następuje:\n§ 1.\nMinister - Członek Rady Ministrów Marcin Kierwiński, zwany dalej „ministrem”:\n1)\njest właściwy do spraw odbudowy po powodzi we wrześniu 2024 r.;\n2)\nwykonuje zadania wyznaczone przez Prezesa Rady Ministrów.\n§ 2.\nDo zakresu działania ministra należy:\n1)\ninicjowanie i koordynacja działań w zakresie odbudowy po powodzi, w szczególności\ninfrastruktury drogowej, kolejowej, energetycznej, telekomunikacyjnej oraz urządzeń\nwodnych;\n2)\nkoordynacja działań w zakresie planowania w budżetach organów administracji rządowej\nwydatków związanych z odbudową po powodzi z uwzględnieniem środków pochodzących z\nbudżetu Unii Europejskiej;\n3)\nopracowywanie planów finansowo-rzeczowych oraz harmonogramu działań związanych z odbudową\npo powodzi;\n4)\nmonitorowanie postępu procesów inwestycyjnych w zakresie odbudowy po powodzi;\n5)\nwspółpraca z organami administracji rządowej, organami jednostek samorządu terytorialnego\ni organizacjami pozarządowymi oraz innymi podmiotami uczestniczącymi w działaniach\nzwiązanych z odbudową po powodzi;\n6)\nrealizacja innych zadań w zakresie odbudowy po powodzi, zleconych przez Radę Ministrów\nlub Prezesa Rady Ministrów.\n§ 3.\nMinister, w zakresie realizacji zadań określonych w § 1 i § 2, może z upoważnienia\nPrezesa Rady Ministrów żądać informacji, dokumentów i sprawozdań okresowych lub dotyczących\nposzczególnej sprawy albo rodzaju spraw od organów administracji rządowej.\n§ 4.\nW zakresie niezbędnym do realizacji jego zadań minister może:\n1)\npowoływać zespoły do opracowania określonych zagadnień;\n2)\nzlecać sporządzanie ekspertyz oraz innych opracowań.\n§ 5.\nObsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.\n§ 6.\nRozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 26 września 2024 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 197,
+            "end": 201,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 202,
+            "end": 204,
+            "text": "33",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 205,
+            "end": 209,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 210,
+            "end": 211,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 265,
+            "end": 286,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 287,
+            "end": 291,
+            "text": "1050",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 321,
+            "end": 322,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 323,
+            "end": 324,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 532,
+            "end": 533,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 534,
+            "end": 535,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1464,
+            "end": 1465,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1466,
+            "end": 1467,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1521,
+            "end": 1522,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1523,
+            "end": 1524,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1527,
+            "end": 1528,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1529,
+            "end": 1530,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1719,
+            "end": 1720,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1721,
+            "end": 1722,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1901,
+            "end": 1902,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1903,
+            "end": 1904,
+            "text": "5",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1967,
+            "end": 1968,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1969,
+            "end": 1970,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
