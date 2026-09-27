@@ -1,0 +1,727 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Zdrowia z dnia 27 września 2024 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych\nprzez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz\nich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych 1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie §\n1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie\nszczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).\nTreść rozporządzenia\nNa podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej\nfinansowanych ze środków publicznych\n(Dz. U. z 2024 r. poz. 146, 858 i 1222) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych\ninformacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania\ntych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń\nze środków publicznych\n(Dz. U. z 2024 r. poz. 610) wprowadza się następujące zmiany:\n1)\nw § 3 w ust. 1:\na)\nw pkt 21 wprowadzenie do wyliczenia otrzymuje brzmienie:\n„kod i stopień zaawansowania choroby według klasyfikacji TNM, zgodnie z rewizją tej\nklasyfikacji wskazaną w wytycznych postępowania diagnostyczno-leczniczego w onkologii,\no których mowa w art. 22 ust. 2 pkt 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej\n(Dz. U. z 2024 r. poz. 1208), a jeżeli istnieje specyficzna dla nowotworu złośliwego klasyfikacja służąca do określenia\nstadium zaawansowania i nie jest możliwe zastosowanie klasyfikacji TNM - nazwę klasyfikacji\ni wynik oraz stadium zaawansowania (in situ, miejscowe, regionalne, uogólnione) w\nprzypadku udzielania świadczenia z zakresu leczenia szpitalnego:”,\nb)\nw pkt 22 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu:\n„23)\ndata sporządzenia opisu wyników badań diagnostycznych - w przypadku udzielenia świadczenia\nrezonansu magnetycznego lub tomografii komputerowej, z wyłączeniem świadczeń udzielanych\nw zakresie leczenia szpitalnego oraz świadczeń wysokospecjalistycznych.”;\n2)\nw załączniku nr 3 do rozporządzenia w tabeli nr 11 „Kod tytułu uprawnienia do świadczeń\nopieki zdrowotnej finansowanych ze środków publicznych oraz dane identyfikujące dokument\npotwierdzający to uprawnienie” dodaje się lp. 19 w brzmieniu:\n19 osoby, którym tymczasowo świadczenia są udzielane bezpłatnie, na podstawie przepisów\no przyznawaniu ochrony w przypadku masowego napływu cudzoziemców\nMN pełna nazwa dokumentu, zgodna z przepisami przyznającymi ochronę w przypadku masowego\nnapływu cudzoziemców\nnazwa dokumentu oraz, jeżeli występuje: seria i numer dokumentu, data wystawienia\ndokumentu, okres obowiązywania dokumentu\n§ 2.\nDo dnia wydania wytycznych postępowania diagnostyczno-leczniczego w onkologii, o których\nmowa w § 3 ust. 1 pkt 21 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym\nrozporządzeniem, kod i stopień zaawansowania choroby nowotworowej jest rejestrowany\ni sprawozdawany zgodnie z ósmą rewizją klasyfikacji TNM.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem §\n1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 397,
+            "end": 398,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 399,
+            "end": 400,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 401,
+            "end": 405,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 406,
+            "end": 407,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 532,
+            "end": 543,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 544,
+            "end": 548,
+            "text": "2704",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 585,
+            "end": 589,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 590,
+            "end": 593,
+            "text": "190",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 594,
+            "end": 598,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 599,
+            "end": 600,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 707,
+            "end": 728,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 729,
+            "end": 732,
+            "text": "146",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 734,
+            "end": 737,
+            "text": "858",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 740,
+            "end": 744,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 774,
+            "end": 775,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 776,
+            "end": 777,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1068,
+            "end": 1089,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1090,
+            "end": 1093,
+            "text": "610",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1134,
+            "end": 1135,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1136,
+            "end": 1137,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1140,
+            "end": 1144,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1145,
+            "end": 1146,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1153,
+            "end": 1156,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1157,
+            "end": 1159,
+            "text": "21",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1396,
+            "end": 1400,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1401,
+            "end": 1403,
+            "text": "22",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1404,
+            "end": 1408,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1409,
+            "end": 1410,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1411,
+            "end": 1414,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1415,
+            "end": 1416,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1479,
+            "end": 1500,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1501,
+            "end": 1505,
+            "text": "1208",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1844,
+            "end": 1847,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1848,
+            "end": 1850,
+            "text": "22",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1905,
+            "end": 1908,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1909,
+            "end": 1911,
+            "text": "23",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2812,
+            "end": 2813,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2814,
+            "end": 2815,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2913,
+            "end": 2914,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2915,
+            "end": 2916,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2917,
+            "end": 2921,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2922,
+            "end": 2923,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2924,
+            "end": 2927,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2928,
+            "end": 2930,
+            "text": "21",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2960,
+            "end": 2961,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2962,
+            "end": 2963,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3137,
+            "end": 3138,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3139,
+            "end": 3140,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3223,
+            "end": 3224,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3225,
+            "end": 3226,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3227,
+            "end": 3230,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3231,
+            "end": 3232,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3233,
+            "end": 3237,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3238,
+            "end": 3239,
+            "text": "b",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3241,
+            "end": 3243,
+            "text": "kt",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

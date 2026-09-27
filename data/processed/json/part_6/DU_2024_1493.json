@@ -1,0 +1,272 @@
+{
+  "data": {
+    "text": "Rozporządzenie Prezesa Rady Ministrów z dnia 7 października 2024 r. w sprawie przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, określonych\nw ustawie budżetowej na rok 2024\nSpis treści\nTreść rozporządzenia\nZałącznik nr 1 - Szczegółowy podział planowanych wydatków budżetowych określonych w ustawie budżetowej\nna rok 2024, przenoszonych z części 34 - rozwój regionalny do części 39 - transport\nZałącznik nr 2 - Szczegółowy podział kwot wynagrodzeń określonych w ustawie budżetowej na rok 2024,\nprzenoszonych z części 34 - rozwój regionalny do części 39 - transport\nTreść rozporządzenia\nNa podstawie art. 67 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem\nadministracji rządowej\n(Dz. U. poz. 834) zarządza się, co następuje:\n§ 1.\nRozporządzenie określa przeniesienie planowanych wydatków budżetowych, w tym wynagrodzeń,\nokreślonych w ustawie budżetowej na rok 2024 między częściami, działami i rozdziałami\nbudżetu państwa.\n§ 2.\n1.\nPrzenosi się, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy\nbudżetowej na rok 2024, planowane wydatki budżetowe, w tym wynagrodzenia, z części\n34 - Rozwój regionalny do części 39 - Transport, w kwocie 1 302 tys. zł.\n2.\nSzczegółowy podział planowanych wydatków budżetowych, o których mowa w ust. 1, jest\nokreślony w załączniku nr 1 do rozporządzenia.\n§ 3.\n1.\nW ramach przeniesienia, o którym mowa w § 2 ust. 1, przenosi się także kwoty wynagrodzeń\nz części 34 - Rozwój regionalny do części 39 - Transport, w kwocie 723 tys. zł.\n2.\nSzczegółowy podział przenoszonych kwot wynagrodzeń, o których mowa w ust. 1, jest\nokreślony w załączniku nr 2 do rozporządzenia.\n§ 4.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od\ndnia 1 lipca 2024 r.\nZałącznik nr 1\n-\nSzczegółowy podział planowanych wydatków budżetowych określonych w ustawie budżetowej\nna rok 2024, przenoszonych z części 34 - rozwój regionalny do części 39 - transport\nCzęść\nDział\nRozdział\nParagraf\nWyszczególnienie\nKwota w tys. zł\nzmniejszenie\nzwiększenie\n1\n2\n3\n4\n5\n6\n7\n34\nRozwój regionalny\n1 302\n750\nAdministracja publiczna\n1 302\n75001\nUrzędy naczelnych i centralnych organów administracji rządowej\n1 302\n4000\nGrupa wydatków bieżących jednostki\n95\n4010\nWynagrodzenia osobowe pracowników\n310\n4020\nWynagrodzenia osobowe członków korpusu służby cywilnej\n413\n4110\nSkładki na ubezpieczenia społeczne\n211\n4120\nSkładki na Fundusz Pracy oraz Fundusz Solidarnościowy\n56\n4170\nWynagrodzenia bezosobowe\n100\n4410\nPodróże służbowe krajowe\n33\n4420\nPodróże służbowe zagraniczne\n70\n4710\nWpłaty na PPK finansowane przez podmiot zatrudniający\n14\n39\nTransport\n1 302\n750\nAdministracja publiczna\n1 302\n75001\nUrzędy naczelnych i centralnych organów administracji rządowej\n1 302\n4000\nGrupa wydatków bieżących jednostki\n95\n4010\nWynagrodzenia osobowe pracowników\n310\n4020\nWynagrodzenia osobowe członków korpusu służby cywilnej\n413\n4110\nSkładki na ubezpieczenia społeczne\n211\n4120\nSkładki na Fundusz Pracy oraz Fundusz Solidarnościowy\n56\n4170\nWynagrodzenia bezosobowe\n100\n4410\nPodróże służbowe krajowe\n33\n4420\nPodróże służbowe zagraniczne\n70\n4710\nWpłaty na PPK finansowane przez podmiot zatrudniający\n14\nZałącznik nr 2\n-\nSzczegółowy podział kwot wynagrodzeń określonych w ustawie budżetowej na rok 2024,\nprzenoszonych z części 34 - rozwój regionalny do części 39 - transport\nCzęść\nDział\nRozdział\nParagraf\nWyszczególnienie\nKwota w tys. zł\nzmniejszenie\nzwiększenie\n1\n2\n3\n4\n5\n6\n7\n34\nRozwój regionalny\n723\n750\nAdministracja publiczna\n723\n75001\nUrzędy naczelnych i centralnych organów administracji rządowej\n723\n4010\nWynagrodzenia osobowe pracowników\n310\n4020\nWynagrodzenia osobowe członków korpusu służby cywilnej\n413\n39\nTransport\n723\n750\nAdministracja publiczna\n723\n75001\nUrzędy naczelnych i centralnych organów administracji rządowej\n723\n4010\nWynagrodzenia osobowe pracowników\n310\n4020\nWynagrodzenia osobowe członków korpusu służby cywilnej\n413"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 615,
+            "end": 619,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 620,
+            "end": 622,
+            "text": "67",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 733,
+            "end": 744,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 745,
+            "end": 748,
+            "text": "834",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 778,
+            "end": 779,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 780,
+            "end": 781,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 976,
+            "end": 977,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 978,
+            "end": 979,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1298,
+            "end": 1302,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1303,
+            "end": 1304,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1358,
+            "end": 1359,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1360,
+            "end": 1361,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1406,
+            "end": 1407,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1408,
+            "end": 1409,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1410,
+            "end": 1414,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1415,
+            "end": 1416,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1607,
+            "end": 1611,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1612,
+            "end": 1613,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1667,
+            "end": 1668,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1669,
+            "end": 1670,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

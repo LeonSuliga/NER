@@ -1,0 +1,610 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 25 września 2024 r. o zmianie ustawy o działalności lobbingowej w procesie stanowienia prawa\nTreść ustawy\nArt. 1.\nW ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa\n(Dz. U. z 2017 r. poz. 248) wprowadza się następujące zmiany:\n1)\npo art. 7 dodaje się oznaczenie i tytuł rozdziału w brzmieniu:\n„Rozdział 2a\nWysłuchanie publiczne oraz konsultacje społeczne”;\n2)\npo art. 9 dodaje się art. 9a-9d w brzmieniu:\n„Art. 9a.\n1.\nPo wniesieniu projektu ustawy do Sejmu mogą zostać przeprowadzone, na zasadach określonych\nw regulaminie Sejmu, konsultacje społeczne tego projektu.\n2.\nKonsultacje społeczne polegają na zgłoszeniu uwag do projektu ustawy.\n3.\nUwagi mogą być zgłoszone przez osobę fizyczną we własnym imieniu albo na rzecz osoby\nprawnej lub podmiotu innego niż osoba prawna.\nArt. 9b.\nZgłoszenia uwag dokonuje się z wykorzystaniem usługi elektronicznej udostępnionej\nprzez ministra właściwego do spraw informatyzacji na podstawie porozumienia, o którym\nmowa w art. 19c ust. 1 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności\npodmiotów realizujących zadania publiczne\n(Dz. U. z 2024 r. poz. 307 i 1222), po uwierzytelnieniu osoby zgłaszającej uwagi w sposób określony w art. 20a ust.\n1 tej ustawy.\nArt. 9c.\n1.\nW celu zapewnienia jawności procesu stanowienia prawa, w tym konsultacji społecznych,\nzgłoszone uwagi udostępnia się w trybie określonym w regulaminie Sejmu, z tym że dane\nobejmujące:\n1)\nimię (imiona) oraz nazwisko osoby zgłaszającej uwagi,\n2)\nimię (imiona) oraz nazwisko albo nazwę i siedzibę - w przypadku zgłoszenia uwag na\nrzecz innego podmiotu\n- udostępnia się do zakończenia kadencji Sejmu, w której odbywają się prace nad projektem\nustawy.\n2.\nNie udostępnia się uwag, które zawierają treści niezgodne z prawem, w szczególności\ntreści naruszające dobra osobiste, tajemnice prawnie chronione lub przepisy karne.\nArt. 9d.\nKancelaria Sejmu, w celu przeprowadzenia konsultacji społecznych oraz do celów statystycznych,\nprzetwarza dane obejmujące:\n1)\nimię (imiona), nazwisko oraz numer PESEL osoby zgłaszającej uwagi;\n2)\nimię (imiona) i nazwisko albo nazwę i siedzibę podmiotu, na rzecz którego są zgłaszane\nuwagi.”;\n3)\nw art. 13 w zdaniu pierwszym skreśla się wyrazy „lub art. 9 ust. 1 pkt 5 ustawy z dnia 28 października 2002 r. o odpowiedzialności\npodmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2016 r. poz. 1541),”.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 120,
+            "end": 124,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 125,
+            "end": 126,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 218,
+            "end": 239,
+            "text": "Dz. U. z 2017 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 240,
+            "end": 243,
+            "text": "248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 285,
+            "end": 289,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 290,
+            "end": 291,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 415,
+            "end": 419,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 420,
+            "end": 421,
+            "text": "9",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 433,
+            "end": 437,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 438,
+            "end": 440,
+            "text": "9a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 441,
+            "end": 443,
+            "text": "9d",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 458,
+            "end": 462,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 463,
+            "end": 465,
+            "text": "9a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 826,
+            "end": 830,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 831,
+            "end": 833,
+            "text": "9b",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1010,
+            "end": 1014,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1015,
+            "end": 1018,
+            "text": "19c",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1019,
+            "end": 1023,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1024,
+            "end": 1025,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1026,
+            "end": 1029,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1030,
+            "end": 1031,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1137,
+            "end": 1158,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1159,
+            "end": 1162,
+            "text": "307",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1165,
+            "end": 1169,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1238,
+            "end": 1242,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1243,
+            "end": 1246,
+            "text": "20a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1247,
+            "end": 1251,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1252,
+            "end": 1253,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1266,
+            "end": 1270,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1271,
+            "end": 1273,
+            "text": "9c",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1895,
+            "end": 1899,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1900,
+            "end": 1902,
+            "text": "9d",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2201,
+            "end": 2205,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2206,
+            "end": 2208,
+            "text": "13",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2211,
+            "end": 2217,
+            "text": "zdaniu",
+            "labels": [
+              "ZDA_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2218,
+            "end": 2227,
+            "text": "pierwszym",
+            "labels": [
+              "ZDA_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2252,
+            "end": 2256,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2257,
+            "end": 2258,
+            "text": "9",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2259,
+            "end": 2263,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2264,
+            "end": 2265,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2266,
+            "end": 2269,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2270,
+            "end": 2271,
+            "text": "5",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2388,
+            "end": 2409,
+            "text": "Dz. U. z 2016 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2410,
+            "end": 2414,
+            "text": "1541",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2419,
+            "end": 2423,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2424,
+            "end": 2425,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

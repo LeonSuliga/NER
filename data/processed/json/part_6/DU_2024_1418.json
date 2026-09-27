@@ -1,0 +1,441 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Finansów z dnia 12 września 2024 r. w sprawie informacji o dokonaniu wypłaty albo zwrotu środków zgromadzonych na subkoncie\nOIPE 1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie\n§ 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w\nsprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).\nSpis treści\nTreść rozporządzenia\nZałącznik - OIPE-1: Informacja o dokonaniu wypłaty albo zwrotu środków zgromadzonych na subkoncie\nOIPE (wzór)\nTreść rozporządzenia\nNa podstawie art. 15 ust. 6 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie\nemerytalnym\n(Dz. U. poz. 1843) zarządza się, co następuje:\n§ 1.\nRozporządzenie określa szczegółowy zakres informacji o dokonaniu wypłaty albo zwrotu\nśrodków zgromadzonych na subkoncie OIPE, zwanej dalej „informacją”, jej wzór, a także\nsposób jej sporządzania oraz przekazania.\n§ 2.\n1.\nInformacja jest sporządzana:\n1)\nw postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym, podpisem\nzaufanym albo podpisem osobistym;\n2)\nw postaci papierowej i opatrywana własnoręcznym podpisem w przypadku braku możliwości\nsporządzenia informacji zgodnie z pkt 1.\n2.\nInformacja jest przekazywana przesyłką listową w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe\n(Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222), z tym że w przypadku, o którym mowa w ust. 1 pkt 1, przekazuje się ją w formie wydruku\nodzwierciedlającego treść informacji, który zawiera dodatkowo:\n1)\ninformację, że została utrwalona w postaci elektronicznej i podpisana kwalifikowanym\npodpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, ze wskazaniem\nimienia i nazwiska oraz stanowiska służbowego osoby, która podpisała informację;\n2)\nidentyfikator informacji, nadawany przez system teleinformatyczny, o ile informacja\nzostała sporządzona w takim systemie.\n§ 3.\nWzór informacji, w tym jej szczegółowy zakres, określa załącznik do rozporządzenia.\n§ 4.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.\nZałącznik\n-\nOIPE-1: Informacja o dokonaniu wypłaty albo zwrotu środków zgromadzonych na subkoncie\nOIPE (wzór)\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 247,
+            "end": 248,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 249,
+            "end": 250,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 251,
+            "end": 255,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 256,
+            "end": 257,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 258,
+            "end": 261,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 262,
+            "end": 263,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 389,
+            "end": 400,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 401,
+            "end": 405,
+            "text": "2710",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 585,
+            "end": 589,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 590,
+            "end": 592,
+            "text": "15",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 593,
+            "end": 597,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 598,
+            "end": 599,
+            "text": "6",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 687,
+            "end": 698,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 699,
+            "end": 703,
+            "text": "1843",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 733,
+            "end": 734,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 735,
+            "end": 736,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 951,
+            "end": 952,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 953,
+            "end": 954,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1235,
+            "end": 1238,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1239,
+            "end": 1240,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1358,
+            "end": 1379,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1380,
+            "end": 1384,
+            "text": "1640",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1390,
+            "end": 1404,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1405,
+            "end": 1408,
+            "text": "467",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1411,
+            "end": 1415,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1456,
+            "end": 1460,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1461,
+            "end": 1462,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1463,
+            "end": 1466,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1467,
+            "end": 1468,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1944,
+            "end": 1945,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1946,
+            "end": 1947,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2033,
+            "end": 2034,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2035,
+            "end": 2036,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

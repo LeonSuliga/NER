@@ -1,0 +1,1065 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Infrastruktury z dnia 29 lipca 2024 r. zmieniające rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej\nosób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających\nświadectwo kwalifikacji członka personelu lotniczego 1) Minister Infrastruktury kieruje działem administracji rządowej - transport, na podstawie\n§ 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w\nsprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).\nTreść rozporządzenia\nNa podstawie art. 95 ust. 5 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze\n(Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca\n2013 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających\nsię o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo\nkwalifikacji członka personelu lotniczego\n(Dz. U. z 2017 r. poz. 521) w § 1 ust. 2 otrzymuje brzmienie:\n„2.\nWymagania zdrowotne na świadectwo kwalifikacji dla specjalności, o których mowa w\nart. 95 ust. 2 pkt 1-4 i 5a-7 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze, oraz dla specjalności, w stosunku do których został wprowadzony wymóg posiadania\nświadectwa kwalifikacji na podstawie art. 94 ust. 8 tej ustawy, uważa się za spełnione\nw przypadku, gdy osoba ubiegająca się o świadectwo kwalifikacji członka personelu\nlotniczego lub posiadająca świadectwo kwalifikacji członka personelu lotniczego spełnia\nwymagania w zakresie sprawności psychicznej i fizycznej dla orzeczeń lekarskich dla\nklasy 1 lub 2 lub dla orzeczeń lekarskich na potrzeby licencji pilota lekkich statków\npowietrznych (LAPL), określone w Podczęści B Sekcja 2 i 3 załącznika IV do rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada\n2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące\nsię do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego\ni Rady (WE) nr 216/2008\n(Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.) 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012,\nstr. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str.\n33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1,\nDz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31,\nDz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz.\nUrz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz.\nUE L 268 z 22.10.2019, str. 23, Dz. Urz. UE L 67 z 05.03.2020, str. 82, Dz. Urz. UE\nL 170 z 02.06.2020, str. 1, Dz. Urz. UE L 296 z 10.09.2020, str. 10, Dz. Urz. UE L\n434 z 23.12.2020, str. 13, Dz. Urz. UE L 284 z 09.08.2021, str. 15, Dz. Urz. UE L\n448 z 15.12.2021, str. 39, Dz. Urz. UE L 148 z 31.05.2022, str. 24, Dz. Urz. UE L\n31 z 02.02.2023, str. 1, Dz. Urz. UE L 2024/1111 z 23.05.2024 oraz Dz. Urz. UE L 2024/2076\nz 25.07.2024., potwierdzone orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu\nlotniczego.”.\n§ 2.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 394,
+            "end": 395,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 396,
+            "end": 397,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 398,
+            "end": 402,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 403,
+            "end": 404,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 405,
+            "end": 408,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 409,
+            "end": 410,
+            "text": "3",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 542,
+            "end": 553,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 554,
+            "end": 558,
+            "text": "2725",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 595,
+            "end": 599,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 600,
+            "end": 602,
+            "text": "95",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 603,
+            "end": 607,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 608,
+            "end": 609,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 658,
+            "end": 679,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 680,
+            "end": 684,
+            "text": "2110",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 690,
+            "end": 704,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 705,
+            "end": 708,
+            "text": "731",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 738,
+            "end": 739,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 740,
+            "end": 741,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1052,
+            "end": 1073,
+            "text": "Dz. U. z 2017 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1074,
+            "end": 1077,
+            "text": "521",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1081,
+            "end": 1082,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1083,
+            "end": 1084,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1085,
+            "end": 1089,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1090,
+            "end": 1091,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1199,
+            "end": 1203,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1204,
+            "end": 1206,
+            "text": "95",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1207,
+            "end": 1211,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1212,
+            "end": 1213,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1214,
+            "end": 1217,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1218,
+            "end": 1219,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1220,
+            "end": 1221,
+            "text": "4",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1224,
+            "end": 1226,
+            "text": "5a",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1227,
+            "end": 1228,
+            "text": "7",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1395,
+            "end": 1399,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1400,
+            "end": 1402,
+            "text": "94",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1403,
+            "end": 1407,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1408,
+            "end": 1409,
+            "text": "8",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2114,
+            "end": 2150,
+            "text": "Dz. Urz. UE L 311 z 25.11.2011, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2151,
+            "end": 2152,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2225,
+            "end": 2261,
+            "text": "Dz. Urz. UE L 100 z 05.04.2012,\nstr.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2262,
+            "end": 2263,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2265,
+            "end": 2300,
+            "text": "Dz. Urz. UE L 23 z 28.01.2014, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2301,
+            "end": 2303,
+            "text": "25",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2305,
+            "end": 2340,
+            "text": "Dz. Urz. UE L 74 z 14.03.2014, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2341,
+            "end": 2343,
+            "text": "33",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2345,
+            "end": 2380,
+            "text": "Dz. Urz. UE L 74 z 18.03.2015, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2381,
+            "end": 2382,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2384,
+            "end": 2419,
+            "text": "Dz. Urz. UE L 91 z 07.04.2016, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2420,
+            "end": 2421,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2423,
+            "end": 2459,
+            "text": "Dz. Urz. UE L 149 z 13.06.2017, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2460,
+            "end": 2462,
+            "text": "98",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2464,
+            "end": 2500,
+            "text": "Dz. Urz. UE L 192 z 30.07.2018, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2501,
+            "end": 2503,
+            "text": "31",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2505,
+            "end": 2541,
+            "text": "Dz. Urz. UE L 204 z 13.08.2018, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2542,
+            "end": 2544,
+            "text": "13",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2546,
+            "end": 2582,
+            "text": "Dz. Urz. UE L 326 z 20.12.2018, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2583,
+            "end": 2584,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2586,
+            "end": 2620,
+            "text": "Dz.\nUrz. UE L 8 z 10.01.2019, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2621,
+            "end": 2622,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2624,
+            "end": 2659,
+            "text": "Dz. Urz. UE L 75 z 19.03.2019, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2660,
+            "end": 2662,
+            "text": "66",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2664,
+            "end": 2700,
+            "text": "Dz. Urz.\nUE L 268 z 22.10.2019, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2701,
+            "end": 2703,
+            "text": "23",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2705,
+            "end": 2740,
+            "text": "Dz. Urz. UE L 67 z 05.03.2020, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2741,
+            "end": 2743,
+            "text": "82",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2745,
+            "end": 2781,
+            "text": "Dz. Urz. UE\nL 170 z 02.06.2020, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2782,
+            "end": 2783,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2785,
+            "end": 2821,
+            "text": "Dz. Urz. UE L 296 z 10.09.2020, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2822,
+            "end": 2824,
+            "text": "10",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2826,
+            "end": 2862,
+            "text": "Dz. Urz. UE L\n434 z 23.12.2020, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2863,
+            "end": 2865,
+            "text": "13",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2867,
+            "end": 2903,
+            "text": "Dz. Urz. UE L 284 z 09.08.2021, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2904,
+            "end": 2906,
+            "text": "15",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2908,
+            "end": 2944,
+            "text": "Dz. Urz. UE L\n448 z 15.12.2021, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2945,
+            "end": 2947,
+            "text": "39",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2949,
+            "end": 2985,
+            "text": "Dz. Urz. UE L 148 z 31.05.2022, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2986,
+            "end": 2988,
+            "text": "24",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2990,
+            "end": 3025,
+            "text": "Dz. Urz. UE L\n31 z 02.02.2023, str.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3026,
+            "end": 3027,
+            "text": "1",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3213,
+            "end": 3214,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3215,
+            "end": 3216,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

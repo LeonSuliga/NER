@@ -1,0 +1,220 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 5 sierpnia 2024 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej części miasta Pińczów - Osiedlu\nZdrojowemu, części sołectwa Włochy - Osiedlu Górki-Włochy i sołectwom: Pasturka, Bogucice\nDrugie oraz Grochowiska, położonym na obszarze gminy Pińczów\nTreść rozporządzenia\nNa podstawie art. 42 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach\ni obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych\n(Dz. U. z 2023 r. poz. 151, 1688 i 1692) zarządza się, co następuje:\n§ 1.\n1.\nCzęści miasta Pińczów - Osiedlu Zdrojowemu, części sołectwa Włochy - Osiedlu Górki-Włochy\ni sołectwom: Pasturka, Bogucice Drugie oraz Grochowiska, położonym na obszarze gminy\nPińczów, w powiecie pińczowskim, w województwie świętokrzyskim, nadaje się status\nobszaru ochrony uzdrowiskowej.\n2.\nObszar ochrony uzdrowiskowej, o którym mowa w ust. 1, otrzymuje nazwę „Obszar Ochrony\nUzdrowiskowej Pińczów”.\n§ 2.\nGranice „Obszaru Ochrony Uzdrowiskowej Pińczów” obejmują część miasta Pińczów - Osiedle\nZdrojowe, część sołectwa Włochy - Osiedle Górki-Włochy i sołectwa: Pasturka, Bogucice\nDrugie oraz Grochowiska.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 329,
+            "end": 333,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 334,
+            "end": 336,
+            "text": "42",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 337,
+            "end": 341,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 342,
+            "end": 343,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 482,
+            "end": 503,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 504,
+            "end": 507,
+            "text": "151",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 509,
+            "end": 513,
+            "text": "1688",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 516,
+            "end": 520,
+            "text": "1692",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 550,
+            "end": 551,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 552,
+            "end": 553,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 895,
+            "end": 899,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 900,
+            "end": 901,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 959,
+            "end": 960,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 961,
+            "end": 962,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1163,
+            "end": 1164,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1165,
+            "end": 1166,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

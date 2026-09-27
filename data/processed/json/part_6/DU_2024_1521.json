@@ -1,0 +1,311 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 października 2024 r. w sprawie stawek przejściowego wsparcia krajowego za 2024 r. 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi,\nna podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi\n(Dz. U. poz. 2706).\nTreść rozporządzenia\nNa podstawie art. 49 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej\nPolityki Rolnej na lata 2023-2027\n(Dz. U. z 2024 r. poz. 261 i 885) zarządza się, co następuje:\n§ 1.\nStawka przejściowego wsparcia krajowego wymienionego w art. 20 pkt 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki\nRolnej na lata 2023-2027 za 2024 r. wynosi w przypadku:\n1)\nuzupełniającej płatności podstawowej - 63,22 zł na hektar powierzchni obszaru zatwierdzonego\ndo tej płatności;\n2)\npłatności niezwiązanej do tytoniu - 2,52 zł na kilogram tytoniu jasnego z grupy odmian\nVirginia oraz na kilogram tytoniu jasnego odmian typu Burley, tytoniu ciemnego suszonego\npowietrzem oraz tytoniu ciemnego suszonego powietrzem z możliwością dosuszenia i wędzenia.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 16 października 2024 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 242,
+            "end": 243,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 244,
+            "end": 245,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 246,
+            "end": 250,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 251,
+            "end": 252,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 253,
+            "end": 256,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 257,
+            "end": 258,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 399,
+            "end": 410,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 411,
+            "end": 415,
+            "text": "2706",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 452,
+            "end": 456,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 457,
+            "end": 459,
+            "text": "49",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 460,
+            "end": 464,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 465,
+            "end": 466,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 569,
+            "end": 590,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 591,
+            "end": 594,
+            "text": "261",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 597,
+            "end": 600,
+            "text": "885",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 630,
+            "end": 631,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 632,
+            "end": 633,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 690,
+            "end": 694,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 695,
+            "end": 697,
+            "text": "20",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 698,
+            "end": 701,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 702,
+            "end": 703,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1220,
+            "end": 1221,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1222,
+            "end": 1223,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

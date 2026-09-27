@@ -1,0 +1,194 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Obrony Narodowej z dnia 11 października 2024 r. w sprawie niezbędnych świadczeń rzeczowych w 2025 r. na rzecz obrony\nTreść rozporządzenia\nNa podstawie art. 628 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny\n(Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje:\n§ 1.\nNiezbędne świadczenia rzeczowe wykonywane w 2025 r. na rzecz obrony wynoszą nie więcej\nniż:\n1)\n400 nieruchomości (budynków lub ich części) - na potrzeby organów administracji rządowej\ni organów samorządu terytorialnego wykonujących zadania związane z prowadzeniem kwalifikacji\nwojskowej;\n2)\n50 pojazdów samochodowych oraz 10 przyczep (naczep) i 5 maszyn wraz z niezbędnym wyposażeniem\n- na potrzeby jednostek organizacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej wykonujących\nzadania związane z przeprowadzaniem ćwiczeń wojskowych, w tym organizowanych w trybie\nnatychmiastowego stawiennictwa żołnierzy rezerwy i związanych ze sprawdzaniem gotowości\nmobilizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 175,
+            "end": 179,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 180,
+            "end": 183,
+            "text": "628",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 184,
+            "end": 188,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 189,
+            "end": 190,
+            "text": "6",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 242,
+            "end": 263,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 264,
+            "end": 267,
+            "text": "248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 269,
+            "end": 272,
+            "text": "834",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 274,
+            "end": 278,
+            "text": "1089",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 280,
+            "end": 284,
+            "text": "1222",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 287,
+            "end": 291,
+            "text": "1248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 321,
+            "end": 322,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 323,
+            "end": 324,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1034,
+            "end": 1035,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1036,
+            "end": 1037,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

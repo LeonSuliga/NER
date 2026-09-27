@@ -584,8 +584,8 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    input_dir = Path("data/processed/txt/part_5")
-    output_dir = Path("data/processed/json/part_5")
+    input_dir = Path("data/processed/txt/part_6")
+    output_dir = Path("data/processed/json/part_6")
 
     output_dir.mkdir(
         parents=True,
