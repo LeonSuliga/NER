@@ -1,0 +1,311 @@
+{
+  "data": {
+    "text": "Rozporządzenie Prezesa Rady Ministrów z dnia 21 października 2024 r. w sprawie szczegółowego zakresu działania Ministra do spraw Społeczeństwa Obywatelskiego\nTreść rozporządzenia\nNa podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów\n(Dz. U. z 2024 r. poz. 1050 i 1473) zarządza się, co następuje:\n§ 1.\nMinister do spraw Społeczeństwa Obywatelskiego, zwany dalej „ministrem”, wykonuje\nzadania wyznaczone przez Prezesa Rady Ministrów.\n§ 2.\nDo zakresu działania ministra należy:\n1)\nprzeprowadzanie analiz i ocena skuteczności rozwiązań prawnych w zakresie społeczeństwa\nobywatelskiego;\n2)\nopracowywanie kierunków działań na rzecz zrównoważonego rozwoju społeczeństwa obywatelskiego;\n3)\nwspieranie inicjatyw obywatelskich;\n4)\nmonitorowanie i upowszechnianie dobrych praktyk w zakresie społeczeństwa obywatelskiego;\n5)\nopracowywanie i opiniowanie projektów aktów prawnych oraz innych dokumentów rządowych\ndotyczących społeczeństwa obywatelskiego;\n6)\nwykonywanie innych zadań zleconych przez Radę Ministrów lub Prezesa Rady Ministrów.\n§ 3.\n1.\nMinister, w zakresie realizacji zadań określonych w § 2, może z upoważnienia Prezesa\nRady Ministrów żądać informacji, dokumentów i sprawozdań okresowych lub dotyczących\nposzczególnej sprawy albo rodzaju spraw od organów administracji rządowej.\n2.\nMinister, w zakresie realizacji zadań określonych w § 2, działa w porozumieniu, w\nszczególności z właściwymi ministrami, kierownikami urzędów centralnych, wojewodami\ni innymi organami administracji rządowej, organami jednostek samorządu terytorialnego\ni organami jednostek pomocniczych tego samorządu oraz organizacjami pozarządowymi.\n§ 4.\nW zakresie niezbędnym do realizacji jego zadań minister może:\n1)\npowoływać zespoły do opracowania określonych zagadnień;\n2)\nzlecać sporządzanie ekspertyz oraz innych opracowań.\n§ 5.\nObsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.\n§ 6.\nRozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 października\n2024 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 192,
+            "end": 196,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 197,
+            "end": 199,
+            "text": "33",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 200,
+            "end": 204,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 205,
+            "end": 206,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 260,
+            "end": 281,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 282,
+            "end": 286,
+            "text": "1050",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 289,
+            "end": 293,
+            "text": "1473",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 323,
+            "end": 324,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 325,
+            "end": 326,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 459,
+            "end": 460,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 461,
+            "end": 462,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1055,
+            "end": 1056,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1057,
+            "end": 1058,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1115,
+            "end": 1116,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1117,
+            "end": 1118,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1362,
+            "end": 1363,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1364,
+            "end": 1365,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1645,
+            "end": 1646,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1647,
+            "end": 1648,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1827,
+            "end": 1828,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1829,
+            "end": 1830,
+            "text": "5",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1893,
+            "end": 1894,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1895,
+            "end": 1896,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy budżetowej na rok 2024\nSpis treści\nTreść ustawy\nZałącznik nr 1 - Dochody budżetu państwa w 2024 r.\nZałącznik nr 2 - Wydatki budżetu państwa na rok 2024 zestawienie zbiorcze według działów\nZałącznik nr 3 - Plan przychodów i rozchodów budżetu państwa\nZałącznik nr 4 - Wynagrodzenia w państwowych jednostkach budżetowych w 2024 r.\nZałącznik nr 5 - Wykaz jednostek, dla których zaplanowano dotacje podmiotowe i celowe, oraz kwoty tych\ndotacji w 2024 r.\nZałącznik nr 6 - Zakres i kwoty dotacji przedmiotowych i podmiotowych w 2024 r.\nZałącznik nr 7 - Plan finansowy fundusz Cyberbezpieczeństwa\nZałącznik nr 8 - Plan finansowy Fundusz Emerytalno-Rentowy\nZałącznik nr 9 - Plan finansowy Polska Organizacja Turystyczna\nTreść ustawy\nArt. 1.\nW ustawie budżetowej na rok 2024 z dnia 18 stycznia 2024 r.\n(Dz. U. poz. 122) wprowadza się następujące zmiany:\n1)\nw art. 1:\na)\nust. 1 otrzymuje brzmienie:\n„1.\nUstala się, zgodnie z załącznikiem nr 1, łączną kwotę podatkowych i niepodatkowych\ndochodów budżetu państwa w wysokości 626 075 747 tys. zł.”,\nb)\nust. 5 otrzymuje brzmienie:\n„5.\nDeficyt budżetu państwa ustala się na dzień 31 grudnia 2024 r. na kwotę nie większą\nniż 240 300 000 tys. zł.”;\n2)\nart. 3 otrzymuje brzmienie:\n„Art. 3.\n1.\nUstala się łączną kwotę planowanych przychodów budżetu państwa w wysokości 975 093\n367 tys. zł oraz łączną kwotę planowanych rozchodów budżetu państwa w wysokości 702\n284 958 tys. zł - z tytułów wymienionych w załączniku nr 5.\n2.\nPlanowane saldo przychodów i rozchodów budżetu państwa ustala się na kwotę 272 808\n409 tys. zł.”;\n3)\nw art. 8 w pkt 2 lit. c otrzymuje brzmienie:\n„c)\njednostek samorządu terytorialnego w ramach postępowania naprawczego lub ostrożnościowego\n- do kwoty 500 000 tys. zł,”;\n4)\nzałącznik nr 1 do ustawy „Dochody budżetu państwa w 2024 r.” otrzymuje brzmienie określone\nw załączniku nr 1 do niniejszej ustawy;\n5)\nzałącznik nr 2 do ustawy „Wydatki budżetu państwa na rok 2024” otrzymuje brzmienie\nokreślone w załączniku nr 2 do niniejszej ustawy;\n6)\nzałącznik nr 5 do ustawy „Plan przychodów i rozchodów budżetu państwa” otrzymuje brzmienie\nokreślone w załączniku nr 3 do niniejszej ustawy;\n7)\nzałącznik nr 6 do ustawy „Wynagrodzenia w państwowych jednostkach budżetowych w 2024 r.” otrzymuje brzmienie określone w załączniku\nnr 4 do niniejszej ustawy;\n8)\nzałącznik nr 8 do ustawy „Wykaz jednostek, dla których zaplanowano dotacje podmiotowe\ni celowe, oraz kwoty tych dotacji w 2024 r.” otrzymuje brzmienie określone w załączniku\nnr 5 do niniejszej ustawy;\n9)\nzałącznik nr 9 do ustawy „Zakres i kwoty dotacji przedmiotowych i podmiotowych w 2024 r.”\notrzymuje brzmienie określone w załączniku nr 6 do niniejszej ustawy;\n10)\nw załączniku nr 13 do ustawy „Plany finansowe państwowych funduszy celowych”:\na)\nplan finansowy Funduszu Cyberbezpieczeństwa, ustalony w tabeli 9, otrzymuje brzmienie\nokreślone w załączniku nr 7 do niniejszej ustawy,\nb)\nplan finansowy Funduszu Emerytalno-Rentowego, ustalony w tabeli 24, otrzymuje brzmienie\nokreślone w załączniku nr 8 do niniejszej ustawy;\n11)\nw załączniku nr 14 do ustawy „Plany finansowe państwowych osób prawnych, o których\nmowa w art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych” plan finansowy Polskiej Organizacji Turystycznej, ustalony w tabeli 14, otrzymuje\nbrzmienie określone w załączniku nr 9 do niniejszej ustawy.\nArt. 2.\nUstawa wchodzi w życie z dniem następującym po dniu ogłoszenia.\nZałącznik nr 1\n-\nDochody budżetu państwa w 2024 r.\npatrz oryginał\nZałącznik nr 2\n-\nWydatki budżetu państwa na rok 2024 zestawienie zbiorcze według działów\npatrz oryginał\nZałącznik nr 3\n-\nPlan przychodów i rozchodów budżetu państwa\npatrz oryginał\nZałącznik nr 4\n-\nWynagrodzenia w państwowych jednostkach budżetowych w 2024 r.\npatrz oryginał\nZałącznik nr 5\n-\nWykaz jednostek, dla których zaplanowano dotacje podmiotowe i celowe, oraz kwoty tych\ndotacji w 2024 r.\npatrz oryginał\nZałącznik nr 6\n-\nZakres i kwoty dotacji przedmiotowych i podmiotowych w 2024 r.\npatrz oryginał\nZałącznik nr 7\n-\nPlan finansowy fundusz Cyberbezpieczeństwa\npatrz oryginał\nZałącznik nr 8\n-\nPlan finansowy Fundusz Emerytalno-Rentowy\npatrz oryginał\nZałącznik nr 9\n-\nPlan finansowy Polska Organizacja Turystyczna\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 775,
+            "end": 779,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 780,
+            "end": 781,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 844,
+            "end": 855,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 856,
+            "end": 859,
+            "text": "122",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 900,
+            "end": 904,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 905,
+            "end": 906,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 911,
+            "end": 915,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 916,
+            "end": 917,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1089,
+            "end": 1093,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1094,
+            "end": 1095,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1235,
+            "end": 1239,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1240,
+            "end": 1241,
+            "text": "3",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1264,
+            "end": 1268,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1269,
+            "end": 1270,
+            "text": "3",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1608,
+            "end": 1612,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1613,
+            "end": 1614,
+            "text": "8",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1617,
+            "end": 1620,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1621,
+            "end": 1622,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1623,
+            "end": 1627,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1628,
+            "end": 1629,
+            "text": "c",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3174,
+            "end": 3178,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3179,
+            "end": 3180,
+            "text": "9",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3181,
+            "end": 3184,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3185,
+            "end": 3187,
+            "text": "14",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3389,
+            "end": 3393,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3394,
+            "end": 3395,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 28 czerwca 2024 r. o ratyfikacji Umowy o partnerstwie między Unią Europejską i jej państwami członkowskimi,\nz jednej strony, a członkami Organizacji Państw Afryki, Karaibów i Pacyfiku, z drugiej\nstrony, sporządzonej w Apii dnia 15 listopada 2023 r.\nTreść ustawy\nArt. 1.\nWyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji\nUmowy o partnerstwie między Unią Europejską i jej państwami członkowskimi, z jednej\nstrony, a członkami Organizacji Państw Afryki, Karaibów i Pacyfiku, z drugiej strony,\nsporządzonej w Apii dnia 15 listopada 2023 r.\nArt. 2.\nUstawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 276,
+            "end": 280,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 281,
+            "end": 282,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 585,
+            "end": 589,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 590,
+            "end": 591,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

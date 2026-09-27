@@ -159,8 +159,8 @@ def process_directory(input_dir, output_dir):
 
 if __name__ == "__main__":
 
-    INPUT_DIR = "data/raw/HTML/part_4"
-    OUTPUT_DIR = "data/processed/txt/part_4"
+    INPUT_DIR = "data/raw/HTML/part_5"
+    OUTPUT_DIR = "data/processed/txt/part_5"
 
     process_directory(
         INPUT_DIR,

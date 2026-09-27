@@ -1,0 +1,493 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Finansów z dnia 18 grudnia 2024 r. w sprawie wykazu krajów i terytoriów stosujących szkodliwą konkurencję podatkową w\nzakresie podatku dochodowego od osób fizycznych 1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie\n§ 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w\nsprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).\nTreść rozporządzenia\nNa podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych\n(Dz. U. z 2024 r. poz. 226, z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r.\npoz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.) zarządza się, co następuje:\n§ 1.\nSzkodliwa konkurencja podatkowa jest stosowana w następujących krajach i na następujących\nterytoriach:\n1)\nAnguilla - Terytorium Zamorskie Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii\nPółnocnej;\n2)\nAntigua i Barbuda;\n3)\nSint-Maarten, Curaçao - kraje wchodzące w skład Królestwa Niderlandów;\n4)\nKrólestwo Bahrajnu;\n5)\nBrytyjskie Wyspy Dziewicze - Terytorium Zamorskie Zjednoczonego Królestwa Wielkiej\nBrytanii i Irlandii Północnej;\n6)\nWyspy Cooka - Samorządne Terytorium Stowarzyszone z Nową Zelandią;\n7)\nWspólnota Dominiki;\n8)\nGrenada;\n9)\nSark - Terytorium Zależne Korony Brytyjskiej;\n10)\nHongkong - Specjalny Region Administracyjny Chińskiej Republiki Ludowej;\n11)\nRepublika Liberii;\n12)\nMakau - Specjalny Region Administracyjny Chińskiej Republiki Ludowej;\n13)\nRepublika Malediwów;\n14)\nRepublika Wysp Marshalla;\n15)\nRepublika Mauritiusu;\n16)\nKsięstwo Monako;\n17)\nRepublika Nauru;\n18)\nNiue - Samorządne Terytorium Stowarzyszone z Nową Zelandią;\n19)\nRepublika Panamy;\n20)\nNiezależne Państwo Samoa;\n21)\nRepublika Seszeli;\n22)\nSaint Lucia;\n23)\nKrólestwo Tonga;\n24)\nWyspy Dziewicze Stanów Zjednoczonych - Terytorium Nieinkorporowane Stanów Zjednoczonych;\n25)\nRepublika Vanuatu.\n§ 2.\nW przypadku gdy rok podatkowy zagranicznej jednostki kontrolowanej jest inny niż rok\nkalendarzowy i rozpoczął się przed dniem 1 stycznia 2025 r., a zakończy się po dniu\n31 grudnia 2024 r., do końca tego roku podatkowego stosuje się przepisy rozporządzenia\nuchylanego w § 3.\n§ 3.\nTraci moc rozporządzenie Ministra Finansów z dnia 28 marca 2019 r. w sprawie określenia krajów\ni terytoriów stosujących szkodliwą konkurencję podatkową w zakresie podatku dochodowego\nod osób fizycznych\n(Dz. U. poz. 599).\n§ 4.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 284,
+            "end": 285,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 286,
+            "end": 287,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 288,
+            "end": 292,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 293,
+            "end": 294,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 295,
+            "end": 298,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 299,
+            "end": 300,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 426,
+            "end": 437,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 438,
+            "end": 442,
+            "text": "2710",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 479,
+            "end": 483,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 484,
+            "end": 487,
+            "text": "23v",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 488,
+            "end": 492,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 493,
+            "end": 494,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 567,
+            "end": 588,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 589,
+            "end": 592,
+            "text": "226",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 674,
+            "end": 695,
+            "text": "Dz. U. z 2024 r.\npoz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 696,
+            "end": 699,
+            "text": "232",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 701,
+            "end": 704,
+            "text": "854",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 706,
+            "end": 709,
+            "text": "858",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 711,
+            "end": 714,
+            "text": "859",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 716,
+            "end": 719,
+            "text": "863",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 721,
+            "end": 725,
+            "text": "1572",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 727,
+            "end": 731,
+            "text": "1585",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 733,
+            "end": 737,
+            "text": "1593",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 739,
+            "end": 743,
+            "text": "1615",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 746,
+            "end": 750,
+            "text": "1635",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 781,
+            "end": 782,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 783,
+            "end": 784,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1968,
+            "end": 1969,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1970,
+            "end": 1971,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2242,
+            "end": 2243,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2244,
+            "end": 2245,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2247,
+            "end": 2248,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2249,
+            "end": 2250,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2455,
+            "end": 2466,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2467,
+            "end": 2470,
+            "text": "599",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2473,
+            "end": 2474,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2475,
+            "end": 2476,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

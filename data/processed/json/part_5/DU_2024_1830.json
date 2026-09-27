@@ -1,0 +1,194 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 2024 r. w sprawie wysokości opłaty wyrównawczej dla nadajnika i rejestratora stacjonarnego\nlub przenośnego służących do wykonywania dozoru elektronicznego\nTreść rozporządzenia\nNa podstawie art. 43s § 4 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy\n(Dz. U. z 2024 r. poz. 706) zarządza się, co następuje:\n§ 1.\nOpłatę wyrównawczą określa się w wysokości:\n1)\n1230 zł - dla nadajnika;\n2)\n9840 zł - dla nadajnika z funkcją lokalizacji GPS;\n3)\n6002,40 zł - dla rejestratora stacjonarnego;\n4)\n9840 zł - dla rejestratora przenośnego.\n§ 2.\nTraci moc rozporządzenie Ministra Sprawiedliwości z dnia 7 lutego 2019 r. w sprawie wysokości\nopłaty wyrównawczej dla nadajnika i rejestratora stacjonarnego lub przenośnego służących\ndo wykonywania dozoru elektronicznego\n(Dz. U. poz. 292).\n§ 3.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 247,
+            "end": 251,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 252,
+            "end": 255,
+            "text": "43s",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 256,
+            "end": 257,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 258,
+            "end": 259,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 319,
+            "end": 340,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 341,
+            "end": 344,
+            "text": "706",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 374,
+            "end": 375,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 376,
+            "end": 377,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 596,
+            "end": 597,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 598,
+            "end": 599,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 823,
+            "end": 834,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 835,
+            "end": 838,
+            "text": "292",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 841,
+            "end": 842,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 843,
+            "end": 844,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
