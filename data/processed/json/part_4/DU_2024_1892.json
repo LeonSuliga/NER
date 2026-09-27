@@ -1,0 +1,376 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 18 grudnia 2024 r. w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów\nkontroli\nSpis treści\nTreść rozporządzenia\nZałącznik - Wykaz podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli\nTreść rozporządzenia\nNa podstawie art. 4 ust. 2 ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji\n(Dz. U. z 2024 r. poz. 1459) zarządza się, co następuje:\n§ 1.\nUstala się:\n1)\nwykaz podmiotów podlegających ochronie, o którym mowa w art. 4 ust. 2 ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji;\n2)\norgan kontroli właściwy dla każdego z podmiotów ujętych w wykazie, o którym mowa w\npkt 1.\n§ 2.\nWykaz podmiotów, o którym mowa w § 1 pkt 1, wraz ze wskazaniem organów kontroli, o\nktórych mowa w § 1 pkt 2, stanowi załącznik do rozporządzenia.\n§ 3.\nRozporządzenie obowiązuje do dnia 31 grudnia 2027 r.\n§ 4.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.\nZałącznik\n-\nWykaz podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli\nLp.\nPodmiot podlegający ochronie\nOrgan kontroli\n1\nALPETROL Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000447884)\nminister właściwy do spraw aktywów państwowych\n2\n„Baltchem” S.A. Zakłady Chemiczne w Szczecinie z siedzibą w Szczecinie (numer KRS:\n0000131737)\nminister właściwy do spraw aktywów państwowych\n3\nCentrum Rozwojowo-Wdrożeniowe „Telesystem-Mesko” Sp. z o.o. z siedzibą w Lubiczowie\n(numer KRS: 0000096130)\nMinister Obrony Narodowej\n4\nCyfrowy Polsat S.A. z siedzibą w Warszawie (numer KRS: 0000010078)\nminister właściwy do spraw aktywów państwowych\n5\nEmitel S.A. z siedzibą w Warszawie (numer KRS: 0000716108)\nminister właściwy do spraw aktywów państwowych\n6\nGaspol S.A. z siedzibą w Warszawie (numer KRS: 0000021200)\nminister właściwy do spraw aktywów państwowych\n7\nGrupa Azoty S.A. z siedzibą w Tarnowie (numer KRS: 0000075450)\nminister właściwy do spraw aktywów państwowych\n8\nHAWE TELEKOM S.A. w restrukturyzacji z siedzibą w Warszawie (numer KRS: 0000981831)\nminister właściwy do spraw aktywów państwowych\n9\nKGHM Polska Miedź S.A. z siedzibą w Lubinie (numer KRS: 0000023302)\nminister właściwy do spraw aktywów państwowych\n10\n„Oktan Energy & V/L Service” Sp. z o.o. z siedzibą w Szczecinie (numer KRS: 0000081566)\nminister właściwy do spraw aktywów państwowych\n11\nOrange Polska S.A. z siedzibą w Warszawie (numer KRS: 0000010681)\nminister właściwy do spraw aktywów państwowych\n12\nORLEN S.A. z siedzibą w Płocku (numer KRS: 0000028860)\nminister właściwy do spraw aktywów państwowych\n13\nP4 Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000217207)\nminister właściwy do spraw aktywów państwowych\n14\nPolkomtel Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000419430)\nminister właściwy do spraw aktywów państwowych\n15\nRafineria Gdańska Sp. z o.o. z siedzibą w Gdańsku (numer KRS: 0000204527)\nminister właściwy do spraw aktywów państwowych\n16\nStoen Operator Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000270640)\nminister właściwy do spraw aktywów państwowych\n17\nTAURON Polska Energia S.A. z siedzibą w Katowicach (numer KRS: 0000271562)\nminister właściwy do spraw aktywów państwowych\n18\nTelewizja Polsat Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000388899)\nminister właściwy do spraw aktywów państwowych\n19\n„TK Telekom” Sp. z o.o. z siedzibą w Warszawie (numer KRS: 0000024788)\nminister właściwy do spraw aktywów państwowych\n20\nT-Mobile Polska S.A. z siedzibą w Warszawie (numer KRS: 0000391193)\nminister właściwy do spraw aktywów państwowych\n21\nTVN S.A. z siedzibą w Warszawie (numer KRS: 0000213007)\nminister właściwy do spraw aktywów państwowych\n22\nUnimot Terminale Sp. z o.o. z siedzibą w Czechowicach-Dziedzicach (numer KRS: 0001048476)\nminister właściwy do spraw aktywów państwowych\n23\nWB Electronics S.A. z siedzibą w Ożarowie Mazowieckim (numer KRS: 0000369722)\nMinister Obrony Narodowej"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 308,
+            "end": 312,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 313,
+            "end": 314,
+            "text": "4",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 315,
+            "end": 319,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 320,
+            "end": 321,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 387,
+            "end": 408,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 409,
+            "end": 413,
+            "text": "1459",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 443,
+            "end": 444,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 445,
+            "end": 446,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 519,
+            "end": 523,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 524,
+            "end": 525,
+            "text": "4",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 526,
+            "end": 530,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 531,
+            "end": 532,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 684,
+            "end": 687,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 688,
+            "end": 689,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 691,
+            "end": 692,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 693,
+            "end": 694,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 729,
+            "end": 730,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 731,
+            "end": 732,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 733,
+            "end": 736,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 737,
+            "end": 738,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 794,
+            "end": 795,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 796,
+            "end": 797,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 798,
+            "end": 801,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 802,
+            "end": 803,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 842,
+            "end": 843,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 844,
+            "end": 845,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 900,
+            "end": 901,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 902,
+            "end": 903,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

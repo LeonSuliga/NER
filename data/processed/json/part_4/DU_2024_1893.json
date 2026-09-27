@@ -1,0 +1,142 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 grudnia 2024 r. w sprawie utworzenia Wydziałów do spraw Wojskowych w Prokuraturze Okręgowej w Olsztynie\ni w Prokuraturze Okręgowej w Lublinie\nTreść rozporządzenia\nNa podstawie art. 35 § 2 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze\n(Dz. U. z 2024 r. poz. 390) zarządza się, co następuje:\n§ 1.\nTworzy się następujące komórki organizacyjne do spraw wojskowych w prokuraturach okręgowych\ni ustala się ich siedziby:\n1)\nWydział do spraw Wojskowych w Prokuraturze Okręgowej w Olsztynie z siedzibą w Olsztynie;\n2)\nWydział do spraw Wojskowych w Prokuraturze Okręgowej w Lublinie z siedzibą w Lublinie.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 226,
+            "end": 230,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 231,
+            "end": 233,
+            "text": "35",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 234,
+            "end": 235,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 236,
+            "end": 237,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 296,
+            "end": 317,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 318,
+            "end": 321,
+            "text": "390",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 351,
+            "end": 352,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 353,
+            "end": 354,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 657,
+            "end": 658,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 659,
+            "end": 660,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Obrony Narodowej z dnia 27 listopada 2024 r. zmieniające rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów\nSłużby Kontrwywiadu Wojskowego\nSpis treści\nTreść rozporządzenia\nZałącznik - Wzór legitymacji służbowej Służby Kontrwywiadu Wojskowego\nTreść rozporządzenia\nNa podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz\nSłużbie Wywiadu Wojskowego\n(Dz. U. z 2024 r. poz. 1405) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie legitymacji\nsłużbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego\n(Dz. U. z 2014 r. poz. 977, z 2015 r. poz. 2325, z 2018 r. poz. 2311 oraz z 2021 r. poz. 2370) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego\nrozporządzenia.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.\nZałącznik\n-\nWzór legitymacji służbowej Służby Kontrwywiadu Wojskowego\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 319,
+            "end": 323,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 324,
+            "end": 326,
+            "text": "48",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 327,
+            "end": 331,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 332,
+            "end": 333,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 433,
+            "end": 454,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 455,
+            "end": 459,
+            "text": "1405",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 489,
+            "end": 490,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 491,
+            "end": 492,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 651,
+            "end": 672,
+            "text": "Dz. U. z 2014 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 673,
+            "end": 676,
+            "text": "977",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 678,
+            "end": 692,
+            "text": "z 2015 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 693,
+            "end": 697,
+            "text": "2325",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 699,
+            "end": 713,
+            "text": "z 2018 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 714,
+            "end": 718,
+            "text": "2311",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 724,
+            "end": 738,
+            "text": "z 2021 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 739,
+            "end": 743,
+            "text": "2370",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 852,
+            "end": 853,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 854,
+            "end": 855,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

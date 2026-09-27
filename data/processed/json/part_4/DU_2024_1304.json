@@ -1,0 +1,402 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 sierpnia 2024 r. zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji\nRolnictwa 1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi,\nna podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi\n(Dz. U. poz. 2706).\nTreść rozporządzenia\nNa podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji\nRolnictwa\n(Dz. U. z 2023 r. poz. 1199) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie\nnadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa\n(Dz. U. z 2024 r. poz. 298) w załączniku do rozporządzenia:\n1)\nw § 3 ust. 1 otrzymuje brzmienie:\n„1.\nW skład Centrali Agencji wchodzą:\n1)\nBiuro Prasowe;\n2)\nBiuro Prezesa;\n3)\nDepartament Administracyjno-Gospodarczy;\n4)\nDepartament Analiz i Sprawozdawczości;\n5)\nDepartament Audytu Wewnętrznego;\n6)\nDepartament Baz Referencyjnych i Kontroli Terenowych;\n7)\nDepartament Bezpieczeństwa;\n8)\nDepartament Działań Delegowanych;\n9)\nDepartament Działań Inwestycyjnych;\n10)\nDepartament Działań Premiowych;\n11)\nDepartament Ewidencji Producentów i Rejestracji Zwierząt;\n12)\nDepartament Finansowy;\n13)\nDepartament Kontroli Wewnętrznej;\n14)\nDepartament Księgowości;\n15)\nDepartament Oceny Projektów Inwestycyjnych;\n16)\nDepartament Płatności Bezpośrednich;\n17)\nDepartament Pomocy Technicznej;\n18)\nDepartament Prawny;\n19)\nDepartament Rynków Rolnych;\n20)\nDepartament Wsparcia Krajowego;\n21)\nDepartament Wsparcia Rybactwa;\n22)\nDepartament Zamówień Publicznych;\n23)\nDepartament Zarządzania Informatyką;\n24)\nDepartament Zarządzania Należnościami;\n25)\nDepartament Zarządzania Zasobami Ludzkimi.”;\n2)\nw § 8 w pkt 6 lit. a otrzymuje brzmienie:\n„a)\nbocheńskiego - Proszówki,”.\n§ 2.\nRozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 280,
+            "end": 281,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 282,
+            "end": 283,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 284,
+            "end": 288,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 289,
+            "end": 290,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 291,
+            "end": 294,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 295,
+            "end": 296,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 437,
+            "end": 448,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 449,
+            "end": 453,
+            "text": "2706",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 490,
+            "end": 494,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 495,
+            "end": 496,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 497,
+            "end": 501,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 502,
+            "end": 503,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 586,
+            "end": 607,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 608,
+            "end": 612,
+            "text": "1199",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 642,
+            "end": 643,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 644,
+            "end": 645,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 800,
+            "end": 821,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 822,
+            "end": 825,
+            "text": "298",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 864,
+            "end": 865,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 866,
+            "end": 867,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 868,
+            "end": 872,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 873,
+            "end": 874,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1876,
+            "end": 1877,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1878,
+            "end": 1879,
+            "text": "8",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1882,
+            "end": 1885,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1886,
+            "end": 1887,
+            "text": "6",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1888,
+            "end": 1892,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1893,
+            "end": 1894,
+            "text": "a",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1948,
+            "end": 1949,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1950,
+            "end": 1951,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
