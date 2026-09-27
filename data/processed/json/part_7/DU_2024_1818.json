@@ -1,0 +1,792 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 5 grudnia 2024 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia, stosowania i\nudostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych\nz tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego\nTreść rozporządzenia\nNa podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej\n(Dz. U. z 2024 r. poz. 1799) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad\nprowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego\nkraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek\nsamorządu terytorialnego\n(Dz. U. poz. 1031, z późn. zm. 1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161,\nz 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz.\n2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r.\npoz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z\n2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916,\nz 2017 r. poz. 2248, z 2018 r. poz. 717, z 2019 r. poz. 339, z 2020 r. poz. 629 i\n2260, z 2021 r. poz. 2434, z 2022 r. poz. 2769 oraz z 2024 r. poz. 46.) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju”\nwprowadza się następujące zmiany:\n1)\nw części dotyczącej województwa lubelskiego powiatu puławskiego:\na)\nw części Gminy wyrazy „Końskowola 061405 2” zastępuje się wyrazami:\n„Końskowola 061405 3\nKońskowola - miasto 061405 4\nKońskowola - obszar wiejski 061405 5”,\nb)\nw części Gminy wyrazy „Kurów 061406 2” zastępuje się wyrazami:\n„Kurów 061406 3\nKurów - miasto 061406 4\nKurów - obszar wiejski 061406 5”,\nc)\nw części Gminy wyrazy „Wąwolnica 061410 2” zastępuje się wyrazami:\n„Wąwolnica 061410 3\nWąwolnica - miasto 061410 4\nWąwolnica - obszar wiejski 061410 5”;\n2)\nw części dotyczącej województwa małopolskiego powiatu limanowskiego w części Gminy\npo wyrazach „Słopnice 120711 2” dodaje się wyrazy „Szczawa 120713 2”;\n3)\nw części dotyczącej województwa mazowieckiego powiatu zwoleńskiego w części Gminy\nwyrazy „Kazanów 143601 2” zastępuje się wyrazami:\n„Kazanów 143601 3\nKazanów - miasto 143601 4\nKazanów - obszar wiejski 143601 5”;\n4)\nw części dotyczącej województwa podlaskiego powiatu białostockiego w części Gminy\npo wyrazach „Dobrzyniewo Duże 200203 2” dodaje się wyrazy „Grabówka 200216 2”;\n5)\nw części dotyczącej województwa pomorskiego powiatu słupskiego w części Gminy wyrazy\n„Kobylnica 221206 2” zastępuje się wyrazami:\n„Kobylnica 221206 3\nKobylnica - miasto 221206 4\nKobylnica - obszar wiejski 221206 5”;\n6)\nw części dotyczącej województwa świętokrzyskiego powiatu jędrzejowskiego w części\nGminy wyrazy „Sobków 260208 2” zastępuje się wyrazami:\n„Sobków 260208 3\nSobków - miasto 260208 4\nSobków - obszar wiejski 260208 5”;\n7)\nw części dotyczącej województwa wielkopolskiego powiatu średzkiego w części Gminy\nwyrazy „Zaniemyśl 302505 2” zastępuje się wyrazami:\n„Zaniemyśl 302505 3\nZaniemyśl - miasto 302505 4\nZaniemyśl - obszar wiejski 302505 5”.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 347,
+            "end": 351,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 352,
+            "end": 354,
+            "text": "49",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 413,
+            "end": 434,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 435,
+            "end": 439,
+            "text": "1799",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 469,
+            "end": 470,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 471,
+            "end": 472,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 764,
+            "end": 775,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 776,
+            "end": 780,
+            "text": "1031",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 852,
+            "end": 873,
+            "text": "Dz. U. z 2000 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 874,
+            "end": 877,
+            "text": "161",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 879,
+            "end": 893,
+            "text": "z 2001 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 894,
+            "end": 897,
+            "text": "100",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 900,
+            "end": 904,
+            "text": "1840",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 906,
+            "end": 920,
+            "text": "z 2002 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 921,
+            "end": 925,
+            "text": "1459",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 927,
+            "end": 941,
+            "text": "z 2003 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 942,
+            "end": 946,
+            "text": "2022",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 948,
+            "end": 962,
+            "text": "z 2004 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 963,
+            "end": 967,
+            "text": "2535",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 969,
+            "end": 983,
+            "text": "z 2005 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 984,
+            "end": 988,
+            "text": "1706",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 990,
+            "end": 1004,
+            "text": "z 2006 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1005,
+            "end": 1008,
+            "text": "246",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1011,
+            "end": 1015,
+            "text": "1577",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1017,
+            "end": 1031,
+            "text": "z 2007 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1032,
+            "end": 1036,
+            "text": "1386",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1038,
+            "end": 1052,
+            "text": "z 2008 r.\npoz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1053,
+            "end": 1057,
+            "text": "1358",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1059,
+            "end": 1073,
+            "text": "z 2009 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1074,
+            "end": 1078,
+            "text": "1559",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1080,
+            "end": 1094,
+            "text": "z 2010 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1095,
+            "end": 1099,
+            "text": "1727",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1101,
+            "end": 1115,
+            "text": "z 2012 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1116,
+            "end": 1119,
+            "text": "403",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1122,
+            "end": 1126,
+            "text": "1389",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1128,
+            "end": 1142,
+            "text": "z\n2013 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1143,
+            "end": 1147,
+            "text": "1585",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1149,
+            "end": 1163,
+            "text": "z 2014 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1164,
+            "end": 1168,
+            "text": "1829",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1170,
+            "end": 1184,
+            "text": "z 2015 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1185,
+            "end": 1189,
+            "text": "2266",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1191,
+            "end": 1205,
+            "text": "z 2016 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1206,
+            "end": 1210,
+            "text": "1916",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1212,
+            "end": 1226,
+            "text": "z 2017 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1227,
+            "end": 1231,
+            "text": "2248",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1233,
+            "end": 1247,
+            "text": "z 2018 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1248,
+            "end": 1251,
+            "text": "717",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1253,
+            "end": 1267,
+            "text": "z 2019 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1268,
+            "end": 1271,
+            "text": "339",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1273,
+            "end": 1287,
+            "text": "z 2020 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1288,
+            "end": 1291,
+            "text": "629",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1294,
+            "end": 1298,
+            "text": "2260",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1300,
+            "end": 1314,
+            "text": "z 2021 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1315,
+            "end": 1319,
+            "text": "2434",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1321,
+            "end": 1335,
+            "text": "z 2022 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1336,
+            "end": 1340,
+            "text": "2769",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1346,
+            "end": 1360,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1361,
+            "end": 1363,
+            "text": "46",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3201,
+            "end": 3202,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3203,
+            "end": 3204,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

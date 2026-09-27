@@ -1,0 +1,142 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 22 listopada 2024 r. w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt\ngospodarskich w 2025 r.\nTreść rozporządzenia\nNa podstawie art. 5 ust. 10 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt\ngospodarskich\n(Dz. U. z 2019 r. poz. 477) zarządza się, co następuje:\n§ 1.\nW 2025 r. dopłata do składki z tytułu ubezpieczenia:\n1)\nupraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, tytoniu, warzyw gruntowych, drzew\ni krzewów owocowych, truskawek, ziemniaków, buraków cukrowych lub roślin strączkowych\n- wynosi 65 % składki do 1 ha uprawy;\n2)\nbydła, koni, owiec, kóz, drobiu lub świń - wynosi 65 % składki do 1 sztuki.\n§ 2.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 202,
+            "end": 206,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 207,
+            "end": 208,
+            "text": "5",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 209,
+            "end": 213,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 214,
+            "end": 216,
+            "text": "10",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 305,
+            "end": 326,
+            "text": "Dz. U. z 2019 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 327,
+            "end": 330,
+            "text": "477",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 360,
+            "end": 361,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 362,
+            "end": 363,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 708,
+            "end": 709,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 710,
+            "end": 711,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

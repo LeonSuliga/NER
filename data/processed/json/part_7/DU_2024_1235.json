@@ -1,0 +1,272 @@
+{
+  "data": {
+    "text": "Rozporządzenie Prezesa Rady Ministrów z dnia 13 sierpnia 2024 r. w sprawie przedterminowych wyborów burmistrza Dziwnowa w województwie zachodniopomorskim\nSpis treści\nTreść rozporządzenia\nZałącznik - Kalendarz wyborczy\nTreść rozporządzenia\nNa podstawie art. 474 § 2 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy\n(Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721) zarządza się, co następuje:\n§ 1.\nZarządza się przeprowadzenie przedterminowych wyborów burmistrza Dziwnowa w województwie\nzachodniopomorskim.\n§ 2.\nDatę przedterminowych wyborów wyznacza się na niedzielę 13 października 2024 r.\n§ 3.\nDni, w których upływają terminy wykonania czynności wyborczych, określa kalendarz\nwyborczy, który stanowi załącznik do rozporządzenia.\n§ 4.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.\nZałącznik\n-\nKalendarz wyborczy\nLp.\nTermin wykonania czynności wyborczej\nTreść czynności wyborczej\n1\n2\n3\n1\nw dniu wejścia w życie rozporządzenia\n- podanie do publicznej wiadomości, w formie obwieszczenia Wojewody, rozporządzenia\nPrezesa Rady Ministrów w sprawie przedterminowych wyborów burmistrza Dziwnowa w województwie\nzachodniopomorskim\n2\ndo dnia 29 sierpnia 2024 r.\n- podanie do publicznej wiadomości, w formie obwieszczenia, informacji o siedzibie\nmiejskiej komisji wyborczej, - zawiadomienie komisarza wyborczego o utworzeniu komitetu wyborczego\n3\ndo dnia 4 września 2024 r.\n- zgłaszanie komisarzowi wyborczemu kandydatów na członków miejskiej komisji wyborczej\n4\ndo dnia 9 września 2024 r.\n- powołanie przez komisarza wyborczego miejskiej komisji wyborczej\n5\ndo dnia 18 września 2024 r. (do godz. 16.00)\n- zgłaszanie miejskiej komisji wyborczej kandydatów na burmistrza\n6\ndo dnia 23 września 2024 r.\n- składanie przez pełnomocników komitetów wyborczych wniosków o przydział nieodpłatnego\nczasu antenowego w programach publicznych nadawców radiowych i telewizyjnych, - zgłaszanie kandydatów na członków obwodowych komisji wyborczych, - podanie do publicznej wiadomości, w formie obwieszczenia, informacji o numerach\ni granicach obwodów głosowania oraz o wyznaczonych siedzibach obwodowych komisji wyborczych,\nw tym o lokalach dostosowanych do potrzeb wyborców niepełnosprawnych, a także o możliwości\ngłosowania korespondencyjnego i głosowania przez pełnomocnika\n7\ndo dnia 26 września 2024 r.\n- powołanie przez komisarza wyborczego obwodowych komisji wyborczych\n8\nod dnia 28 września 2024 r. do dnia 11 października 2024 r. (do godz. 24.00)\n- nieodpłatne rozpowszechnianie audycji wyborczych w programach publicznych nadawców\nradiowych i telewizyjnych\n9\ndo dnia 30 września 2024 r.\n- podanie do publicznej wiadomości, w drodze rozplakatowania, obwieszczenia miejskiej\nkomisji wyborczej o zarejestrowanych kandydatach na burmistrza, które zawiera, w kolejności\nalfabetycznej nazwisk: nazwiska, imiona, wiek, wykształcenie, miejsce zamieszkania,\nnazwę komitetu zgłaszającego kandydata oraz nazwę partii politycznej, do której należy\nkandydat, oraz treść oświadczeń lustracyjnych stwierdzających fakt pracy lub służby\nw organach bezpieczeństwa państwa lub współpracy z nimi, - zgłaszanie zamiaru głosowania korespondencyjnego przez wyborców niepełnosprawnych,\nw tym za pomocą nakładek na karty do głosowania sporządzonych w alfabecie Braille'a,\noraz przez wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, - zgłaszanie zamiaru skorzystania z prawa do bezpłatnego transportu do lokalu wyborczego\nlub bezpłatnego transportu powrotnego przez wyborców niepełnosprawnych oraz przez\nwyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, w gminie, w której w\ndniu wyborów nie funkcjonuje gminny przewóz pasażerski\n10\ndo dnia 3 października 2024 r.\n- podanie do publicznej wiadomości informacji o organizacji w gminach wiejskich lub\nmiejsko-wiejskich w dniu wyborów bezpłatnego gminnego przewozu pasażerskiego, o którym\nmowa w art. 37f § 1 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy\n11\ndo dnia 4 października 2024 r.\n- składanie wniosków o sporządzenie aktu pełnomocnictwa do głosowania przez wyborców\nniepełnosprawnych oraz przez wyborców, którzy najpóźniej w dniu głosowania kończą\n60 lat\n12\ndo dnia 10 października 2024 r.\n- poinformowanie wyborców niepełnosprawnych oraz wyborców, którzy najpóźniej w dniu\ngłosowania kończą 60 lat, którzy zgłosili zamiar skorzystania z prawa transportu do\nlokalu wyborczego, o godzinie transportu w dniu głosowania\n13\nw dniu 11 października 2024 r. o godz. 24.00\n- zakończenie kampanii wyborczej\n14\nw dniu 13 października 2024 r. godz. 7.00-21.00\n- głosowanie"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 252,
+            "end": 256,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 257,
+            "end": 260,
+            "text": "474",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 261,
+            "end": 262,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 263,
+            "end": 264,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 317,
+            "end": 338,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 339,
+            "end": 343,
+            "text": "2408",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 349,
+            "end": 363,
+            "text": "z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 364,
+            "end": 367,
+            "text": "721",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 397,
+            "end": 398,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 399,
+            "end": 400,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 511,
+            "end": 512,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 513,
+            "end": 514,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 596,
+            "end": 597,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 598,
+            "end": 599,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 736,
+            "end": 737,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 738,
+            "end": 739,
+            "text": "4",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3852,
+            "end": 3856,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3857,
+            "end": 3860,
+            "text": "37f",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3861,
+            "end": 3862,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3863,
+            "end": 3864,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
