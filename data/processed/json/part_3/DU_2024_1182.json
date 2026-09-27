@@ -1,0 +1,220 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 29 lipca 2024 r. w sprawie reorganizacji Narodowego Centrum Badań Jądrowych\nTreść rozporządzenia\nNa podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych\n(Dz. U. z 2024 r. poz. 534) zarządza się, co następuje:\n§ 1.\nNadzór nad Narodowym Centrum Badań Jądrowych z siedzibą w Otwocku-Świerku, numer identyfikacyjny\nREGON 001024043, numer identyfikacji podatkowej NIP 532-010-01-25 1) Narodowe Centrum Badań Jądrowych działa na podstawie zarządzenia nr 31 Prezesa Rady\nMinistrów z dnia 13 grudnia 1982 r. w sprawie organizacji jednostek naukowo-badawczych\ni rozwojowych atomistyki (M. P. poz. 279), zmienionego zarządzeniem nr 10 Prezesa\nPaństwowej Agencji Atomistyki z dnia 8 października 1987 r. w sprawie nadania Instytutowi\nProblemów Jądrowych imienia Andrzeja Sołtana, oraz rozporządzenia Rady Ministrów z\ndnia 5 sierpnia 2011 r. w sprawie połączenia Instytutu Problemów Jądrowych imienia\nAndrzeja Sołtana oraz Instytutu Energii Atomowej POLATOM (Dz. U. poz. 1032)., sprawuje minister właściwy do spraw gospodarki surowcami energetycznymi. 2) Do dnia wejścia w życie niniejszego rozporządzenia nadzór nad Narodowym Centrum Badań\nJądrowych z siedzibą w Otwocku-Świerku sprawował minister właściwy do spraw energii\nna podstawie rozporządzenia Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji\nNarodowego Centrum Badań Jądrowych (Dz. U. poz. 1448).\n§ 2.\nRozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 147,
+            "end": 151,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 152,
+            "end": 153,
+            "text": "7",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 154,
+            "end": 158,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 159,
+            "end": 160,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 221,
+            "end": 242,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 243,
+            "end": 246,
+            "text": "534",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 276,
+            "end": 277,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 278,
+            "end": 279,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 644,
+            "end": 654,
+            "text": "M. P. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 655,
+            "end": 658,
+            "text": "279",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1014,
+            "end": 1025,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1026,
+            "end": 1030,
+            "text": "1032",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1410,
+            "end": 1421,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1422,
+            "end": 1426,
+            "text": "1448",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1429,
+            "end": 1430,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1431,
+            "end": 1432,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

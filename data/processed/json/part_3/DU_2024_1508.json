@@ -1,0 +1,272 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 4 października 2024 r. w sprawie wysokości stawek opłaty za nadanie indywidualnego kodu identyfikacyjnego,\nuznanie kodu oraz ich utrzymanie w systemie teleinformatycznym oraz terminu wnoszenia\ntej opłaty w roku 2025 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - energia, na\npodstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz.\nU. poz. 2726).\nTreść rozporządzenia\nNa podstawie art. 41b ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych\n(Dz. U. z 2024 r. poz. 1289) zarządza się, co następuje:\n§ 1.\nWysokość stawki opłaty za nadanie indywidualnego kodu identyfikacyjnego, zwanego dalej\n„numerem EIPA”, uznanie kodu nadanego w innym państwie członkowskim Unii Europejskiej,\nz którym Rzeczpospolita Polska nawiązała współpracę w zakresie wzajemnego uznawania\nkodów, zwanego dalej „kodem”, oraz ich utrzymanie w systemie teleinformatycznym, zwanej\ndalej „opłatą”, wynosi miesięcznie:\n1)\n10 zł - w przypadku opłaty pobieranej od operatora ogólnodostępnej stacji ładowania,\nstacji gazu ziemnego lub stacji wodoru, na której świadczona jest usługa tankowania\nwodoru;\n2)\n50 zł - w przypadku opłaty pobieranej od dostawcy usługi ładowania.\n§ 2.\nOpłata jest wnoszona najpóźniej do 25. dnia miesiąca następującego po miesiącu, w\nktórym nadano numer EIPA, uznano kod lub utrzymywano numer EIPA albo kod w systemie\nteleinformatycznym.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 364,
+            "end": 365,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 366,
+            "end": 367,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 368,
+            "end": 372,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 373,
+            "end": 374,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 375,
+            "end": 378,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 379,
+            "end": 380,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 518,
+            "end": 529,
+            "text": "Dz.\nU. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 530,
+            "end": 534,
+            "text": "2726",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 571,
+            "end": 575,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 576,
+            "end": 579,
+            "text": "41b",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 580,
+            "end": 584,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 585,
+            "end": 586,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 668,
+            "end": 689,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 690,
+            "end": 694,
+            "text": "1289",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 724,
+            "end": 725,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 726,
+            "end": 727,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1362,
+            "end": 1363,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1364,
+            "end": 1365,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1553,
+            "end": 1554,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1555,
+            "end": 1556,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

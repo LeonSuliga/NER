@@ -1,0 +1,311 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Spraw Zagranicznych z dnia 17 grudnia 2024 r. w sprawie mnożników służących do ustalenia wysokości dodatku służby zagranicznej 1) Minister Spraw Zagranicznych kieruje działem administracji rządowej - sprawy zagraniczne,\nna podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r.\nw sprawie szczegółowego zakresu działania Ministra Spraw Zagranicznych (Dz. U. poz.\n2713).\nSpis treści\nTreść rozporządzenia\nZałącznik - Mnożniki kwoty bazowej dla członków korpusu służby cywilnej służące do ustalenia wysokości\ndodatku służby zagranicznej dla stopni dyplomatycznych\nTreść rozporządzenia\nNa podstawie art. 50 ust. 4 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej\n(Dz. U. z 2024 r. poz. 1691 i 1840) zarządza się, co następuje:\n§ 1.\n1.\nRozporządzenie określa mnożniki kwoty bazowej dla członków korpusu służby cywilnej\nsłużące do ustalenia wysokości dodatku służby zagranicznej dla stopni dyplomatycznych,\no których mowa w art. 28 ust. 1 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej.\n2.\nMnożniki kwoty bazowej dla członków korpusu służby cywilnej służące do ustalenia wysokości\ndodatku służby zagranicznej dla stopni dyplomatycznych są określone w załączniku do\nrozporządzenia.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. 2) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w\nrozporządzeniu Prezesa Rady Ministrów z dnia 10 marca 2009 r. w sprawie określenia\nstanowisk oraz mnożników do ustalenia składników wynagrodzenia w służbie zagranicznej\n(Dz. U. poz. 324).\nZałącznik\n-\nMnożniki kwoty bazowej dla członków korpusu służby cywilnej służące do ustalenia wysokości\ndodatku służby zagranicznej dla stopni dyplomatycznych\nStopień dyplomatyczny\nMnożnik kwoty bazowej\nambasador tytularny\n2,05\nminister pełnomocny\n1,85\nradca-minister\n1,65\nI radca\n1,45\nradca\n1,25\nI sekretarz\n1,05\nII sekretarz\n0,85\nIII sekretarz\n0,65\nattaché\n0,47"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 257,
+            "end": 258,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 259,
+            "end": 260,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 261,
+            "end": 265,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 266,
+            "end": 267,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 404,
+            "end": 415,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 416,
+            "end": 420,
+            "text": "2713",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 648,
+            "end": 652,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 653,
+            "end": 655,
+            "text": "50",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 656,
+            "end": 660,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 661,
+            "end": 662,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 721,
+            "end": 742,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 743,
+            "end": 747,
+            "text": "1691",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 750,
+            "end": 754,
+            "text": "1840",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 784,
+            "end": 785,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 786,
+            "end": 787,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 979,
+            "end": 983,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 984,
+            "end": 986,
+            "text": "28",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 987,
+            "end": 991,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 992,
+            "end": 993,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1246,
+            "end": 1247,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1248,
+            "end": 1249,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1564,
+            "end": 1575,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1576,
+            "end": 1579,
+            "text": "324",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

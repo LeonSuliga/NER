@@ -1,0 +1,324 @@
+{
+  "data": {
+    "text": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 sierpnia 2024 r. zmieniające rozporządzenie w sprawie wzoru nalepki dla pojazdów uprawnionych do wjazdu\ndo strefy czystego transportu 1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - energia, na\npodstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia\n2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz.\nU. poz. 2726).\nSpis treści\nTreść rozporządzenia\nZałącznik - Nalepka dla pojazdów uprawnionych do wjazdu do strefy czystego transportu (wzór)\nTreść rozporządzenia\nNa podstawie art. 39 ust. 13 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych\n(Dz. U. z 2024 r. poz. 1289) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Ministra Klimatu i Środowiska z dnia 31 marca 2022 r. w sprawie wzoru\nnalepki dla pojazdów uprawnionych do wjazdu do strefy czystego transportu\n(Dz. U. poz. 845) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego\nrozporządzenia.\n§ 2.\nNalepki dla pojazdów uprawnionych do wjazdu do strefy czystego transportu zgodne z\nwzorem określonym w rozporządzeniu zmienianym w § 1 i wydane przed dniem wejścia w\nżycie niniejszego rozporządzenia zachowują ważność nie dłużej niż przez 5 lat od wejścia\nw życie niniejszego rozporządzenia.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.\nZałącznik\n-\nNalepka dla pojazdów uprawnionych do wjazdu do strefy czystego transportu (wzór)\npatrz oryginał"
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 285,
+            "end": 286,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 287,
+            "end": 288,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 289,
+            "end": 293,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 294,
+            "end": 295,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 296,
+            "end": 299,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 300,
+            "end": 301,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 439,
+            "end": 450,
+            "text": "Dz.\nU. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 451,
+            "end": 455,
+            "text": "2726",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 618,
+            "end": 622,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 623,
+            "end": 625,
+            "text": "39",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 626,
+            "end": 630,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 631,
+            "end": 633,
+            "text": "13",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 715,
+            "end": 736,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 737,
+            "end": 741,
+            "text": "1289",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 771,
+            "end": 772,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 773,
+            "end": 774,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 938,
+            "end": 949,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 950,
+            "end": 953,
+            "text": "845",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1057,
+            "end": 1058,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1059,
+            "end": 1060,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1193,
+            "end": 1194,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1195,
+            "end": 1196,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1353,
+            "end": 1354,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1355,
+            "end": 1356,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

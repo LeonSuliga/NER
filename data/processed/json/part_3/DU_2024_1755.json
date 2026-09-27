@@ -1,0 +1,909 @@
+{
+  "data": {
+    "text": "Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej\nna rok 2024\nTreść ustawy\nArt. 1.\nW ustawie z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji\nustawy budżetowej na rok 2024\n(Dz. U. poz. 123 i 834) po art. 31 dodaje się art. 31a w brzmieniu:\n„Art. 31a.\n1.\nW roku 2024 jednostki samorządu terytorialnego w celu wsparcia realizacji zadań otrzymują\ndodatkowe dochody w łącznej wysokości 10 000 000 000 zł, z czego:\n1)\n8 216 794 889 zł - z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych;\n2)\n1 783 205 111 zł - z tytułu uzupełnienia subwencji ogólnej z budżetu państwa - w przypadku,\no którym mowa w ust. 5.\n2.\nKwotę, o której mowa w ust. 1 pkt 1, rozdziela się między:\n1)\ngminy,\n2)\npowiaty,\n3)\nwojewództwa\n- proporcjonalnie do wysokości udziału kwoty dochodów na rok 2024 z tytułu udziału\nwe wpływach z podatku dochodowego od osób fizycznych odpowiednio gmin, powiatów i\nwojewództw w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego\nz tego tytułu na rok 2024, ustalonych z uwzględnieniem kwot wynikających z korekty,\no której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r.,\nDz. U. z 2021 r. poz. 1927).\n3.\nKwota przysługująca gminom zgodnie z ust. 2 pkt 1 podlega podziałowi między poszczególne gminy proporcjonalnie do wysokości\nudziału kwoty dochodów na rok 2024 z tytułu udziału we wpływach z podatku dochodowego\nod osób fizycznych danej gminy w łącznej kwocie dochodów wszystkich gmin z tego tytułu\nna rok 2024, ustalonych z uwzględnieniem kwot wynikających z korekty, o której mowa\nw art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r.,\nDz. U. z 2021 r. poz. 1927).\n4.\nDo podziału kwot przysługujących powiatom i województwom zgodnie z ust. 2 pkt 2 i\n3 przepis ust. 3 stosuje się odpowiednio.\n5.\nJednostka samorządu terytorialnego otrzymuje środki, o których mowa w ust. 1 pkt 2,\njeżeli kwota obliczona w sposób, o którym mowa w ust. 3 i 4, jest niższa od kwoty:\n1)\n1 000 000 zł, a liczba mieszkańców gminy nie przekracza 5 000,\n2)\n1 500 000 zł, a liczba mieszkańców gminy przekracza 5 000, ale nie przekracza 10 000,\n3)\n2 000 000 zł, a liczba mieszkańców gminy przekracza 10 000,\n4)\n3 000 000 zł, a liczba mieszkańców powiatu nie przekracza 75 000,\n5)\n4 000 000 zł, a liczba mieszkańców powiatu przekracza 75 000,\n6)\n6 000 000 zł, a liczba mieszkańców województwa nie przekracza 1 250 000,\n7)\n8 000 000 zł, a liczba mieszkańców województwa przekracza 1 250 000\n- przy czym środki te są przekazywane w wysokości zapewniającej dodatkowe dochody\nnie niższe od kwot wskazanych odpowiednio w pkt 1-7.\n6.\nKwota z tytułu uzupełnienia subwencji ogólnej podlega zmniejszeniu w przypadku, gdy\nsuma dochodów jednostki samorządu terytorialnego, o których mowa w ust. 3-5, jest\nwyższa od dochodów tej jednostki na rok 2024 z tytułu udziału we wpływach z podatku\ndochodowego od osób fizycznych, ustalonych z uwzględnieniem kwot wynikających z korekty,\no której mowa w art. 9c ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (w brzmieniu z dnia 26 października 2021 r.,\nDz. U. z 2021 r. poz. 1927).\n7.\nMiastom na prawach powiatu przysługują dodatkowe dochody, o których mowa w ust. 1\npkt 1 i 2, obliczone w sposób, o którym mowa w ust. 3-6, jak dla gmin i powiatów,\nz każdej z części ustalonej odpowiednio dla gmin i powiatów.\n8.\nPrzez liczbę mieszkańców, o której mowa w ust. 5, rozumie się liczbę mieszkańców zamieszkałych\nna obszarze danej jednostki samorządu terytorialnego, według stanu na dzień 31 grudnia\n2022 r., ustaloną przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja 2023 r.\n9.\nDodatkowe dochody, o których mowa w ust. 1, przekaże jednostkom samorządu terytorialnego\nminister właściwy do spraw finansów publicznych, przy czym przekazanie może nastąpić\nw ratach.\n10.\nO przeznaczeniu dodatkowych dochodów, o których mowa w ust. 1, decyduje organ stanowiący\njednostki samorządu terytorialnego.”.\nArt. 2.\nUstawa wchodzi w życie z dniem następującym po dniu ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 144,
+            "end": 148,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 149,
+            "end": 150,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 270,
+            "end": 281,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 282,
+            "end": 285,
+            "text": "123",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 288,
+            "end": 291,
+            "text": "834",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 296,
+            "end": 300,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 301,
+            "end": 303,
+            "text": "31",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 315,
+            "end": 319,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 320,
+            "end": 323,
+            "text": "31a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 338,
+            "end": 342,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 343,
+            "end": 346,
+            "text": "31a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 711,
+            "end": 715,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 716,
+            "end": 717,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 745,
+            "end": 749,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 750,
+            "end": 751,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 752,
+            "end": 755,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 756,
+            "end": 757,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1166,
+            "end": 1170,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1171,
+            "end": 1173,
+            "text": "9c",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1301,
+            "end": 1322,
+            "text": "Dz. U. z 2021 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1323,
+            "end": 1327,
+            "text": "1927",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1370,
+            "end": 1374,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1375,
+            "end": 1376,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1377,
+            "end": 1380,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1381,
+            "end": 1382,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1716,
+            "end": 1720,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1721,
+            "end": 1723,
+            "text": "9c",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1851,
+            "end": 1872,
+            "text": "Dz. U. z 2021 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1873,
+            "end": 1877,
+            "text": "1927",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1950,
+            "end": 1954,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1955,
+            "end": 1956,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1957,
+            "end": 1960,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1961,
+            "end": 1962,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1965,
+            "end": 1966,
+            "text": "3",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1975,
+            "end": 1979,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1980,
+            "end": 1981,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2080,
+            "end": 2084,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2085,
+            "end": 2086,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2087,
+            "end": 2090,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2091,
+            "end": 2092,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2143,
+            "end": 2147,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2148,
+            "end": 2149,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2152,
+            "end": 2153,
+            "text": "4",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2802,
+            "end": 2805,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2806,
+            "end": 2807,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2808,
+            "end": 2809,
+            "text": "7",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2965,
+            "end": 2969,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2970,
+            "end": 2971,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2972,
+            "end": 2973,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3169,
+            "end": 3173,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3174,
+            "end": 3176,
+            "text": "9c",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3304,
+            "end": 3325,
+            "text": "Dz. U. z 2021 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3326,
+            "end": 3330,
+            "text": "1927",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3411,
+            "end": 3415,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3416,
+            "end": 3417,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3418,
+            "end": 3421,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3422,
+            "end": 3423,
+            "text": "1",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3426,
+            "end": 3427,
+            "text": "2",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3465,
+            "end": 3469,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3470,
+            "end": 3471,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3472,
+            "end": 3473,
+            "text": "6",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3606,
+            "end": 3610,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3611,
+            "end": 3612,
+            "text": "5",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3872,
+            "end": 3876,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3877,
+            "end": 3878,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4079,
+            "end": 4083,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4084,
+            "end": 4085,
+            "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4151,
+            "end": 4155,
+            "text": "Art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4156,
+            "end": 4157,
+            "text": "2",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

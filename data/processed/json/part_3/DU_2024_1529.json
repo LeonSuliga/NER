@@ -1,0 +1,246 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 15 października 2024 r. zmieniające rozporządzenie w sprawie wykazu gmin, w których są stosowane szczególne\nrozwiązania związane z usuwaniem skutków powodzi z września 2024 r., oraz rozwiązań\nstosowanych na ich terenie\nTreść rozporządzenia\nNa podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych\nz usuwaniem skutków powodzi\n(Dz. U. z 2024 r. poz. 654 i 1473) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wykazu gmin, w\nktórych są stosowane szczególne rozwiązania związane z usuwaniem skutków powodzi z\nwrześnia 2024 r., oraz rozwiązań stosowanych na ich terenie\n(Dz. U. poz. 1371 i 1484) § 2 otrzymuje brzmienie:\n„§ 2.\nGminami poszkodowanymi są:\n1)\nw województwie dolnośląskim:\na)\nwszystkie gminy położone na terenie powiatów bolesławieckiego, dzierżoniowskiego,\njaworskiego, kamiennogórskiego, karkonoskiego, kłodzkiego, legnickiego, lubańskiego,\nlwóweckiego, średzkiego, świdnickiego, wałbrzyskiego, wołowskiego, ząbkowickiego,\nzgorzeleckiego i złotoryjskiego oraz miasta na prawach powiatu Jelenia Góra, Legnica\ni Wałbrzych,\nb)\nw powiecie głogowskim - gmina miejska Głogów, gmina wiejska Głogów, gmina Kotla, gmina\nPęcław i gmina Żukowice,\nc)\nw powiecie górowskim - gmina Jemielno,\nd)\nw powiecie lubińskim - miasto i gmina Ścinawa,\ne)\nw powiecie oławskim - gmina miejska Oława i gmina wiejska Oława,\nf)\nw powiecie strzelińskim - gmina Strzelin,\ng)\nw powiecie wrocławskim - gmina Kąty Wrocławskie, gmina Mietków i gmina Sobótka;\n2)\nw województwie lubuskim:\na)\nw powiecie krośnieńskim - gmina Dąbie i gmina Krosno Odrzańskie,\nb)\nw powiecie nowosolskim - gmina Bytom Odrzański, gmina Kolsko, gmina miejska Nowa Sól,\ngmina wiejska Nowa Sól, gmina Otyń i gmina Siedlisko,\nc)\nw powiecie słubickim - gmina Cybinka i gmina Słubice,\nd)\nw powiecie wschowskim - gmina Szlichtyngowa,\ne)\nw powiecie zielonogórskim - gmina Bojadła, gmina Czerwieńsk, gmina Nowogród Bobrzański,\ngmina Sulechów, gmina Trzebiechów i gmina Zabór,\nf)\nw powiecie żagańskim - gmina miejsko-wiejska Szprotawa i gmina wiejska Żagań oraz\nmiasto Małomice i miasto Żagań;\n3)\nw województwie opolskim - wszystkie gminy położone na terenie powiatów brzeskiego,\ngłubczyckiego, kędzierzyńsko-kozielskiego, krapkowickiego, nyskiego, opolskiego i\nprudnickiego;\n4)\nw województwie śląskim - wszystkie gminy położone na terenie powiatów bielskiego,\ncieszyńskiego, pszczyńskiego i raciborskiego oraz miasto na prawach powiatu Bielsko-Biała.”.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 16 października 2024 r."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 290,
+            "end": 294,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 295,
+            "end": 296,
+            "text": "1",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 297,
+            "end": 301,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 302,
+            "end": 303,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 407,
+            "end": 428,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 429,
+            "end": 432,
+            "text": "654",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 435,
+            "end": 439,
+            "text": "1473",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 469,
+            "end": 470,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 471,
+            "end": 472,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 702,
+            "end": 713,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 714,
+            "end": 718,
+            "text": "1371",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 721,
+            "end": 725,
+            "text": "1484",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 727,
+            "end": 728,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 729,
+            "end": 730,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 753,
+            "end": 754,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 755,
+            "end": 756,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2531,
+            "end": 2532,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2533,
+            "end": 2534,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
