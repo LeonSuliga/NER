@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Article references
 ART_PATTERN = re.compile(
-    r'\b(?:art\.|artykułem|artykułu|artykuł)\s*'
+    r'art\.\s*'
     r'\d+(?:\.\d+)*[a-z]*'
     r'(?:\s*(?:,|i|oraz|-|–)\s*'
     r'\d+(?:\.\d+)*[a-z]*)*',
@@ -403,7 +403,7 @@ def find_references(text):
                 match,
                 "ART",
                 re.compile(
-                    r'\b(?:art\.|artykuł|artykułu|artykułem)',
+                    r'\bart\.',
                     re.IGNORECASE
                 ),
                 re.compile(
@@ -584,8 +584,8 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    input_dir = Path("data/processed/txt")
-    output_dir = Path("data/processed/json")
+    input_dir = Path("data/processed/txt/part_2")
+    output_dir = Path("data/processed/json/part_2")
 
     output_dir.mkdir(
         parents=True,

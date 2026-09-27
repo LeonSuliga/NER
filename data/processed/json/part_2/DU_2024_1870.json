@@ -1,0 +1,740 @@
+{
+  "data": {
+    "text": "Rozporządzenie Rady Ministrów z dnia 13 grudnia 2024 r. zmieniające rozporządzenie w sprawie przekazywania przez instytucje finansowe oraz\norgan nadzoru półrocznych i rocznych informacji o prowadzonych indywidualnych kontach\nemerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego\nTreść rozporządzenia\nNa podstawie art. 17 ust. 3 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych\noraz indywidualnych kontach zabezpieczenia emerytalnego\n(Dz. U. z 2024 r. poz. 707) zarządza się, co następuje:\n§ 1.\nW rozporządzeniu Rady Ministrów z dnia 28 września 2011 r. w sprawie przekazywania przez\ninstytucje finansowe oraz organ nadzoru półrocznych i rocznych informacji o prowadzonych\nindywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego\n(Dz. U. poz. 1327) wprowadza się następujące zmiany:\n1)\nw § 2 pkt 5 i 6 otrzymują brzmienie:\n„5)\nliczby i wartości wypłat transferowych przyjętych w okresie sprawozdawczym z IKE,\nz pracowniczego planu kapitałowego, z subkonta ogólnoeuropejskiego indywidualnego\nproduktu emerytalnego, zwanego dalej „OIPE”, i z programu emerytalnego;\n6)\nliczby i wartości wypłat transferowych dokonanych w okresie sprawozdawczym na IKE,\nna subkonto OIPE i do programu emerytalnego;”;\n2)\nw § 3 pkt 7 otrzymuje brzmienie:\n„7)\nliczby IKZE, na które dokonywano wpłat w okresie sprawozdawczym, wartości wpłat na\nIKZE dokonywanych w okresie sprawozdawczym oraz średniej wysokości wpłat na IKZE w\nokresie sprawozdawczym, liczonej jako suma wpłat na IKZE podzielona przez liczbę IKZE,\nna które dokonywano wpłat w okresie sprawozdawczym, z podziałem oszczędzających na\ntych, którzy:\na)\nnie prowadzą pozarolniczej działalności, w rozumieniu art. 8 ust. 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych\n(Dz. U. z 2024 r. poz. 497, 863, 1243 i 1615),\nb)\nprowadzą działalność, o której mowa w lit. a;”;\n3)\n§ 6 i § 7 otrzymują brzmienie:\n„§ 6.\nInformacje, o których mowa w § 2 oraz w § 3, instytucje finansowe przekazują organowi\nnadzoru w postaci elektronicznej za pomocą systemu teleinformatycznego, do którego\ndostęp jest zapewniony przez organ nadzoru za pośrednictwem strony internetowej tego\norganu, w formacie danych zgodnym z formatem danych obsługiwanym w systemie teleinformatycznym\norganu nadzoru.\n§ 7.\nInformacje, o których mowa w § 5, organ nadzoru przekazuje ministrowi właściwemu do\nspraw zabezpieczenia społecznego w postaci elektronicznej w formacie pliku uzgodnionym\nz ministrem.”.\n§ 2.\n1.\nDo przekazywania rocznej informacji o prowadzonych indywidualnych kontach emerytalnych\nsporządzanej na dzień 31 grudnia 2024 r. i półrocznej informacji o prowadzonych indywidualnych\nkontach emerytalnych sporządzanej na dzień 30 czerwca 2025 r. oraz rocznej informacji\no prowadzonych indywidualnych kontach zabezpieczenia emerytalnego sporządzanej na\ndzień 31 grudnia 2024 r. i półrocznej informacji o prowadzonych indywidualnych kontach\nzabezpieczenia emerytalnego sporządzanej na dzień 30 czerwca 2025 r. stosuje się §\n6 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.\n2.\nPrzepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem,\nstosuje się po raz pierwszy do rocznej informacji o prowadzonych indywidualnych kontach\nemerytalnych oraz rocznej informacji o prowadzonych indywidualnych kontach zabezpieczenia\nemerytalnego, sporządzanych na dzień 31 grudnia 2025 r.\n3.\nDane o liczbie i wartości wypłat transferowych przyjętych z subkonta ogólnoeuropejskiego\nindywidualnego produktu emerytalnego oraz o liczbie i wartości wypłat transferowych\ndokonanych na subkonto ogólnoeuropejskiego indywidualnego produktu emerytalnego instytucje\nfinansowe przekazują po raz pierwszy organowi nadzoru w rocznej informacji o prowadzonych\nindywidualnych kontach emerytalnych sporządzanej na dzień 31 grudnia 2024 r., a organ\nnadzoru przekazuje je ministrowi właściwemu do spraw zabezpieczenia społecznego w\nzbiorczej rocznej informacji o prowadzonych indywidualnych kontach emerytalnych sporządzanej\nna dzień 31 grudnia 2024 r.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 328,
+            "end": 332,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 333,
+            "end": 335,
+            "text": "17",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 336,
+            "end": 340,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 341,
+            "end": 342,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 472,
+            "end": 493,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 494,
+            "end": 497,
+            "text": "707",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 527,
+            "end": 528,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 529,
+            "end": 530,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 803,
+            "end": 814,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 815,
+            "end": 819,
+            "text": "1327",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 860,
+            "end": 861,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 862,
+            "end": 863,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 864,
+            "end": 867,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 868,
+            "end": 869,
+            "text": "5",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 872,
+            "end": 873,
+            "text": "6",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1273,
+            "end": 1274,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1275,
+            "end": 1276,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1277,
+            "end": 1280,
+            "text": "pkt",
+            "labels": [
+              "PKT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1281,
+            "end": 1282,
+            "text": "7",
+            "labels": [
+              "PKT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1715,
+            "end": 1719,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1720,
+            "end": 1721,
+            "text": "8",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1722,
+            "end": 1726,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1727,
+            "end": 1728,
+            "text": "6",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1803,
+            "end": 1824,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1825,
+            "end": 1828,
+            "text": "497",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1830,
+            "end": 1833,
+            "text": "863",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1835,
+            "end": 1839,
+            "text": "1243",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1842,
+            "end": 1846,
+            "text": "1615",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1890,
+            "end": 1894,
+            "text": "lit.",
+            "labels": [
+              "LIT_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1895,
+            "end": 1896,
+            "text": "a",
+            "labels": [
+              "LIT_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1903,
+            "end": 1904,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1905,
+            "end": 1906,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1909,
+            "end": 1910,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1911,
+            "end": 1912,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1935,
+            "end": 1936,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1937,
+            "end": 1938,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1969,
+            "end": 1970,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1971,
+            "end": 1972,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1980,
+            "end": 1981,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1982,
+            "end": 1983,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2305,
+            "end": 2306,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2307,
+            "end": 2308,
+            "text": "7",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2339,
+            "end": 2340,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2341,
+            "end": 2342,
+            "text": "5",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2496,
+            "end": 2497,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2498,
+            "end": 2499,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3022,
+            "end": 3023,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3024,
+            "end": 3025,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3055,
+            "end": 3056,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3057,
+            "end": 3058,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3099,
+            "end": 3100,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3101,
+            "end": 3102,
+            "text": "6",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3132,
+            "end": 3133,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3134,
+            "end": 3135,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4065,
+            "end": 4066,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4067,
+            "end": 4068,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

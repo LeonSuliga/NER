@@ -1,0 +1,623 @@
+{
+  "data": {
+    "text": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 12 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej\nPolskiej w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym\nniektórych spraw z zakresu działania Głównego Inspektora Transportu Drogowego\nSpis treści\nTreść obwieszczenia\nZałącznik - Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie\nprzekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw\nz zakresu działania Głównego Inspektora Transportu Drogowego\nTreść obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych\ninnych aktów prawnych\n(Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie\nprzekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw\nz zakresu działania Głównego Inspektora Transportu Drogowego\n(Dz. U. poz. 506), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 15 maja 2012 r. zmieniającym\nrozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym\nniektórych spraw z zakresu działania Głównego Inspektora Transportu Drogowego\n(Dz. U. poz. 604).\n2.\nPodany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie\nobejmuje § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 15 maja 2012 r.\nzmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim\nsądom administracyjnym niektórych spraw z zakresu działania Głównego Inspektora Transportu\nDrogowego\n(Dz. U. poz. 604), które stanowią:\n„§ 2.\nSprawy, o których mowa w § 1, zarejestrowane przed dniem wejścia w życie niniejszego\nrozporządzenia w wojewódzkim sądzie administracyjnym właściwym według miejsca siedziby\norganu administracji publicznej, którego działalność została zaskarżona, rozpoznaje\nwojewódzki sąd administracyjny właściwy w rozumieniu niniejszego rozporządzenia, z\nwyjątkiem spraw, w których wyznaczono termin rozprawy.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.\nZałącznik\n-\nRozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie\nprzekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw\nz zakresu działania Głównego Inspektora Transportu Drogowego\nNa podstawie art. 13 § 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami\nadministracyjnymi\n(Dz. U. z 2023 r. poz. 1634, 1705 i 1860) zarządza się, co następuje:\n§ 1 1) W brzmieniu ustalonym przez § 1 rozporządzenia Prezydenta Rzeczypospolitej Polskiej\nz dnia 15 maja 2012 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania\ninnym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Głównego\nInspektora Transportu Drogowego (Dz. U. poz. 604), które weszło w życie z dniem 13\nczerwca 2012 r..\nRozpoznawanie spraw z zakresu działania Głównego Inspektora Transportu Drogowego dotyczących\nnałożenia kar pieniężnych, o których mowa w art. 92a ustawy z dnia 6 września 2001 r. o transporcie drogowym\n(Dz. U. z 2024 r. poz. 728 i 731), przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości\nstrona skarżąca zamieszkuje lub ma siedzibę.\n§ 2.\nSprawy, o których mowa w § 1, zarejestrowane przed dniem wejścia w życie rozporządzenia\nw Wojewódzkim Sądzie Administracyjnym w Warszawie, rozpoznaje wojewódzki sąd administracyjny\nwłaściwy w rozumieniu niniejszego rozporządzenia, z wyjątkiem spraw, w których wyznaczono\nterminy rozprawy.\n§ 3.\nRozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia 2) Rozporządzenie zostało ogłoszone w dniu 29 kwietnia 2011 r.."
+  },
+  "predictions": [
+    {
+      "model_version": "regex-1.0",
+      "result": [
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 639,
+            "end": 643,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 644,
+            "end": 646,
+            "text": "16",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 647,
+            "end": 651,
+            "text": "ust.",
+            "labels": [
+              "UST_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 652,
+            "end": 653,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 753,
+            "end": 774,
+            "text": "Dz. U. z 2019 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 775,
+            "end": 779,
+            "text": "1461",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1086,
+            "end": 1097,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1098,
+            "end": 1101,
+            "text": "506",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1401,
+            "end": 1412,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1413,
+            "end": 1416,
+            "text": "604",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1515,
+            "end": 1516,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1517,
+            "end": 1518,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1521,
+            "end": 1522,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1523,
+            "end": 1524,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1785,
+            "end": 1796,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1797,
+            "end": 1800,
+            "text": "604",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1820,
+            "end": 1821,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1822,
+            "end": 1823,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1850,
+            "end": 1851,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 1852,
+            "end": 1853,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2219,
+            "end": 2220,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2221,
+            "end": 2222,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2554,
+            "end": 2558,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2559,
+            "end": 2561,
+            "text": "13",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2562,
+            "end": 2563,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2564,
+            "end": 2565,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2655,
+            "end": 2676,
+            "text": "Dz. U. z 2023 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2677,
+            "end": 2681,
+            "text": "1634",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2683,
+            "end": 2687,
+            "text": "1705",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2690,
+            "end": 2694,
+            "text": "1860",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2724,
+            "end": 2725,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2726,
+            "end": 2727,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2759,
+            "end": 2760,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2761,
+            "end": 2762,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3023,
+            "end": 3034,
+            "text": "Dz. U. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3035,
+            "end": 3038,
+            "text": "604",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3227,
+            "end": 3231,
+            "text": "art.",
+            "labels": [
+              "ART_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3232,
+            "end": 3235,
+            "text": "92a",
+            "labels": [
+              "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3293,
+            "end": 3314,
+            "text": "Dz. U. z 2024 r. poz.",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3315,
+            "end": 3318,
+            "text": "728",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3321,
+            "end": 3324,
+            "text": "731",
+            "labels": [
+              "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3455,
+            "end": 3456,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3457,
+            "end": 3458,
+            "text": "2",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3485,
+            "end": 3486,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3487,
+            "end": 3488,
+            "text": "1",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3749,
+            "end": 3750,
+            "text": "§",
+            "labels": [
+              "PAR_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 3751,
+            "end": 3752,
+            "text": "3",
+            "labels": [
+              "PAR_VAL"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
