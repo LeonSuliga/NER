@@ -287,10 +287,7 @@ def process_eu_publication(text, match):
     publication_start = match.start()
 
     key_pattern = re.compile(
-        r'\bDz\.\s*Urz\.\s*(?:UE|WE)\s+'
-        r'[LC]\s+\d+'
-        r'\s+z\s+\d{2}\.\d{2}\.\d{4}'
-        r',\s*str\.',
+        r'\bDz\.\s*Urz\.\s*(?:UE|WE)\s+[LCA]',
         re.IGNORECASE
     )
 
@@ -320,14 +317,12 @@ def process_eu_publication(text, match):
     )
 
     value_pattern = re.compile(
-        r'\d+'
+        r'(?<=[LCA]\s)\d+'
     )
 
-    value_start = key_match.end()
 
     for value_match in value_pattern.finditer(
-        publication_text,
-        value_start
+        publication_text
     ):
 
         start = (
