@@ -1,7 +1,8 @@
 import os, json, random, sys
 
 IN = os.path.join(os.path.dirname(__file__), 'data', 'train_bio.json')
-OUT_DIR = os.path.join(os.path.dirname(__file__), 'data')
+OUT_DIR = os.path.join(os.path.dirname(__file__), 'data', 'spacy')
+os.makedirs(OUT_DIR, exist_ok=True)
 TRAIN_OUT = os.path.join(OUT_DIR, 'train.spacy')
 DEV_OUT = os.path.join(OUT_DIR, 'dev.spacy')
 TEST_OUT = os.path.join(OUT_DIR, 'test.spacy')

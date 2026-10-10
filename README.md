@@ -133,6 +133,26 @@ python evaluate_pipeline.py
 
 The trained model is written to `models/ner_spacy`.
 
+#### Comparing three NER models
+
+All three models use the same train/dev/test split from `data/spacy/*.spacy`:
+
+| Model | Script | Output | Description |
+|---|---|---|---|
+| `spacy_blank` | `train_spacy_ner.py` | `models/ner_spacy` | blank `pl` pipeline, hand-written training loop |
+| `spacy_vectors` | `train_spacy_vectors.py` | `models/ner_spacy_vectors/model-best` | `spacy train` with `configs/ner_spacy_vectors.cfg`, `pl_core_news_md` static vectors, ~200-token training chunks, best-on-dev checkpoint |
+| `herbert` | `train_herbert_ner.py` | `models/ner_herbert` | `allegro/herbert-base-cased` fine-tuned for token classification (256-subword windows) |
+
+```bash
+python -m spacy download pl_core_news_md
+python train_spacy_ner.py
+python train_spacy_vectors.py
+python train_herbert_ner.py --epochs 3
+python scripts/compare_models.py
+```
+
+`compare_models.py` runs every model on the gold tokenization of the test set and scores them all with spaCy's span scorer. It prints overall and per-label P/R/F plus tokens/sec, and writes `models/comparison.json`. `run_pipeline.bat` runs all of these steps.
+
 ### 8. Run the full pipeline test
 
 ```bash

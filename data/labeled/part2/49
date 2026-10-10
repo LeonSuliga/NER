@@ -1,0 +1,1476 @@
+{
+  "id": 49,
+  "result": [
+    {
+      "value": {
+        "start": 344,
+        "end": 345,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TbpRrDEuIj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 346,
+        "end": 347,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "M01KlwZgB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 348,
+        "end": 352,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "1RoRafdS0v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 353,
+        "end": 354,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_NkgQ-XwoW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 355,
+        "end": 358,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "uJmI_Az3Px",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 359,
+        "end": 360,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "OxXqJCSIlJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 512,
+        "end": 523,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "SHCjbOI9UX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 524,
+        "end": 528,
+        "text": "2708",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0YQc3eRfXv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 783,
+        "end": 787,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "GZ5q3EsZD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 788,
+        "end": 790,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "FxfHbNBE3e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 791,
+        "end": 795,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "LOau1YwMxm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 796,
+        "end": 797,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "wpU2I4cDve",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 897,
+        "end": 918,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "80hxa2yaDq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 919,
+        "end": 923,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1KI1SIOQiQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1125,
+        "end": 1136,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DH-BR7s4Pw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1137,
+        "end": 1141,
+        "text": "1102",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "g1DNG_dNPP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1356,
+        "end": 1367,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vcXs2scyit",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1368,
+        "end": 1371,
+        "text": "933",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9vmfVJi2hy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1552,
+        "end": 1563,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "mrPalp4iKl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1564,
+        "end": 1568,
+        "text": "2004",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5CP-oKj0Oo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1671,
+        "end": 1672,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "p61poCJ9ZY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1673,
+        "end": 1674,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "1Ppj99VQrV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1846,
+        "end": 1857,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "jjxoZUGebZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1858,
+        "end": 1861,
+        "text": "933",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1xO-vpHrf8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1959,
+        "end": 1960,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "9X3nGPBmBx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1961,
+        "end": 1962,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "wJ1lR1TYYt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1965,
+        "end": 1966,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "IQ7Tga8x2z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1967,
+        "end": 1968,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "IJZi4JlXvN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2144,
+        "end": 2155,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "dlsfN_9VRq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2156,
+        "end": 2160,
+        "text": "2004",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "eit161WrpK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2223,
+        "end": 2224,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "WKwa1X_O5s",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2225,
+        "end": 2226,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "NtGVbSt28P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2739,
+        "end": 2740,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "gIT2BK5mQk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2741,
+        "end": 2742,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "MFffebacF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2743,
+        "end": 2747,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "g5xjBtzK6R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2748,
+        "end": 2749,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tHsS7jHFJL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2750,
+        "end": 2753,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "RP3cNbYHON",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2754,
+        "end": 2755,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "S_8V-pohVX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2907,
+        "end": 2918,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "l901m8uPtA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2919,
+        "end": 2923,
+        "text": "2708",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PhA1c07qI4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2939,
+        "end": 2943,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "juf47SW9K9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2944,
+        "end": 2946,
+        "text": "15",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aMGD9G1LPa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2947,
+        "end": 2951,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TIORv0aZhO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2952,
+        "end": 2953,
+        "text": "9",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "KC3ka2eli_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2998,
+        "end": 3019,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZnyvIQB-gx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3020,
+        "end": 3023,
+        "text": "145",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "wboww4r16t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4636,
+        "end": 4637,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "licTLFcUjz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4638,
+        "end": 4639,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "84-HY2ySTa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4640,
+        "end": 4644,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "WUGXx9SxMk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4645,
+        "end": 4646,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QWyeR77F8O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4647,
+        "end": 4650,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "K5c7NBzARg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4651,
+        "end": 4652,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "2DJem0JOwY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4653,
+        "end": 4657,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "7noPmm3ELJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4658,
+        "end": 4659,
+        "text": "d",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "_eXPCQrFY_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4957,
+        "end": 4961,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "fbi8BiIgXu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4962,
+        "end": 4963,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "IIkUK9Se9a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4971,
+        "end": 4972,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "tkQ_x-05kr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4973,
+        "end": 4974,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "MN7snuU7CU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4975,
+        "end": 4979,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "vTfqmv1_I3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4980,
+        "end": 4981,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jrVCFu3xxD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4984,
+        "end": 4988,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Bvz1_A7vLO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4989,
+        "end": 4990,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "7XakHMVOJk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4991,
+        "end": 4994,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "sEx9eJ3HlT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4995,
+        "end": 4996,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "tWCdHXY5J6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4997,
+        "end": 5001,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "q6Jx4a1PFW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5002,
+        "end": 5003,
+        "text": "c",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "NnyZGQQ-ft",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5684,
+        "end": 5695,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "F6yYa8lEty",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5696,
+        "end": 5700,
+        "text": "2004",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "-iD_2aCG0a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6655,
+        "end": 6659,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "K2k1xnwyhL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6660,
+        "end": 6661,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "rRznDrACXv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6768,
+        "end": 6772,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "YpEVfgPB83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6773,
+        "end": 6774,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "uIhG2M3Hsg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6777,
+        "end": 6778,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "f_4pfeHibN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6902,
+        "end": 6906,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ntw8PolXnb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6907,
+        "end": 6908,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1dvlxb9rA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6909,
+        "end": 6912,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "fu_iCMJdkE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6913,
+        "end": 6914,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "y3snxY50Aq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7986,
+        "end": 7987,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "STqu8k5ZpR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7988,
+        "end": 7989,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "qTO9L7zSvd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8596,
+        "end": 8600,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jtAS38LnIf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8601,
+        "end": 8602,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "T6Kl0J4RTG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8685,
+        "end": 8686,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "dyfJmKwb7e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8687,
+        "end": 8688,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "cUPHQizITR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8689,
+        "end": 8692,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "psOSEw1Sxr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8693,
+        "end": 8694,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "RzgzaygO3t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9436,
+        "end": 9447,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "MmUd9-7ex7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9448,
+        "end": 9451,
+        "text": "880",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kE7Xr7eFVh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9669,
+        "end": 9670,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mJNsaCjU9z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9671,
+        "end": 9672,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "UA8yxs6WYb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9673,
+        "end": 9676,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ZR--FScHhW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9677,
+        "end": 9678,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "CtlsdbHIMI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5499,
+        "end": 5500,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "CKt7rtE771",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5501,
+        "end": 5502,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "twYZIgdT6u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5503,
+        "end": 5506,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "lTG_q0HQA_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5507,
+        "end": 5508,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "DezvrFDyaH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 96,
+    "data": {
+      "text": "Obwieszczenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 27 marca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych\nw sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych przez Policj\u0119 1) Minister Spraw Wewn\u0119trznych i Administracji kieruje dzia\u0142em administracji rz\u0105dowej\n- sprawy wewn\u0119trzne, na podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w\nz dnia 18 grudnia 2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Spraw\nWewn\u0119trznych i Administracji (Dz. U. poz. 2708).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych z dnia 13 wrze\u015bnia 2012 r. w sprawie bada\u0144\nlekarskich os\u00f3b zatrzymanych przez Policj\u0119\nZa\u0142\u0105cznik - Za\u015bwiadczenie lekarskie (wz\u00f3r)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych z dnia 13 wrze\u015bnia 2012 r. w sprawie bada\u0144\nlekarskich os\u00f3b zatrzymanych przez Policj\u0119\n(Dz. U. poz. 1102), z uwzgl\u0119dnieniem zmian wprowadzonych:\n1)\nrozporz\u0105dzeniem Ministra Spraw Wewn\u0119trznych i Administracji z dnia 19 maja 2020 r.\nzmieniaj\u0105cym rozporz\u0105dzenie w sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych przez Policj\u0119\n(Dz. U. poz. 933);\n2)\nrozporz\u0105dzeniem Ministra Spraw Wewn\u0119trznych i Administracji z dnia 26 wrze\u015bnia 2022 r.\nzmieniaj\u0105cym rozporz\u0105dzenie w sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych przez Policj\u0119\n(Dz. U. poz. 2004).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje:\n1)\n\u00a7 2 rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i Administracji z dnia 19 maja 2020 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych przez Policj\u0119\n(Dz. U. poz. 933), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d;\n2)\n\u00a7 2 i \u00a7 3 rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i Administracji z dnia 26 wrze\u015bnia\n2022 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych\nprzez Policj\u0119\n(Dz. U. poz. 2004), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nPrzepisy rozporz\u0105dzenia zmienianego w \u00a7 1, w brzmieniu nadanym niniejszym rozporz\u0105dzeniem,\nmaj\u0105 zastosowanie od dnia 1 wrze\u015bnia 2022 r.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych z dnia 13 wrze\u015bnia 2012 r. w sprawie bada\u0144\nlekarskich os\u00f3b zatrzymanych przez Policj\u0119 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - sprawy wewn\u0119trzne kieruje Minister Spraw Wewn\u0119trznych i Administracji,\nna podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Spraw Wewn\u0119trznych i Administracji\n(Dz. U. poz. 2708).\nNa podstawie art. 15 ust. 9 ustawy z dnia 6 kwietnia 1990 r. o Policji\n(Dz. U. z 2024 r. poz. 145) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1.\nOsobie zatrzymanej przez Policj\u0119, zwanej dalej \u201eosob\u0105 zatrzyman\u0105\u201d, udziela si\u0119 niezw\u0142ocznie\npierwszej pomocy lub kwalifikowanej pierwszej pomocy w przypadku, gdy osoba ta znajduje\nsi\u0119 w stanie nag\u0142ego zagro\u017cenia zdrowotnego, okre\u015blonego w przepisach o pa\u0144stwowym\nratownictwie medycznym.\n2.\nPolicjant niezw\u0142ocznie podejmuje dzia\u0142ania zmierzaj\u0105ce do skutecznego powiadomienia\ndyspozytora medycznego o stanie nag\u0142ego zagro\u017cenia zdrowotnego osoby zatrzymanej i\npost\u0119puje zgodnie z przekazanymi przez niego informacjami.\n3.\nOsob\u0119 zatrzyman\u0105 poddaje si\u0119 badaniu lekarskiemu w przypadku, gdy:\n1)\nosoba ta o\u015bwiadcza, \u017ce cierpi na schorzenia wymagaj\u0105ce sta\u0142ego lub okresowego leczenia,\nkt\u00f3rego przerwanie powodowa\u0142oby zagro\u017cenie \u017cycia lub zdrowia, \u017c\u0105da przeprowadzenia\nbadania lekarskiego lub posiada widoczne obra\u017cenia cia\u0142a niewskazuj\u0105ce na stan nag\u0142ego\nzagro\u017cenia zdrowotnego;\n2)\nz posiadanych przez Policj\u0119 informacji lub z okoliczno\u015bci zatrzymania wynika, \u017ce osob\u0105\nzatrzyman\u0105 jest:\na)\nkobieta w ci\u0105\u017cy,\nb)\nkobieta karmi\u0105ca piersi\u0105,\nc)\nosoba chora zaka\u017anie,\nd)\nosoba z zaburzeniami psychicznymi,\ne)\nnieletni po spo\u017cyciu alkoholu lub innego, podobnie dzia\u0142aj\u0105cego \u015brodka.\n\u00a7 2.\nBadanie lekarskie osoby zatrzymanej przeprowadza lekarz udzielaj\u0105cy jej \u015bwiadcze\u0144\nzdrowotnych na miejscu lub lekarz najbli\u017cszego podmiotu wykonuj\u0105cego dzia\u0142alno\u015b\u0107 lecznicz\u0105,\nw\u0142a\u015bciwego ze wzgl\u0119du na stan zdrowia tej osoby.\n\u00a7 3.\n1.\nPrzewiezienie osoby zatrzymanej do najbli\u017cszego podmiotu leczniczego w celu przeprowadzenia\nbadania lekarskiego zapewnia Policja.\n2.\nJe\u017celi osoba zatrzymana, o kt\u00f3rej mowa w \u00a7 1 ust. 3 pkt 2 lit. d, dopuszcza si\u0119 zamachu\nna \u017cycie lub zdrowie cz\u0142owieka lub w spos\u00f3b gwa\u0142towny niszczy lub uszkadza przedmioty\nznajduj\u0105ce si\u0119 w jej otoczeniu, przewiezienie tej osoby do najbli\u017cszego podmiotu leczniczego\nnast\u0119puje specjalistycznym \u015brodkiem transportu sanitarnego.\n3.\nW przypadkach, o kt\u00f3rych mowa w ust. 2 oraz w \u00a7 1 ust. 1 i ust. 3 pkt 2 lit. c, przew\u00f3z\nosoby zatrzymanej specjalistycznym \u015brodkiem transportu sanitarnego nast\u0119puje w obecno\u015bci\npolicjanta, je\u017celi wynika to z decyzji osoby kieruj\u0105cej akcj\u0105 prowadzenia medycznych\nczynno\u015bci ratunkowych.\n\u00a7 4.\n1.\nBadanie lekarskie osoby zatrzymanej przeprowadza si\u0119 niezw\u0142ocznie, w miar\u0119 mo\u017cliwo\u015bci\nprzed innymi oczekuj\u0105cymi osobami.\n2.\nDecyzj\u0119 o obecno\u015bci policjanta w trakcie badania lekarskiego osoby zatrzymanej podejmuje\nlekarz wykonuj\u0105cy to badanie.\n\u00a7 5.\n1 2) W brzmieniu ustalonym przez \u00a7 1 pkt 1 rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i\nAdministracji z dnia 26 wrze\u015bnia 2022 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie bada\u0144\nlekarskich os\u00f3b zatrzymanych przez Policj\u0119 (Dz. U. poz. 2004), kt\u00f3re wesz\u0142o w \u017cycie\nz dniem 28 wrze\u015bnia 2022 r..\nPo przeprowadzeniu badania lekarskiego osoby zatrzymanej lekarz stwierdza:\n1)\nbrak przeciwwskaza\u0144 medycznych do przebywania tej osoby w pomieszczeniu przeznaczonym\ndla os\u00f3b zatrzymanych lub doprowadzonych w celu wytrze\u017awienia, w pokoju przej\u015bciowym,\ntymczasowym pomieszczeniu przej\u015bciowym, policyjnej izbie dziecka, areszcie \u015bledczym,\nzak\u0142adzie karnym, schronisku dla nieletnich, zak\u0142adzie poprawczym lub okr\u0119gowym o\u015brodku\nwychowawczym albo\n2)\nwyst\u0105pienie przeciwwskaza\u0144 medycznych do przebywania tej osoby w pomieszczeniu przeznaczonym\ndla os\u00f3b zatrzymanych lub doprowadzonych w celu wytrze\u017awienia, w pokoju przej\u015bciowym,\ntymczasowym pomieszczeniu przej\u015bciowym, policyjnej izbie dziecka, areszcie \u015bledczym,\nzak\u0142adzie karnym, schronisku dla nieletnich, zak\u0142adzie poprawczym lub okr\u0119gowym o\u015brodku\nwychowawczym oraz konieczno\u015b\u0107 skierowania jej do podmiotu leczniczego.\n2.\nW przypadkach, o kt\u00f3rych mowa w ust. 1, lekarz mo\u017ce stwierdzi\u0107 wskazania do stosowania\nlek\u00f3w i ich dawkowania.\n3.\nOkoliczno\u015bci, o kt\u00f3rych mowa w ust. 1 i 2, stwierdza si\u0119 w za\u015bwiadczeniu, kt\u00f3rego\nwz\u00f3r jest okre\u015blony w za\u0142\u0105czniku do rozporz\u0105dzenia.\n4.\nW sytuacji, o kt\u00f3rej mowa w ust. 1 pkt 2, lekarz podejmuje decyzj\u0119, czy przewiezienie\nosoby zatrzymanej do podmiotu leczniczego nast\u0105pi policyjnym \u015brodkiem transportu czy\nspecjalistycznym \u015brodkiem transportu sanitarnego.\n\u00a7 6.\nPolicjant niezw\u0142ocznie informuje dy\u017curnego komendy powiatowej (miejskiej, rejonowej)\nPolicji lub komisariatu specjalistycznego Policji, w kt\u00f3rych obszarze dzia\u0142ania przebywa\nosoba zatrzymana, o ka\u017cdym przypadku:\n1)\nudzielenia osobie zatrzymanej pierwszej pomocy, kwalifikowanej pierwszej pomocy, poddania\nosoby zatrzymanej badaniu lekarskiemu lub wykonania medycznych czynno\u015bci ratunkowych;\n2)\nodmowy osoby zatrzymanej na udzielenie jej pierwszej pomocy, kwalifikowanej pierwszej\npomocy, na poddanie si\u0119 badaniu lekarskiemu lub medycznym czynno\u015bciom ratunkowym albo\nzachowania tej osoby uniemo\u017cliwiaj\u0105cego dokonanie takich czynno\u015bci oraz sporz\u0105dza\nna t\u0119 okoliczno\u015b\u0107 notatk\u0119 urz\u0119dow\u0105; w notatce tej odnotowuje si\u0119 w szczeg\u00f3lno\u015bci imi\u0119\ni nazwisko lekarza, w obecno\u015bci kt\u00f3rego nast\u0105pi\u0142a odmowa, albo fakt, \u017ce odmowa nast\u0105pi\u0142a\npodczas nieobecno\u015bci lekarza.\n\u00a7 7.\n1.\nDy\u017curny, o kt\u00f3rym mowa w \u00a7 6, dokumentuje w policyjnych systemach informatycznych,\na w przypadku braku takiej mo\u017cliwo\u015bci - w ksi\u0105\u017cce przebiegu s\u0142u\u017cby, ka\u017cdy przypadek:\n1)\nudzielenia osobie zatrzymanej pierwszej pomocy, kwalifikowanej pierwszej pomocy, poddania\nosoby zatrzymanej badaniu lekarskiemu lub wykonania medycznych czynno\u015bci ratunkowych;\n2)\nodmowy osoby zatrzymanej na udzielenie jej pierwszej pomocy, kwalifikowanej pierwszej\npomocy, na poddanie si\u0119 badaniu lekarskiemu lub medycznym czynno\u015bciom ratunkowym albo\nzachowania tej osoby uniemo\u017cliwiaj\u0105cego dokonanie takich czynno\u015bci.\n2.\nKsi\u0105\u017cka przebiegu s\u0142u\u017cby, o kt\u00f3rej mowa w ust. 1, mo\u017ce by\u0107 prowadzona w postaci elektronicznej.\n\u00a7 8 3) W brzmieniu ustalonym przez \u00a7 1 pkt 2 rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 2..\nBrak zgody osoby zatrzymanej na udzielenie jej pierwszej pomocy, kwalifikowanej pierwszej\npomocy, na przeprowadzenie badania lekarskiego lub wykonanie medycznych czynno\u015bci\nratunkowych nie stanowi przeszkody w umieszczeniu tej osoby w pomieszczeniu przeznaczonym\ndla os\u00f3b zatrzymanych lub doprowadzonych w celu wytrze\u017awienia, w pokoju przej\u015bciowym,\ntymczasowym pomieszczeniu przej\u015bciowym, policyjnej izbie dziecka, areszcie \u015bledczym,\nzak\u0142adzie karnym, schronisku dla nieletnich, zak\u0142adzie poprawczym lub okr\u0119gowym o\u015brodku\nwychowawczym.\n\u00a7 9.\nTraci moc rozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 21 czerwca 2002 r.\nw sprawie bada\u0144 lekarskich os\u00f3b zatrzymanych przez Policj\u0119\n(Dz. U. poz. 880).\n\u00a7 10.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 30 dni od dnia og\u0142oszenia 4) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 5 pa\u017adziernika 2012 r..\nZa\u0142\u0105cznik\n-\nZa\u015bwiadczenie lekarskie (wz\u00f3r) 5) W brzmieniu ustalonym przez \u00a7 1 pkt 3 rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 2.\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.169551Z",
+    "updated_at": "2026-10-03T16:33:13.169551Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 96,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 49,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-03T16:42:59.499267Z",
+  "updated_at": "2026-10-03T16:42:59.499267Z",
+  "draft_created_at": "2026-10-03T16:39:43.219639Z",
+  "lead_time": 220.681,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 96,
+  "parent_annotation": null,
+  "last_created_by": null
+}
