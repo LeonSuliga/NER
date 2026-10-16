@@ -1,0 +1,3126 @@
+{
+  "id": 48,
+  "result": [
+    {
+      "value": {
+        "start": 359,
+        "end": 363,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Vv2biHOYoH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 364,
+        "end": 366,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OYnSNBXM0c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 367,
+        "end": 371,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "J_LrpP9uEc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 372,
+        "end": 373,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "IMGGMBiDc3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 374,
+        "end": 380,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "dlAfsLNFNh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 381,
+        "end": 389,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "qnn_AcVo6y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 489,
+        "end": 510,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "q_jy_MJ6FT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 511,
+        "end": 515,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GUIwQ7grtp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1372,
+        "end": 1393,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-3w7W44Aqn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1394,
+        "end": 1396,
+        "text": "32",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "isChw5fG4W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1567,
+        "end": 1571,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "IT_4EWmXXw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1572,
+        "end": 1573,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "t_-fYlZqlJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1743,
+        "end": 1747,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "9C9iznp3cn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1748,
+        "end": 1750,
+        "text": "33",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "rNHFm0hEeO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1899,
+        "end": 1903,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "E4nOuWjQcD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1904,
+        "end": 1905,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "e2Eb7W0f4i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2077,
+        "end": 2081,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "hKvV6-x1cK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2082,
+        "end": 2085,
+        "text": "150",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "rCTOFgg-Hy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2359,
+        "end": 2363,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Jt5noWFoCh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2364,
+        "end": 2366,
+        "text": "26",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "YQVS8siL0y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2368,
+        "end": 2372,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "IzZfC5c_Sr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2373,
+        "end": 2376,
+        "text": "128",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "o0IjNNb03g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2377,
+        "end": 2380,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ImdojkWDn-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2381,
+        "end": 2382,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "BISpz0uIF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2384,
+        "end": 2388,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dnehLW6vhr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2389,
+        "end": 2392,
+        "text": "139",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "6r_Iq4FKdT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2393,
+        "end": 2396,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "tok4v6HNTU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2397,
+        "end": 2398,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "gb1BIuX4Yz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2401,
+        "end": 2403,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "EgzinOYOOk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2405,
+        "end": 2409,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "J0NysdnV2Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2410,
+        "end": 2413,
+        "text": "145",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "7nNAWiuEje",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2414,
+        "end": 2418,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "UUXHYHCj5Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2419,
+        "end": 2420,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "X7r80uuF09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2423,
+        "end": 2424,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "lcpwwrvPdE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2426,
+        "end": 2430,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "EIDX6RVgGH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2431,
+        "end": 2434,
+        "text": "146",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "kRyiCgpMKA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2435,
+        "end": 2439,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "W4k8LfjYQp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2440,
+        "end": 2441,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "T1BiQ-hUrq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2444,
+        "end": 2445,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_AB164FgcR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2451,
+        "end": 2455,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "21WGQARD1U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2456,
+        "end": 2459,
+        "text": "147",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "cXAM-_37vb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2460,
+        "end": 2464,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "KSUF8C1rnl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2465,
+        "end": 2466,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "CM-MUR7j-y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2469,
+        "end": 2470,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "7pY3UpL-GQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2516,
+        "end": 2520,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xm3jbb8Z9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2521,
+        "end": 2523,
+        "text": "34",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "W46Twvc86_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2524,
+        "end": 2527,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "aQ-ruoEMrW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2528,
+        "end": 2529,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "0vp00S-_Du",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2531,
+        "end": 2535,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "AF49pMbEP_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2536,
+        "end": 2538,
+        "text": "36",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Jqj21uzhzW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2539,
+        "end": 2542,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "LIYipvwqFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2543,
+        "end": 2545,
+        "text": "23",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "CgbNAA3sLo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2547,
+        "end": 2551,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xY5J7a913y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2552,
+        "end": 2554,
+        "text": "48",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ekl4xhA74K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2555,
+        "end": 2558,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "SBcm_vqfgm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2559,
+        "end": 2560,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "KVVJCi6-VY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2563,
+        "end": 2564,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "cbO8iNEytu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2566,
+        "end": 2570,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "2kF4wFAdDf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2571,
+        "end": 2573,
+        "text": "84",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "MTRgsxdXwG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2575,
+        "end": 2579,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Bp59svIuVy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2580,
+        "end": 2582,
+        "text": "97",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "YkHstN0_jn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2583,
+        "end": 2586,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "EfWCTuADYj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2587,
+        "end": 2588,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "u2WSmr0uH-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2589,
+        "end": 2590,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "gmQ_KGkMgj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2592,
+        "end": 2593,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "4e4fdDz0Io",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2594,
+        "end": 2596,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "eGqjCVSgIQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2599,
+        "end": 2601,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "EiARic-7K8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2602,
+        "end": 2604,
+        "text": "36",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9iLneDRNhI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2610,
+        "end": 2614,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "SX4ydiO9fd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2615,
+        "end": 2618,
+        "text": "139",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "igM2YjqYxI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2619,
+        "end": 2622,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "2ho5gMEDXM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2623,
+        "end": 2624,
+        "text": "9",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Nmg7KuECsf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2625,
+        "end": 2629,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "mw4j55k59J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2630,
+        "end": 2631,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "sO8RsmY7wW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2688,
+        "end": 2692,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "sb7yhi6sUr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2693,
+        "end": 2694,
+        "text": "6",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "qezr7KLE_C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2869,
+        "end": 2890,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "PODGteN1Mx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2891,
+        "end": 2893,
+        "text": "32",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gCGsEiGwy2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2993,
+        "end": 2997,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "6zNMSnz0cu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2998,
+        "end": 2999,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "kIwIH6CbD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3002,
+        "end": 3006,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fbAul4hZXp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3007,
+        "end": 3008,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "wHf3jspbAO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3221,
+        "end": 3225,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "tkZ6_XIB_h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3226,
+        "end": 3227,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Hlj5PQzC3Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3297,
+        "end": 3308,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "awRZsNToO6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3309,
+        "end": 3311,
+        "text": "55",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DXw_X_pW0z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3989,
+        "end": 3993,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "7J0nnPltrw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3994,
+        "end": 3995,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "fos6uBcR8X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4044,
+        "end": 4050,
+        "text": "Zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "9k46NkXS3r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4051,
+        "end": 4059,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "QIRSUHS2la",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4088,
+        "end": 4092,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "eOEvuUjGSf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4093,
+        "end": 4094,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "zAZyp4y809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4269,
+        "end": 4290,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "X75BnPj3IO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4291,
+        "end": 4293,
+        "text": "32",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2LqmcB3TPJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4561,
+        "end": 4567,
+        "text": "Zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "AbW4k7R7uG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4568,
+        "end": 4574,
+        "text": "drugie",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "OyexsAQJHw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4607,
+        "end": 4611,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "9ju07e7x9H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4612,
+        "end": 4614,
+        "text": "29",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "MdvZWWiykK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4615,
+        "end": 4618,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "2ZBtUHPBiC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4619,
+        "end": 4620,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "erJfXXndNb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4672,
+        "end": 4683,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8aUpGqynNx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4684,
+        "end": 4686,
+        "text": "80",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "veQ5bHEdho",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4740,
+        "end": 4744,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "HtrbgJCsdw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4745,
+        "end": 4747,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "R4xtzdFnWX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4748,
+        "end": 4751,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "o48Lz6k9Z9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4752,
+        "end": 4753,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "M8RkjZQ8p2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4912,
+        "end": 4923,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "JbRjq0WF85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4924,
+        "end": 4927,
+        "text": "668",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PidRYpRuma",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5188,
+        "end": 5192,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "0Xzu0GRnL2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5193,
+        "end": 5194,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "yjZFvhAoUT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5458,
+        "end": 5462,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fqa4BwRE4K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5463,
+        "end": 5465,
+        "text": "29",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ml8vv8smHu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5466,
+        "end": 5469,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "fYeSh1cytb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5470,
+        "end": 5471,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "yN6cMFBFPp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5572,
+        "end": 5576,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fbLzsdPeSJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5577,
+        "end": 5578,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "B_-cXAZYrz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5878,
+        "end": 5882,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "tbLWVi6N6f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5883,
+        "end": 5884,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "gG9yJPDLDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6174,
+        "end": 6178,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "8EBEeumTWP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6179,
+        "end": 6181,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "eQnetNXDwC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6182,
+        "end": 6185,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ApIGivAnQX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6186,
+        "end": 6187,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "4KYKfUyp9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6652,
+        "end": 6656,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "o3JzpvxXc2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6657,
+        "end": 6659,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "15WX8QhNOU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6660,
+        "end": 6663,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "elryJaNDTm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6664,
+        "end": 6665,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "LXaxCdswia",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7858,
+        "end": 7869,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "JTxKc0O-u3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7870,
+        "end": 7873,
+        "text": "339",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RAG9plnSqk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8321,
+        "end": 8325,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "D52b1yXNiQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8326,
+        "end": 8327,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Q_gsKdoVZv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8350,
+        "end": 8354,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xCbobu2QWu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8355,
+        "end": 8356,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Ci7yRE3Vf8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8359,
+        "end": 8363,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "2qyiP99VfX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8364,
+        "end": 8365,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "HyxElKJjpD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8366,
+        "end": 8370,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "CRh9RDsHem",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8371,
+        "end": 8372,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "0QZmoa0rkT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8447,
+        "end": 8451,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3fHeYhhe_x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8452,
+        "end": 8453,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "AspltZ_lB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8786,
+        "end": 8790,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3GCEBKmTRW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8791,
+        "end": 8793,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "gN8WnpfK6I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8794,
+        "end": 8797,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "iUaFsBK7ly",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8798,
+        "end": 8799,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "S_THDpNJNL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8800,
+        "end": 8805,
+        "text": "tiret",
+        "labels": [
+          "TIR_KEY"
+        ]
+      },
+      "id": "ReAEXgsgyd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8806,
+        "end": 8814,
+        "text": "pierwsze",
+        "labels": [
+          "TIR_VAL"
+        ]
+      },
+      "id": "I0eIRwSdOU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9344,
+        "end": 9350,
+        "text": "Zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "YeoI_TxJof",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9351,
+        "end": 9357,
+        "text": "drugie",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "PHx-6usknH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9371,
+        "end": 9375,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "CticfROYXu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9376,
+        "end": 9378,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "VTQhO5C7oa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9379,
+        "end": 9382,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "wbaAWn2yoc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9383,
+        "end": 9384,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "LUI5Lb8oVM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9385,
+        "end": 9390,
+        "text": "tiret",
+        "labels": [
+          "TIR_KEY"
+        ]
+      },
+      "id": "RefhQyaj6P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9391,
+        "end": 9397,
+        "text": "drugie",
+        "labels": [
+          "TIR_VAL"
+        ]
+      },
+      "id": "1DuHEqy1P8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9463,
+        "end": 9467,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "LCW1otOqLI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9468,
+        "end": 9469,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aquYDtSm_Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9470,
+        "end": 9471,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "1U5qoOla4X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9672,
+        "end": 9676,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "TVkWUQxf3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9677,
+        "end": 9678,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "FRwN03JlHZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9679,
+        "end": 9680,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aXYAUVvE_p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10027,
+        "end": 10031,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "c3Yq5Xz_wP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10032,
+        "end": 10034,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "d3EgvN9RvW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10035,
+        "end": 10038,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "_7azUJcHr-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10039,
+        "end": 10040,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "oDy3nx3Lbq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10043,
+        "end": 10044,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "J-tfPHwiRP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10210,
+        "end": 10214,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "e9-mX2V8kW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10215,
+        "end": 10216,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "g57q8J0ysR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10217,
+        "end": 10221,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_KPbUrJpeI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10222,
+        "end": 10223,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "iZrItkJUxm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10615,
+        "end": 10619,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ywBXZS9XZj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10620,
+        "end": 10621,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "o5t9U8gsdt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10695,
+        "end": 10706,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ciaDRDFWb3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10707,
+        "end": 10710,
+        "text": "169",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vDOvQlQ9P0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10895,
+        "end": 10899,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "kWjo6VBoYN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10900,
+        "end": 10902,
+        "text": "45",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "C1hk8Swba9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10904,
+        "end": 10906,
+        "text": "46",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "TnhcIJ_sdV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10909,
+        "end": 10911,
+        "text": "47",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "8it1xwY25L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10912,
+        "end": 10916,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "GkBjdPRV6f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10917,
+        "end": 10918,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "nJrTInF9SN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10970,
+        "end": 10991,
+        "text": "Dz. U. z 1927 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "q5RuQ5DXNe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10992,
+        "end": 10995,
+        "text": "833",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hBUhle3e0a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11025,
+        "end": 11029,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "aoCe687rYC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11030,
+        "end": 11032,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "mmE_AyQODY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11088,
+        "end": 11099,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Exuvzb8y8V",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11100,
+        "end": 11103,
+        "text": "367",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "YkF2dUD2V3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11236,
+        "end": 11247,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "h7JD32BeSR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11248,
+        "end": 11251,
+        "text": "392",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SN39nr1te4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11337,
+        "end": 11348,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "2IQS9u9zc3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11349,
+        "end": 11352,
+        "text": "340",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tooEiWsHCv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 672,
+        "end": 690,
+        "text": "Dz. U. Nr 11, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BLNqkDcsH7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 691,
+        "end": 693,
+        "text": "67",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LPHy6upkSH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 809,
+        "end": 827,
+        "text": "Dz. U. Nr 39, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "N6o7ngLbEY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 828,
+        "end": 831,
+        "text": "169",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DzriLUnWDQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 888,
+        "end": 906,
+        "text": "Dz. U. Nr 11, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "jmjWeENIbT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 907,
+        "end": 909,
+        "text": "80",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "mmMPRhIa9I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 984,
+        "end": 1002,
+        "text": "Dz. U. Nr 10, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WGZArz87dX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1003,
+        "end": 1005,
+        "text": "55",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "p6Sf4CvS1M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1169,
+        "end": 1188,
+        "text": "Dz. U. Nr 106, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-UidJnM1wv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1189,
+        "end": 1192,
+        "text": "668",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ZLYCvu7GQD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1646,
+        "end": 1664,
+        "text": "Dz. U. Nr 39, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Fr-W9m3naO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1665,
+        "end": 1668,
+        "text": "169",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "mdVARF_6K5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1802,
+        "end": 1820,
+        "text": "Dz. U. Nr 11, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vXjDUfAWLZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1821,
+        "end": 1823,
+        "text": "80",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "T0QCIbUuoR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1975,
+        "end": 1993,
+        "text": "Dz. U. Nr 10, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "1pHIFRe14U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1994,
+        "end": 1996,
+        "text": "55",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6dO3LtOqyg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2244,
+        "end": 2263,
+        "text": "Dz. U. Nr 106, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "eDR_-_lD7t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2264,
+        "end": 2267,
+        "text": "668",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BnB7waTx28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 12,
+    "data": {
+      "text": "Obwieszczenie Marsza\u0142ka Sejmu Rzeczypospolitej Polskiej z dnia 23 lipca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu ustawy o utracie mocy prawnej niekt\u00f3rych ksi\u0105g\nwieczystych\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niekt\u00f3rych\nksi\u0105g wieczystych\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych\ni niekt\u00f3rych innych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niekt\u00f3rych ksi\u0105g wieczystych\n(Dz. U. Nr 11, poz. 67), z uwzgl\u0119dnieniem zmian wprowadzonych:\n1)\nustaw\u0105 z dnia 29 czerwca 1962 r. zmieniaj\u0105ca dekret o wymianie grunt\u00f3w\n(Dz. U. Nr 39, poz. 169),\n2)\nustaw\u0105 z dnia 26 marca 1982 r. o scalaniu grunt\u00f3w\n(Dz. U. Nr 11, poz. 80),\n3)\nustaw\u0105 z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu grunt\u00f3w\n(Dz. U. Nr 10, poz. 55),\n4)\nustaw\u0105 z dnia 24 lipca 1998 r. o zmianie niekt\u00f3rych ustaw okre\u015blaj\u0105cych kompetencje\norgan\u00f3w administracji publicznej - w zwi\u0105zku z reform\u0105 ustrojow\u0105 pa\u0144stwa\n(Dz. U. Nr 106, poz. 668),\n5)\nustaw\u0105 z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie grunt\u00f3w, ustawy\no utracie mocy prawnej niekt\u00f3rych ksi\u0105g wieczystych oraz ustawy o drogach publicznych\n(Dz. U. z 2022 r. poz. 32)\noraz zmian wynikaj\u0105cych z przepis\u00f3w og\u0142oszonych przed dniem 18 lipca 2024 r.\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:\n1)\nart. 4 ustawy z dnia 29 czerwca 1962 r. zmieniaj\u0105ca dekret o wymianie grunt\u00f3w\n(Dz. U. Nr 39, poz. 169), kt\u00f3ry stanowi:\n\u201eArt. 4.\nUstawa wchodzi w \u017cycie z dniem og\u0142oszenia.\u201d;\n2)\nart. 33 ustawy z dnia 26 marca 1982 r. o scalaniu grunt\u00f3w\n(Dz. U. Nr 11, poz. 80), kt\u00f3ry stanowi:\n\u201eArt. 33.\nUstawa wchodzi w \u017cycie z dniem og\u0142oszenia.\u201d;\n3)\nart. 5 ustawy z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu grunt\u00f3w\n(Dz. U. Nr 10, poz. 55), kt\u00f3ry stanowi:\n\u201eArt. 5.\nUstawa wchodzi w \u017cycie z dniem 1 czerwca 1989 r.\u201d;\n4)\nart. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niekt\u00f3rych ustaw okre\u015blaj\u0105cych kompetencje\norgan\u00f3w administracji publicznej - w zwi\u0105zku z reform\u0105 ustrojow\u0105 pa\u0144stwa\n(Dz. U. Nr 106, poz. 668), kt\u00f3ry stanowi:\n\u201eArt. 150.\nUstawa wchodzi w \u017cycie z dniem 1 stycznia 1999 r., z wyj\u0105tkiem art. 26, art. 128 pkt\n2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust.\n2 i 3, kt\u00f3re wchodz\u0105 w \u017cycie z dniem og\u0142oszenia, i art. 34 pkt 1, art. 36 pkt 23,\nart. 48 pkt 1 i 3, art. 84, art. 97 pkt 1-3, 5-10 i 12-36 oraz art. 139 pkt 9 lit.\na), kt\u00f3re wchodz\u0105 w \u017cycie z dniem 1 stycznia 2000 r.\u201d;\n5)\nart. 6 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie grunt\u00f3w,\nustawy o utracie mocy prawnej niekt\u00f3rych ksi\u0105g wieczystych oraz ustawy o drogach publicznych\n(Dz. U. z 2022 r. poz. 32), kt\u00f3ry stanowi:\n\u201eArt. 6.\nUstawa wchodzi w \u017cycie po up\u0142ywie 30 dni od dnia og\u0142oszenia, z wyj\u0105tkiem art. 3 i\nart. 5, kt\u00f3re wchodz\u0105 w \u017cycie po up\u0142ywie 7 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niekt\u00f3rych\nksi\u0105g wieczystych\nArt. 1 1) W brzmieniu ustalonym przez art. 2 ustawy z dnia 24 lutego 1989 r. o zmianie ustawy\no scalaniu grunt\u00f3w (Dz. U. poz. 55), kt\u00f3ra wesz\u0142a w \u017cycie z dniem 1 czerwca 1989 r..\n1.\nProwadzone dotychczas ksi\u0119gi wieczyste, za\u0142o\u017cone przed dniem 1 stycznia 1947 r. dla\nnieruchomo\u015bci ziemskich obj\u0119tych post\u0119powaniem scaleniowym lub wymian\u0105 grunt\u00f3w, trac\u0105\nmoc prawn\u0105 i podlegaj\u0105 zamkni\u0119ciu z chwil\u0105 podj\u0119cia ostatecznej decyzji o zatwierdzeniu\nprojektu scalenia lub wymiany grunt\u00f3w.\n2.\nKsi\u0119gi wieczyste za\u0142o\u017cone po dniu 1 stycznia 1947 r. dla nieruchomo\u015bci ziemskich obj\u0119tych\nscaleniem lub wymian\u0105 grunt\u00f3w nie trac\u0105 mocy prawnej, je\u017celi uwidoczniony w nich stan\njest zgodny ze stanem wykazanym w ewidencji grunt\u00f3w.\nArt. 2.\n1.\nS\u0105d prowadz\u0105cy ksi\u0119gi wieczyste dokonuje zamkni\u0119cia ksi\u0105g wieczystych okre\u015blonych\nw art. 1 na skutek zawiadomienia w\u0142a\u015bciwego starosty. 2) Zdanie pierwsze w brzmieniu ustalonym przez art. 2 ustawy z dnia 2 grudnia 2021 r.\no zmianie ustawy o scalaniu i wymianie grunt\u00f3w, ustawy o utracie mocy prawnej niekt\u00f3rych\nksi\u0105g wieczystych oraz ustawy o drogach publicznych (Dz. U. z 2022 r. poz. 32), kt\u00f3ra\nwesz\u0142a w \u017cycie z dniem 10 lutego 2022 r. Do zawiadomienia powinien by\u0107 do\u0142\u0105czony odpis decyzji o zatwierdzeniu projektu scalenia\nlub odpowiedni wyci\u0105g z tego dokumentu oraz sporz\u0105dzone w toku post\u0119powania scaleniowego\ndokumenty pomiarowe (mapa i rejestr). 3) Zdanie drugie ze zmianami wprowadzonymi przez art. 29 pkt 2 ustawy z dnia 26 marca\n1982 r. o scalaniu grunt\u00f3w (Dz. U. poz. 80), kt\u00f3ra wesz\u0142a w \u017cycie z dniem 6 kwietnia\n1982 r., i art. 17 pkt 2 ustawy z dnia 24 lipca 1998 r. o zmianie niekt\u00f3rych ustaw\nokre\u015blaj\u0105cych kompetencje organ\u00f3w administracji publicznej - w zwi\u0105zku z reform\u0105 ustrojow\u0105\npa\u0144stwa (Dz. U. poz. 668), kt\u00f3ra wesz\u0142a w \u017cycie z dniem 1 stycznia 1999 r.\n2.\nZamkni\u0119cie ksi\u0105g wieczystych mo\u017ce nast\u0105pi\u0107 r\u00f3wnie\u017c na skutek zawiadomienia wpisanych\nw nich w\u0142a\u015bcicieli lub uczestnik\u00f3w scalenia wzgl\u0119dnie wymiany grunt\u00f3w, do kt\u00f3rego\nzostan\u0105 za\u0142\u0105czone dokumenty okre\u015blone w ust. 1.\n3.\nO utracie mocy prawnej ksi\u0119gi wieczystej i o jej zamkni\u0119ciu s\u0105d zawiadamia z urz\u0119du\nwpisanego w niej w\u0142a\u015bciciela nieruchomo\u015bci oraz wszystkie inne osoby, na rzecz kt\u00f3rych\nfiguruj\u0105 w ksi\u0119dze wieczystej jakiekolwiek wpisy.\nArt. 3 4) Ze zmian\u0105 wprowadzon\u0105 przez art. 29 pkt 3 ustawy wymienionej jako pierwsza w odno\u015bniku\n3..\nDla nieruchomo\u015bci, kt\u00f3rych ksi\u0119gi wieczyste z mocy art. 1 utraci\u0142y moc prawn\u0105, oraz\ndla nieruchomo\u015bci, kt\u00f3re by\u0142y obj\u0119te post\u0119powaniem scaleniowym lub wymian\u0105 grunt\u00f3w,\na nie mia\u0142y urz\u0105dzonych ksi\u0105g wieczystych, lub kt\u00f3rych ksi\u0119gi wieczyste zagin\u0119\u0142y albo\nuleg\u0142y zniszczeniu, zak\u0142ada si\u0119 ksi\u0119gi wieczyste z urz\u0119du.\nArt. 4.\n1.\nDla nieruchomo\u015bci wymienionych w art. 3 zak\u0142ada si\u0119 ksi\u0119gi wieczyste wed\u0142ug przepis\u00f3w\ndotycz\u0105cych zak\u0142adania ksi\u0105g wieczystych dla nieruchomo\u015bci, kt\u00f3re nie mia\u0142y urz\u0105dzonych\ntakich ksi\u0105g, z t\u0105 zmian\u0105, i\u017c termin do zg\u0142aszania praw podlegaj\u0105cych wskazaniu w\nobwieszczeniu wynosi trzy miesi\u0105ce.\n2 5) Ze zmianami wprowadzonymi przez art. 17 pkt 2 ustawy wymienionej jako druga w odno\u015bniku\n3..\nPodstaw\u0119 wpisu prawa w\u0142asno\u015bci oraz wpisu dotycz\u0105cego oznaczenia nieruchomo\u015bci w zak\u0142adanych\nksi\u0119gach wieczystych stanowi decyzja o zatwierdzeniu projektu scalenia lub decyzja\no wymianie grunt\u00f3w oraz sporz\u0105dzone w toku post\u0119powania scaleniowego lub post\u0119powania\no wymian\u0119 grunt\u00f3w dokumenty pomiarowe: mapa (plan) i rejestr grunt\u00f3w (opis nieruchomo\u015bci)\nz operatu ewidencji grunt\u00f3w.\n3 5) Ze zmianami wprowadzonymi przez art. 17 pkt 2 ustawy wymienionej jako druga w odno\u015bniku\n3..\nJednocze\u015bnie z wpisaniem w zak\u0142adanej ksi\u0119dze wieczystej w\u0142a\u015bciciela nieruchomo\u015bci\npowinny by\u0107 wpisane w niej z urz\u0119du istniej\u0105ce w zamkni\u0119tej ksi\u0119dze wieczystej wpisy\ndotycz\u0105ce u\u017cytkowania nieruchomo\u015bci, s\u0142u\u017cebno\u015bci osobistych oraz s\u0142u\u017cebno\u015bci gruntowych,\nkt\u00f3re na skutek scalenia lub wymiany grunt\u00f3w nie sta\u0142y si\u0119 bezprzedmiotowe, ci\u0119\u017car\u00f3w\nrealnych i po\u017cyczek z fundusz\u00f3w pa\u0144stwowych oraz innych nale\u017cno\u015bci pa\u0144stwowych. Istnienie\ntych obci\u0105\u017ce\u0144 powinno by\u0107 stwierdzone w toku post\u0119powania scaleniowego lub post\u0119powania\no wymian\u0119 grunt\u00f3w i uwidocznione w decyzji o zatwierdzeniu projektu scalenia i decyzji\no wymianie grunt\u00f3w. Inne wpisy, kt\u00f3re figurowa\u0142y w dawniejszych ksi\u0119gach wieczystych,\nwci\u0105ga si\u0119 tylko na wniosek os\u00f3b uprawnionych lub w\u0142a\u015bciciela nieruchomo\u015bci.\nArt. 5.\nTrac\u0105 moc prawn\u0105 i podlegaj\u0105 z urz\u0119du zamkni\u0119ciu ksi\u0119gi wieczyste nieruchomo\u015bci, po\u0142o\u017conych\nna obszarze mocy obowi\u0105zuj\u0105cej dekretu z dnia 27 lipca 1949 r. o przej\u0119ciu na w\u0142asno\u015b\u0107 Pa\u0144stwa nie pozostaj\u0105cych\nw faktycznym w\u0142adaniu w\u0142a\u015bcicieli nieruchomo\u015bci ziemskich, po\u0142o\u017conych w niekt\u00f3rych\npowiatach wojew\u00f3dztw bia\u0142ostockiego, lubelskiego, rzeszowskiego i krakowskiego\n(Dz. U. poz. 339) w miejscowo\u015bciach, kt\u00f3re zostan\u0105 okre\u015blone w rozporz\u0105dzeniu Ministra Sprawiedliwo\u015bci\nwydanym w porozumieniu z Ministrem Rolnictwa. Nie dotyczy to tych ksi\u0105g wieczystych\nnieruchomo\u015bci po\u0142o\u017conych w powy\u017cszych miejscowo\u015bciach, kt\u00f3re zostan\u0105 w rozporz\u0105dzeniu\nwyra\u017anie wymienione jako zachowuj\u0105ce nadal moc prawn\u0105.\nArt. 6.\n1.\nDo zak\u0142adania ksi\u0105g wieczystych dla nieruchomo\u015bci, po\u0142o\u017conych w miejscowo\u015bciach okre\u015blonych\nw rozporz\u0105dzeniu przewidzianym w art. 5, stosuje si\u0119 przepisy art. 3 i art. 4 ust.\n1, je\u017celi ksi\u0119gi wieczyste tych nieruchomo\u015bci utraci\u0142y moc prawn\u0105 zgodnie z art. 5\nb\u0105d\u017a zagin\u0119\u0142y lub uleg\u0142y zniszczeniu albo je\u017celi nieruchomo\u015bci te nie mia\u0142y ksi\u0105g\nwieczystych. Jednak\u017ce zak\u0142adanie ksi\u0105g wieczystych dla nieruchomo\u015bci, kt\u00f3re zosta\u0142y\nnabyte przez ich w\u0142a\u015bcicieli od Pa\u0144stwa lub stanowi\u0105 w\u0142asno\u015b\u0107 spadkobierc\u00f3w takich\nnabywc\u00f3w, odbywa si\u0119 bez dokonywania obwieszcze\u0144.\n2 6) Ze zmian\u0105 wprowadzon\u0105 przez art. 17 pkt 3 tiret pierwsze ustawy wymienionej jako druga\nw odno\u015bniku 3..\nPodstaw\u0105 wpisu prawa w\u0142asno\u015bci oraz wpisu dotycz\u0105cego oznaczenia nieruchomo\u015bci w zak\u0142adanych\nksi\u0119gach wieczystych i ci\u0105\u017c\u0105cych na nieruchomo\u015bci obci\u0105\u017ce\u0144 jest decyzja w\u0142a\u015bciwego\nstarosty o nadaniu nieruchomo\u015bci przez Pa\u0144stwo b\u0105d\u017a te\u017c akt notarialny stwierdzaj\u0105cy\nodp\u0142atne nabycie nieruchomo\u015bci od Pa\u0144stwa oraz dokumenty pomiarowe: mapa (plan) i\nrejestr grunt\u00f3w (opis nieruchomo\u015bci) z operatu ewidencji grunt\u00f3w. Wydawanie tych decyzji\njest zadaniem z zakresu administracji rz\u0105dowej. 7) Zdanie drugie dodane przez art. 17 pkt 3 tiret drugie ustawy wymienionej jako druga\nw odno\u015bniku 3.\nArt. 7.\n1.\nPrzepisy art. 1-4 stosuje si\u0119 r\u00f3wnie\u017c do ksi\u0105g wieczystych tych nieruchomo\u015bci, co\ndo kt\u00f3rych post\u0119powanie scaleniowe lub post\u0119powanie o wymian\u0119 grunt\u00f3w jest w toku\nw dniu wej\u015bcia w \u017cycie niniejszej ustawy.\n2.\nPrzepisy art. 1-4 stosuje si\u0119 tak\u017ce do ksi\u0105g wieczystych nieruchomo\u015bci, co do kt\u00f3rych\npost\u0119powanie scaleniowe b\u0105d\u017a post\u0119powanie o wymian\u0119 grunt\u00f3w zosta\u0142o przed dniem wej\u015bcia\nw \u017cycie niniejszej ustawy zako\u0144czone, jednak stan prawny powsta\u0142y w wyniku scalenia\nlub wymiany grunt\u00f3w nie zosta\u0142 w tych ksi\u0119gach dotychczas ujawniony.\n3 8) Ze zmianami wprowadzonymi przez art. 17 pkt 2 i 4 ustawy wymienionej jako druga w\nodno\u015bniku 3..\nJe\u017celi prawomocna decyzja o zatwierdzeniu projektu scalenia lub o wymianie grunt\u00f3w\nnie odpowiada warunkom okre\u015blonym w art. 4 ust. 3, w\u0142a\u015bciwy starosta wyda dodatkow\u0105\ndecyzj\u0119 ustalaj\u0105ce te obci\u0105\u017cenia, kt\u00f3re zgodnie z powo\u0142anym przepisem wymagaj\u0105 ujawnienia\nw ksi\u0119gach wieczystych.\nArt. 8.\nWnioski o za\u0142o\u017cenie ksi\u0105g wieczystych dla nieruchomo\u015bci, kt\u00f3rych ksi\u0119gi trac\u0105 moc\nprawn\u0105 wed\u0142ug niniejszej ustawy, oraz wnioski o wpis obci\u0105\u017ce\u0144, kt\u00f3re figurowa\u0142y w\ntych ksi\u0119gach, s\u0105 wolne od wpisu s\u0105dowego.\nArt. 9.\n(uchylony) 9) Przez art. 2 ustawy z dnia 29 czerwca 1962 r. zmieniaj\u0105cej dekret o wymianie grunt\u00f3w\n(Dz. U. poz. 169), kt\u00f3ra wesz\u0142a w \u017cycie z dniem 6 lipca 1962 r.\nArt. 10.\nKsi\u0119gi wieczyste, kt\u00f3re trac\u0105 moc prawn\u0105 na podstawie niniejszej ustawy, zachowuj\u0105\nznaczenie dokument\u00f3w.\nArt. 11.\nTrac\u0105 moc:\n1)\nart. 45, 46 i 47 ust. 1 ustawy z dnia 31 lipca 1923 r. o scalaniu grunt\u00f3w\n(Dz. U. z 1927 r. poz. 833 z p\u00f3\u017aniejszymi zmianami);\n2)\nart. 16 dekretu z dnia 16 sierpnia 1949 r. o wymianie grunt\u00f3w\n(Dz. U. poz. 367);\n3)\nustawa z dnia 17 marca 1932 r. o post\u0119powaniu uproszczonym przy regulowaniu stanu\nhipotecznego grunt\u00f3w w zwi\u0105zku ze scaleniem\n(Dz. U. poz. 392);\n4)\nustawa z dnia 21 marca 1931 r. o dowodach prawa w\u0142asno\u015bci do grunt\u00f3w scalonych\n(Dz. U. poz. 340 z p\u00f3\u017aniejszymi zmianami).\nArt. 12.\nUstawa wchodzi w \u017cycie z dniem og\u0142oszenia 10) Ustawa zosta\u0142a og\u0142oszona w dniu 1 marca 1960 r.."
+    },
+    "meta": {},
+    "created_at": "2026-10-08T14:35:50.715429Z",
+    "updated_at": "2026-10-08T14:35:50.715453Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 12,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-16T06:02:06.797645Z",
+  "updated_at": "2026-10-16T06:02:06.797679Z",
+  "draft_created_at": "2026-10-16T05:59:19.226988Z",
+  "lead_time": 193.873,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": 12,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,2271 @@
+{
+  "id": 45,
+  "result": [
+    {
+      "value": {
+        "start": 391,
+        "end": 392,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "qhnWZcjEAj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 393,
+        "end": 394,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "tBVG4KiaXX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 395,
+        "end": 399,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "DAHFcUsTVR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 400,
+        "end": 401,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zJVrnOLOYo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 402,
+        "end": 405,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "_3ZUM_WmmS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 406,
+        "end": 407,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "54zAVr3CeA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 533,
+        "end": 544,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "QkWUkz_61p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 545,
+        "end": 549,
+        "text": "2710",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JPT4hQ4L19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2594,
+        "end": 2598,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "vMhz8Ik7-m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2599,
+        "end": 2601,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Wrp5Jana3j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2602,
+        "end": 2606,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "bMiK_SYiur",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2607,
+        "end": 2608,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9r89qUby95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2708,
+        "end": 2729,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "4t4ahfpOM4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2730,
+        "end": 2734,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Di1jA0p92u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3027,
+        "end": 3048,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "hzEqwpt5fy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3049,
+        "end": 3052,
+        "text": "692",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "neiNsQsY8J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3332,
+        "end": 3343,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "FN5HIjuHeM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3344,
+        "end": 3348,
+        "text": "1279",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "FddkUwVZ_Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3447,
+        "end": 3448,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nAFH06ccxg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3449,
+        "end": 3450,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "hUr22zkwZo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3453,
+        "end": 3454,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "u0J-nA4n92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3455,
+        "end": 3456,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "QKxECBm12B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3697,
+        "end": 3708,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_qfL5ULDnE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3709,
+        "end": 3713,
+        "text": "1279",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zdb2uBGd09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3776,
+        "end": 3777,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "umEWiHH0CT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3778,
+        "end": 3779,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "fq1-upSCT4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4410,
+        "end": 4411,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "wl1VHrxMkM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4412,
+        "end": 4413,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "-90bhlW96x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4414,
+        "end": 4418,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "9qtVY-QWrk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4419,
+        "end": 4420,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "q2Rmb0yWZf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4421,
+        "end": 4424,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "mqTNStFF7z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4425,
+        "end": 4426,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "76_Z4u8qAH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4552,
+        "end": 4563,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "qieW324Q4r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4564,
+        "end": 4568,
+        "text": "2710",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zwroDumi6f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4584,
+        "end": 4588,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OaqQEyI6r7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4589,
+        "end": 4591,
+        "text": "30",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OlkzEhbSPP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4592,
+        "end": 4596,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "8saAYq01dp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4597,
+        "end": 4598,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "yC5negxl4P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4648,
+        "end": 4669,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "LDudmDtw7e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4670,
+        "end": 4674,
+        "text": "1131",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0pyozXOy0r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4704,
+        "end": 4705,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "9rPBK6Yyud",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4706,
+        "end": 4707,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "7CDZBkS159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5161,
+        "end": 5164,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ukWNGsk1uK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5165,
+        "end": 5166,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "YvGq7Eoo7w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6073,
+        "end": 6076,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "s4Jw6Sb-CU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6077,
+        "end": 6078,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ryXx1cKuHz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7321,
+        "end": 7325,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gMEKx8QalR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7326,
+        "end": 7328,
+        "text": "23",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "5iTYsheEaj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7329,
+        "end": 7333,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Tk4qaeiG3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7334,
+        "end": 7336,
+        "text": "2c",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "msf3ODXRAO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7398,
+        "end": 7419,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "4ElTeMdF6d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7420,
+        "end": 7424,
+        "text": "2025",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "I6kLMd3YBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7884,
+        "end": 7888,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "mjzeGjiKXD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7889,
+        "end": 7890,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "x3152ESQIE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8117,
+        "end": 8121,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "CGUF_yAIol",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8122,
+        "end": 8123,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "MIGueKqdiT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8126,
+        "end": 8127,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "CJXf3_Ra-B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8514,
+        "end": 8535,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "tOgIdbmY5H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8536,
+        "end": 8539,
+        "text": "722",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "MvHLdDtCZR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8920,
+        "end": 8924,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "R3Sk_uDzIb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8925,
+        "end": 8926,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "XlEnwKkcT5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9952,
+        "end": 9956,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "HoI0s1S3AO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9957,
+        "end": 9958,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "HivG-LJ2kR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10077,
+        "end": 10081,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "XE_jAUg2vI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10082,
+        "end": 10083,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "6_8S2BZDIv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10756,
+        "end": 10757,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "GViFQBBW7R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10758,
+        "end": 10759,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "y-AfP1XRxM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10760,
+        "end": 10761,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "6pG605qNS8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11074,
+        "end": 11078,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "UBcIW6os7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11079,
+        "end": 11080,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "TMv9bmAPgh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11168,
+        "end": 11172,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "i0jBD8Z-Rg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11173,
+        "end": 11174,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Ytp2FfhrhL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11401,
+        "end": 11405,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "H3KUvJbL8_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11406,
+        "end": 11407,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "cCO0XKkYa4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11410,
+        "end": 11411,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "t3Nd3zTcsf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11992,
+        "end": 11993,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Ot22L-z6YN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11994,
+        "end": 11995,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "9k3BKybp8O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11998,
+        "end": 11999,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "JttnxR3aK7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12000,
+        "end": 12001,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "VegRwc3gKJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12138,
+        "end": 12139,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "05HW9JBrvN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12140,
+        "end": 12141,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "FMoY_ZteXy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12144,
+        "end": 12145,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KgJxVAigP-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12146,
+        "end": 12147,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "kDKnDie91O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12375,
+        "end": 12378,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Wq8NhWUcVf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12379,
+        "end": 12380,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "5IuArebggG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12562,
+        "end": 12563,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "BX1Q7RbHu6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12564,
+        "end": 12565,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ruHpCO4sMS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12567,
+        "end": 12568,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "eVIoCfRUBL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12569,
+        "end": 12570,
+        "text": "5",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "O0WzYvSuix",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12573,
+        "end": 12574,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "8eYmfOtgZ_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12575,
+        "end": 12576,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "KEow5QYFbv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13210,
+        "end": 13211,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "RmfUJs1HOb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13212,
+        "end": 13213,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "fu1QeeXQCv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14563,
+        "end": 14567,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "PHsXwtAqIs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14568,
+        "end": 14569,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ECBhYkbABs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14732,
+        "end": 14733,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "DV21Z8zC_U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14734,
+        "end": 14735,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "dNqwKZgAkx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14736,
+        "end": 14740,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "6lP3ASnfjx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14741,
+        "end": 14742,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "yQ9RaU8MKs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15018,
+        "end": 15019,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "aPQLrGGw86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15020,
+        "end": 15021,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "1xdi3D869E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15023,
+        "end": 15024,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "8I_xv84GZo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15025,
+        "end": 15026,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ZPJNlVFB0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15029,
+        "end": 15030,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "G9hQShSAGb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15031,
+        "end": 15032,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "GOOO5gC_rK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15118,
+        "end": 15119,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Mh0s2uPHq7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15120,
+        "end": 15121,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "sNEek57S-k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15123,
+        "end": 15124,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "lCeSnlb1WH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15125,
+        "end": 15126,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "qA1dXowQQs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15128,
+        "end": 15129,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "lEV-yPhqB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15130,
+        "end": 15131,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OO3Fh5hIXK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15136,
+        "end": 15137,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "OfCizggFKO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15138,
+        "end": 15139,
+        "text": "8",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "EaqBfNSXVu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15265,
+        "end": 15266,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "765pZAUrNV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15267,
+        "end": 15268,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Nq1hHxXELp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15269,
+        "end": 15273,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "N-tv5MEQeW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15274,
+        "end": 15275,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "HeSweE9e3R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15277,
+        "end": 15278,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "4hMKUTv74d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15279,
+        "end": 15280,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "o3fDZy2g-B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15282,
+        "end": 15283,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "GDJUq0reCI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15284,
+        "end": 15285,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "-V9gcwi2eE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15286,
+        "end": 15290,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "nRlMqI6XNo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15291,
+        "end": 15292,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1WvswZ7qZ5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15297,
+        "end": 15298,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "w4VoGf06na",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15299,
+        "end": 15300,
+        "text": "8",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "EmgWlwmRwX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15446,
+        "end": 15447,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "61USYKetLh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15448,
+        "end": 15449,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "vmRg2Uat4L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15452,
+        "end": 15453,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "5w-myXW3wc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15454,
+        "end": 15455,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "6GSRw6QZ99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15456,
+        "end": 15457,
+        "text": "8",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "oDDZMhjRmi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15462,
+        "end": 15463,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "F4MI8NvndA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15464,
+        "end": 15465,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "xUeKf8k5wf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15466,
+        "end": 15470,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "90lLAZlrIW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15471,
+        "end": 15472,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "971O8EpNMO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15477,
+        "end": 15478,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "QfVoE1nv79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15479,
+        "end": 15480,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "qRFKOWk7l1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15481,
+        "end": 15485,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "16VTl2vP08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15486,
+        "end": 15487,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "l7lyKSidUN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15667,
+        "end": 15668,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "QWVJCSnK8k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15669,
+        "end": 15670,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "C71njvRScO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15673,
+        "end": 15674,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KMT8gMXz7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15675,
+        "end": 15676,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "PF6iAWMc3W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17611,
+        "end": 17622,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "UiyQacq293",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17623,
+        "end": 17627,
+        "text": "1437",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8idOZDjfrT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19475,
+        "end": 19476,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "HErwKbJrR7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19477,
+        "end": 19478,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bpclOrO2-Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19719,
+        "end": 19730,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8HA89Pjip6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19731,
+        "end": 19735,
+        "text": "1279",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vjjyTDAUc0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 41,
+    "data": {
+      "text": "Obwieszczenie Ministra Finans\u00f3w z dnia 31 pa\u017adziernika 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Rozwoju i Finans\u00f3w\nw sprawie przekazywania Narodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania\nbilansu p\u0142atniczego oraz mi\u0119dzynarodowej pozycji inwestycyjnej 1) Minister Finans\u00f3w kieruje dzia\u0142em administracji rz\u0105dowej - finanse publiczne, na podstawie\n\u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Finans\u00f3w (Dz. U. poz. 2710).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Rozwoju i Finans\u00f3w z dnia 9 sierpnia 2017 r. w sprawie przekazywania\nNarodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania bilansu p\u0142atniczego\noraz mi\u0119dzynarodowej pozycji inwestycyjnej\nZa\u0142\u0105cznik nr 1 - Formularz AZ-DEP: Aktywa - rachunki bie\u017c\u0105ce i depozyty w instytucjach kredytowych\noraz bankach zagranicznych (wz\u00f3r)\nZa\u0142\u0105cznik nr 2 - Formularz PW-ADN: Papiery d\u0142u\u017cne bez kodu ISIN, wyemitowane przez nierezydent\u00f3w, znajduj\u0105ce\nsi\u0119 w posiadaniu podmiotu sprawozdawczego (wz\u00f3r)\nZa\u0142\u0105cznik nr 3 - Formularz PW-RIN: Instrumenty finansowe z kodem ISIN, wyemitowane przez rezydent\u00f3w,\nnabyte poza rynkiem krajowym, znajduj\u0105ce si\u0119 w posiadaniu podmiotu sprawozdawczego\n(wz\u00f3r)\nZa\u0142\u0105cznik nr 4 - Formularz AZ-KRH: Aktywa - nale\u017cno\u015bci handlowe od nierezydent\u00f3w oraz zaliczki wyp\u0142acone\nnierezydentom (wz\u00f3r)\nZa\u0142\u0105cznik nr 5 - Formularz PZ-UDZ: Pasywa - udzia\u0142y kapita\u0142owe podmiotu sprawozdawczego b\u0119d\u0105ce w posiadaniu\nnierezydent\u00f3w (wz\u00f3r)\nZa\u0142\u0105cznik nr 6 - Formularz PW-ADM: (wype\u0142niaj\u0105 wy\u0142\u0105cznie firmy inwestycyjne) Papiery d\u0142u\u017cne bez kodu\nISIN, wyemitowane przez nierezydent\u00f3w, znajduj\u0105ce si\u0119 w posiadaniu os\u00f3b fizycznych\nb\u0119d\u0105cych rezydentami (wz\u00f3r)\nZa\u0142\u0105cznik nr 7 - Formularz AZ-IB: Akcje i inne formy udzia\u0142\u00f3w kapita\u0142owych nierezydenta b\u0119d\u0105ce w posiadaniu\npodmiotu sprawozdawczego (wz\u00f3r)\nZa\u0142\u0105cznik nr 8 - Formularz PZ-IB: Akcje i inne formy udzia\u0142\u00f3w kapita\u0142owych podmiotu sprawozdawczego,\nb\u0119d\u0105ce w posiadaniu nierezydent\u00f3w (wz\u00f3r)\nZa\u0142\u0105cznik nr 9 - Formularz PZ-KDH: Pasywa - d\u0142ugoterminowe kredyty i po\u017cyczki otrzymane od nierezydent\u00f3w\noraz d\u0142ugoterminowe zobowi\u0105zania wobec nierezydent\u00f3w z tytu\u0142u leasingu finansowego\n(wz\u00f3r)\nZa\u0142\u0105cznik nr 10 - Formularz PZ-KAN: Zagraniczne \u015brodki p\u0142atnicze w postaci banknot\u00f3w i monet w kantorach\n(wz\u00f3r)\nZa\u0142\u0105cznik nr 11 - Formularz PW-EMI: Dokonana przez podmiot sprawozdawczy emisja w\u0142asnych papier\u00f3w warto\u015bciowych,\nskierowana na rynek zagraniczny lub przynajmniej w cz\u0119\u015bci obj\u0119ta przez nierezydenta\n(wz\u00f3r)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Rozwoju i Finans\u00f3w z dnia 9 sierpnia 2017 r. w sprawie przekazywania\nNarodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania bilansu p\u0142atniczego\noraz mi\u0119dzynarodowej pozycji inwestycyjnej\n(Dz. U. z 2022 r. poz. 692), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Finans\u00f3w z dnia 23 czerwca 2023 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie przekazywania Narodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania\nbilansu p\u0142atniczego oraz mi\u0119dzynarodowej pozycji inwestycyjnej\n(Dz. U. poz. 1279).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 i \u00a7 3 rozporz\u0105dzenia Ministra Finans\u00f3w z dnia 23 czerwca 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie przekazywania Narodowemu Bankowi Polskiemu danych niezb\u0119dnych\ndo sporz\u0105dzania bilansu p\u0142atniczego oraz mi\u0119dzynarodowej pozycji inwestycyjnej\n(Dz. U. poz. 1279), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nPrzepisy rozporz\u0105dzenia zmienianego w \u00a7 1, w brzmieniu nadanym niniejszym rozporz\u0105dzeniem,\nmaj\u0105 zastosowanie po raz pierwszy do sprawozda\u0144 kwartalnych przekazywanych za trzeci\nkwarta\u0142 2023 r.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Rozwoju i Finans\u00f3w z dnia 9 sierpnia 2017 r. w sprawie przekazywania\nNarodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania bilansu p\u0142atniczego\noraz mi\u0119dzynarodowej pozycji inwestycyjnej 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - finanse publiczne kieruje Minister Finans\u00f3w, na podstawie\n\u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Finans\u00f3w (Dz. U. poz. 2710).\nNa podstawie art. 30 ust. 3 ustawy z dnia 27 lipca 2002 r. - Prawo dewizowe\n(Dz. U. z 2024 r. poz. 1131) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nspos\u00f3b, zakres i terminy wykonywania przez rezydent\u00f3w dokonuj\u0105cych obrotu dewizowego\noraz przedsi\u0119biorc\u00f3w wykonuj\u0105cych dzia\u0142alno\u015b\u0107 kantorow\u0105 obowi\u0105zku przekazywania Narodowemu\nBankowi Polskiemu, zwanemu dalej \u201eNBP\u201d, danych niezb\u0119dnych do sporz\u0105dzania bilansu\np\u0142atniczego oraz mi\u0119dzynarodowej pozycji inwestycyjnej, zwanych dalej \u201edanymi\u201d;\n2)\nwysoko\u015b\u0107 kwot, kt\u00f3rych przekroczenie powoduje powstanie obowi\u0105zku, o kt\u00f3rym mowa w\npkt 1, zwanego dalej \u201eobowi\u0105zkiem sprawozdawczym\u201d.\n\u00a7 2.\n1.\nUstalone w rozporz\u0105dzeniu okresy sprawozdawcze (miesi\u0105c, kwarta\u0142, rok) odpowiadaj\u0105\nokresom kalendarzowym.\n2.\nJe\u017celi ostatni dzie\u0144 terminu przekazania danych przypada na dzie\u0144 uznany ustawowo\nza wolny od pracy albo na sobot\u0119, termin up\u0142ywa nast\u0119pnego dnia, kt\u00f3ry nie jest dniem\nwolnym od pracy ani sobot\u0105.\n3.\nDane przyjmowane do wyliczenia danych przekazywanych NBP na podstawie rozporz\u0105dzenia\noraz wyliczenia \u0142\u0105cznej kwoty aktyw\u00f3w i pasyw\u00f3w, kt\u00f3rej przekroczenie powoduje powstanie\nobowi\u0105zku sprawozdawczego, zwanej dalej \u201eprogiem sprawozdawczym\u201d, wynikaj\u0105 z:\n1)\nksi\u0105g rachunkowych lub ewidencji prowadzonych na podstawie odr\u0119bnych przepis\u00f3w albo\ndokument\u00f3w \u017ar\u00f3d\u0142owych obrazuj\u0105cych stan faktyczny - w przypadku podmiot\u00f3w prowadz\u0105cych\nksi\u0119gi rachunkowe;\n2)\ndokument\u00f3w \u017ar\u00f3d\u0142owych obrazuj\u0105cych stan faktyczny - w przypadku podmiot\u00f3w innych ni\u017c\nokre\u015blone w pkt 1.\n4.\nDo wyliczenia progu sprawozdawczego przyjmuje si\u0119 bezwzgl\u0119dn\u0105 warto\u015b\u0107 aktyw\u00f3w i pasyw\u00f3w.\n5.\nDane przyjmowane do wyliczenia progu sprawozdawczego na koniec roku lub kwarta\u0142u,\nwyra\u017cone w walutach obcych, przelicza si\u0119 na z\u0142ote, stosuj\u0105c \u015brednie kursy tych walut\nog\u0142oszone przez NBP w ostatnim dniu roboczym danego roku lub kwarta\u0142u, a je\u017celi w\ntym dniu kurs danej waluty obcej nie zosta\u0142 og\u0142oszony przez NBP, stosuje si\u0119 ostatnio\nog\u0142oszony przez NBP kurs tej waluty.\n6.\nDane dotycz\u0105ce stan\u00f3w aktyw\u00f3w i pasyw\u00f3w wykazywane w sprawozdaniach na koniec danego\nokresu sprawozdawczego, wyra\u017cone w walutach obcych, przelicza si\u0119 na z\u0142ote, stosuj\u0105c\n\u015brednie kursy tych walut og\u0142oszone przez NBP w ostatnim dniu roboczym danego okresu\nsprawozdawczego, a je\u017celi w tym dniu kurs danej waluty obcej nie zosta\u0142 og\u0142oszony\nprzez NBP, stosuje si\u0119 ostatnio og\u0142oszony przez NBP kurs tej waluty.\n7.\nRezydenci, kt\u00f3rych dotyczy obowi\u0105zek sprawozdawczy, oraz przedsi\u0119biorcy wykonuj\u0105cy\ndzia\u0142alno\u015b\u0107 kantorow\u0105 przekazuj\u0105 NBP dane na formularzach, zwane dalej \u201esprawozdaniem\u201d.\n\u00a7 3.\nDo sporz\u0105dzania bilansu p\u0142atniczego oraz mi\u0119dzynarodowej pozycji inwestycyjnej przyjmuje\nsi\u0119 dane przekazywane NBP przez fundusze inwestycyjne zgodnie z przepisami wydanymi\nna podstawie art. 23 ust. 2c ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim\n(Dz. U. z 2022 r. poz. 2025).\n\u00a7 4.\n1.\nJednostki sektora finans\u00f3w publicznych, u kt\u00f3rych \u0142\u0105czna kwota aktyw\u00f3w i pasyw\u00f3w okre\u015blonych\nw formularzach, kt\u00f3rych wzory okre\u015blaj\u0105 za\u0142\u0105czniki nr 1-4 do rozporz\u0105dzenia, na koniec\nroku przekracza 500 mln z\u0142otych, przekazuj\u0105 NBP miesi\u0119czne sprawozdania na tych formularzach,\nw terminie do 20 dni po zako\u0144czeniu miesi\u0105ca.\n2.\nJednostki sektora finans\u00f3w publicznych, u kt\u00f3rych \u0142\u0105czna kwota aktyw\u00f3w i pasyw\u00f3w okre\u015blonych\nw formularzach, o kt\u00f3rych mowa w ust. 1, na koniec roku przekracza 26 mln z\u0142otych\ni jednocze\u015bnie nie przekracza 500 mln z\u0142otych, przekazuj\u0105 NBP kwartalne sprawozdania\nna tych formularzach, w terminie do 26 dni po zako\u0144czeniu kwarta\u0142u.\n3.\nJednostki, o kt\u00f3rych mowa w ust. 1 i 2, posiadaj\u0105ce na pocz\u0105tek lub koniec roku co\nnajmniej 10 % g\u0142os\u00f3w w organie stanowi\u0105cym podmiotu maj\u0105cego siedzib\u0119 za granic\u0105,\nprzekazuj\u0105 NBP roczne sprawozdania na formularzu, kt\u00f3rego wz\u00f3r stanowi za\u0142\u0105cznik nr\n7 do rozporz\u0105dzenia, w terminie do dnia 31 maja roku nast\u0119puj\u0105cego.\n\u00a7 5.\n1.\nFirmy inwestycyjne w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi\n(Dz. U. z 2024 r. poz. 722), prowadz\u0105ce rachunki papier\u00f3w warto\u015bciowych lub rejestr depozytowy papier\u00f3w warto\u015bciowych,\ndokonuj\u0105ce obrotu dewizowego z zagranic\u0105 lub po\u015brednicz\u0105ce w tym obrocie, przekazuj\u0105\nNBP miesi\u0119czne sprawozdania na formularzach, kt\u00f3rych wzory okre\u015blaj\u0105 za\u0142\u0105czniki nr\n1 i 2 oraz 4-6 do rozporz\u0105dzenia, w terminie do 20 dni po zako\u0144czeniu miesi\u0105ca.\n2.\nFirmy inwestycyjne, o kt\u00f3rych mowa w ust. 1, posiadaj\u0105ce na pocz\u0105tek lub koniec roku\nco najmniej 10 % g\u0142os\u00f3w w organie stanowi\u0105cym podmiotu maj\u0105cego siedzib\u0119 za granic\u0105\nlub posiadaj\u0105ce oddzia\u0142 maj\u0105cy siedzib\u0119 za granic\u0105 oraz firmy inwestycyjne, w kt\u00f3rych\norganach stanowi\u0105cych nierezydent na pocz\u0105tek lub koniec roku posiada co najmniej\n10 % g\u0142os\u00f3w, a tak\u017ce oddzia\u0142y przedsi\u0119biorstw zagranicznych posiadaj\u0105ce siedzib\u0119 w\nkraju, przekazuj\u0105 NBP roczne sprawozdania na formularzach, kt\u00f3rych wzory okre\u015blaj\u0105\nodpowiednio za\u0142\u0105czniki nr 7 i 8 do rozporz\u0105dzenia, w terminie do dnia 31 maja roku\nnast\u0119puj\u0105cego.\n\u00a7 6.\n1.\nOsoby fizyczne posiadaj\u0105ce aktywa lub pasywa niezwi\u0105zane z dzia\u0142alno\u015bci\u0105 gospodarcz\u0105\nokre\u015blone w formularzach, kt\u00f3rych wzory okre\u015blaj\u0105 za\u0142\u0105czniki nr 1-3 do rozporz\u0105dzenia,\ni kt\u00f3rych \u0142\u0105czna kwota na koniec roku przekracza 7 mln z\u0142otych, przekazuj\u0105 NBP kwartalne\nsprawozdania na tych formularzach, w terminie do 26 dni po zako\u0144czeniu kwarta\u0142u.\n2.\nW przypadku os\u00f3b pozostaj\u0105cych w zwi\u0105zku ma\u0142\u017ce\u0144skim, posiadaj\u0105cych wsp\u00f3lny maj\u0105tek,\npr\u00f3g sprawozdawczy okre\u015blony w ust. 1 dotyczy obojga ma\u0142\u017conk\u00f3w. Sprawozdanie w imieniu\nobojga sk\u0142ada jeden z ma\u0142\u017conk\u00f3w.\n3.\nOsoby fizyczne, o kt\u00f3rych mowa w ust. 1, posiadaj\u0105ce na pocz\u0105tek lub koniec roku co\nnajmniej 10 % g\u0142os\u00f3w w organie stanowi\u0105cym podmiotu maj\u0105cego siedzib\u0119 za granic\u0105,\nprzekazuj\u0105 NBP roczne sprawozdania na formularzu, kt\u00f3rego wz\u00f3r stanowi za\u0142\u0105cznik nr\n7 do rozporz\u0105dzenia, w terminie do dnia 31 maja roku nast\u0119puj\u0105cego.\n4.\nOsoby fizyczne przekazuj\u0105ce dane na formularzach, kt\u00f3rych wzory okre\u015blaj\u0105 za\u0142\u0105czniki\nnr 2 i 3 do rozporz\u0105dzenia, nie podaj\u0105 informacji o instrumentach finansowych, kt\u00f3re\ns\u0105 zarejestrowane na rachunkach prowadzonych przez banki z siedzib\u0105 w kraju lub firmy\ninwestycyjne wpisane do rejestru firm inwestycyjnych prowadzonego przez Komisj\u0119 Nadzoru\nFinansowego.\n\u00a7 7.\n1.\nRezydenci niewymienieni w \u00a7 4-6, u kt\u00f3rych \u0142\u0105czna kwota aktyw\u00f3w i pasyw\u00f3w okre\u015blonych\nw formularzach, kt\u00f3rych wzory okre\u015blaj\u0105 za\u0142\u0105czniki nr 1-5 do rozporz\u0105dzenia, na koniec\nroku przekracza 300 mln z\u0142otych, przekazuj\u0105 NBP miesi\u0119czne sprawozdania na tych formularzach,\nw terminie do 20 dni po zako\u0144czeniu miesi\u0105ca.\n2.\nRezydenci, o kt\u00f3rych mowa w ust. 1, u kt\u00f3rych \u0142\u0105czna kwota aktyw\u00f3w i pasyw\u00f3w okre\u015blonych\nw formularzach, o kt\u00f3rych mowa w ust. 1, na koniec roku przekracza 10 mln z\u0142otych\ni jednocze\u015bnie nie przekracza 300 mln z\u0142otych, przekazuj\u0105 NBP kwartalne sprawozdania\nna tych formularzach, w terminie do 26 dni po zako\u0144czeniu kwarta\u0142u.\n3.\nRezydenci, o kt\u00f3rych mowa w ust. 1 i 2, posiadaj\u0105cy na pocz\u0105tek lub koniec roku co\nnajmniej 10 % g\u0142os\u00f3w w organie stanowi\u0105cym podmiotu maj\u0105cego siedzib\u0119 za granic\u0105 lub\nposiadaj\u0105cy oddzia\u0142 maj\u0105cy siedzib\u0119 za granic\u0105 oraz rezydenci, w kt\u00f3rych organach\nstanowi\u0105cych nierezydent na pocz\u0105tek lub koniec roku posiada co najmniej 10 % g\u0142os\u00f3w,\na tak\u017ce oddzia\u0142y przedsi\u0119biorstw zagranicznych posiadaj\u0105ce siedzib\u0119 w kraju, przekazuj\u0105\nNBP roczne sprawozdania na formularzach, kt\u00f3rych wzory stanowi\u0105 odpowiednio za\u0142\u0105czniki\nnr 7 i 8 do rozporz\u0105dzenia, w terminie do dnia 31 maja roku nast\u0119puj\u0105cego.\n\u00a7 8.\nRezydenci, o kt\u00f3rych mowa w \u00a7 4 i \u00a7 7:\n1)\nkt\u00f3rzy na koniec roku lub na koniec danego kwarta\u0142u w nast\u0119pnym roku nie osi\u0105gn\u0119li\nprog\u00f3w sprawozdawczych okre\u015blonych odpowiednio w \u00a7 4 i \u00a7 7 oraz\n2)\nposiadaj\u0105cy aktywa lub pasywa zwi\u0105zane z obrotem handlowym z zagranic\u0105, kt\u00f3rych \u0142\u0105czna\nkwota na koniec roku przekracza 3 mln z\u0142otych\n- przekazuj\u0105 NBP kwartalne sprawozdania dotycz\u0105ce aktyw\u00f3w i pasyw\u00f3w, o kt\u00f3rych mowa\nw pkt 2, na formularzach, kt\u00f3rych wzory okre\u015bla za\u0142\u0105cznik nr 4 do rozporz\u0105dzenia,\nw terminie do 26 dni po zako\u0144czeniu kwarta\u0142u.\n\u00a7 9.\nNiezale\u017cnie od obowi\u0105zk\u00f3w sprawozdawczych okre\u015blonych w \u00a7 4, \u00a7 5 i \u00a7 7 rezydenci,\no kt\u00f3rych mowa w tych przepisach, posiadaj\u0105cy d\u0142ugoterminowe zobowi\u0105zania wykazywane\nw formularzu dotycz\u0105cym kredyt\u00f3w i po\u017cyczek otrzymanych od nierezydent\u00f3w oraz zobowi\u0105za\u0144\nz tytu\u0142u leasingu finansowego wobec nierezydent\u00f3w, kt\u00f3rego wz\u00f3r okre\u015bla za\u0142\u0105cznik\nnr 1 do rozporz\u0105dzenia, kt\u00f3rych \u0142\u0105czna kwota na koniec danego kwarta\u0142u przekracza\n3 mln z\u0142otych, przekazuj\u0105 NBP kwartalne sprawozdania na formularzu, kt\u00f3rego wz\u00f3r stanowi\nza\u0142\u0105cznik nr 9 do rozporz\u0105dzenia, w terminie do 26 dni po zako\u0144czeniu tego kwarta\u0142u.\n\u00a7 10.\nPrzedsi\u0119biorcy wykonuj\u0105cy dzia\u0142alno\u015b\u0107 kantorow\u0105, niezale\u017cnie od obowi\u0105zku sprawozdawczego\nokre\u015blonego w \u00a7 7, przekazuj\u0105 NBP kwartalne sprawozdania na formularzu, kt\u00f3rego wz\u00f3r\nstanowi za\u0142\u0105cznik nr 10 do rozporz\u0105dzenia, w terminie do 10 dni po zako\u0144czeniu kwarta\u0142u.\n\u00a7 11.\n1.\nRezydenci, kt\u00f3rzy dokonali emisji d\u0142u\u017cnych papier\u00f3w warto\u015bciowych lub nieb\u0119d\u0105cych\npapierami warto\u015bciowymi instrument\u00f3w rynku pieni\u0119\u017cnego, kt\u00f3re:\n1)\nnie zosta\u0142y zarejestrowane w depozycie papier\u00f3w warto\u015bciowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ani w systemie rejestracji papier\u00f3w warto\u015bciowych prowadzonym przez NBP,\n2)\nnie znajduj\u0105 si\u0119 w rejestrze depozytowym prowadzonym przez bank z siedzib\u0105 w kraju\nlub firm\u0119 inwestycyjn\u0105 wpisan\u0105 do rejestru firm inwestycyjnych prowadzonego przez\nKomisj\u0119 Nadzoru Finansowego,\n3)\nby\u0142y skierowane na rynek zagraniczny lub, w przypadku rynku krajowego, przynajmniej\nw cz\u0119\u015bci emisja zosta\u0142a obj\u0119ta przez nierezydenta\n- przekazuj\u0105 NBP dane o emisji na formularzu, kt\u00f3rego wz\u00f3r okre\u015bla za\u0142\u0105cznik nr 11\ndo rozporz\u0105dzenia, w terminie do 10 dni od dnia obj\u0119cia przez nierezydent\u00f3w papier\u00f3w\nwarto\u015bciowych lub instrument\u00f3w rynku pieni\u0119\u017cnego nieb\u0119d\u0105cych papierami warto\u015bciowymi,\na tak\u017ce dane o zmianie danych dotycz\u0105cych uprzednio wykazanych emisji, na formularzu,\nkt\u00f3rego wz\u00f3r okre\u015bla za\u0142\u0105cznik nr 11 do rozporz\u0105dzenia, w terminie do 10 dni od dnia\ndokonania zmiany.\n2.\nObowi\u0105zek sprawozdawczy, o kt\u00f3rym mowa w ust. 1, powstaje w przypadku, gdy \u0142\u0105czna\nwarto\u015b\u0107 nominalna zad\u0142u\u017cenia rezydenta wobec nierezydent\u00f3w i rezydent\u00f3w z tytu\u0142u danej\nemisji przekracza 3 mln z\u0142otych. Przepis \u00a7 2 ust. 5 stosuje si\u0119 odpowiednio, z tym\n\u017ce do przeliczenia przyjmuje si\u0119 kursy walut obcych w z\u0142otych z dnia obj\u0119cia przez\nrezydent\u00f3w lub nierezydent\u00f3w papier\u00f3w warto\u015bciowych lub instrument\u00f3w rynku pieni\u0119\u017cnego\nnieb\u0119d\u0105cych papierami warto\u015bciowymi.\n\u00a7 12.\n1.\nRezydenci, o kt\u00f3rych mowa w \u00a7 4, \u00a7 6 i \u00a7 7, kt\u00f3rzy na koniec roku nie osi\u0105gn\u0119li progu\nsprawozdawczego okre\u015blonego odpowiednio w \u00a7 4, \u00a7 6, \u00a7 7 lub \u00a7 8, a w pierwszym lub\nkolejnym kwartale w nast\u0119pnym roku na koniec danego kwarta\u0142u osi\u0105gn\u0119li pr\u00f3g sprawozdawczy\nokre\u015blony w:\n1)\n\u00a7 4 ust. 2, \u00a7 6, \u00a7 7 ust. 2 lub \u00a7 8 - przekazuj\u0105 NBP za ten kwarta\u0142 i nast\u0119pne kwarta\u0142y\ntego roku sprawozdania kwartalne na formularzach i w terminach, o kt\u00f3rych mowa odpowiednio\nw \u00a7 4 i \u00a7 6-8;\n2)\n\u00a7 4 ust. 1 lub \u00a7 7 ust. 1 - przekazuj\u0105 NBP za ten kwarta\u0142 sprawozdanie kwartalne,\na za ka\u017cdy nast\u0119pny miesi\u0105c tego roku sprawozdania miesi\u0119czne, na formularzach i w\nterminach, o kt\u00f3rych mowa odpowiednio w \u00a7 4 i \u00a7 7.\n2.\nRezydenci, w przypadku kt\u00f3rych zosta\u0142a og\u0142oszona upad\u0142o\u015b\u0107 albo zosta\u0142a otwarta ich\nlikwidacja, przekazuj\u0105cy NBP miesi\u0119czne sprawozdania, mog\u0105 przekazywa\u0107 NBP sprawozdania\nkwartalne za kwarta\u0142y, w zakresie kt\u00f3rych nie przekazali sprawozda\u0144 miesi\u0119cznych.\n\u00a7 13.\n1.\nSprawozdania s\u0105 przekazywane za po\u015brednictwem us\u0142ugi elektronicznej udost\u0119pnionej\nna portalu sprawozdawczym, kt\u00f3rego adres elektroniczny udost\u0119pniony jest w Biuletynie\nInformacji Publicznej NBP.\n2.\nUwierzytelnienie u\u017cytkownika portalu sprawozdawczego nast\u0119puje przy u\u017cyciu certyfikatu\nwydanego nieodp\u0142atnie przez NBP.\n3.\nW przypadku zmiany danych dotycz\u0105cych podmiotu przekazuj\u0105cego sprawozdanie, wykazanych\nw portalu sprawozdawczym, nale\u017cy dokona\u0107 ich aktualizacji nie p\u00f3\u017aniej ni\u017c w terminie\nprzekazania najbli\u017cszego sprawozdania.\n\u00a7 14.\nRezydenci, kt\u00f3rzy po przekazaniu NBP sprawozdania dokonali zmian w zapisach ksi\u0105g\nrachunkowych lub w ewidencji prowadzonej na podstawie odr\u0119bnych przepis\u00f3w albo pozyskali\ndodatkowe dokumenty \u017ar\u00f3d\u0142owe obrazuj\u0105ce stan faktyczny, przekazuj\u0105 NBP poprawione\nsprawozdania za odpowiednie okresy sprawozdawcze, nie p\u00f3\u017aniej ni\u017c w terminie przekazania\nnajbli\u017cszego sprawozdania.\n\u00a7 15.\nRezydenci oraz przedsi\u0119biorcy wykonuj\u0105cy dzia\u0142alno\u015b\u0107 kantorow\u0105 udzielaj\u0105 NBP dodatkowych\ninformacji i wyja\u015bnie\u0144 dotycz\u0105cych przekazanych sprawozda\u0144.\n\u00a7 16.\n1.\nPrzepisy rozporz\u0105dzenia maj\u0105 zastosowanie po raz pierwszy do:\n1)\nsprawozda\u0144 miesi\u0119cznych za sierpie\u0144 2017 r. oraz\n2)\nsprawozda\u0144 kwartalnych za III kwarta\u0142 2017 r., kt\u00f3re przekazuje si\u0119 w terminie do\ndnia 26 pa\u017adziernika 2017 r.\n2.\nSprawozdania miesi\u0119czne za lipiec 2017 r. przekazuje si\u0119 zgodnie z przepisami dotychczasowymi,\nw terminie do dnia 20 sierpnia 2017 r.\n\u00a7 17.\nTraci moc rozporz\u0105dzenie Ministra Finans\u00f3w z dnia 23 pa\u017adziernika 2009 r. w sprawie przekazywania\nNarodowemu Bankowi Polskiemu danych niezb\u0119dnych do sporz\u0105dzania bilansu p\u0142atniczego\noraz mi\u0119dzynarodowej pozycji inwestycyjnej\n(Dz. U. poz. 1437).\n\u00a7 18.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia 2) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 18 sierpnia 2017 r..\nZa\u0142\u0105cznik nr 1\n-\nFormularz AZ-DEP: Aktywa - rachunki bie\u017c\u0105ce i depozyty w instytucjach kredytowych\noraz bankach zagranicznych (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 2\n-\nFormularz PW-ADN: Papiery d\u0142u\u017cne bez kodu ISIN, wyemitowane przez nierezydent\u00f3w, znajduj\u0105ce\nsi\u0119 w posiadaniu podmiotu sprawozdawczego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nFormularz PW-RIN: Instrumenty finansowe z kodem ISIN, wyemitowane przez rezydent\u00f3w,\nnabyte poza rynkiem krajowym, znajduj\u0105ce si\u0119 w posiadaniu podmiotu sprawozdawczego\n(wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 4\n-\nFormularz AZ-KRH: Aktywa - nale\u017cno\u015bci handlowe od nierezydent\u00f3w oraz zaliczki wyp\u0142acone\nnierezydentom (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 5\n-\nFormularz PZ-UDZ: Pasywa - udzia\u0142y kapita\u0142owe podmiotu sprawozdawczego b\u0119d\u0105ce w posiadaniu\nnierezydent\u00f3w (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 6\n-\nFormularz PW-ADM: (wype\u0142niaj\u0105 wy\u0142\u0105cznie firmy inwestycyjne) Papiery d\u0142u\u017cne bez kodu\nISIN, wyemitowane przez nierezydent\u00f3w, znajduj\u0105ce si\u0119 w posiadaniu os\u00f3b fizycznych\nb\u0119d\u0105cych rezydentami (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 7\n-\nFormularz AZ-IB: Akcje i inne formy udzia\u0142\u00f3w kapita\u0142owych nierezydenta b\u0119d\u0105ce w posiadaniu\npodmiotu sprawozdawczego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 8\n-\nFormularz PZ-IB: Akcje i inne formy udzia\u0142\u00f3w kapita\u0142owych podmiotu sprawozdawczego,\nb\u0119d\u0105ce w posiadaniu nierezydent\u00f3w (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 9\n-\nFormularz PZ-KDH: Pasywa - d\u0142ugoterminowe kredyty i po\u017cyczki otrzymane od nierezydent\u00f3w\noraz d\u0142ugoterminowe zobowi\u0105zania wobec nierezydent\u00f3w z tytu\u0142u leasingu finansowego\n(wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 10\n-\nFormularz PZ-KAN: Zagraniczne \u015brodki p\u0142atnicze w postaci banknot\u00f3w i monet w kantorach\n(wz\u00f3r) 3) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Ministra Finans\u00f3w z dnia 23 czerwca\n2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie przekazywania Narodowemu Bankowi Polskiemu\ndanych niezb\u0119dnych do sporz\u0105dzania bilansu p\u0142atniczego oraz mi\u0119dzynarodowej pozycji\ninwestycyjnej (Dz. U. poz. 1279), kt\u00f3re wesz\u0142o w \u017cycie z dniem 20 lipca 2023 r.\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 11\n-\nFormularz PW-EMI: Dokonana przez podmiot sprawozdawczy emisja w\u0142asnych papier\u00f3w warto\u015bciowych,\nskierowana na rynek zagraniczny lub przynajmniej w cz\u0119\u015bci obj\u0119ta przez nierezydenta\n(wz\u00f3r)\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-08T14:35:50.725755Z",
+    "updated_at": "2026-10-08T14:35:50.725767Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 41,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-15T12:59:11.857436Z",
+  "updated_at": "2026-10-15T12:59:11.857508Z",
+  "draft_created_at": "2026-10-15T12:57:15.876937Z",
+  "lead_time": 127.014,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": 41,
+  "parent_annotation": null,
+  "last_created_by": null
+}
