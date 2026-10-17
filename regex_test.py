@@ -138,6 +138,13 @@ MSG_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+# DZIENNIK URZĘDOWY MINISTRA
+MIN_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.\s*Min\.',
+    # r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
+    re.IGNORECASE
+)
+
 def add_entity(entities, start, end, text, label):
     """Append one Label Studio-compatible entity annotation."""
     entities.append(
@@ -406,6 +413,45 @@ def process_msg_publication(text, match):
 
     key_pattern = re.compile(
         r'\bM\.\s*S\.\s*G\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_min_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.\s*Min\.',
+        # r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
         re.IGNORECASE
     )
 
