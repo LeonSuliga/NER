@@ -82,7 +82,7 @@ def main():
         total_removed += removed
         print(f"{path.name}: removed {removed} overlapping LIT_VAL spans")
     print(f"Total removed: {total_removed}")
-    print("Done. Run: python .\\scripts\\audit_annotations.py --root . --only-labeled")
+    print("Done. Run: python .\\annotation_cleaning\\audit_annotations.py --root . --only-labeled")
 
 
 if __name__ == "__main__":

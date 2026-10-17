@@ -24,7 +24,7 @@ except Exception as e:
     print('train_herbert_ner.py requires spacy, torch and transformers:', e)
     sys.exit(1)
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAX_SUBWORDS_PER_WORD = 16
 
 
