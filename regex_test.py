@@ -140,8 +140,8 @@ MSG_PATTERN = re.compile(
 
 # DZIENNIK URZĘDOWY MINISTRA
 MIN_PATTERN = re.compile(
-    r'\bDz\.\s*Urz\.\s*Min\.',
-    # r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
+    r'\bDz\.\s*Urz\.\s*Min\.'
+    r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
     re.IGNORECASE
 )
 
@@ -450,8 +450,8 @@ def process_min_publication(text, match):
     publication_start = match.start()
 
     key_pattern = re.compile(
-        r'\bDz\.\s*Urz\.\s*Min\.',
-        # r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
+        r'\bDz\.\s*Urz\.\s*Min\.'
+        r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
         re.IGNORECASE
     )
 
@@ -535,6 +535,14 @@ def find_references(text):
     for match in MSG_PATTERN.finditer(text):
         entities.extend(
             process_msg_publication(
+                text,
+                match
+            )
+        )
+
+    for match in MIN_PATTERN.finditer(text):
+        entities.extend(
+            process_min_publication(
                 text,
                 match
             )
@@ -731,7 +739,7 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    part = 10
+    part = 4
     input_dir = Path(f"data/processed/txt/part_{part}")
     output_dir = Path(f"data/processed/json/part_{part}")
 
