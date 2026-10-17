@@ -14,21 +14,22 @@ ART_PATTERN = re.compile(
 # Paragraph references
 PAR_PATTERN = re.compile(
     r'§\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
 # Subsection references
 UST_PATTERN = re.compile(
-    r'\bust\.\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'\bust\.\s*'
+    r'\d+[a-z]*'
+    r'(?:\s*(?:,|i|oraz|lub|albo|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
 # Point references
 PKT_PATTERN = re.compile(
     r'\bpkt\.?\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
@@ -346,6 +347,7 @@ def process_eu_publication(text, match):
     return entities
 
 
+
 def find_references(text):
     """Find all supported legal references and return sorted annotations."""
 
@@ -386,6 +388,7 @@ def find_references(text):
                 match
             )
         )
+
 
 
     # Process each reference family with its corresponding key and value pattern.
