@@ -1,0 +1,3531 @@
+{
+  "id": 89,
+  "result": [
+    {
+      "value": {
+        "start": 666,
+        "end": 670,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "cIctnvl5hG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 671,
+        "end": 673,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aRf2PD2JUy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 674,
+        "end": 678,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jo91vVYKGw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 679,
+        "end": 680,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "5KPLGbG5Qg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 681,
+        "end": 687,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "dekRW51O8r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 688,
+        "end": 696,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "g7ST_ZlvzW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 796,
+        "end": 817,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bSTdWNH2fh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 818,
+        "end": 822,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "_7nQunJ9Zp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 964,
+        "end": 985,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Dix5Uyy-y_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 986,
+        "end": 990,
+        "text": "1608",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "137q5SUyzs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1134,
+        "end": 1145,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "mkLLw8-EK6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1146,
+        "end": 1150,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ry6EZDHdr7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1323,
+        "end": 1327,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "QO0GmgOchm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1328,
+        "end": 1330,
+        "text": "34",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "DmUgHSqwY7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1333,
+        "end": 1337,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "wZnGpIFtfV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1338,
+        "end": 1340,
+        "text": "44",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "kGHPG8cSCx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1445,
+        "end": 1456,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "n1Hlvno8Ja",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1457,
+        "end": 1461,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2WesItqVhd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1498,
+        "end": 1502,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gD0QjyqrBG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1503,
+        "end": 1505,
+        "text": "18",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "rQh1ijuzYn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1506,
+        "end": 1510,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Nb3prxRvBf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1511,
+        "end": 1512,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Z2WGH5PBu6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1533,
+        "end": 1537,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OMGQQQD_ie",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1538,
+        "end": 1539,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "95YExs648u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1782,
+        "end": 1786,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fmkR74pkMm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1787,
+        "end": 1788,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "lOkmTNW2Tl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1789,
+        "end": 1792,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "uPKr3ahsKO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1793,
+        "end": 1794,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "HvS9U0L-Wd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1797,
+        "end": 1798,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "QyGjoryii3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1804,
+        "end": 1808,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gIsSnH9pos",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1809,
+        "end": 1811,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ce9TGnCu3N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1812,
+        "end": 1815,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "GeLK2VREUA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1816,
+        "end": 1817,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "jOFaJrxz9j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3036,
+        "end": 3040,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "RjLv7xuCuU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3041,
+        "end": 3042,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "bjmkJTFsbt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3043,
+        "end": 3046,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "_8yo9VvLok",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3047,
+        "end": 3048,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "4fLZeMmZPJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3050,
+        "end": 3052,
+        "text": "1c",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "RVZpxzkbrg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3055,
+        "end": 3056,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "SjQSb77xja",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4292,
+        "end": 4296,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OQXd-NkKmk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4297,
+        "end": 4300,
+        "text": "27a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OPv2F_qUJN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4369,
+        "end": 4390,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "1bZ7UNVtmn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4391,
+        "end": 4395,
+        "text": "1370",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "IGEeJXaY2Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4614,
+        "end": 4618,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "RHL9nM4ujI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4619,
+        "end": 4620,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "7z-kZykkuG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4621,
+        "end": 4624,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Cmi_LJDEGx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4625,
+        "end": 4626,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "0AmBmWrche",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4772,
+        "end": 4793,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "LOJC9AS1VN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4794,
+        "end": 4798,
+        "text": "1320",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WhcmrKVb67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4842,
+        "end": 4846,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "mLJH5mKREj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4847,
+        "end": 4848,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mQ74X5fVp1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5573,
+        "end": 5594,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "dlgqDbaYx-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5595,
+        "end": 5599,
+        "text": "1233",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "62AfGu4d3i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6455,
+        "end": 6459,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jibkxFkznd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6460,
+        "end": 6461,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Wk_BJAtzFn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7474,
+        "end": 7478,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "VOhb50OUSm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7479,
+        "end": 7482,
+        "text": "228",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "84QcA7UBDH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7483,
+        "end": 7487,
+        "text": "230a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "AD0MNTPh7o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7489,
+        "end": 7493,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "iaDLrx_qm5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7494,
+        "end": 7497,
+        "text": "270",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "q9mv1tolkP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7499,
+        "end": 7503,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dHFO4LnDk6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7504,
+        "end": 7507,
+        "text": "276",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ycXLeDL4-d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7509,
+        "end": 7513,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "DE20hGHWP6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7514,
+        "end": 7517,
+        "text": "286",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "rcfmirbRME",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7519,
+        "end": 7523,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "iBXEJN9h6L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7524,
+        "end": 7527,
+        "text": "287",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Uf8RgdcBHe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7529,
+        "end": 7533,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "RzVc7MyW0e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7534,
+        "end": 7537,
+        "text": "296",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "5l22_ajy1L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7539,
+        "end": 7543,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "bdljcVNmzp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7544,
+        "end": 7548,
+        "text": "296a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "uFKOkEXLfs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7550,
+        "end": 7554,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fKAZeEJ0QQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7555,
+        "end": 7558,
+        "text": "297",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "bbqRD3hJrG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7560,
+        "end": 7564,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "9WUpS6TWAu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7565,
+        "end": 7568,
+        "text": "303",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ztBD1sNFkS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7573,
+        "end": 7577,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "yVT0aMmmMj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7578,
+        "end": 7581,
+        "text": "305",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "O8cSlH1CLa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7630,
+        "end": 7651,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "FeOhW-cbcA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7652,
+        "end": 7654,
+        "text": "17",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "t9HL19SpBg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7657,
+        "end": 7661,
+        "text": "1228",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v_rVawgJYV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7789,
+        "end": 7793,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "S64Trc_87K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7794,
+        "end": 7795,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "DLhxeEn93a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7976,
+        "end": 7980,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "-YLIeqoXNG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7981,
+        "end": 7982,
+        "text": "6",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "wXIUhSPI0M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8304,
+        "end": 8308,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "_l7j64fyzY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8309,
+        "end": 8310,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "xOAb5OLkqJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8311,
+        "end": 8315,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "k_GTKxpzPj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8316,
+        "end": 8317,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "CeTs8WEAIG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8318,
+        "end": 8321,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "2DEpz7UVQs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8322,
+        "end": 8323,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "kQq1_ESQxi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8550,
+        "end": 8571,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "dYfFc4de3w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8572,
+        "end": 8576,
+        "text": "2261",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "pBcManpxdh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8702,
+        "end": 8706,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "5Edh-D2Pnd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8707,
+        "end": 8708,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "lF5YyqFo6M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8709,
+        "end": 8713,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pjfzXFP1j8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8714,
+        "end": 8715,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "x8vLg1ym-p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8716,
+        "end": 8719,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Zzd_E581TM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8720,
+        "end": 8721,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "6DpNdfTP-k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8723,
+        "end": 8725,
+        "text": "1b",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "lCPHaQedFY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8728,
+        "end": 8729,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "O1fcHWz7Dd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9734,
+        "end": 9738,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "UZOp80ElbD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9739,
+        "end": 9740,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "D9-CSXGS7Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11330,
+        "end": 11333,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "UepzlkBqvz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11334,
+        "end": 11335,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "_dsPn_1556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11336,
+        "end": 11337,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "M9PF7_Skr7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12113,
+        "end": 12117,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "EsF4O6EAak",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12118,
+        "end": 12119,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Gi4-TmZUSC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12120,
+        "end": 12123,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "cdNKkdw_6R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12124,
+        "end": 12125,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "WNWOUovxD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12190,
+        "end": 12194,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "yaGIrAiDWN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12195,
+        "end": 12196,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jDZKfRuK8S",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12197,
+        "end": 12200,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "nr7LHZZ81d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12201,
+        "end": 12202,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "WZzWRc5iFU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12203,
+        "end": 12204,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "BrIO_Tm_MF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14118,
+        "end": 14122,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "oqr6_RgmMS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14123,
+        "end": 14124,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "UeWWf8ssnY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14125,
+        "end": 14128,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "q-HsZwwA0Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14129,
+        "end": 14130,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "F8Xte0gIyW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14757,
+        "end": 14761,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "uPlclXnGTj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14762,
+        "end": 14763,
+        "text": "6",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fD9O4vTwhT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14954,
+        "end": 14958,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Ags8SNtsyb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14959,
+        "end": 14960,
+        "text": "7",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "UXVer-3yYc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16993,
+        "end": 16997,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "t_nhBylGXh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16998,
+        "end": 16999,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "E_AMIAbhGB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17121,
+        "end": 17125,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "AyQmFAEzM2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17126,
+        "end": 17127,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "5IpduIQVDh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17162,
+        "end": 17166,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "CkVBY6shdP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17167,
+        "end": 17168,
+        "text": "9",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "_LVNa1SVlw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17169,
+        "end": 17173,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "JSlZHMWktk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17174,
+        "end": 17175,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "onojf9wahL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17176,
+        "end": 17178,
+        "text": "12",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jns17tpNGe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17323,
+        "end": 17327,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "nGbaw-yAG8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17328,
+        "end": 17329,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "3gVEWRAJ83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18175,
+        "end": 18179,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ruXOHLdDsE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18180,
+        "end": 18182,
+        "text": "12",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Tn9zjMHrI5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19347,
+        "end": 19351,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "n5ZZWVdK6e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19352,
+        "end": 19353,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2R4sDaCypL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19354,
+        "end": 19357,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "0I2uf2VBmJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19358,
+        "end": 19359,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "2wmF4QUZP_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19362,
+        "end": 19363,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "M874z_8mYa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19727,
+        "end": 19731,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "vMhyCkGltC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19732,
+        "end": 19733,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "EF9Klqo-V9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19736,
+        "end": 19737,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Qqy5jcpkxm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20542,
+        "end": 20546,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "twJEXLyfdV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20547,
+        "end": 20548,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "JUW66ptnmH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20549,
+        "end": 20552,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "uls4Xbxdt6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20553,
+        "end": 20554,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "qTevYWrDQk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20556,
+        "end": 20557,
+        "text": "7",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "F-PmGf2hUz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20560,
+        "end": 20561,
+        "text": "8",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "tcwB9IVPRQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20625,
+        "end": 20629,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "NCJPBIv8kU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20630,
+        "end": 20631,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hoDPOkuM17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20632,
+        "end": 20635,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "YpeyfgmLjF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20636,
+        "end": 20637,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "f5FYF8Ar4z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20638,
+        "end": 20642,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "JJn-BUNE-L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20643,
+        "end": 20644,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "qFWTtgaMQx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21000,
+        "end": 21004,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "W1JUBuEwX0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21005,
+        "end": 21006,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "m4p5id10e7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21007,
+        "end": 21010,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "CKnpM9K8EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21011,
+        "end": 21012,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "wPOIzRFWQQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21056,
+        "end": 21060,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "kHZet9_9H7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21061,
+        "end": 21062,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "SJT-7Vi-V8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21063,
+        "end": 21066,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "b2yMpNuH1h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21067,
+        "end": 21068,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "PyeNtpraRk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21173,
+        "end": 21184,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "iHf8lYlwqc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21185,
+        "end": 21189,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xaavu2bRBr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21829,
+        "end": 21833,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "TcCuvlgWwk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21834,
+        "end": 21835,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "xzNMeVfQEn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22350,
+        "end": 22354,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "6tApObnENB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22355,
+        "end": 22357,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ti2tCUKJc6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22358,
+        "end": 22362,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "uR87rWbliX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22363,
+        "end": 22364,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BTdLW6LO02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22365,
+        "end": 22368,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "SsHyrXi1M4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22369,
+        "end": 22370,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "wFtXFNz0Oe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24144,
+        "end": 24148,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "l_7wmNblMc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24149,
+        "end": 24150,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "8l0kp3lui2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24151,
+        "end": 24154,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "rMvU5FTQOf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24155,
+        "end": 24156,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "YSAQLfiAwR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24347,
+        "end": 24351,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "FxH-lKeJ9d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24352,
+        "end": 24354,
+        "text": "34",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "x0IQoOmKl5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24677,
+        "end": 24681,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gBsNVEpr8w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24682,
+        "end": 24683,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "wNLZSdd6l_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24768,
+        "end": 24772,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "2YqnDMj7Mg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24773,
+        "end": 24774,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "zq5oTp6xvr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24775,
+        "end": 24778,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "nevjw3ZTz_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24779,
+        "end": 24780,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "tAfk4jNtwO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24982,
+        "end": 24986,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "it3HxImYV4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 24987,
+        "end": 24988,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "FWEaPy8ZgM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25254,
+        "end": 25258,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "LzbDVEADFJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25259,
+        "end": 25260,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "k39S7mpT6u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25310,
+        "end": 25314,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "bfqlvkf4GZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25315,
+        "end": 25317,
+        "text": "15",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "2N2xLxJv4W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25363,
+        "end": 25367,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OxMwI4Biug",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25368,
+        "end": 25370,
+        "text": "52",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "4bFYYj65ln",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25371,
+        "end": 25375,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "RQ8vBa3All",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25376,
+        "end": 25377,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "WSeGFeO3Qo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25437,
+        "end": 25458,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WLApgGw_pp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25459,
+        "end": 25463,
+        "text": "1270",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zjo5H1gKaI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25545,
+        "end": 25566,
+        "text": "Dz. U. z 2023 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "x_-hkbaIMR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25567,
+        "end": 25571,
+        "text": "1273",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "MnUjFRKTbd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25573,
+        "end": 25577,
+        "text": "1407",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6CM8aDkbcr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25579,
+        "end": 25583,
+        "text": "1429",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Shu4jF9ol0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25585,
+        "end": 25589,
+        "text": "1641",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "_Y5In4vWFL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25591,
+        "end": 25595,
+        "text": "1693",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6B30tZ6xTd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25598,
+        "end": 25602,
+        "text": "1872",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "qTjJ-U5wqK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25608,
+        "end": 25622,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "pxW7x3JMkO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25623,
+        "end": 25626,
+        "text": "858",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RcQB0Pl0Hk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25629,
+        "end": 25633,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Im16DU_Tba",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25660,
+        "end": 25664,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "FIWOEKPmzU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25665,
+        "end": 25666,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "GVP2GQ0-df",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25667,
+        "end": 25670,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "AtaOyOzOSq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 25671,
+        "end": 25672,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Pkx4uak_1M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26118,
+        "end": 26122,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "HfHO37WQY4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26123,
+        "end": 26124,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "2fFjW1lt-g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26125,
+        "end": 26129,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ZtX3mpXVyF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26130,
+        "end": 26131,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "RAsf0iyBZe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26361,
+        "end": 26365,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xpGm0O66zL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26366,
+        "end": 26367,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "te93wh0Ujw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26369,
+        "end": 26373,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1plt5G5j1d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26374,
+        "end": 26375,
+        "text": "9",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Kpl4hp5SZp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26378,
+        "end": 26382,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "zXdplQbh2k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26383,
+        "end": 26385,
+        "text": "11",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "K3K4pqvo8P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26454,
+        "end": 26458,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "SJjvtt4Vlh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26459,
+        "end": 26461,
+        "text": "12",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "SDYzupjvxe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26640,
+        "end": 26644,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gybUjMLUyG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26645,
+        "end": 26647,
+        "text": "23",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "PkVVFiyHtV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26650,
+        "end": 26651,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "xbkAGYH6ob",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26652,
+        "end": 26653,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "FpN5SO7haa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26655,
+        "end": 26656,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "LIKON3lbVi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26659,
+        "end": 26660,
+        "text": "5",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Oj65UtpsGJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26798,
+        "end": 26802,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Kac1XHmYTy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26803,
+        "end": 26804,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "A6IdxVl4Yz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27004,
+        "end": 27008,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1aCfcRAs26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27009,
+        "end": 27011,
+        "text": "24",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Y_vLCmS5cp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 137,
+    "data": {
+      "text": "Obwieszczenie Marsza\u0142ka Sejmu Rzeczypospolitej Polskiej z dnia 10 pa\u017adziernika 2024 r. w sprawie og\u0142oszenia jednolitego tekstu ustawy o Polskiej Organizacji Turystycznej\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej\nRozdzia\u0142 1 - Przepisy og\u00f3lne\nRozdzia\u0142 2 - Organy Polskiej Organizacji Turystycznej\nRozdzia\u0142 3 - Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej\nRozdzia\u0142 4 - Dzia\u0142alno\u015b\u0107 gospodarcza Polskiej Organizacji Turystycznej\nRozdzia\u0142 5 - Zmiany w przepisach obowi\u0105zuj\u0105cych\nRozdzia\u0142 6 - Przepisy przej\u015bciowe i ko\u0144cowe\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych\ni niekt\u00f3rych innych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej\n(Dz. U. z 2023 r. poz. 1608), z uwzgl\u0119dnieniem zmian wprowadzonych ustaw\u0105 z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niekt\u00f3rych\ninnych ustaw\n(Dz. U. poz. 1089) oraz zmian wynikaj\u0105cych z przepis\u00f3w og\u0142oszonych przed dniem 2 pa\u017adziernika 2024 r.\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje\nart. 34 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych\noraz niekt\u00f3rych innych ustaw\n(Dz. U. poz. 1089), kt\u00f3re stanowi\u0105:\n\u201eArt. 34.\nPrzepis art. 18 ust. 4 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejsz\u0105 ustaw\u0105,\nma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Polskiej Organizacji\nTurystycznej za rok 2024.\u201d\n\u201eArt. 44.\nUstawa wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia, z wyj\u0105tkiem art. 8\npkt 3 i 4 oraz art. 16 pkt 2, kt\u00f3re wchodz\u0105 w \u017cycie z dniem 1 stycznia 2025 r.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej\nRozdzia\u0142 1\nPrzepisy og\u00f3lne\nArt. 1.\n1.\nW celu wzmocnienia promocji Polski w dziedzinie turystyki w kraju i za granic\u0105 tworzy\nsi\u0119 Polsk\u0105 Organizacj\u0119 Turystyczn\u0105 z siedzib\u0105 w Warszawie.\n2.\nPolska Organizacja Turystyczna tworzy warunki wsp\u00f3\u0142pracy organ\u00f3w administracji rz\u0105dowej,\nsamorz\u0105du terytorialnego i organizacji zrzeszaj\u0105cych przedsi\u0119biorc\u00f3w z dziedziny turystyki,\nw tym samorz\u0105du gospodarczego i zawodowego, oraz stowarzysze\u0144 dzia\u0142aj\u0105cych w tej dziedzinie.\nArt. 2.\n1.\nPolska Organizacja Turystyczna jest pa\u0144stwow\u0105 osob\u0105 prawn\u0105.\n2.\nNadz\u00f3r nad Polsk\u0105 Organizacj\u0105 Turystyczn\u0105 sprawuje minister w\u0142a\u015bciwy do spraw turystyki,\nzwany dalej \u201ew\u0142a\u015bciwym ministrem\u201d.\nArt. 3.\n1.\nDo zada\u0144 Polskiej Organizacji Turystycznej nale\u017cy:\n1)\npromocja Polski jako kraju atrakcyjnego turystycznie;\n2)\nzapewnianie funkcjonowania i rozwijania polskiego systemu informacji turystycznej\nw kraju i na \u015bwiecie;\n3)\ninicjowanie, opiniowanie i wspomaganie plan\u00f3w rozwoju i modernizacji infrastruktury\nturystycznej;\n4)\nwykonywanie innych zada\u0144 powierzonych przez organy i jednostki, o kt\u00f3rych mowa w ust.\n2 pkt 1, 1c i 2, na zasadach okre\u015blonych w umowie zawieranej pomi\u0119dzy tymi organami\ni jednostkami a Polsk\u0105 Organizacj\u0105 Turystyczn\u0105;\n5)\ninspirowanie tworzenia regionalnych organizacji turystycznych, obejmuj\u0105cych swoim\nzakresem dzia\u0142ania obszar jednego lub wi\u0119cej wojew\u00f3dztw, oraz lokalnych organizacji\nturystycznych, obejmuj\u0105cych swoim zakresem dzia\u0142ania obszar jednej lub wi\u0119cej jednostek\nsamorz\u0105du lokalnego, a tak\u017ce z nimi wsp\u00f3\u0142dzia\u0142anie.\n2.\nPolska Organizacja Turystyczna, wykonuj\u0105c swoje zadania, wsp\u00f3\u0142pracuje w szczeg\u00f3lno\u015bci\nz:\n1)\njednostkami samorz\u0105du terytorialnego;\n1a)\nregionalnymi i lokalnymi organizacjami turystycznymi;\n1b)\nzwi\u0105zkami metropolitalnymi;\n1c)\nministrem w\u0142a\u015bciwym do spraw kultury fizycznej - w zakresie promocji Polski przez\npolskich sportowc\u00f3w lub kluby sportowe w sportach dru\u017cynowych uczestnicz\u0105ce we wsp\u00f3\u0142zawodnictwie\nsportowym organizowanym przez polskie zwi\u0105zki sportowe oraz bior\u0105ce udzia\u0142 w mi\u0119dzynarodowych\nrozgrywkach sportowych;\n2)\norganizacjami zrzeszaj\u0105cymi przedsi\u0119biorc\u00f3w z dziedziny turystyki, w tym samorz\u0105du\ngospodarczego i zawodowego, oraz stowarzyszeniami dzia\u0142aj\u0105cymi w tej dziedzinie;\n3)\npolskimi przedstawicielstwami zagranicznymi - w zakresie zada\u0144 wykonywanych za granic\u0105.\n3.\nW sprawach okre\u015blonych w art. 27a ustawy z dnia 4 wrze\u015bnia 1997 r. o dzia\u0142ach administracji rz\u0105dowej\n(Dz. U. z 2024 r. poz. 1370) Polska Organizacja Turystyczna wspomaga w\u0142a\u015bciwego ministra.\n4.\nDo zam\u00f3wie\u0144 na us\u0142ugi lub dostawy, udzielanych przez Polsk\u0105 Organizacj\u0119 Turystyczn\u0105\nw ramach realizacji zada\u0144 powierzonych jej w umowie, o kt\u00f3rej mowa w ust. 1 pkt 4,\nprzez ministra w\u0142a\u015bciwego do spraw kultury fizycznej, nie stosuje si\u0119 przepis\u00f3w ustawy z dnia 11 wrze\u015bnia 2019 r. - Prawo zam\u00f3wie\u0144 publicznych\n(Dz. U. z 2024 r. poz. 1320).\n5.\nUdzielaj\u0105c zam\u00f3wie\u0144, o kt\u00f3rych mowa w ust. 4, Polska Organizacja Turystyczna:\n1)\nzamieszcza og\u0142oszenie o udzielanym zam\u00f3wieniu w Biuletynie Informacji Publicznej Polskiej\nOrganizacji Turystycznej;\n2)\nzapewnia przejrzysto\u015b\u0107 post\u0119powania o udzielenie zam\u00f3wienia i r\u00f3wne traktowanie podmiot\u00f3w\nzainteresowanych realizacj\u0105 zam\u00f3wienia oraz uwzgl\u0119dnia okoliczno\u015bci mog\u0105ce mie\u0107 wp\u0142yw\nna jego udzielenie;\n3)\nw odniesieniu do zamawianych dostaw lub us\u0142ug mo\u017ce kierowa\u0107 si\u0119, opr\u00f3cz kryterium\nceny, r\u00f3wnie\u017c innymi kryteriami, w szczeg\u00f3lno\u015bci odnosz\u0105cymi si\u0119 do aspekt\u00f3w \u015brodowiskowych\nlub spo\u0142ecznych;\n4)\nnie udost\u0119pnia informacji zwi\u0105zanych z zam\u00f3wieniem stanowi\u0105cych tajemnic\u0119 przedsi\u0119biorstwa\nw rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji\n(Dz. U. z 2022 r. poz. 1233), je\u017celi nie p\u00f3\u017aniej ni\u017c w terminie sk\u0142adania ofert podmiot zainteresowany realizacj\u0105\nzam\u00f3wienia zastrzeg\u0142, \u017ce nie mog\u0105 by\u0107 one udost\u0119pniane, oraz wykaza\u0142, \u017ce zastrze\u017cone\ninformacje stanowi\u0105 tajemnic\u0119 przedsi\u0119biorstwa, z wyj\u0105tkiem nazwy (firmy) albo imienia\ni nazwiska oraz adresu podmiotu zainteresowanego realizacj\u0105 zam\u00f3wienia, a tak\u017ce informacji\ndotycz\u0105cych ceny, terminu realizacji zam\u00f3wienia, okresu gwarancji i warunk\u00f3w p\u0142atno\u015bci\nzawartych w ofercie, kt\u00f3re nie mog\u0105 zosta\u0107 zastrze\u017cone;\n5)\nniezw\u0142ocznie zamieszcza w Biuletynie Informacji Publicznej Polskiej Organizacji Turystycznej\ninformacj\u0119 o udzieleniu zam\u00f3wienia, podaj\u0105c nazw\u0119 (firm\u0119) albo imi\u0119 i nazwisko podmiotu,\nz kt\u00f3rym zawar\u0142a umow\u0119 o realizacj\u0119 zam\u00f3wienia, albo informacj\u0119 o nieudzieleniu zam\u00f3wienia.\n6.\nOsoby wykonuj\u0105ce czynno\u015bci w post\u0119powaniu o udzielenie zam\u00f3wienia, o kt\u00f3rym mowa w\nust. 4, podlegaj\u0105 wy\u0142\u0105czeniu z tego post\u0119powania, je\u017celi:\n1)\nubiegaj\u0105 si\u0119 o udzielenie tego zam\u00f3wienia;\n2)\npozostaj\u0105 w zwi\u0105zku ma\u0142\u017ce\u0144skim, w stosunku pokrewie\u0144stwa lub powinowactwa w linii\nprostej, pokrewie\u0144stwa lub powinowactwa w linii bocznej do drugiego stopnia lub s\u0105\nzwi\u0105zane z tytu\u0142u przysposobienia, opieki lub kurateli z podmiotem zainteresowanym\nrealizacj\u0105 zam\u00f3wienia, jego zast\u0119pc\u0105 prawnym lub cz\u0142onkiem jego organu zarz\u0105dzaj\u0105cego\nlub nadzorczego;\n3)\nprzed up\u0142ywem 3 lat od dnia wszcz\u0119cia post\u0119powania o udzielenie zam\u00f3wienia pozostawa\u0142y\nlub pozostaj\u0105 w stosunku pracy lub zlecenia z podmiotem zainteresowanym realizacj\u0105\nzam\u00f3wienia lub by\u0142y cz\u0142onkami jego organu zarz\u0105dzaj\u0105cego lub nadzorczego;\n4)\npozostaj\u0105 z podmiotem zainteresowanym realizacj\u0105 zam\u00f3wienia w takim stosunku prawnym\nlub faktycznym, \u017ce mo\u017ce to budzi\u0107 uzasadnione w\u0105tpliwo\u015bci co do bezstronno\u015bci tych\nos\u00f3b;\n5)\nzosta\u0142y prawomocnie skazane za przest\u0119pstwo pope\u0142nione w zwi\u0105zku z post\u0119powaniem o\nudzielenie zam\u00f3wienia publicznego, o kt\u00f3rym mowa w art. 228-230a, art. 270, art. 276, art. 286, art. 287, art. 296, art. 296a, art. 297,\nart. 303 lub art. 305 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny\n(Dz. U. z 2024 r. poz. 17 i 1228), o ile nie nast\u0105pi\u0142o zatarcie skazania.\n7.\nOsoby wykonuj\u0105ce czynno\u015bci w post\u0119powaniu o udzielenie zam\u00f3wienia, o kt\u00f3rym mowa w\nust. 4, sk\u0142adaj\u0105, pod rygorem odpowiedzialno\u015bci karnej za z\u0142o\u017cenie fa\u0142szywego o\u015bwiadczenia,\nw formie pisemnej, o\u015bwiadczenie o braku istnienia lub istnieniu okoliczno\u015bci, o kt\u00f3rych\nmowa w ust. 6. Sk\u0142adaj\u0105cy o\u015bwiadczenie jest obowi\u0105zany do zawarcia w nim klauzuli\no nast\u0119puj\u0105cej tre\u015bci: \u201eJestem \u015bwiadomy odpowiedzialno\u015bci karnej za z\u0142o\u017cenie fa\u0142szywego\no\u015bwiadczenia.\u201d. Klauzula ta zast\u0119puje pouczenie o odpowiedzialno\u015bci karnej za z\u0142o\u017cenie\nfa\u0142szywego o\u015bwiadczenia.\nArt. 4.\n1.\nW celu wykonania zadania, o kt\u00f3rym mowa w art. 3 ust. 1 pkt 5, mog\u0105 by\u0107 tworzone regionalne\ni lokalne organizacje turystyczne.\n2.\nDo tworzenia i dzia\u0142ania regionalnych i lokalnych organizacji turystycznych stosuje\nsi\u0119 przepisy ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach\n(Dz. U. z 2020 r. poz. 2261), z tym \u017ce:\n1)\ncz\u0142onkiem tych organizacji mog\u0105 by\u0107 osoby fizyczne i osoby prawne, w szczeg\u00f3lno\u015bci\npodmioty, o kt\u00f3rych mowa w art. 3 ust. 2 pkt 1, 1b i 2;\n2)\nnadz\u00f3r nad tymi organizacjami sprawuje minister w\u0142a\u015bciwy do spraw turystyki;\n3)\norganizacje te mog\u0105 prowadzi\u0107 dzia\u0142alno\u015b\u0107 gospodarcz\u0105 w rozmiarach s\u0142u\u017c\u0105cych realizacji\nich cel\u00f3w i w przedmiocie okre\u015blonym w ich statutach.\n3.\nDo zada\u0144 regionalnych i lokalnych organizacji turystycznych nale\u017cy:\n1)\npromocja turystyczna obszaru ich dzia\u0142ania;\n2)\nwspomaganie funkcjonowania i rozwoju informacji turystycznej;\n3)\ninicjowanie, opiniowanie i wspieranie plan\u00f3w rozwoju i modernizacji infrastruktury\nturystycznej;\n4)\nwsp\u00f3\u0142praca z Polsk\u0105 Organizacj\u0105 Turystyczn\u0105.\n4.\nMinister w\u0142a\u015bciwy do spraw turystyki mo\u017ce, w drodze rozporz\u0105dzenia, przekaza\u0107 nadz\u00f3r\nnad regionalnymi organizacjami turystycznymi lub lokalnymi organizacjami turystycznymi\nw\u0142a\u015bciwym wojewodom.\nArt. 4a.\n1.\nPolskiej Organizacji Turystycznej przys\u0142uguje wy\u0142\u0105czne prawo u\u017cywania znaku ustalonego\ndla cel\u00f3w promocji Polski w dziedzinie turystyki.\n2.\nMinister w\u0142a\u015bciwy do spraw turystyki okre\u015bli, w drodze rozporz\u0105dzenia, wz\u00f3r znaku,\no kt\u00f3rym mowa w ust. 1.\nRozdzia\u0142 2\nOrgany Polskiej Organizacji Turystycznej\nArt. 5.\nOrganami Polskiej Organizacji Turystycznej s\u0105:\n1)\nRada Polskiej Organizacji Turystycznej;\n2)\nPrezes Polskiej Organizacji Turystycznej.\nArt. 6.\n1.\nRada Polskiej Organizacji Turystycznej wykonuje kompetencje stanowi\u0105ce i opiniodawcze\nokre\u015blone w ustawie.\n2.\nDo kompetencji Rady Polskiej Organizacji Turystycznej nale\u017cy w szczeg\u00f3lno\u015bci:\n1)\nprzyjmowanie przedstawionych przez Prezesa Polskiej Organizacji Turystycznej projekt\u00f3w\nrocznych plan\u00f3w finansowych;\n2)\nprzyjmowanie rocznych i wieloletnich program\u00f3w dzia\u0142ania Polskiej Organizacji Turystycznej;\n3)\nzatwierdzanie rocznych sprawozda\u0144 z dzia\u0142alno\u015bci Polskiej Organizacji Turystycznej;\n4)\nprzyjmowanie rocznych sprawozda\u0144 finansowych Polskiej Organizacji Turystycznej;\n5)\nopiniowanie kandydat\u00f3w na stanowisko Prezesa i wiceprezes\u00f3w Polskiej Organizacji Turystycznej;\n6)\nokre\u015blanie zasad wynagradzania pracownik\u00f3w Polskiej Organizacji Turystycznej i wymaga\u0144\nkwalifikacyjnych wobec tych pracownik\u00f3w.\n3.\nRada Polskiej Organizacji Turystycznej jest uprawniona do przedstawiania opinii lub\nwniosk\u00f3w we wszystkich sprawach dotycz\u0105cych dzia\u0142alno\u015bci Polskiej Organizacji Turystycznej.\nArt. 7.\n1.\nW sk\u0142ad Rady Polskiej Organizacji Turystycznej wchodzi 12-18 cz\u0142onk\u00f3w powo\u0142ywanych\nprzez w\u0142a\u015bciwego ministra spo\u015br\u00f3d kandydat\u00f3w przedstawionych przez:\n1)\nadministracj\u0119 rz\u0105dow\u0105;\n2)\njednostki lub og\u00f3lnopolskie reprezentacje samorz\u0105du terytorialnego;\n3)\nsamorz\u0105d gospodarczy i samorz\u0105d zawodowy oraz stowarzyszenia dzia\u0142aj\u0105ce w dziedzinie\nturystyki, a tak\u017ce przewo\u017anik\u00f3w.\nPodmioty wymienione w pkt 1-3 s\u0105 reprezentowane w Radzie Polskiej Organizacji Turystycznej\nw r\u00f3wnych proporcjach.\n2.\nKadencja Rady Polskiej Organizacji Turystycznej trwa 3 lata.\n3.\nRada powo\u0142uje ze swojego sk\u0142adu i odwo\u0142uje Przewodnicz\u0105cego i zast\u0119pc\u0119 Przewodnicz\u0105cego\nRady Polskiej Organizacji Turystycznej.\n4.\nW razie uzyskania r\u00f3wnej liczby g\u0142os\u00f3w w Radzie Polskiej Organizacji Turystycznej,\nrozstrzyga g\u0142os jej Przewodnicz\u0105cego.\n5.\nUstanie cz\u0142onkostwa w Radzie Polskiej Organizacji Turystycznej mo\u017ce nast\u0105pi\u0107 z powodu:\n1)\nodwo\u0142ania na umotywowany wniosek podmiotu, kt\u00f3ry przedstawi\u0142 kandydatur\u0119;\n2)\npisemnej rezygnacji;\n3)\nograniczenia albo utraty zdolno\u015bci do czynno\u015bci prawnych;\n4)\n\u015bmierci.\n6.\nW\u0142a\u015bciwy minister:\n1)\nodwo\u0142uje cz\u0142onka Rady Polskiej Organizacji Turystycznej w wypadku, o kt\u00f3rym mowa w\nust. 5 pkt 1;\n2)\nstwierdza ustanie cz\u0142onkostwa w wypadkach, o kt\u00f3rych mowa w ust. 5 pkt 2-4.\nArt. 8.\nPrezes Polskiej Organizacji Turystycznej kieruje Polsk\u0105 Organizacj\u0105 Turystyczn\u0105 i\nreprezentuje j\u0105 na zewn\u0105trz.\nArt. 9.\n1.\nPrezesa Polskiej Organizacji Turystycznej powo\u0142uje minister w\u0142a\u015bciwy do spraw turystyki,\nspo\u015br\u00f3d os\u00f3b wy\u0142onionych w drodze otwartego i konkurencyjnego naboru, po zasi\u0119gni\u0119ciu\nopinii Rady Polskiej Organizacji Turystycznej. Minister w\u0142a\u015bciwy do spraw turystyki\nodwo\u0142uje Prezesa Polskiej Organizacji Turystycznej.\n2.\nPrezesem Polskiej Organizacji Turystycznej mo\u017ce by\u0107 tak\u017ce osoba zajmuj\u0105ca kierownicze\nstanowisko pa\u0144stwowe w rozumieniu przepis\u00f3w o wynagradzaniu os\u00f3b zajmuj\u0105cych kierownicze\nstanowiska pa\u0144stwowe.\n3.\nStanowisko Prezesa Polskiej Organizacji Turystycznej mo\u017ce zajmowa\u0107 osoba, kt\u00f3ra:\n1)\nposiada tytu\u0142 zawodowy magistra lub r\u00f3wnorz\u0119dny;\n2)\njest obywatelem polskim;\n3)\nkorzysta z pe\u0142ni praw publicznych;\n4)\nnie by\u0142a skazana prawomocnym wyrokiem za umy\u015blne przest\u0119pstwo lub umy\u015blne przest\u0119pstwo\nskarbowe;\n5)\nposiada kompetencje kierownicze;\n6)\nposiada co najmniej 6-letni sta\u017c pracy, w tym co najmniej 3-letni sta\u017c pracy na stanowisku\nkierowniczym;\n7)\nposiada wykszta\u0142cenie i wiedz\u0119 z zakresu spraw nale\u017c\u0105cych do w\u0142a\u015bciwo\u015bci Polskiej\nOrganizacji Turystycznej.\n4.\nInformacj\u0119 o naborze na stanowisko Prezesa Polskiej Organizacji Turystycznej og\u0142asza\nsi\u0119 przez umieszczenie og\u0142oszenia w miejscu powszechnie dost\u0119pnym w siedzibie Polskiej\nOrganizacji Turystycznej oraz w Biuletynie Informacji Publicznej Polskiej Organizacji\nTurystycznej i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministr\u00f3w.\nOg\u0142oszenie powinno zawiera\u0107:\n1)\nnazw\u0119 i adres Polskiej Organizacji Turystycznej;\n2)\nokre\u015blenie stanowiska;\n3)\nwymagania zwi\u0105zane ze stanowiskiem wynikaj\u0105ce z przepis\u00f3w prawa;\n4)\nzakres zada\u0144 wykonywanych na stanowisku;\n5)\nwskazanie wymaganych dokument\u00f3w;\n6)\ntermin i miejsce sk\u0142adania dokument\u00f3w;\n7)\ninformacj\u0119 o metodach i technikach naboru.\n5.\nTermin, o kt\u00f3rym mowa w ust. 4 pkt 6, nie mo\u017ce by\u0107 kr\u00f3tszy ni\u017c 10 dni od dnia opublikowania\nog\u0142oszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministr\u00f3w.\n6.\nNab\u00f3r na stanowisko Prezesa Polskiej Organizacji Turystycznej przeprowadza zesp\u00f3\u0142,\npowo\u0142any przez ministra w\u0142a\u015bciwego do spraw turystyki, licz\u0105cy co najmniej 3 osoby,\nkt\u00f3rych wiedza i do\u015bwiadczenie daj\u0105 r\u0119kojmi\u0119 wy\u0142onienia najlepszych kandydat\u00f3w. W\ntoku naboru ocenia si\u0119 do\u015bwiadczenie zawodowe kandydata, wiedz\u0119 niezb\u0119dn\u0105 do wykonywania\nzada\u0144 na stanowisku, na kt\u00f3re jest przeprowadzany nab\u00f3r, oraz kompetencje kierownicze.\n7.\nOcena wiedzy i kompetencji kierowniczych, o kt\u00f3rych mowa w ust. 6, mo\u017ce by\u0107 dokonana\nna zlecenie zespo\u0142u przez osob\u0119 nieb\u0119d\u0105c\u0105 cz\u0142onkiem zespo\u0142u, kt\u00f3ra posiada odpowiednie\nkwalifikacje do dokonania tej oceny.\n8.\nCz\u0142onek zespo\u0142u oraz osoba, o kt\u00f3rej mowa w ust. 7, maj\u0105 obowi\u0105zek zachowania w tajemnicy\ninformacji dotycz\u0105cych os\u00f3b ubiegaj\u0105cych si\u0119 o stanowisko, uzyskanych w trakcie naboru.\n9.\nW toku naboru zesp\u00f3\u0142 wy\u0142ania nie wi\u0119cej ni\u017c 3 kandydat\u00f3w, kt\u00f3rych przedstawia ministrowi\nw\u0142a\u015bciwemu do spraw turystyki.\n10.\nZ przeprowadzonego naboru zesp\u00f3\u0142 sporz\u0105dza protok\u00f3\u0142 zawieraj\u0105cy:\n1)\nnazw\u0119 i adres Polskiej Organizacji Turystycznej;\n2)\nokre\u015blenie stanowiska, na kt\u00f3re by\u0142 prowadzony nab\u00f3r, oraz liczb\u0119 kandydat\u00f3w;\n3)\nimiona, nazwiska i adresy nie wi\u0119cej ni\u017c 3 najlepszych kandydat\u00f3w uszeregowanych wed\u0142ug\npoziomu spe\u0142niania przez nich wymaga\u0144 okre\u015blonych w og\u0142oszeniu o naborze;\n4)\ninformacj\u0119 o zastosowanych metodach i technikach naboru;\n5)\nuzasadnienie dokonanego wyboru albo powody niewy\u0142onienia kandydata;\n6)\nsk\u0142ad zespo\u0142u.\n11.\nWynik naboru og\u0142asza si\u0119 niezw\u0142ocznie przez umieszczenie informacji w Biuletynie Informacji\nPublicznej Polskiej Organizacji Turystycznej i Biuletynie Informacji Publicznej Kancelarii\nPrezesa Rady Ministr\u00f3w. Informacja o wyniku naboru zawiera:\n1)\nnazw\u0119 i adres Polskiej Organizacji Turystycznej;\n2)\nokre\u015blenie stanowiska, na kt\u00f3re by\u0142 prowadzony nab\u00f3r;\n3)\nimiona, nazwiska wybranych kandydat\u00f3w oraz ich miejsca zamieszkania w rozumieniu przepis\u00f3w\nKodeksu cywilnego albo informacj\u0119 o niewy\u0142onieniu kandydata.\n12.\nUmieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministr\u00f3w\nog\u0142oszenia o naborze oraz o wyniku tego naboru jest bezp\u0142atne.\nArt. 10.\n1.\nWiceprezes\u00f3w Polskiej Organizacji Turystycznej w liczbie od 1 do 3 powo\u0142uje Prezes\nPolskiej Organizacji Turystycznej, spo\u015br\u00f3d os\u00f3b wy\u0142onionych w drodze otwartego i konkurencyjnego\nnaboru, po zasi\u0119gni\u0119ciu opinii Rady Polskiej Organizacji Turystycznej. Prezes Polskiej\nOrganizacji Turystycznej odwo\u0142uje wiceprezes\u00f3w Polskiej Organizacji Turystycznej,\npo zasi\u0119gni\u0119ciu opinii Rady Polskiej Organizacji Turystycznej.\n2.\nPrezesa Polskiej Organizacji Turystycznej w razie potrzeby zast\u0119puje wyznaczony przez\nniego jeden z wiceprezes\u00f3w.\n3.\nZesp\u00f3\u0142 przeprowadzaj\u0105cy nab\u00f3r na stanowiska, o kt\u00f3rych mowa w ust. 1, powo\u0142uje Prezes\nPolskiej Organizacji Turystycznej.\n4.\nDo sposobu przeprowadzania naboru na stanowiska, o kt\u00f3rych mowa w ust. 1, stosuje\nsi\u0119 odpowiednio przepisy art. 9 ust. 3-12.\nArt. 11.\n1.\nDo obowi\u0105zk\u00f3w Prezesa Polskiej Organizacji Turystycznej nale\u017cy realizowanie zada\u0144\nPolskiej Organizacji Turystycznej, okre\u015blonych w art. 3, a w szczeg\u00f3lno\u015bci:\n1)\nopracowywanie projektu rocznego planu finansowego Polskiej Organizacji Turystycznej,\na tak\u017ce wyst\u0119powanie z wnioskami do w\u0142a\u015bciwego ministra w sprawie wysoko\u015bci dotacji\nbud\u017cetowej na realizacj\u0119 tych zada\u0144;\n2)\nopracowywanie projekt\u00f3w rocznych i wieloletnich program\u00f3w dzia\u0142ania Polskiej Organizacji\nTurystycznej;\n3)\nprzedstawianie Radzie Polskiej Organizacji Turystycznej i w\u0142a\u015bciwemu ministrowi rocznych\nsprawozda\u0144 z dzia\u0142alno\u015bci Polskiej Organizacji Turystycznej;\n4)\ntworzenie jednostek organizacyjnych Polskiej Organizacji Turystycznej, w tym jednostek\nwykonuj\u0105cych zadania za granic\u0105, a zw\u0142aszcza o\u015brodk\u00f3w informacji turystycznej.\n2.\nPrezes Polskiej Organizacji Turystycznej wykonuje swoje zadania przy pomocy Biura\nPrezesa Polskiej Organizacji Turystycznej. Zadania i organizacj\u0119 Biura okre\u015bla statut,\no kt\u00f3rym mowa w art. 12.\nArt. 12.\nSzczeg\u00f3\u0142owy zakres dzia\u0142ania Polskiej Organizacji Turystycznej z uwzgl\u0119dnieniem jednostek\norganizacyjnych wykonuj\u0105cych zadania za granic\u0105, jej struktur\u0119 organizacyjn\u0105, tryb\ndzia\u0142ania oraz inne sprawy wymienione w ustawie okre\u015bla statut Polskiej Organizacji\nTurystycznej, nadany, w drodze rozporz\u0105dzenia, przez w\u0142a\u015bciwego ministra po zasi\u0119gni\u0119ciu\nopinii Rady Polskiej Organizacji Turystycznej.\nRozdzia\u0142 3\nMienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej\nArt. 13.\n1.\nSkarb Pa\u0144stwa przeka\u017ce Polskiej Organizacji Turystycznej:\n1)\nmienie przedsi\u0119biorstwa pa\u0144stwowego Polska Agencja Promocji Turystyki z siedzib\u0105 w\nWarszawie;\n2)\ninne sk\u0142adniki maj\u0105tkowe niezb\u0119dne do podj\u0119cia dzia\u0142alno\u015bci Polskiej Organizacji Turystycznej,\nkt\u00f3re w\u0142a\u015bciwy minister przeka\u017ce jej w porozumieniu z ministrem w\u0142a\u015bciwym do spraw\nSkarbu Pa\u0144stwa;\n3)\nsk\u0142adniki maj\u0105tkowe nale\u017c\u0105ce do polskich o\u015brodk\u00f3w informacji turystycznej za granic\u0105.\n2.\nSkarb Pa\u0144stwa, w celu podwy\u017cszenia funduszu statutowego Polskiej Organizacji Turystycznej,\nprzeka\u017ce jej nieodp\u0142atnie akcje Polskiej Agencji Rozwoju Turystyki S.A. z siedzib\u0105\nw Warszawie.\n3.\nNabycie mienia, o kt\u00f3rym mowa w ust. 1 pkt 1 i 3, nast\u0119puje nieodp\u0142atnie, przy czym\ndo jego trybu i skutk\u00f3w stosuje si\u0119 odpowiednio przepisy o komercjalizacji i prywatyzacji\ndotycz\u0105ce prywatyzacji bezpo\u015bredniej poprzez sprzeda\u017c przedsi\u0119biorstwa, z wy\u0142\u0105czeniem\nprzepis\u00f3w dotycz\u0105cych zarz\u0105dzenia o prywatyzacji bezpo\u015bredniej.\n4.\nPolska Organizacja Turystyczna, z chwil\u0105 nabycia sk\u0142adnik\u00f3w mienia, o kt\u00f3rych mowa\nw ust. 1 i 2, wst\u0119puje w prawa i obowi\u0105zki z nimi zwi\u0105zane w stosunku do Skarbu Pa\u0144stwa\noraz os\u00f3b trzecich.\nArt. 14.\n1.\nPrzychodami Polskiej Organizacji Turystycznej s\u0105:\n1)\ndotacje bud\u017cetowe:\na)\npodmiotowe,\nb)\ncelowe;\n2)\nbezzwrotna pomoc zagraniczna;\n3)\ndochody z dzia\u0142alno\u015bci gospodarczej;\n4)\nwp\u0142aty jednostek samorz\u0105du terytorialnego;\n5)\nprzychody ze sprzeda\u017cy rzeczowych sk\u0142adnik\u00f3w mienia;\n6)\nprzychody z tytu\u0142u przekazania do odp\u0142atnego u\u017cywania rzeczowych sk\u0142adnik\u00f3w mienia;\n7)\nwp\u0142aty organizacji zrzeszaj\u0105cych przedsi\u0119biorc\u00f3w, prowadz\u0105cych dzia\u0142alno\u015b\u0107 gospodarcz\u0105\nw dziedzinie turystyki, wypoczynku, sportu i rekreacji;\n8)\nwp\u0142aty przedsi\u0119biorc\u00f3w, prowadz\u0105cych dzia\u0142alno\u015b\u0107 gospodarcz\u0105 w dziedzinie turystyki,\nwypoczynku, sportu i rekreacji;\n9)\ndarowizny i zapisy;\n10)\ninne przychody.\n2.\nWp\u0142aty, o kt\u00f3rych mowa w ust. 1 pkt 4, 7 i 8, maj\u0105 charakter dobrowolny.\n3.\nKwoty dotacji, o kt\u00f3rych mowa w ust. 1 pkt 1 lit. a, ustala ustawa bud\u017cetowa.\n4.\nPolska Organizacja Turystyczna prowadzi rachunkowo\u015b\u0107 wed\u0142ug zasad okre\u015blonych w przepisach\no rachunkowo\u015bci.\n5.\nRokiem obrotowym i podatkowym Polskiej Organizacji Turystycznej jest rok kalendarzowy.\n6.\nNadwy\u017cki \u015brodk\u00f3w finansowych w danym roku kalendarzowym przechodz\u0105 na rok nast\u0119pny,\nz wyj\u0105tkiem przychod\u00f3w, o kt\u00f3rych mowa w ust. 1 pkt 1.\nArt. 15.\n1 1) W brzmieniu ustalonym przez art. 8 pkt 1 ustawy z dnia 28 czerwca 2024 r. o zmianie\nustawy o finansach publicznych oraz niekt\u00f3rych innych ustaw (Dz. U. poz. 1089), kt\u00f3ra\nwesz\u0142a w \u017cycie z dniem 23 lipca 2024 r..\nPolska Organizacja Turystyczna prowadzi gospodark\u0119 finansow\u0105 na podstawie rocznego\nplanu finansowego.\n2.\nProjekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyj\u0119ciu\nprzez Rad\u0119 Polskiej Organizacji Turystycznej i zatwierdzeniu przez w\u0142a\u015bciwego ministra,\njest przekazywany ministrowi w\u0142a\u015bciwemu do spraw finans\u00f3w publicznych w trybie okre\u015blonym\nw przepisach dotycz\u0105cych prac nad projektem ustawy bud\u017cetowej.\n3.\nRoczny plan finansowy Polskiej Organizacji Turystycznej obejmuje w szczeg\u00f3lno\u015bci:\n1)\nplanowane przychody, w tym dotacje na realizacj\u0119 zada\u0144, o kt\u00f3rych mowa w art. 3;\n2)\nplanowane koszty operacyjne;\n3)\nplanowane wydatki inwestycyjne;\n4)\nstan \u015brodk\u00f3w obrotowych na dzie\u0144 31 grudnia roku poprzedzaj\u0105cego rok obrotowy;\n5)\nplanowany przyrost lub spadek \u015brodk\u00f3w obrotowych na ostatni dzie\u0144 roku obrotowego;\n6)\nspos\u00f3b pokrycia planowanego niedoboru przychod\u00f3w w stosunku do koszt\u00f3w.\nArt. 16.\nW razie gdy dzia\u0142alno\u015b\u0107 Polskiej Organizacji Turystycznej w roku obrotowym zako\u0144czy\nsi\u0119 nadwy\u017ck\u0105 przychod\u00f3w w stosunku do koszt\u00f3w, nadwy\u017cka podlega wp\u0142acie na fundusz\nrezerwowy, o kt\u00f3rym mowa w art. 17 ust. 1 pkt 2.\nArt. 17.\n1.\nTworzy si\u0119 nast\u0119puj\u0105ce fundusze w\u0142asne Polskiej Organizacji Turystycznej:\n1)\nfundusz statutowy;\n2)\nfundusz rezerwowy.\n2.\nNa fundusz statutowy Polskiej Organizacji Turystycznej sk\u0142ada si\u0119 w szczeg\u00f3lno\u015bci:\n1)\nwarto\u015b\u0107 mienia Polskiej Organizacji Turystycznej;\n2)\ninwestycje realizowane z dotacji bud\u017cetowej;\n3)\nwarto\u015b\u0107 netto \u015brodk\u00f3w trwa\u0142ych;\n4)\nwarto\u015bci niematerialne i prawne;\n5)\nwarto\u015b\u0107 \u015brodk\u00f3w obrotowych przekazanych Polskiej Organizacji Turystycznej.\n3.\nFundusz statutowy ulega zmniejszeniu o warto\u015b\u0107 umorzenia sk\u0142adnik\u00f3w maj\u0105tkowych zaliczanych\ndo maj\u0105tku trwa\u0142ego dokonywanego zgodnie z obowi\u0105zuj\u0105cymi przepisami oraz ulega zwi\u0119kszeniu\no warto\u015b\u0107 nabytych b\u0105d\u017a wytworzonych sk\u0142adnik\u00f3w mienia Polskiej Organizacji Turystycznej.\n4.\nDysponentem funduszu rezerwowego jest Prezes Polskiej Organizacji Turystycznej.\n5.\nFundusz rezerwowy przeznacza si\u0119 w pierwszej kolejno\u015bci na finansowanie niedobor\u00f3w\nwynikaj\u0105cych z dzia\u0142alno\u015bci prowadzonej przez Polsk\u0105 Organizacj\u0119 Turystyczn\u0105; pozosta\u0142a\nnadwy\u017cka mo\u017ce by\u0107 przeznaczona na finansowanie wieloletnich zada\u0144 inwestycyjnych i\nwieloletnich program\u00f3w promocyjnych uj\u0119tych w wieloletnich programach dzia\u0142ania Polskiej\nOrganizacji Turystycznej.\nArt. 18.\n1.\nRoczne sprawozdanie finansowe Polskiej Organizacji Turystycznej podlega badaniu przez\nfirm\u0119 audytorsk\u0105; badanie dokonywane jest za ka\u017cdy rok obrotowy.\n2.\nWyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Polskiej Organizacji\nTurystycznej dokonuje Rada Polskiej Organizacji Turystycznej.\n3.\nPrezes Polskiej Organizacji Turystycznej przedstawia Radzie Polskiej Organizacji Turystycznej\noraz w\u0142a\u015bciwemu ministrowi roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej\nwraz ze sprawozdaniem z badania.\n4 2) W brzmieniu ustalonym przez art. 8 pkt 2 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1; przepis\nw tym brzmieniu ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego\nPolskiej Organizacji Turystycznej za rok 2024, na podstawie art. 34 tej ustawy..\nRoczne sprawozdanie finansowe Polskiej Organizacji Turystycznej zatwierdza w\u0142a\u015bciwy\nminister.\nArt. 19 3) W tym brzmieniu obowi\u0105zuje do wej\u015bcia w \u017cycie zmiany, o kt\u00f3rej mowa w odno\u015bniku 4..\nPolska Organizacja Turystyczna mo\u017ce otrzymywa\u0107 z bud\u017cetu pa\u0144stwa dotacje celowe na\nfinansowanie zada\u0144, o kt\u00f3rych mowa w art. 3. Kwoty tych dotacji ustala ustawa bud\u017cetowa.\nArt. 19 4) W brzmieniu ustalonym przez art. 8 pkt 3 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1; wejdzie\nw \u017cycie z dniem 1 stycznia 2025 r..\nPolska Organizacja Turystyczna mo\u017ce otrzymywa\u0107 z bud\u017cetu pa\u0144stwa dotacje celowe na\nfinansowanie zada\u0144, o kt\u00f3rych mowa w art. 3.\nArt. 19a.\n1.\nPolska Organizacja Turystyczna mo\u017ce otrzymywa\u0107 z bud\u017cetu pa\u0144stwa dotacje celowe na\nfinansowanie zada\u0144 wynikaj\u0105cych z odr\u0119bnych przepis\u00f3w.\n2 5) Obowi\u0105zuje do wej\u015bcia w \u017cycie zmiany, o kt\u00f3rej mowa w odno\u015bniku 7..\nPrzyznanie dotacji celowej na podstawie ust. 1 wymaga zmiany planu finansowego, o kt\u00f3rym mowa w art. 15. Do zmiany planu finansowego\nnie stosuje si\u0119 art. 52 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych\n(Dz. U. z 2023 r. poz. 1270, z p\u00f3\u017an. zm. 6) Zmiany tekstu jednolitego wymienionej ustawy zosta\u0142y og\u0142oszone w Dz. U. z 2023 r.\npoz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.).\n2.\n(uchylony) 7) Przez art. 8 pkt 4 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1; wejdzie w \u017cycie z dniem 1\nstycznia 2025 r.\nRozdzia\u0142 4\nDzia\u0142alno\u015b\u0107 gospodarcza Polskiej Organizacji Turystycznej\nArt. 20.\n1.\nPolska Organizacja Turystyczna mo\u017ce prowadzi\u0107 dzia\u0142alno\u015b\u0107 gospodarcz\u0105 na podstawie\nprzepis\u00f3w o dzia\u0142alno\u015bci gospodarczej w zakresie i w spos\u00f3b okre\u015blony w statucie.\n2.\nDoch\u00f3d z dzia\u0142alno\u015bci gospodarczej s\u0142u\u017cy wy\u0142\u0105cznie realizacji zada\u0144 Polskiej Organizacji\nTurystycznej okre\u015blonych w art. 3 ust. 1.\nRozdzia\u0142 5\nZmiany w przepisach obowi\u0105zuj\u0105cych\nArt. 21-23.\n(pomini\u0119te)\nRozdzia\u0142 6\nPrzepisy przej\u015bciowe i ko\u0144cowe\nArt. 24.\nDo czasu powo\u0142ania ministra w\u0142a\u015bciwego do spraw kultury fizycznej i turystyki jego\nkompetencje okre\u015blone w art. 7, art. 9 i art. 11 wykonuje Prezes Urz\u0119du Kultury Fizycznej\ni Turystyki, a okre\u015blone w art. 12 - Prezes Rady Ministr\u00f3w.\nArt. 25.\n1.\nPolska Organizacja Turystyczna staje si\u0119 pracodawc\u0105 w stosunku do pracownik\u00f3w polskich\no\u015brodk\u00f3w informacji turystycznej za granic\u0105. Przepisy art. 23 1 \u00a7 1, 2 i 5 Kodeksu pracy, z zastrze\u017ceniem przepis\u00f3w o pracownikach urz\u0119d\u00f3w pa\u0144stwowych oraz o s\u0142u\u017cbie cywilnej,\nstosuje si\u0119 odpowiednio.\n2.\nPrzepis ust. 1 stosuje si\u0119 odpowiednio do pracownik\u00f3w przedsi\u0119biorstwa pa\u0144stwowego\nPolska Agencja Promocji Turystyki.\nArt. 26.\nUstawa wchodzi w \u017cycie z dniem 1 stycznia 2000 r., z wyj\u0105tkiem przepis\u00f3w rozdzia\u0142u\n2 i art. 24, kt\u00f3re wchodz\u0105 w \u017cycie z dniem og\u0142oszenia 8) Ustawa zosta\u0142a og\u0142oszona w dniu 23 lipca 1999 r.."
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.244859Z",
+    "updated_at": "2026-10-03T16:33:13.244859Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 137,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 90,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-17T19:02:39.891287Z",
+  "updated_at": "2026-10-17T19:02:39.891287Z",
+  "draft_created_at": "2026-10-17T19:01:05.940565Z",
+  "lead_time": 99.403,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 137,
+  "parent_annotation": null,
+  "last_created_by": null
+}

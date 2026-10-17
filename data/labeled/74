@@ -1,0 +1,831 @@
+{
+  "id": 74,
+  "result": [
+    {
+      "value": {
+        "start": 248,
+        "end": 249,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "oVUHF-dwiR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 250,
+        "end": 251,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "KkYHcgLiDg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 252,
+        "end": 256,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "FmNOMXyQ4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 257,
+        "end": 258,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "skM_BSCX3W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 383,
+        "end": 394,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xM1H4FHg8j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 395,
+        "end": 399,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "rKcou2UnWz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 536,
+        "end": 540,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "4-i1P7r4F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 541,
+        "end": 542,
+        "text": "9",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "QF0Q2R9qVl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 543,
+        "end": 547,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "2FsrP2NHSu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 548,
+        "end": 549,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "pzc3ea5Ry6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 612,
+        "end": 633,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "__RLQbb6nA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 634,
+        "end": 638,
+        "text": "2125",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6MBlJ8RA7p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2224,
+        "end": 2228,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "umV87XBqUP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2229,
+        "end": 2230,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "vwysaMEdbp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2231,
+        "end": 2234,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "vEKq0gzGKS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2235,
+        "end": 2236,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "mXhvMzRdX1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2237,
+        "end": 2238,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "6VYQB2MA_r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2241,
+        "end": 2242,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "HEbq71zikg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2919,
+        "end": 2923,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "wJuWD89sMN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2924,
+        "end": 2925,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "K1xLgGddw6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2926,
+        "end": 2929,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "wyNYL9Z1my",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2930,
+        "end": 2931,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "x7jv-dhhaG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3109,
+        "end": 3113,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "-mscnuwiEx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3114,
+        "end": 3115,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "aZAYXjLtTq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5473,
+        "end": 5484,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "IIDzuYJaDb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5485,
+        "end": 5488,
+        "text": "408",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hGsDrLERMo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5490,
+        "end": 5504,
+        "text": "z 2006 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "p3cb1uFOrT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5505,
+        "end": 5508,
+        "text": "422",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WcJdXt3r29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5510,
+        "end": 5524,
+        "text": "z 2008 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ty9hjkhMEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5525,
+        "end": 5528,
+        "text": "324",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "aG3YVAwp8c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5534,
+        "end": 5548,
+        "text": "z 2009 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "p3mXogHmYg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5549,
+        "end": 5553,
+        "text": "1794",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tCVS89cS-w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5615,
+        "end": 5619,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1j3KniMV7X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5620,
+        "end": 5623,
+        "text": "164",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "5Y7YmSHZoL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5624,
+        "end": 5628,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lWheJuBGTe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5629,
+        "end": 5630,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mzjxKAH90n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5693,
+        "end": 5714,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DfZ_P6ixch",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5715,
+        "end": 5719,
+        "text": "2125",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VLXra5biOC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7455,
+        "end": 7459,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "QoPRoE7Wbq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7460,
+        "end": 7461,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "s4Pa35gr-L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7462,
+        "end": 7466,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Awhl_k8UBN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7467,
+        "end": 7468,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jCLsD1xNp4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8211,
+        "end": 8232,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kPo6arizVm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8233,
+        "end": 8236,
+        "text": "506",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "lsTu85sBGn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11342,
+        "end": 11353,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "LhkUytKTv1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11354,
+        "end": 11357,
+        "text": "408",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "qVx_9FDBoB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11359,
+        "end": 11373,
+        "text": "z 2006 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "W3rcM9D9db",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11374,
+        "end": 11377,
+        "text": "422",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PdfFibniJd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11379,
+        "end": 11393,
+        "text": "z 2008 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "rEz5cg82n6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11394,
+        "end": 11397,
+        "text": "324",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ZISwFpbSg9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11403,
+        "end": 11417,
+        "text": "z 2009 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "j4YunwbmIs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11418,
+        "end": 11422,
+        "text": "1794",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iEVQ3daKKF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 122,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Zdrowia z dnia 16 lipca 2024 r. w sprawie wymaga\u0144, jakim powinno odpowiada\u0107 medyczne laboratorium diagnostyczne, oraz\nkwalifikacji personelu 1) Minister Zdrowia kieruje dzia\u0142em administracji rz\u0105dowej - zdrowie, na podstawie \u00a7\n1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie\nszczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nSpis tre\u015bci\nTre\u015b\u0107 rozporz\u0105dzenia\nZa\u0142\u0105cznik - Wykaz kwalifikacji personelu i kierownika laboratorium\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 9 ust. 2 ustawy z dnia 15 wrze\u015bnia 2022 r. o medycynie laboratoryjnej\n(Dz. U. z 2023 r. poz. 2125) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nszczeg\u00f3\u0142owe wymagania, jakim powinno odpowiada\u0107 medyczne laboratorium diagnostyczne,\nzwane dalej \u201elaboratorium\u201d, w tym warunki sanitarne pomieszcze\u0144 i urz\u0105dze\u0144 niezb\u0119dnych\ndo zakresu wykonywanych bada\u0144 laboratoryjnych;\n2)\nkwalifikacje personelu i kierownika laboratorium.\n\u00a7 2.\n1.\nPomieszczenia laboratorium powinny by\u0107 dostosowane do rodzaju czynno\u015bci medycyny laboratoryjnej,\njakie s\u0105 w nich wykonywane, w spos\u00f3b zapewniaj\u0105cy poprawn\u0105 jako\u015b\u0107 procedur i wiarygodno\u015b\u0107\nwynik\u00f3w.\n2.\nPomieszczenia i urz\u0105dzenia wymagaj\u0105ce utrzymania aseptyki i wyposa\u017cenie tych pomieszcze\u0144\npowinny umo\u017cliwia\u0107 ich mycie i dezynfekcj\u0119.\n3.\nW pomieszczeniach, w kt\u00f3rych jest konieczna zwi\u0119kszona wymiana powietrza, zapewnia\nsi\u0119 wentylacj\u0119 mechaniczn\u0105.\n4.\nPomieszczenia, w kt\u00f3rych s\u0105 wykonywane badania laboratoryjne materia\u0142u biologicznego,\nwyposa\u017ca si\u0119 w:\n1)\nco najmniej jedn\u0105 umywalk\u0119 z bateri\u0105 z ciep\u0142\u0105 i zimn\u0105 wod\u0105;\n2)\ndozownik z myd\u0142em w p\u0142ynie;\n3)\ndozownik ze \u015brodkiem dezynfekcyjnym;\n4)\npojemnik z r\u0119cznikami jednorazowego u\u017cycia i pojemnik na zu\u017cyte r\u0119czniki.\n\u00a7 3.\n1.\nW laboratorium wyodr\u0119bnia si\u0119:\n1)\npomieszczenia g\u0142\u00f3wne;\n2)\npomieszczenia specjalne;\n3)\npomieszczenia socjalne;\n4)\npomieszczenie s\u0142u\u017c\u0105ce do obs\u0142ugi pacjent\u00f3w w przypadku, gdy na terenie laboratorium\njest pobierany materia\u0142 do bada\u0144 laboratoryjnych i s\u0105 wykonywane pr\u00f3by czynno\u015bciowe;\n5)\npomieszczenie administracyjne.\n2.\nW laboratorium b\u0119d\u0105cym jednostk\u0105 organizacyjn\u0105 uczelni albo instytutu badawczego nieb\u0119d\u0105cego\npodmiotem leczniczym wyodr\u0119bnia si\u0119 pomieszczenia wskazane w ust. 1 pkt 1-3 i 5.\n3.\nW sk\u0142ad pomieszcze\u0144 g\u0142\u00f3wnych wchodz\u0105:\n1)\npunkt przyj\u0119\u0107 materia\u0142u do bada\u0144;\n2)\npunkt rozdzia\u0142u materia\u0142u do bada\u0144;\n3)\npomieszczenia do wykonywania czynno\u015bci medycyny laboratoryjnej.\n4.\nW sk\u0142ad pomieszcze\u0144 specjalnych wchodz\u0105 pomieszczenie magazynowe zapewniaj\u0105ce zachowanie\nw\u0142a\u015bciwo\u015bci fizycznych i chemicznych sk\u0142adowanych oraz przechowywanych odczynnik\u00f3w,\nkalibrator\u00f3w i materia\u0142\u00f3w kontrolnych, archiwizowanych pr\u00f3bek materia\u0142u biologicznego\nlub materia\u0142\u00f3w eksploatacyjnych, niezb\u0119dnych do wykonywania bada\u0144.\n5.\nW sk\u0142ad pomieszcze\u0144 socjalnych wchodz\u0105 pokoje socjalne, urz\u0105dzenia sanitarno-higieniczne\noraz szatnia dla personelu.\n6.\nW sk\u0142ad pomieszczenia, o kt\u00f3rym mowa w ust. 1 pkt 4, wchodz\u0105:\n1)\npok\u00f3j pobra\u0144 oddzielony od innych pomieszcze\u0144 laboratorium;\n2)\npoczekalnia z urz\u0105dzeniami sanitarno-higienicznymi dla pacjent\u00f3w.\n7.\nPomieszczenia, o kt\u00f3rych mowa w ust. 1, oznacza si\u0119 w spos\u00f3b umo\u017cliwiaj\u0105cy ich identyfikacj\u0119.\n\u00a7 4.\nLaboratorium jest wyposa\u017cone odpowiednio do zakresu prowadzonej w nim dzia\u0142alno\u015bci,\nw tym posiada:\n1)\nwyposa\u017cenie:\na)\npodstawowe,\nb)\nw aparatur\u0119 pomiarowo-badawcz\u0105,\nc)\numo\u017cliwiaj\u0105ce wystandaryzowane pobieranie materia\u0142u,\nd)\nwyposa\u017cenie zapewniaj\u0105ce bezpiecze\u0144stwo i higien\u0119 pracy;\n2)\nurz\u0105dzenia telekomunikacyjne i systemy teleinformatyczne.\n\u00a7 5.\nLaboratorium jest wyposa\u017cone w aparatur\u0119 pomiarowo-badawcz\u0105, kt\u00f3ra jest:\n1)\ndostosowana do rodzaju wykonywanych bada\u0144 laboratoryjnych materia\u0142u biologicznego;\n2)\ndostosowana do metod badawczych zgodnych z aktualnym stanem wiedzy;\n3)\npoddawana kalibracji, przegl\u0105dom technicznym lub kontroli zgodnie ze wskazaniami producenta\nlub dystrybutora.\n\u00a7 6.\nW laboratorium prowadzi si\u0119 dokumentacj\u0119 aparatury pomiarowo-badawczej, stanowi\u0105cej\nwyposa\u017cenie laboratorium, zawieraj\u0105c\u0105:\n1)\nkarty gwarancyjne;\n2)\nspecyfikacje techniczne;\n3)\ndat\u0119 rozpocz\u0119cia eksploatacji;\n4)\nwykaz pracownik\u00f3w przeszkolonych i upowa\u017cnionych do obs\u0142ugi oraz os\u00f3b bezpo\u015brednio\nodpowiedzialnych za dan\u0105 aparatur\u0119;\n5)\ninstrukcje u\u017cytkowania;\n6)\nzapisy kalibracji;\n7)\no\u015bwiadczenie o dopuszczeniu do u\u017cytkowania po usuni\u0119ciu awarii;\n8)\ndokument potwierdzaj\u0105cy przeprowadzenie przegl\u0105du technicznego lub kontroli przez\npodmiot autoryzowany, zgodnie ze wskazaniami producenta lub dystrybutora.\n\u00a7 7.\nWykaz kwalifikacji personelu i kierownika laboratorium okre\u015bla za\u0142\u0105cznik do rozporz\u0105dzenia.\n\u00a7 8.\nUczelnia albo instytut badawczy nieb\u0119d\u0105cy podmiotem leczniczym, kt\u00f3re prowadz\u0105 laboratorium,\ndostosuj\u0105 pomieszczenia laboratori\u00f3w do wymaga\u0144 okre\u015blonych w niniejszym rozporz\u0105dzeniu\nw terminie 6 miesi\u0119cy od dnia wej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia.\n\u00a7 9.\nPodmiot wykonuj\u0105cy dzia\u0142alno\u015b\u0107 lecznicz\u0105 w zakresie medycyny laboratoryjnej, uczelnia\noraz instytut badawczy nieb\u0119d\u0105cy podmiotem leczniczym, kt\u00f3re prowadz\u0105 laboratorium,\ndostosuj\u0105 swoj\u0105 dzia\u0142alno\u015b\u0107 do wymaga\u0144 w zakresie kwalifikacji na poszczeg\u00f3lnych stanowiskach\nokre\u015blonych w za\u0142\u0105czniku do rozporz\u0105dzenia w terminie 4 lat od dnia wej\u015bcia w \u017cycie\nniniejszego rozporz\u0105dzenia.\n\u00a7 10.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia. 2) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Zdrowia z dnia\n3 marca 2004 r. w sprawie wymaga\u0144, jakim powinno odpowiada\u0107 medyczne laboratorium\ndiagnostyczne (Dz. U. poz. 408, z 2006 r. poz. 422, z 2008 r. poz. 324 oraz z 2009 r.\npoz. 1794), kt\u00f3re utraci\u0142o moc z dniem 11 grudnia 2023 r. na podstawie art. 164 ust.\n1 ustawy z dnia 15 wrze\u015bnia 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz.\n2125).\nZa\u0142\u0105cznik\n-\nWykaz kwalifikacji personelu i kierownika laboratorium\nLp.\nStanowisko\nWymagane kwalifikacje zawodowe\nLiczba lat pracy w zawodzie\n1\n2\n3\n4\n1\nkierownik laboratorium\nkwalifikacje uzyskane zgodnie z przepisami ustawy z dnia 15 wrze\u015bnia 2022 r. o medycynie\nlaboratoryjnej\n7\n2\nzast\u0119pca kierownika laboratorium\nspe\u0142nia wymagania okre\u015blone dla kierownika laboratorium\n-\n3\nkierownik pracowni\nprawo wykonywania zawodu diagnosty laboratoryjnego oraz specjalizacja II stopnia lub\ntytu\u0142 specjalisty w dziedzinie specjalizacji, zgodnie z profilem pracowni\n7\nprawo wykonywania zawodu lekarza oraz specjalizacja II stopnia w dziedzinie analityki\nlub w dziedzinie mikrobiologii, diagnostyki laboratoryjnej lub mikrobiologii i serologii\nlub tytu\u0142 specjalisty w dziedzinie mikrobiologii lekarskiej lub diagnostyki laboratoryjnej,\nzgodnie z profilem pracowni\n7\n4\nstarszy asystent medycyny laboratoryjnej\nprawo wykonywania zawodu diagnosty laboratoryjnego oraz tytu\u0142 specjalisty lub specjalizacja\nII stopnia w dziedzinie w\u0142a\u015bciwej dla diagnost\u00f3w laboratoryjnych\n7\nprawo wykonywania zawodu lekarza i specjalizacja II stopnia w dziedzinie mikrobiologii,\ndiagnostyki laboratoryjnej lub mikrobiologii i serologii lub tytu\u0142 specjalisty w dziedzinie\nmikrobiologii lekarskiej\n7\n5\nasystent medycyny laboratoryjnej\nprawo wykonywania zawodu diagnosty laboratoryjnego oraz tytu\u0142 specjalisty lub specjalizacja\nI lub II stopnia w dziedzinie w\u0142a\u015bciwej dla diagnost\u00f3w laboratoryjnych\n5\nprawo wykonywania zawodu lekarza oraz specjalizacja I stopnia w dziedzinie analityki,\ndiagnostyki laboratoryjnej lub mikrobiologii\n5\n6\nm\u0142odszy asystent medycyny laboratoryjnej\nprawo wykonywania zawodu diagnosty laboratoryjnego\n3\n7\nm\u0142odszy asystent\nlekarz, o kt\u00f3rym mowa w art. 5 ust. 4 ustawy z dnia 15 wrze\u015bnia 2022 r. o medycynie\nlaboratoryjnej\n3\n8\nstarszy technolog laboratoryjny\ntytu\u0142 zawodowy magistra uzyskany po uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub\nstudi\u00f3w pierwszego i drugiego stopnia w zakresie biologii, biologii medycznej, mikrobiologii\nlub mikrobiologii medycznej lub tytu\u0142 zawodowy magistra lub magistra in\u017cyniera uzyskany\npo uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub studi\u00f3w pierwszego i drugiego\nstopnia w zakresie biotechnologii lub biotechnologii medycznej oraz tytu\u0142 specjalisty\nw dziedzinie mikrobiologii, toksykologii lub medycznej genetyki molekularnej na podstawie\nustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytu\u0142u specjalisty w dziedzinach maj\u0105cych\nzastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506)\n7\n9\ntechnolog laboratoryjny\ntytu\u0142 zawodowy magistra uzyskany po uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub\nstudi\u00f3w pierwszego i drugiego stopnia w zakresie biologii, biologii medycznej, mikrobiologii\nlub mikrobiologii medycznej lub tytu\u0142 zawodowy magistra lub magistra in\u017cyniera uzyskany\npo uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub studi\u00f3w pierwszego i drugiego\nstopnia w zakresie biotechnologii lub biotechnologii medycznej oraz tytu\u0142 specjalisty\nw dziedzinie mikrobiologii, toksykologii lub medycznej genetyki molekularnej na podstawie\nustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytu\u0142u specjalisty w dziedzinach maj\u0105cych\nzastosowanie w ochronie zdrowia\n5\n10\nm\u0142odszy technolog laboratoryjny\ntytu\u0142 zawodowy magistra uzyskany po uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub\nstudi\u00f3w pierwszego i drugiego stopnia w zakresie biologii, biologii medycznej, mikrobiologii\nlub mikrobiologii medycznej lub tytu\u0142 zawodowy magistra lub magistra in\u017cyniera uzyskany\npo uko\u0144czeniu jednolitych studi\u00f3w magisterskich lub studi\u00f3w pierwszego i drugiego\nstopnia w zakresie biotechnologii lub biotechnologii medycznej\n-\n11\nkierownik zespo\u0142u technik\u00f3w analityki medycznej\nprawo wykonywania zawodu diagnosty laboratoryjnego\n2\ntytu\u0142 zawodowy technika analityki medycznej\n10\ntytu\u0142 zawodowy licencjata uzyskany na kierunku analityka medyczna\n5\n12\nstarszy technik analityki medycznej\nrozpocz\u0119cie przed dniem 1 wrze\u015bnia 2005 r. i uko\u0144czenie liceum medycznego, technikum\nalbo szko\u0142y policealnej publicznej lub niepublicznej o uprawnieniach szko\u0142y publicznej\ni uzyskanie tytu\u0142u zawodowego technik analityki medycznej\n3\ntytu\u0142 zawodowy licencjata uzyskany na kierunku analityka medyczna\n2\n13\ntechnik analityki medycznej\nrozpocz\u0119cie przed dniem 1 wrze\u015bnia 2005 r. i uko\u0144czenie liceum medycznego, technikum\nalbo szko\u0142y policealnej publicznej lub niepublicznej o uprawnieniach szko\u0142y publicznej\ni uzyskanie tytu\u0142u zawodowego technik analityki medycznej\n-\ntytu\u0142 zawodowy licencjata uzyskany na kierunku analityka medyczna\n-\n14\nstarszy laborant medycyny laboratoryjnej*\nco najmniej wykszta\u0142cenie \u015brednie albo wykszta\u0142cenie \u015brednie bran\u017cowe\n5\n15\nlaborant medycyny laboratoryjnej*\nco najmniej wykszta\u0142cenie \u015brednie albo wykszta\u0142cenie \u015brednie bran\u017cowe\n-\n16\nstarsza pomoc laboratoryjna\nwykszta\u0142cenie podstawowe i przeszkolenie zawodowe w\u0142a\u015bciwe dla zada\u0144 powierzonych\nna stanowisku pracy\n3\n17\npomoc laboratoryjna\nwykszta\u0142cenie podstawowe i przeszkolenie zawodowe w\u0142a\u015bciwe dla zada\u0144 powierzonych\nna stanowisku pracy\n-\n18\nstarsza: sekretarka medyczna, rejestratorka medyczna\nwykszta\u0142cenie \u015brednie i przeszkolenie zawodowe w\u0142a\u015bciwe dla zada\u0144 powierzonych na\nstanowisku pracy\n5\n19\nsekretarka medyczna, rejestratorka medyczna\nwykszta\u0142cenie \u015brednie i przeszkolenie zawodowe w\u0142a\u015bciwe dla zada\u0144 powierzonych na\nstanowisku pracy\n-\n* Dotyczy tylko os\u00f3b, kt\u00f3re w dniu wej\u015bcia w \u017cycie rozporz\u0105dzenia posiada\u0142y kwalifikacje\ndo wykonywania czynno\u015bci diagnostyki laboratoryjnej w rozumieniu przepis\u00f3w rozporz\u0105dzenia\nMinistra Zdrowia z dnia 3 marca 2004 r. w sprawie wymaga\u0144, jakim powinno odpowiada\u0107\nmedyczne laboratorium diagnostyczne (Dz. U. poz. 408, z 2006 r. poz. 422, z 2008 r.\npoz. 324 oraz z 2009 r. poz. 1794) i by\u0142y zatrudnione w laboratorium."
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.238290Z",
+    "updated_at": "2026-10-03T16:33:13.238290Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 122,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 75,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-17T18:03:40.320240Z",
+  "updated_at": "2026-10-17T18:03:40.320240Z",
+  "draft_created_at": "2026-10-17T18:03:06.347291Z",
+  "lead_time": 50.984,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 122,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,2406 @@
+{
+  "id": 75,
+  "result": [
+    {
+      "value": {
+        "start": 288,
+        "end": 289,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "yAJG-vDhcb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 290,
+        "end": 291,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "RxUXVxX2IS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 292,
+        "end": 296,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "q59SJ2AnrS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 297,
+        "end": 298,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "xmehvg7yN3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 299,
+        "end": 302,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "WgzFi_Adht",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 303,
+        "end": 304,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Efk1GaRNnu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 453,
+        "end": 464,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EWgiOOw0sL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 465,
+        "end": 468,
+        "text": "738",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "a8DIBRWa14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1494,
+        "end": 1498,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "MS3UZHASE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1499,
+        "end": 1501,
+        "text": "65",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "aZ9c7RnhWL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1502,
+        "end": 1506,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "iHX26hIAlr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1507,
+        "end": 1508,
+        "text": "8",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "L3aISsfnhI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1568,
+        "end": 1589,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "LQBHGMKtzq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1590,
+        "end": 1593,
+        "text": "915",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LL7eV9K9bd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1596,
+        "end": 1600,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "973um2vhjV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1779,
+        "end": 1800,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "5oCw5MXrMI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1801,
+        "end": 1804,
+        "text": "500",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "MtPDI2Z1Dt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1807,
+        "end": 1811,
+        "text": "1361",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RjWaBu8XdH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1817,
+        "end": 1831,
+        "text": "z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "YtbdIrhhjM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1832,
+        "end": 1836,
+        "text": "1995",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JPsA3jkXkT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1877,
+        "end": 1878,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "5R_NNcItVD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1879,
+        "end": 1880,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "fKnwpCXRCa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1892,
+        "end": 1896,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "z-Ns8CdJYg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1897,
+        "end": 1898,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "KHHSqElknw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1899,
+        "end": 1900,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ip8j-m4PC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1907,
+        "end": 1908,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "z03pupOX-9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1909,
+        "end": 1910,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ilH0iqEmCi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1917,
+        "end": 1921,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "vATwRtw5AV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1922,
+        "end": 1923,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "gZ9yrNH4PF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1935,
+        "end": 1938,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "JrvIoj55ZN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1939,
+        "end": 1941,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "cjp_TSwJIS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1946,
+        "end": 1950,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Swg3Cj3ZoA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1951,
+        "end": 1952,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tNnhwrI_WF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2088,
+        "end": 2089,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "HU_FCI5r4Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2090,
+        "end": 2091,
+        "text": "5",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "k0FlQu8erW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2098,
+        "end": 2102,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "plUip8ssT9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2103,
+        "end": 2104,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "A2TQqZAhe2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2108,
+        "end": 2111,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "SKYx-FiV9P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2112,
+        "end": 2113,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "aIhH1JNym_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2152,
+        "end": 2155,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "R_qwMkK9_3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2156,
+        "end": 2158,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "q5H5X32xLn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2212,
+        "end": 2215,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "OiPKQNMuTw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2216,
+        "end": 2218,
+        "text": "11",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "-v_DuiGYhs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2221,
+        "end": 2223,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "dBqih3fwe3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2267,
+        "end": 2271,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "5ZcgA59lz8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2272,
+        "end": 2273,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Wl6sXVAkIj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2419,
+        "end": 2420,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ZwiQYWh-KP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2421,
+        "end": 2422,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "28SWVW1_8Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2564,
+        "end": 2565,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "9M0NUpqc7u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2566,
+        "end": 2567,
+        "text": "5",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "pfssmLXkbl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2568,
+        "end": 2572,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "bn11E-LpGs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2573,
+        "end": 2574,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Z1kHHZKfDK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2575,
+        "end": 2578,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "q_57a7jteR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2579,
+        "end": 2580,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "DDmgxJXbem",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2581,
+        "end": 2582,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "mcrBMUiiv3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2585,
+        "end": 2586,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Wfay6tYB_K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2587,
+        "end": 2589,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "gT8yNLeZPf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2709,
+        "end": 2710,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Sl4Tp-kzlU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2711,
+        "end": 2712,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "yzY4ILnEsd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2717,
+        "end": 2721,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "E8EBpAXdTy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2722,
+        "end": 2723,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Ku0bH2iAIv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3003,
+        "end": 3007,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "w2nhRSla1J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3008,
+        "end": 3009,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9e7N6rI3-g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3141,
+        "end": 3142,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "AGj2LDlYsl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3143,
+        "end": 3144,
+        "text": "8",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "5H-UXEDw7I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3442,
+        "end": 3443,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "K4VusyByRz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3444,
+        "end": 3445,
+        "text": "9",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "caeM9uU4Ja",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3452,
+        "end": 3456,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "7RtVNZK33J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3457,
+        "end": 3458,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "L2n-gU2ywy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3467,
+        "end": 3468,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "MPtt5_psw4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3469,
+        "end": 3470,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "5FvxAH4SaO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3471,
+        "end": 3475,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lZb-1UryMY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3476,
+        "end": 3477,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qNyCMQuJR3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3478,
+        "end": 3481,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "tLsI8rhmzr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3482,
+        "end": 3483,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "oWluPI6l4d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3486,
+        "end": 3487,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "tbkEh8VrwB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3514,
+        "end": 3515,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mw93J9OSJR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3516,
+        "end": 3517,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "wi1PPJzClJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3518,
+        "end": 3522,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Ll7-eeYSgq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3523,
+        "end": 3524,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qNKfsjIUCG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3525,
+        "end": 3528,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "XbzEinRCdj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3529,
+        "end": 3530,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "an5ORlBUZH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3537,
+        "end": 3541,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "fkOeoFzFtv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3542,
+        "end": 3543,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "dOpJDpN3c9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3648,
+        "end": 3649,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mBXqI5q-Ho",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3650,
+        "end": 3652,
+        "text": "16",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OdkJU5Nz3v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3653,
+        "end": 3657,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qDtE1bXbvn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3658,
+        "end": 3659,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hvNXPcMuGX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3741,
+        "end": 3745,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "j-3K7da9EU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3746,
+        "end": 3747,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "OzJF4hLx6d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3748,
+        "end": 3751,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "O2dbVubQLv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3752,
+        "end": 3753,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "O2mETqSytk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4384,
+        "end": 4385,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "bUPDsTnzNG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4386,
+        "end": 4388,
+        "text": "17",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "8XQDuFTVgP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4389,
+        "end": 4393,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Nxi03ETVZI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4394,
+        "end": 4395,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qYdER10qhF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4500,
+        "end": 4501,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "UPE1UdvHFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4502,
+        "end": 4504,
+        "text": "18",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "4Ynis80Nc2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4511,
+        "end": 4515,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "7EENe95FVt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4516,
+        "end": 4517,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "6whxhD0kO_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4611,
+        "end": 4615,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "W-ysj2xpE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4616,
+        "end": 4617,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QojMuDtjUJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4682,
+        "end": 4683,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "B7iAPVL_0q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4684,
+        "end": 4686,
+        "text": "20",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ULGLIbBrSS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4687,
+        "end": 4690,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "wtA5Pj-ABL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4691,
+        "end": 4692,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9W65AhD7n4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4865,
+        "end": 4866,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "qD2JrnL6Z9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4867,
+        "end": 4869,
+        "text": "22",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "cB-1PehH3R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4881,
+        "end": 4884,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "k9E_K6BvcR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4885,
+        "end": 4886,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JXqqqxzaOf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4892,
+        "end": 4893,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "cyhtpj7Beo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4894,
+        "end": 4896,
+        "text": "25",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "7C3U8mRBKS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4897,
+        "end": 4899,
+        "text": "27",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "JiiJqped-H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9180,
+        "end": 9181,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "FdWH2bj3A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9182,
+        "end": 9184,
+        "text": "29",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "T_I1h7aRos",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9185,
+        "end": 9189,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "KTH9ZYXu1-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9190,
+        "end": 9191,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "WC3nrmam5x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9308,
+        "end": 9309,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "r4n6IRiEPE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9310,
+        "end": 9312,
+        "text": "31",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "YgHSjTboJR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9317,
+        "end": 9321,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "998lojgNkN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9322,
+        "end": 9323,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mm3HifryAd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9521,
+        "end": 9525,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lNPxCtmquD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9526,
+        "end": 9527,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "i9jZefXmWf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9533,
+        "end": 9536,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "jQrosdjlg1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9537,
+        "end": 9538,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "UXQXpj3buK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9626,
+        "end": 9629,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "dS8_LF9JsB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9630,
+        "end": 9631,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "F2YACbd_Ys",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9723,
+        "end": 9724,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "RQGPIVuJ27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9725,
+        "end": 9727,
+        "text": "32",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "hP_ur6B_Kg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9732,
+        "end": 9735,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "YGUt3C4SXV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9736,
+        "end": 9737,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "O5z8KWHPP1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9870,
+        "end": 9873,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "54BmyfsQ0c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9874,
+        "end": 9875,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "NO0yuCB-s5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9951,
+        "end": 9954,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "VJau_PRq4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9955,
+        "end": 9956,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "zEk3x_p0Fg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10052,
+        "end": 10053,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TPHm83LWwu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10054,
+        "end": 10056,
+        "text": "33",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bddXsDqXYU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10061,
+        "end": 10065,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "UOY8upHTsq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10066,
+        "end": 10067,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "JJnDeZWNv6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10358,
+        "end": 10362,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "uqg9bTpSXe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10363,
+        "end": 10364,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "oXVjc1E0o7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10926,
+        "end": 10927,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "NPtvsYfaVB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10928,
+        "end": 10929,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "xaWRupHkeU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11030,
+        "end": 11034,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "uN3NDEDdn7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11035,
+        "end": 11036,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "04rFtq0ivL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11428,
+        "end": 11432,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "QjSaCfYbOg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11433,
+        "end": 11434,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "43CyrpHNFH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11439,
+        "end": 11442,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "0TlibqBs9g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11443,
+        "end": 11444,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Xb_b7iruVj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11509,
+        "end": 11512,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "qKd7rYr3KY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11513,
+        "end": 11514,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Ja9NKPrKdB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11635,
+        "end": 11638,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "nbzj8x0Wtq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11639,
+        "end": 11640,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "1UuuOrh4lB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11798,
+        "end": 11799,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "cOvAXnyYpX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11800,
+        "end": 11801,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "4EKr3kixfa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11914,
+        "end": 11915,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "vvi64OBkiU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11916,
+        "end": 11917,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Alpm7DRxEg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 123,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 17 lipca 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie umundurowania funkcjonariuszy Stra\u017cy Granicznej 1) Minister Spraw Wewn\u0119trznych i Administracji kieruje dzia\u0142em administracji rz\u0105dowej\n- sprawy wewn\u0119trzne, na podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w\nz dnia 16 maja 2024 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Spraw Wewn\u0119trznych\ni Administracji (Dz. U. poz. 738).\nSpis tre\u015bci\nTre\u015b\u0107 rozporz\u0105dzenia\nZa\u0142\u0105cznik nr 1 - Wzory i przyk\u0142adowe zestawy umundurowania s\u0142u\u017cbowego (wz\u00f3r)\nZa\u0142\u0105cznik nr 2 - Wzory i przyk\u0142adowe zestawy umundurowania wyj\u015bciowego i galowego (wz\u00f3r)\nZa\u0142\u0105cznik nr 3 - Wzory i spos\u00f3b noszenia sznur\u00f3w galowych (wz\u00f3r)\nZa\u0142\u0105cznik nr 4 - Wzory i przyk\u0142adowe zestawy umundurowania polowego (wz\u00f3r)\nZa\u0142\u0105cznik nr 5 - Wz\u00f3r nadruku maskuj\u0105cego do umundurowania polowego (wz\u00f3r)\nZa\u0142\u0105cznik nr 6 - Wzory nakry\u0107 g\u0142owy i oznak stopni Stra\u017cy Granicznej oraz spos\u00f3b noszenia tych oznak\n(wz\u00f3r)\nZa\u0142\u0105cznik nr 7 - Wzory wizerunk\u00f3w or\u0142a (wz\u00f3r)\nZa\u0142\u0105cznik nr 8 - Normy nale\u017cno\u015bci umundurowania (wz\u00f3r)\nZa\u0142\u0105cznik nr 9 - Wykaz przedmiot\u00f3w umundurowania, o kt\u00f3re powi\u0119ksza si\u0119 norm\u0119 nale\u017cno\u015bci umundurowania\n(wz\u00f3r)\nZa\u0142\u0105cznik nr 10 - Szczeg\u00f3\u0142owe zestawy umundurowania funkcjonariuszy (wz\u00f3r)\nZa\u0142\u0105cznik nr 11 - Wzory emblemat\u00f3w Stra\u017cy Granicznej (wz\u00f3r)\nZa\u0142\u0105cznik nr 12 - Wz\u00f3r oznaki Stra\u017cy Granicznej (wz\u00f3r)\nZa\u0142\u0105cznik nr 13 - Wz\u00f3r emblematu imiennego funkcjonariusza (wz\u00f3r)\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 65 ust. 8 ustawy z dnia 12 pa\u017adziernika 1990 r. o Stra\u017cy Granicznej\n(Dz. U. z 2024 r. poz. 915 i 1089) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Spraw Wewn\u0119trznych i Administracji z dnia 25 marca 2016 r.\nw sprawie umundurowania funkcjonariuszy Stra\u017cy Granicznej\n(Dz. U. z 2019 r. poz. 500 i 1361 oraz z 2023 r. poz. 1995) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\n1)\nw \u00a7 2 uchyla si\u0119 ust. 2-4;\n2)\nw \u00a7 3:\na)\nw ust. 1 uchyla si\u0119 pkt 12,\nb)\nust. 2 otrzymuje brzmienie:\n\u201e2.\nWzory i przyk\u0142adowe zestawy umundurowania s\u0142u\u017cbowego s\u0105 okre\u015blone w za\u0142\u0105czniku nr\n1 do rozporz\u0105dzenia.\u201d;\n3)\nw \u00a7 5:\na)\nw ust. 1:\n-\npkt 6 otrzymuje brzmienie:\n\u201e6)\np\u0142aszcz;\u201d,\n-\npkt 10 otrzymuje brzmienie:\n\u201e10)\nr\u0119kawiczki;\u201d,\n-\ndodaje si\u0119 pkt 11 i 12 w brzmieniu:\n\u201e11)\nszalik;\n12)\nkrawat.\u201d,\nb)\nust. 2 otrzymuje brzmienie:\n\u201e2.\nWzory i przyk\u0142adowe zestawy umundurowania wyj\u015bciowego i galowego s\u0105 okre\u015blone w za\u0142\u0105czniku\nnr 2 do rozporz\u0105dzenia.\u201d;\n4)\n\u00a7 6 otrzymuje brzmienie:\n\u201e\u00a7 6.\n1.\nPodstawowymi przedmiotami umundurowania galowego s\u0105:\n1)\nprzedmioty umundurowania wyj\u015bciowego, o kt\u00f3rych mowa w \u00a7 5 ust. 1 pkt 1-4 i 6-12;\n2)\nsznur galowy.\n2.\nWzory i spos\u00f3b noszenia sznur\u00f3w galowych s\u0105 okre\u015blone w za\u0142\u0105czniku nr 3 do rozporz\u0105dzenia.\u201d;\n5)\nw \u00a7 7:\na)\nust. 1 otrzymuje brzmienie:\n\u201e1.\nPodstawowymi przedmiotami umundurowania polowego s\u0105:\n1)\nczapka polowa;\n2)\nbluza munduru polowego;\n3)\nspodnie munduru polowego;\n4)\nkoszula polowa;\n5)\nkoszulka;\n6)\nkurtka ubrania na z\u0142\u0105 pogod\u0119;\n7)\nbluza ocieplaj\u0105ca typu softshell;\n8)\ntrzewiki polowe.\u201d,\nb)\nust. 3 otrzymuje brzmienie:\n\u201e3.\nWzory i przyk\u0142adowe zestawy umundurowania polowego s\u0105 okre\u015blone w za\u0142\u0105czniku nr 4\ndo rozporz\u0105dzenia.\u201d;\n6)\n\u00a7 8 otrzymuje brzmienie:\n\u201e\u00a7 8.\n1.\nW sk\u0142ad umundurowania funkcjonariuszy wchodz\u0105 oznaki stopni Stra\u017cy Granicznej noszone\nna nakryciach g\u0142owy i umundurowaniu.\n2.\nWzory nakry\u0107 g\u0142owy i oznak stopni Stra\u017cy Granicznej oraz spos\u00f3b noszenia tych oznak\ns\u0105 okre\u015blone w za\u0142\u0105czniku nr 6 do rozporz\u0105dzenia.\u201d;\n7)\nw \u00a7 9:\na)\nw ust. 1 wyrazy \u201e\u00a7 7 ust. 1 pkt 1 i 2,\u201d zast\u0119puje si\u0119 wyrazami \u201e\u00a7 7 ust. 1 pkt 1,\u201d,\nb)\nust. 2 otrzymuje brzmienie:\n\u201e2.\nWzory wizerunk\u00f3w or\u0142a s\u0105 okre\u015blone w za\u0142\u0105czniku nr 7 do rozporz\u0105dzenia.\u201d;\n8)\nw \u00a7 16 ust. 2 otrzymuje brzmienie:\n\u201e2.\nR\u00f3wnowarto\u015b\u0107 przedmiot\u00f3w umundurowania, o kt\u00f3rej mowa w ust. 1 pkt 1, jest ustalana\njednostkowo dla ka\u017cdego przedmiotu umundurowania na podstawie przypisanego mu okresu\nu\u017cywalno\u015bci, jego warto\u015bci punktowej i okresu u\u017cytkowania przez funkcjonariusza i\nwyliczana, z dok\u0142adno\u015bci\u0105 do dw\u00f3ch miejsc po przecinku, w nast\u0119puj\u0105cy spos\u00f3b:\nR = (O - U) \u00d7 [W/O]\ngdzie:\nR - oznacza r\u00f3wnowarto\u015b\u0107 danego przedmiotu umundurowania do zwrotu,\nO - oznacza okres u\u017cywalno\u015bci danego przedmiotu umundurowania liczony w pe\u0142nych miesi\u0105cach,\nU - oznacza okres u\u017cytkowania danego przedmiotu umundurowania przez funkcjonariusza\nliczony w pe\u0142nych miesi\u0105cach,\nW - oznacza warto\u015b\u0107 punktow\u0105 danego przedmiotu umundurowania.\u201d;\n9)\nw \u00a7 17 ust. 1 otrzymuje brzmienie:\n\u201e1.\nFunkcjonariusze nosz\u0105 umundurowanie zgodnie z zestawami umundurowania.\u201d;\n10)\nw \u00a7 18:\na)\nw ust. 1 we wprowadzeniu do wyliczenia wyraz \u201eubiorczego\u201d zast\u0119puje si\u0119 wyrazem \u201eumundurowania\u201d,\nb)\nw ust. 2 wyraz \u201eubiorczego\u201d zast\u0119puje si\u0119 wyrazem \u201eumundurowania\u201d;\n11)\nw \u00a7 20 pkt 3 otrzymuje brzmienie:\n\u201e3)\nnie nosi przedmiot\u00f3w umundurowania innych ni\u017c przewiduj\u0105 szczeg\u00f3\u0142owe zestawy umundurowania\nokre\u015blone w za\u0142\u0105czniku nr 10 do rozporz\u0105dzenia;\u201d;\n12)\nw \u00a7 22 uchyla si\u0119 pkt 2;\n13)\n\u00a7 25-27 otrzymuj\u0105 brzmienie:\n\u201e\u00a7 25.\nUmundurowanie s\u0142u\u017cbowe:\n1)\nw kolorze oliwkowym, z emblematem Stra\u017cy Granicznej z napisem w kolorze czarnym wykonanym\nmetod\u0105 haftu komputerowego na tkaninie w kolorze oliwkowym oraz z oznakami stopni\nStra\u017cy Granicznej wykonanymi metod\u0105 haftu komputerowego ni\u0107mi w kolorze czarnym na\ntkaninie w kolorze oliwkowym - nosz\u0105 funkcjonariusze pe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w Komendzie G\u0142\u00f3wnej\nStra\u017cy Granicznej, w Wy\u017cszej Szkole Stra\u017cy Granicznej, w Biurze Spraw Wewn\u0119trznych\nStra\u017cy Granicznej, w o\u015brodku szkolenia Stra\u017cy Granicznej, w o\u015brodku Stra\u017cy Granicznej,\nw oddziale Stra\u017cy Granicznej, w plac\u00f3wce Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy\nGranicznej, z wyj\u0105tkiem komendy Morskiego Oddzia\u0142u Stra\u017cy Granicznej, dywizjon\u00f3w i\njednostek p\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej;\n2)\nw kolorze granatowym, z emblematem Stra\u017cy Granicznej z napisem w kolorze z\u0142otym wykonanym\nmetod\u0105 haftu komputerowego na tkaninie w kolorze granatowym oraz z oznakami stopni\nStra\u017cy Granicznej wykonanymi metod\u0105 haftu komputerowego ni\u0107mi w kolorze z\u0142otym na\ntkaninie w kolorze granatowym - nosz\u0105 funkcjonariusze pe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w komendzie\nMorskiego Oddzia\u0142u Stra\u017cy Granicznej, w dywizjonach Stra\u017cy Granicznej i na jednostkach\np\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej, z wyj\u0105tkiem plac\u00f3wki\nStra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej.\n\u00a7 26.\nUmundurowanie wyj\u015bciowe i galowe:\n1)\ntypu Wojsk L\u0105dowych, z emblematem Stra\u017cy Granicznej z napisem w kolorze srebrnym wykonanym\nmetod\u0105 haftu komputerowego na tkaninie w kolorze zielonym - nosz\u0105 funkcjonariusze\npe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w Komendzie G\u0142\u00f3wnej Stra\u017cy Granicznej, w Wy\u017cszej Szkole Stra\u017cy Granicznej,\nw Biurze Spraw Wewn\u0119trznych Stra\u017cy Granicznej, w o\u015brodku Stra\u017cy Granicznej, w o\u015brodku\nszkolenia Stra\u017cy Granicznej, w oddziale Stra\u017cy Granicznej, w plac\u00f3wce Stra\u017cy Granicznej\nMorskiego Oddzia\u0142u Stra\u017cy Granicznej, z wyj\u0105tkiem komendy Morskiego Oddzia\u0142u Stra\u017cy\nGranicznej, dywizjon\u00f3w i jednostek p\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u\nStra\u017cy Granicznej;\n2)\ntypu Marynarki Wojennej, z emblematem Stra\u017cy Granicznej z napisem w kolorze z\u0142otym\nwykonanym metod\u0105 haftu komputerowego na tkaninie w kolorze zielonym - nosz\u0105 funkcjonariusze\npe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w komendzie Morskiego Oddzia\u0142u Stra\u017cy Granicznej, w dywizjonach Stra\u017cy\nGranicznej i na jednostkach p\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy\nGranicznej, z wyj\u0105tkiem plac\u00f3wki Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej;\n3)\ntypu Si\u0142 Powietrznych, z emblematem Stra\u017cy Granicznej z napisem w kolorze srebrnym\nwykonanym metod\u0105 haftu komputerowego na tkaninie w kolorze zielonym - nosz\u0105 funkcjonariusze\npe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w Lotnictwie Stra\u017cy Granicznej.\n\u00a7 27.\nUmundurowanie polowe:\n1)\nz nadrukiem maskuj\u0105cym, z emblematem Stra\u017cy Granicznej z napisem w kolorze czarnym\nwykonanym metod\u0105 haftu komputerowego na tkaninie z nadrukiem maskuj\u0105cym oraz z oznakami\nstopni Stra\u017cy Granicznej wykonanymi metod\u0105 haftu komputerowego ni\u0107mi w kolorze czarnym\nna tkaninie z nadrukiem maskuj\u0105cym - nosz\u0105 funkcjonariusze pe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w Komendzie\nG\u0142\u00f3wnej Stra\u017cy Granicznej, w Wy\u017cszej Szkole Stra\u017cy Granicznej, w Biurze Spraw Wewn\u0119trznych\nStra\u017cy Granicznej, w o\u015brodku Stra\u017cy Granicznej, w o\u015brodku szkolenia Stra\u017cy Granicznej,\nw oddziale Stra\u017cy Granicznej, w plac\u00f3wce Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy\nGranicznej, z wyj\u0105tkiem komendy Morskiego Oddzia\u0142u Stra\u017cy Granicznej, dywizjon\u00f3w i\njednostek p\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej;\n2)\nz nadrukiem maskuj\u0105cym, z emblematem Stra\u017cy Granicznej z napisem w kolorze czarnym\nwykonanym metod\u0105 haftu komputerowego na tkaninie z nadrukiem maskuj\u0105cym oraz z oznakami\nstopni Stra\u017cy Granicznej typu Marynarki Wojennej wykonanymi metod\u0105 haftu komputerowego\nni\u0107mi w kolorze czarnym na tkaninie z nadrukiem maskuj\u0105cym - nosz\u0105 funkcjonariusze\npe\u0142ni\u0105cy s\u0142u\u017cb\u0119 w komendzie Morskiego Oddzia\u0142u Stra\u017cy Granicznej, w dywizjonach Stra\u017cy\nGranicznej i na jednostkach p\u0142ywaj\u0105cych Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy\nGranicznej, z wyj\u0105tkiem plac\u00f3wki Stra\u017cy Granicznej Morskiego Oddzia\u0142u Stra\u017cy Granicznej.\u201d;\n14)\ntytu\u0142 rozdzia\u0142u 4 otrzymuje brzmienie:\n\u201eWzory oznak i emblemat\u00f3w, spos\u00f3b ich noszenia oraz spos\u00f3b noszenia odznaki Stra\u017cy\nGranicznej i symbolu\u201d;\n15)\nw \u00a7 29 ust. 4 otrzymuje brzmienie:\n\u201e4.\nWz\u00f3r oznaki Stra\u017cy Granicznej jest okre\u015blony w za\u0142\u0105czniku nr 12 do rozporz\u0105dzenia.\u201d;\n16)\nw \u00a7 31:\na)\nust. 3 otrzymuje brzmienie:\n\u201e3.\nDo umundurowania polowego funkcjonariusze nosz\u0105 emblemat imienny wykonany metod\u0105 haftu\nkomputerowego z napisem w kolorze czarnym na tkaninie z nadrukiem maskuj\u0105cym.\u201d,\nb)\nw ust. 4:\n-\nw pkt 1 wyrazy \u201ebarwionej na kolor oliwkowy\u201d zast\u0119puje si\u0119 wyrazami \u201ew kolorze oliwkowym\u201d,\n-\nw pkt 2 wyrazy \u201ebarwionej na kolor granatowy\u201d zast\u0119puje si\u0119 wyrazami \u201ew kolorze granatowym\u201d;\n17)\nw \u00a7 32:\na)\npkt 1 otrzymuje brzmienie:\n\u201e1)\nna umundurowaniu wyj\u015bciowym i galowym - na prawym r\u0119kawie kurtki munduru wyj\u015bciowego\noraz p\u0142aszcza,\u201d,\nb)\nw pkt 3 wyrazy \u201ebluzy polowej\u201d zast\u0119puje si\u0119 wyrazami \u201ebluzy munduru polowego\u201d,\nc)\npkt 4 otrzymuje brzmienie:\n\u201e4)\nna p\u0142aszczu sukiennym - na prawym r\u0119kawie p\u0142aszcza sukiennego\u201d;\n18)\nw \u00a7 33:\na)\nust. 1 otrzymuje brzmienie:\n\u201e1.\nOznak\u0119 Stra\u017cy Granicznej nosi si\u0119 do umundurowania wyj\u015bciowego i galowego:\n1)\ntypu Wojsk L\u0105dowych i Si\u0142 Powietrznych - na klapach ko\u0142nierza kurtki munduru wyj\u015bciowego\noraz klapach ko\u0142nierza p\u0142aszcza;\n2)\ntypu Marynarki Wojennej - na klapach ko\u0142nierza p\u0142aszcza.\u201d,\nb)\nust. 4 otrzymuje brzmienie:\n\u201e4.\nFunkcjonariusz w stopniu kontradmira\u0142a Stra\u017cy Granicznej oraz wiceadmira\u0142a Stra\u017cy\nGranicznej na umundurowaniu wyj\u015bciowym i galowym typu Marynarki Wojennej, na klapach\nko\u0142nierza kurtki munduru wyj\u015bciowego i kurtki munduru galowego oraz p\u0142aszcza i p\u0142aszcza\nsukiennego, nosi wizerunek or\u0142a haftowany bajorkiem.\u201d;\n19)\nza\u0142\u0105czniki nr 1-13 do rozporz\u0105dzenia otrzymuj\u0105 brzmienie okre\u015blone odpowiednio w za\u0142\u0105cznikach\nnr 1-13 do niniejszego rozporz\u0105dzenia.\n\u00a7 2.\n1.\nPrzedmioty umundurowania wed\u0142ug wzor\u00f3w okre\u015blonych w rozporz\u0105dzeniu zmienianym w \u00a7\n1 w brzmieniu dotychczasowym mog\u0105 by\u0107 wydawane do dnia 31 marca 2026 r.\n2.\nW okresie, o kt\u00f3rym mowa w ust. 1, funkcjonariuszom mianowanym lub przeniesionym do\ns\u0142u\u017cby w Stra\u017cy Granicznej mo\u017cna zamiennie wyda\u0107:\n1)\nkurtk\u0119 wyj\u015bciow\u0105 zamiast p\u0142aszcza;\n2)\nkurtk\u0119 ubrania na z\u0142\u0105 pogod\u0119 z podpink\u0105 zamiast kurtki ubrania na z\u0142\u0105 pogod\u0119 i bluzy\nocieplaj\u0105cej typu softshell;\n3)\noznak\u0119 stopnia do kurtki wyj\u015bciowej zamiast pochewek do p\u0142aszcza.\n3.\nW przypadku wydania przedmiot\u00f3w umundurowania, o kt\u00f3rych mowa w ust. 2:\n1)\npkt 1 - potr\u0105ca si\u0119 liczb\u0119 punkt\u00f3w przyporz\u0105dkowanych do p\u0142aszcza;\n2)\npkt 2 - potr\u0105ca si\u0119 liczb\u0119 punkt\u00f3w przyporz\u0105dkowanych do kurtki ubrania na z\u0142\u0105 pogod\u0119\ni bluzy ocieplaj\u0105cej typu softshell;\n3)\npkt 3 - potr\u0105ca si\u0119 liczb\u0119 punkt\u00f3w przyporz\u0105dkowanych do pochewek do p\u0142aszcza.\n4.\nPrzedmioty umundurowania wed\u0142ug wzor\u00f3w okre\u015blonych w rozporz\u0105dzeniu zmienianym w \u00a7\n1 w brzmieniu dotychczasowym mog\u0105 by\u0107 noszone do dnia 31 marca 2031 r.\n\u00a7 3.\nPrzepisy rozporz\u0105dzenia zmienianego w \u00a7 1, w brzmieniu nadanym niniejszym rozporz\u0105dzeniem,\nmaj\u0105 zastosowanie od dnia 1 kwietnia 2024 r.\n\u00a7 4.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\nZa\u0142\u0105cznik nr 1\n-\nWzory i przyk\u0142adowe zestawy umundurowania s\u0142u\u017cbowego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 2\n-\nWzory i przyk\u0142adowe zestawy umundurowania wyj\u015bciowego i galowego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nWzory i spos\u00f3b noszenia sznur\u00f3w galowych (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 4\n-\nWzory i przyk\u0142adowe zestawy umundurowania polowego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 5\n-\nWz\u00f3r nadruku maskuj\u0105cego do umundurowania polowego (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 6\n-\nWzory nakry\u0107 g\u0142owy i oznak stopni Stra\u017cy Granicznej oraz spos\u00f3b noszenia tych oznak\n(wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 7\n-\nWzory wizerunk\u00f3w or\u0142a (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 8\n-\nNormy nale\u017cno\u015bci umundurowania (wz\u00f3r)\nTabela 1.\nNormy nale\u017cno\u015bci umundurowania s\u0142u\u017cbowego funkcjonariuszy s\u0142u\u017cby kandydackiej\nLp.\nPrzedmiot umundurowania\nJ.m.\nLiczba\nOkres u\u017cywalno\u015bci w latach\n1\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nszt.\n2\nna okres s\u0142u\u017cby\n2\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\nna okres s\u0142u\u017cby\n3\nKoszulka s\u0142u\u017cbowa polo\nszt.\n1\nna okres s\u0142u\u017cby\n4\nCzapka s\u0142u\u017cbowa letnia\nszt.\n1\nna okres s\u0142u\u017cby\n5\nCzapka s\u0142u\u017cbowa zimowa\nszt.\n1\nna okres s\u0142u\u017cby\n6\nSpodnie s\u0142u\u017cbowe\nszt.\n2\nna okres s\u0142u\u017cby\n7\nKurtka s\u0142u\u017cbowa\nkpl.\n1\nna okres s\u0142u\u017cby\n8\nP\u00f3\u0142buty s\u0142u\u017cbowe\npara\n1\nna okres s\u0142u\u017cby\n9\nTrzewiki s\u0142u\u017cbowe\npara\n1\nna okres s\u0142u\u017cby\n10\nOznaki stopni do umundurowania s\u0142u\u017cbowego, pochewki\npara\n3\nna okres s\u0142u\u017cby\n11\nPas\nszt.\n1\nna okres s\u0142u\u017cby\n12\nBielizna\nkpl.\n1\nna okres s\u0142u\u017cby\nUwagi:\n1.\nPrzedmioty umundurowania wymienione w tabeli podlegaj\u0105 zwrotowi, z wyj\u0105tkiem bielizny.\n2.\nUmundurowanie nale\u017cne wed\u0142ug niniejszej tabeli jest wydawane wy\u0142\u0105cznie w naturze.\n3.\nW sk\u0142ad kompletu bielizny wchodz\u0105: slipy - 2 szt., skarpety w kolorze czarnym - 4\npary, kalesony termoaktywne w kolorze czarnym - 2 szt., termoaktywny podkoszulek w\nkolorze czarnym z d\u0142ugimi r\u0119kawami - 2 szt., termoaktywny podkoszulek w kolorze czarnym\nz kr\u00f3tkimi r\u0119kawami - 2 szt.\nTabela 2.\nNormy nale\u017cno\u015bci umundurowania wyj\u015bciowego, galowego, s\u0142u\u017cbowego i polowego funkcjonariuszy\ns\u0142u\u017cby przygotowawczej i sta\u0142ej\nLp.\nPrzedmiot umundurowania\nJ.m.\nLiczba\nOkres u\u017cywalno\u015bci w latach\nLiczba punkt\u00f3w przeliczeniowych\nwarto\u015b\u0107 jednostkowa\nwarto\u015b\u0107 roczna\nwarto\u015b\u0107 ca\u0142kowita\nUmundurowanie wyj\u015bciowe i galowe\n1\nMundur wyj\u015bciowy\nkpl.\n1\n5\n475\n95\n475\n2\nP\u0142aszcz\nkpl.\n1\n7\n693\n99\n693\n3\nCzapka garnizonowa/kapelusz\nszt.\n1\n5\n75\n15\n75\n4\nKrawat\nszt.\n1\n5\n10\n2\n10\n5\nSzalik\nszt.\n1\n5\n30\n6\n30\n6\nR\u0119kawiczki\npara\n1\n5\n40\n8\n40\n7\nKoszula wyj\u015bciowa z d\u0142ugimi r\u0119kawami\nszt.\n1\n5\n60\n12\n60\n8\nKoszula wyj\u015bciowa z kr\u00f3tkimi r\u0119kawami\nszt.\n1\n5\n55\n11\n55\n9\nPochewki do munduru\npara\n1\n5\n10\n2\n10\n10\nPochewki do koszul\npara\n1\n5\n10\n2\n10\n11\nPochewki do p\u0142aszcza\npara\n1\n5\n10\n2\n10\n12\nTa\u015bma otokowa\nszt.\n1\n5\n5\n1\n5\n13\nOznaka Stra\u017cy Granicznej\npara\n2\n5\n5\n2\n10\n14\nBotki zimowe/kozaki\npara\n1\n5\n130\n26\n130\n15\nP\u00f3\u0142buty galowe/cz\u00f3\u0142enka galowe\npara\n1\n5\n100\n20\n100\n16\nSznur galowy\nszt.\n1\n5\n35\n7\n35\n17\nPasek\nszt.\n1\n5\n25\n5\n25\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie wyj\u015bciowe\ni galowe\n315\n1773\nUmundurowanie s\u0142u\u017cbowe\n1\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n3\n132\n88\n264\n2\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n3\n111\n74\n222\n3\nKoszulka s\u0142u\u017cbowa polo\nszt.\n1\n3\n48\n16\n48\n4\nCzapka s\u0142u\u017cbowa letnia\nszt.\n1\n3\n30\n10\n30\n5\nOznaka stopnia do czapki s\u0142u\u017cbowej letniej\nszt.\n1\n3\n3\n1\n3\n6\nCzapka s\u0142u\u017cbowa zimowa\nszt.\n1\n3\n33\n11\n33\n7\nSpodnie s\u0142u\u017cbowe\nszt.\n2\n3\n156\n104\n312\n8\nKurtka s\u0142u\u017cbowa\nkpl.\n1\n3\n774\n258\n774\n9\nP\u00f3\u0142buty s\u0142u\u017cbowe\npara\n1\n3\n204\n68\n204\n10\nTrzewiki s\u0142u\u017cbowe\npara\n1\n3\n339\n113\n339\n11\nOznaki stopni do umundurowania s\u0142u\u017cbowego, pochewki\npara\n3\n3\n8\n8\n24\n12\nPas\nszt.\n1\n3\n36\n12\n36\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie s\u0142u\u017cbowe\n763\n2289\nUmundurowanie polowe\n1\nBluza munduru polowego\nszt.\n1\n4\n188\n47\n188\n2\nSpodnie munduru polowego\nszt.\n2\n4\n180\n90\n360\n3\nKoszula polowa\nszt.\n1\n4\n72\n18\n72\n4\nKoszulka\nszt.\n2\n4\n60\n30\n120\n5\nCzapka polowa\nszt.\n1\n4\n28\n7\n28\n6\nOznaka stopnia na czapk\u0119 i koszulk\u0119\nszt.\n2\n4\n4\n2\n8\n7\nOznaki stopni, pochewki\npara\n3\n4\n8\n6\n24\n8\nKurtka ubrania na z\u0142\u0105 pogod\u0119\nszt.\n1\n4\n552\n138\n552\n9\nBluza ocieplaj\u0105ca typu softshell\nszt.\n1\n4\n440\n110\n440\n10\nTrzewiki polowe\npara\n1\n4\n196\n49\n196\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie polowe\n497\n1988\nUmundurowanie \u0142\u0105cznie - nale\u017cno\u015b\u0107 roczna/ca\u0142kowita\n1575\n6050\nPozosta\u0142e sk\u0142adniki normy\n1\nBielizna:\nkpl.\n1\nX\nskarpety w kolorze czarnym /rajstopy w kolorze be\u017cowym do umundurowania wyj\u015bciowego\npara/szt.\n5\n5\n12\n12\n60\nskarpety w kolorze czarnym do umundurowania s\u0142u\u017cbowego polowego\npara\n7\n3\n12\n28\n84\ntermoaktywny podkoszulek w kolorze czarnym z kr\u00f3tkimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\ntermoaktywny podkoszulek w kolorze czarnym z d\u0142ugimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\nkalesony termoaktywne w kolorze czarnym\nszt.\n3\n3\n90\n90\n270\nSuma warto\u015bci nale\u017cno\u015bci rocznej/ca\u0142kowitej - bielizna\n310\n954\nUwagi:\n1.\nW sk\u0142ad kompletu munduru wyj\u015bciowego wchodzi kurtka munduru wyj\u015bciowego oraz spodnie\nmunduru wyj\u015bciowego (dla funkcjonariuszy m\u0119\u017cczyzn) lub sp\u00f3dnica munduru wyj\u015bciowego\n(dla funkcjonariuszy kobiet).\n2.\nFunkcjonariusz kobieta:\n1)\nmo\u017ce nosi\u0107 jako sk\u0142adnik umundurowania wyj\u015bciowego spodnie munduru wyj\u015bciowego; zakupu\nspodni munduru wyj\u015bciowego dokonuje we w\u0142asnym zakresie i z w\u0142asnych \u015brodk\u00f3w finansowych;\n2)\nzamiast czapki garnizonowej nosi kapelusz;\n3)\nzamiast p\u00f3\u0142but\u00f3w galowych i botk\u00f3w zimowych nosi odpowiednio cz\u00f3\u0142enka galowe i kozaki.\n3.\nFunkcjonariusze nosz\u0105cy umundurowanie typu Marynarki Wojennej otrzymuj\u0105:\n1)\nmundur wyj\u015bciowy w kolorze granatowym zamiast munduru wyj\u015bciowego w kolorze khaki;\n2)\noznaki stopni na r\u0119kawy do munduru wyj\u015bciowego zamiast pochewek z oznakami stopnia\ndo munduru wyj\u015bciowego;\n3)\noznaki stopni do umundurowania wyj\u015bciowego w postaci pochewek do koszuli wyj\u015bciowej\nz d\u0142ugimi r\u0119kawami, koszuli wyj\u015bciowej z kr\u00f3tkimi r\u0119kawami, p\u0142aszcza z oznakami stopnia\nwzoru Marynarki Wojennej haftowane ni\u0107mi w kolorze z\u0142otym na tkaninie w kolorze granatowym;\n4)\nkrawat w kolorze czarnym zamiast krawata w kolorze khaki;\n5)\np\u0142aszcz w kolorze granatowym zamiast p\u0142aszcza w kolorze khaki;\n6)\nczapk\u0119 garnizonow\u0105 z bia\u0142ym denkiem i ta\u015bm\u0105 otokow\u0105 w kolorze czarnym zamiast czapki\ngarnizonowej w kolorze khaki;\n7)\nkapelusz dla funkcjonariuszy kobiet z bia\u0142ym denkiem i ta\u015bm\u0105 otokow\u0105 w kolorze czarnym\nzamiast kapelusza w kolorze khaki;\n8)\noznaki stopnia do czapki garnizonowej/kapelusza typu Marynarki Wojennej zamiast ta\u015bmy\notokowej w kolorze zielonym z oznakami stopnia;\n9)\nszalik w kolorze bia\u0142ym zamiast szalika w kolorze khaki;\n10)\nsznur galowy typu Marynarki Wojennej zamiast sznura galowego typu Wojsk L\u0105dowych;\n11)\nkoszule s\u0142u\u017cbowe, spodnie s\u0142u\u017cbowe, kurtk\u0119 s\u0142u\u017cbow\u0105 w kolorze granatowym zamiast koszul\ns\u0142u\u017cbowych, spodni s\u0142u\u017cbowych, kurtki s\u0142u\u017cbowej w kolorze oliwkowym;\n12)\nkoszulk\u0119 s\u0142u\u017cbow\u0105 polo w kolorze granatowym z granatowymi elementami zamiast koszulki\ns\u0142u\u017cbowej polo w kolorze czarnym z oliwkowymi elementami;\n13)\nczapk\u0119 s\u0142u\u017cbow\u0105 letni\u0105 typu baseball w kolorze granatowym bez oznaki stopnia zamiast\nczapki s\u0142u\u017cbowej letniej w kolorze oliwkowym z oznak\u0105 stopnia;\n14)\noznaki stopni do umundurowania s\u0142u\u017cbowego w postaci pochewek z oznakami stopnia wzoru\nMarynarki Wojennej haftowane ni\u0107mi w kolorze z\u0142otym na tkaninie w kolorze granatowym\nzamiast pochewek haftowanych ni\u0107mi w kolorze czarnym na tkaninie w kolorze oliwkowym;\n15)\noznaki stopni do umundurowania polowego w postaci pochewek z oznakami stopnia wzoru\nMarynarki Wojennej haftowane ni\u0107mi w kolorze czarnym na tkaninie z nadrukiem maskuj\u0105cym;\n16)\noznak\u0119 stopnia wzoru Marynarki Wojennej haftowan\u0105 ni\u0107mi w kolorze czarnym na tkaninie\nz nadrukiem maskuj\u0105cym do czapki polowej i koszulki;\n17)\ndo kurtki s\u0142u\u017cbowej emblemat z napisem \u201eSTRA\u017b GRANICZNA POLISH BORDER GUARD\u201d w kolorze\nz\u0142otym wykonanym metod\u0105 haftu komputerowego na tkaninie w kolorze granatowym zamiast\nemblematu z napisem w kolorze czarnym na tkaninie w kolorze oliwkowym;\n18)\ndo umundurowania wyj\u015bciowego emblemat z napisem \u201eSTRA\u017b GRANICZNA POLISH BORDER GUARD\u201d\nw kolorze z\u0142otym wykonanym metod\u0105 haftu komputerowego na tkaninie w kolorze zielonym\nzamiast emblematu z napisem w kolorze srebrnym wykonanym metod\u0105 haftu komputerowego\nna tkaninie w kolorze zielonym.\n4.\nFunkcjonariusze nosz\u0105cy umundurowanie typu Si\u0142 Powietrznych otrzymuj\u0105:\n1)\nmundur wyj\u015bciowy w kolorze stalowym zamiast munduru wyj\u015bciowego w kolorze khaki;\n2)\nkrawat w kolorze czarnym zamiast krawata w kolorze khaki;\n3)\np\u0142aszcz w kolorze stalowym zamiast p\u0142aszcza w kolorze khaki;\n4)\nczapk\u0119 garnizonow\u0105 w kolorze stalowym zamiast czapki garnizonowej w kolorze khaki;\n5)\nkapelusz dla funkcjonariuszy kobiet w kolorze stalowym zamiast kapelusza w kolorze\nkhaki;\n6)\noznaki stopni do umundurowania wyj\u015bciowego w postaci pochewek wykonane metod\u0105 haftu\nkomputerowego ni\u0107mi w kolorze srebrnym na tkaninie w kolorze stalowym zamiast oznak\nstopni haftowanych ni\u0107mi w kolorze srebrnym na tkaninie w kolorze khaki;\n7)\nszalik w kolorze stalowym zamiast szalika w kolorze khaki;\n8)\nta\u015bm\u0119 otokow\u0105 do czapki garnizonowej/kapelusza w kolorze czarnym zamiast ta\u015bmy otokowej\nw kolorze zielonym.\n5.\nW sk\u0142ad kompletu p\u0142aszcza wchodzi podpinka.\n6.\nW sk\u0142ad kompletu kurtki s\u0142u\u017cbowej wchodzi podpinka kurtki s\u0142u\u017cbowej.\n7.\nFunkcjonariuszowi mianowanemu, przeniesionemu do s\u0142u\u017cby w Stra\u017cy Granicznej, wydaje\nsi\u0119 oznaki stopnia wed\u0142ug posiadanego lub przewidywanego na dzie\u0144 ich wydania stopnia\ns\u0142u\u017cbowego funkcjonariusza.\n8.\nOficerowie do munduru wyj\u015bciowego i p\u0142aszcza mog\u0105 nosi\u0107 oznaki stopni haftowane bajorkiem\nna naramiennikach kurtki munduru wyj\u015bciowego i p\u0142aszcza; haft wykonuj\u0105 we w\u0142asnym\nzakresie i z w\u0142asnych \u015brodk\u00f3w finansowych.\n9.\nFunkcjonariusz powo\u0142any na stanowisko Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej, zast\u0119pcy\nKomendanta G\u0142\u00f3wnego Stra\u017cy Granicznej, Komendanta Biura Spraw Wewn\u0119trznych Stra\u017cy\nGranicznej, zast\u0119pcy Komendanta Biura Spraw Wewn\u0119trznych Stra\u017cy Granicznej, komendanta\noddzia\u0142u/o\u015brodka/o\u015brodka szkolenia Stra\u017cy Granicznej, zast\u0119pcy komendanta oddzia\u0142u\n/ o\u015brodka / o\u015brodka szkolenia Stra\u017cy Granicznej, wyznaczony na stanowisko Rektora-Komendanta\nWy\u017cszej Szko\u0142y Stra\u017cy Granicznej, mianowany na stanowisko Prorektora-Zast\u0119pcy Komendanta\nlub Kanclerza Wy\u017cszej Szko\u0142y Stra\u017cy Granicznej otrzymuje dodatkowo jednorazowo, poza\nsystemem punkt\u00f3w:\n1)\nr\u0119kawiczki letnie - 1 par\u0119;\n2)\npokrowiec na mundur i p\u0142aszcz - 1 szt.\n10.\nFunkcjonariusz mianowany po raz pierwszy do korpusu podoficer\u00f3w, chor\u0105\u017cych lub oficer\u00f3w\noraz funkcjonariusz mianowany na stopie\u0144 majora/komandora podporucznika Stra\u017cy Granicznej\notrzymuje, w naturze lub w formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego, z zaliczeniem okresu u\u017cywalno\u015bci\nod dnia mianowania:\n1)\nna stopie\u0144 w korpusie podoficer\u00f3w - oznaki stopni do umundurowania wyj\u015bciowego;\n2)\nna stopie\u0144 w korpusie chor\u0105\u017cych - oznaki stopni do umundurowania wyj\u015bciowego, sznur\ngalowy;\n3)\nna stopie\u0144 w korpusie oficer\u00f3w - czapk\u0119 garnizonow\u0105/kapelusz, oznaki stopni do umundurowania\nwyj\u015bciowego, sznur galowy;\n4)\nna stopie\u0144 majora/komandora podporucznika Stra\u017cy Granicznej - czapk\u0119 garnizonow\u0105/kapelusz,\noznaki stopni do umundurowania wyj\u015bciowego.\nTabela 3.\nNormy nale\u017cno\u015bci umundurowania wyj\u015bciowego, galowego, s\u0142u\u017cbowego i polowego Komendanta\nG\u0142\u00f3wnego Stra\u017cy Granicznej i zast\u0119pcy Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej\nLp.\nPrzedmiot umundurowania\nJ.m.\nLiczba\nOkres u\u017cywalno\u015bci w latach\nLiczba punkt\u00f3w przeliczeniowych\nwarto\u015b\u0107 jednostkowa\nwarto\u015b\u0107 roczna\nwarto\u015b\u0107 ca\u0142kowita\nUmundurowanie wyj\u015bciowe i galowe\n1\nMundur wyj\u015bciowy\nkpl.\n2\n5\n475\n190\n950\n2\nMundur wyj\u015bciowy letni\nkpl.\n1\n5\n475\n95\n475\n3\nP\u0142aszcz\nkpl.\n1\n7\n693\n99\n693\n4\nOznaki stopni do munduru wyj\u015bciowego, munduru wyj\u015bciowego letniego i p\u0142aszcza\npara\n4\n5\n10\n8\n40\n5\nCzapka garnizonowa/kapelusz\nszt.\n1\n5\n75\n15\n75\n6\nCzapka garnizonowa letnia/kapelusz\nszt.\n1\n5\n75\n15\n75\n7\nTa\u015bma otokowa\nszt.\n2\n5\n5\n2\n10\n8\nKoszula wyj\u015bciowa z d\u0142ugimi r\u0119kawami\nszt.\n1\n5\n60\n12\n60\n9\nKoszula wyj\u015bciowa z kr\u00f3tkimi r\u0119kawami\nszt.\n1\n5\n55\n11\n55\n10\nOznaki stopni do koszul, pochewki\npara\n1\n5\n10\n2\n10\n11\nBotki zimowe/kozaki\npara\n1\n5\n130\n26\n130\n12\nP\u00f3\u0142buty galowe/cz\u00f3\u0142enka galowe\npara\n1\n5\n100\n20\n100\n13\nKrawat\nszt.\n1\n5\n10\n2\n10\n14\nSzalik\nszt.\n1\n5\n30\n6\n30\n15\nR\u0119kawiczki\npara\n1\n5\n40\n8\n40\n16\nOznaka Stra\u017cy Granicznej\npara\n5\n5\n5\n5\n25\n17\nSznur galowy\nszt.\n1\n5\n35\n7\n35\n18\nPasek\nszt.\n1\n5\n25\n5\n25\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie wyj\u015bciowe\ni galowe\n528\n2838\nUmundurowanie s\u0142u\u017cbowe\n1\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n3\n132\n88\n264\n2\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n3\n111\n74\n222\n3\nKoszulka s\u0142u\u017cbowa polo\nszt.\n1\n3\n48\n16\n48\n4\nCzapka s\u0142u\u017cbowa letnia\nszt.\n1\n3\n30\n10\n30\n5\nOznaka stopnia do czapki s\u0142u\u017cbowej letniej\nszt.\n1\n3\n3\n1\n3\n6\nCzapka s\u0142u\u017cbowa zimowa\nszt.\n1\n3\n33\n11\n33\n7\nSpodnie s\u0142u\u017cbowe\nszt.\n2\n3\n156\n104\n312\n8\nKurtka s\u0142u\u017cbowa\nkpl.\n1\n3\n774\n258\n774\n9\nP\u00f3\u0142buty s\u0142u\u017cbowe\npara\n1\n3\n204\n68\n204\n10\nTrzewiki s\u0142u\u017cbowe\npara\n1\n3\n339\n113\n339\n11\nOznaki stopni do umundurowania s\u0142u\u017cbowego, pochewki\npara\n3\n3\n8\n8\n24\n12\nPas\nszt.\n1\n3\n36\n12\n36\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie s\u0142u\u017cbowe\n763\n2289\nUmundurowanie polowe\n1\nBluza munduru polowego\nszt.\n1\n4\n188\n47\n188\n2\nSpodnie munduru polowego\nszt.\n2\n4\n180\n90\n360\n3\nKoszula polowa\nszt.\n1\n4\n72\n18\n72\n4\nKoszulka\nszt.\n2\n4\n60\n30\n120\n5\nCzapka polowa\nszt.\n1\n4\n28\n7\n28\n6\nOznaka stopnia na czapk\u0119 i koszulk\u0119\nszt.\n2\n4\n4\n2\n8\n7\nOznaki stopni, pochewki\npara\n3\n4\n8\n6\n24\n8\nKurtka ubrania na z\u0142\u0105 pogod\u0119\nszt.\n1\n4\n552\n138\n552\n9\nBluza ocieplaj\u0105ca typu softshell\nszt.\n1\n4\n440\n110\n440\n10\nTrzewiki polowe\npara\n1\n4\n196\n49\n196\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie polowe\n497\n1988\nUmundurowanie \u0142\u0105cznie - nale\u017cno\u015b\u0107 roczna/ca\u0142kowita\n1788\n7115\nPozosta\u0142e sk\u0142adniki normy\n1\nBielizna:\nkpl.\n1\nX\nskarpety w kolorze czarnym /rajstopy w kolorze be\u017cowym do umundurowania wyj\u015bciowego\npara/szt.\n5\n5\n12\n12\n60\nskarpety w kolorze czarnym do umundurowania s\u0142u\u017cbowego i polowego\npara\n7\n3\n12\n28\n84\ntermoaktywny podkoszulek w kolorze czarnym z kr\u00f3tkimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\ntermoaktywny podkoszulek w kolorze czarnym z d\u0142ugimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\nkalesony termoaktywne w kolorze czarnym\nszt.\n3\n3\n90\n90\n270\nSuma warto\u015bci nale\u017cno\u015bci rocznej/ca\u0142kowitej - bielizna\n310\n954\nUwagi:\n1.\nFunkcjonariusz powo\u0142any na stanowisko Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej albo zast\u0119pcy\nKomendanta G\u0142\u00f3wnego Stra\u017cy Granicznej:\n1)\notrzymuje w naturze lub formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego, z zaliczeniem okresu u\u017cywalno\u015bci\nod dnia powo\u0142ania, nast\u0119puj\u0105ce przedmioty umundurowania: mundur wyj\u015bciowy, mundur\nwyj\u015bciowy letni, czapk\u0119 garnizonow\u0105 letni\u0105/kapelusz, ta\u015bm\u0119 otokow\u0105 do czapki garnizonowej\nletniej/kapelusza, oznaki stopni do munduru wyj\u015bciowego i munduru wyj\u015bciowego letniego\noraz oznak\u0119 Stra\u017cy Granicznej - 2 pary;\n2)\nnie otrzymuje przedmiot\u00f3w wyszczeg\u00f3lnionych w zestawie, je\u017celi zosta\u0142y mu ju\u017c wcze\u015bniej\nwydane w zwi\u0105zku z pe\u0142nieniem przez niego s\u0142u\u017cby w Stra\u017cy Granicznej.\n2.\nW sk\u0142ad kompletu munduru wyj\u015bciowego/wyj\u015bciowego letniego wchodz\u0105 kurtka munduru wyj\u015bciowego/wyj\u015bciowego\nletniego oraz spodnie munduru (dla funkcjonariuszy m\u0119\u017cczyzn) lub sp\u00f3dnica munduru\n(dla funkcjonariuszy kobiet).\n3.\nFunkcjonariusz kobieta:\n1)\nmo\u017ce nosi\u0107 jako sk\u0142adnik umundurowania wyj\u015bciowego spodnie munduru; zakupu dokonuje\nwe w\u0142asnym zakresie i z w\u0142asnych \u015brodk\u00f3w finansowych;\n2)\nzamiast czapki garnizonowej i czapki garnizonowej letniej nosi kapelusz;\n3)\nzamiast p\u00f3\u0142but\u00f3w galowych i botk\u00f3w zimowych nosi odpowiednio cz\u00f3\u0142enka galowe i kozaki.\n4.\nW sk\u0142ad kompletu p\u0142aszcza wchodzi podpinka.\n5.\nW sk\u0142ad kompletu kurtki s\u0142u\u017cbowej wchodzi podpinka kurtki s\u0142u\u017cbowej.\n6.\nFunkcjonariuszowi mianowanemu, przeniesionemu do s\u0142u\u017cby w Stra\u017cy Granicznej, wydaje\nsi\u0119 oznaki stopnia wed\u0142ug posiadanego lub przewidywanego na dzie\u0144 ich wydania stopnia\ns\u0142u\u017cbowego funkcjonariusza.\n7.\nFunkcjonariusz powo\u0142any na stanowisko Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej albo zast\u0119pcy\nKomendanta G\u0142\u00f3wnego Stra\u017cy Granicznej otrzymuje jednorazowo poza systemem punkt\u00f3w:\n1)\nr\u0119kawiczki letnie - 1 par\u0119;\n2)\npokrowiec na mundur i p\u0142aszcz - 1 szt.\nFunkcjonariusz nie otrzymuje wymienionych przedmiot\u00f3w, je\u017celi zosta\u0142y mu wcze\u015bniej\nwydane w zwi\u0105zku z mianowaniem na stanowisko komendanta oddzia\u0142u/o\u015brodka/o\u015brodka szkolenia\nStra\u017cy Granicznej, zast\u0119pcy komendanta oddzia\u0142u/o\u015brodka/ o\u015brodka szkolenia Stra\u017cy\nGranicznej.\n8.\nFunkcjonariuszowi w stopniu genera\u0142a brygady/kontradmira\u0142a Stra\u017cy Granicznej lub genera\u0142a\ndywizji/wiceadmira\u0142a Stra\u017cy Granicznej, kt\u00f3ry zajmuje stanowisko Komendanta G\u0142\u00f3wnego\nStra\u017cy Granicznej albo zast\u0119pcy Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej, przys\u0142uguje\nliczba punkt\u00f3w przeliczeniowych wynikaj\u0105ca z normy nale\u017cno\u015bci umundurowania w wysoko\u015bci\nprzewidzianej dla funkcjonariusza w stopniu genera\u0142a brygady/kontradmira\u0142a Stra\u017cy\nGranicznej lub genera\u0142a dywizji/wiceadmira\u0142a Stra\u017cy Granicznej.\nTabela 4.\nNormy nale\u017cno\u015bci umundurowania wyj\u015bciowego, galowego, s\u0142u\u017cbowego i polowego funkcjonariuszy\nw stopniu genera\u0142a brygady Stra\u017cy Granicznej i genera\u0142a dywizji Stra\u017cy Granicznej\nLp.\nPrzedmiot umundurowania\nJ.m.\nLiczba\nOkres u\u017cywalno\u015bci w latach\nLiczba punkt\u00f3w przel i czeniow y ch\nwarto\u015b\u0107 jednostkowa\nwarto\u015b\u0107 roczna\nwarto\u015b\u0107 ca\u0142kowita\nUmundurowanie wyj\u015bciowe i galowe\n1\nMundur wyj\u015bciowy\nkpl.\n1\n5\n475\n95\n475\n2\nMundur galowy genera\u0142a\nkpl.\n1\n5\n1350\n270\n1350\n3\nMundur wyj\u015bciowy letni genera\u0142a\nkpl.\n1\n5\n1350\n270\n1350\n4\nMundur wyj\u015bciowy genera\u0142a z bryczesami\nkpl.\n1\n5\n1700\n340\n1700\n5\nOznaki stopni do munduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru wyj\u015bciowego\nletniego genera\u0142a, munduru wyj\u015bciowego genera\u0142a z bryczesami, p\u0142aszcza - haftowane\nbajorkiem\nkpl.\n5\n5\n110\n110\n550\n6\nOrze\u0142 haftowany bajorkiem do munduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru\nwyj\u015bciowego letniego genera\u0142a, munduru wyj\u015bciowego genera\u0142a z bryczesami, p\u0142aszcza\npara\n5\n5\n78\n78\n390\n7\nP\u0142aszcz sukienny genera\u0142a\nszt.\n1\n7\n994\n142\n994\n8\nOznaki stopni do p\u0142aszcza sukiennego genera\u0142a - haftowane bajorkiem\nkpl.\n1\n7\n112\n16\n112\n9\nOrze\u0142 haftowany bajorkiem do p\u0142aszcza sukiennego genera\u0142a\npara\n1\n7\n70\n10\n70\n10\nP\u0142aszcz\nkpl.\n1\n7\n693\n99\n693\n11\nCzapka garnizonowa/kapelusz\nszt.\n1\n5\n75\n15\n75\n12\nCzapka garnizonowa letnia/kapelusz\nszt.\n1\n5\n75\n15\n75\n13\nTa\u015bma otokowa z oznak\u0105 stopnia genera\u0142a - haftowane bajorkiem\nszt.\n2\n5\n540\n216\n1080\n14\nKoszula wyj\u015bciowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n5\n60\n24\n120\n15\nKoszula wyj\u015bciowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n5\n55\n22\n110\n16\nOznaki stopni do koszul, pochewki\npara\n1\n5\n10\n2\n10\n17\nButy genera\u0142a z prawid\u0142ami\npara\n1\n8\n1272\n159\n1272\n18\nBotki zimowe/kozaki\npara\n1\n5\n130\n26\n130\n19\nP\u00f3\u0142buty galowe/cz\u00f3\u0142enka galowe\npara\n1\n5\n100\n20\n100\n20\nSzalik\nszt.\n1\n5\n30\n6\n30\n21\nSzalik letni\nszt.\n1\n5\n15\n3\n15\n22\nR\u0119kawiczki\npara\n1\n5\n40\n8\n40\n23\nR\u0119kawiczki letnie\npara\n1\n5\n50\n10\n50\n24\nKrawat\nszt.\n1\n5\n10\n2\n10\n25\nSznur galowy genera\u0142a\nszt.\n1\n5\n160\n32\n160\n26\nPasek\nszt.\n1\n5\n25\n5\n25\n27\nPas z koalicyjk\u0105\nkpl.\n1\n7\n49\n7\n49\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie wyj\u015bciowe\ni galowe\n2002\n11035\nUmundurowanie s\u0142u\u017cbowe\n1\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n3\n132\n88\n264\n2\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n3\n111\n74\n222\n3\nKoszulka s\u0142u\u017cbowa polo\nszt.\n1\n3\n48\n16\n48\n4\nCzapka s\u0142u\u017cbowa letnia\nszt.\n1\n3\n30\n10\n30\n5\nOznaka stopnia do czapki s\u0142u\u017cbowej letniej\nszt.\n1\n3\n3\n1\n3\n6\nCzapka s\u0142u\u017cbowa zimowa\nszt.\n1\n3\n33\n11\n33\n7\nSpodnie s\u0142u\u017cbowe\nszt.\n2\n3\n156\n104\n312\n8\nKurtka s\u0142u\u017cbowa\nkpl.\n1\n3\n774\n258\n774\n9\nP\u00f3\u0142buty s\u0142u\u017cbowe\npara\n1\n3\n204\n68\n204\n10\nTrzewiki s\u0142u\u017cbowe\npara\n1\n3\n339\n113\n339\n11\nOznaki stopni do umundurowania s\u0142u\u017cbowego, pochewki\npara\n3\n3\n8\n8\n24\n12\nPas\nszt.\n1\n3\n36\n12\n36\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie s\u0142u\u017cbowe\n763\n2289\nUmundurowanie polowe\n1\nBluza munduru polowego\nszt.\n1\n4\n188\n47\n188\n2\nSpodnie munduru polowego\nszt.\n2\n4\n180\n90\n360\n3\nKoszula polowa\nszt.\n1\n4\n72\n18\n72\n4\nKoszulka\nszt.\n2\n4\n60\n30\n120\n5\nCzapka polowa\nszt.\n1\n4\n28\n7\n28\n6\nOznaka stopnia na czapk\u0119 i koszulk\u0119\nszt.\n2\n4\n4\n2\n8\n7\nOznaki stopni, pochewki\npara\n3\n4\n8\n6\n24\n8\nKurtka ubrania na z\u0142\u0105 pogod\u0119\nszt.\n1\n4\n552\n138\n552\n9\nBluza ocieplaj\u0105ca typu softshell\nszt.\n1\n4\n440\n110\n440\n10\nTrzewiki polowe\npara\n1\n4\n196\n49\n196\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie polowe\n497\n1988\nUmundurowanie \u0142\u0105cznie - nale\u017cno\u015b\u0107 roczna/ca\u0142kowita\n3262\n15312\nPozosta\u0142e sk\u0142adniki normy\n1\nBielizna:\nkpl.\n1\nX\nskarpety w kolorze czarnym /rajstopy w kolorze be\u017cowym do umundurowania wyj\u015bciowego\npara/szt.\n5\n5\n12\n12\n60\nskarpety w kolorze czarnym do umundurowania s\u0142u\u017cbowego i polowego\npara\n7\n3\n12\n28\n84\ntermoaktywny podkoszulek w kolorze czarnym z kr\u00f3tkimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\ntermoaktywny podkoszulek w kolorze czarnym z d\u0142ugimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\nkalesony termoaktywne w kolorze czarnym\nszt.\n3\n3\n90\n90\n270\nSuma warto\u015bci nale\u017cno\u015bci rocznej/ca\u0142kowitej - bielizna\n310\n954\nUwagi:\n1.\nFunkcjonariusz w stopniu pu\u0142kownika Stra\u017cy Granicznej mianowany na stopie\u0144 genera\u0142a\nbrygady Stra\u017cy Granicznej otrzymuje, w naturze lub formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego,\nz zaliczeniem okresu u\u017cywalno\u015bci od dnia mianowania nast\u0119puj\u0105ce przedmioty umundurowania:\nmundur galowy genera\u0142a, mundur wyj\u015bciowy letni genera\u0142a, mundur wyj\u015bciowy genera\u0142a\nz bryczesami, p\u0142aszcz sukienny genera\u0142a, koszul\u0119 wyj\u015bciow\u0105 z d\u0142ugimi r\u0119kawami, koszul\u0119\nwyj\u015bciow\u0105 z kr\u00f3tkimi r\u0119kawami, oznaki stopni do munduru wyj\u015bciowego, munduru galowego\ngenera\u0142a, munduru wyj\u015bciowego letniego genera\u0142a, munduru wyj\u015bciowego genera\u0142a z bryczesami\ni p\u0142aszcza sukiennego genera\u0142a - haftowane bajorkiem, or\u0142a haftowanego bajorkiem do\nmunduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru wyj\u015bciowego letniego genera\u0142a,\nmunduru wyj\u015bciowego genera\u0142a z bryczesami, p\u0142aszcza, p\u0142aszcza sukiennego genera\u0142a,\nczapk\u0119 garnizonow\u0105 letni\u0105/kapelusz, ta\u015bmy otokowe do czapki garnizonowej i czapki\ngarnizonowej letniej/kapeluszy z oznak\u0105 stopnia - haftowan\u0105 bajorkiem, buty genera\u0142a\nz prawid\u0142ami, r\u0119kawiczki letnie, szalik letni, sznur galowy genera\u0142a, pas z koalicyjk\u0105.\n2.\nFunkcjonariusz w stopniu genera\u0142a brygady Stra\u017cy Granicznej mianowany na kolejny stopie\u0144\notrzymuje, w naturze lub w formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego, z zaliczeniem okresu u\u017cywalno\u015bci\nod dnia mianowania ta\u015bm\u0119 otokow\u0105 do czapki garnizonowej/kapelusza - 2 szt.\n3.\nW sk\u0142ad kompletu munduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru wyj\u015bciowego\nletniego genera\u0142a, munduru wyj\u015bciowego genera\u0142a z bryczesami wchodz\u0105 kurtka munduru\noraz spodnie munduru (dla funkcjonariuszy m\u0119\u017cczyzn) lub sp\u00f3dnica munduru (dla funkcjonariuszy\nkobiet).\n4.\nFunkcjonariusz kobieta:\n1)\nmo\u017ce nosi\u0107 jako sk\u0142adnik umundurowania wyj\u015bciowego spodnie munduru; zakupu dokonuje\nwe w\u0142asnym zakresie i z w\u0142asnych \u015brodk\u00f3w finansowych;\n2)\nzamiast czapki garnizonowej i czapki garnizonowej letniej nosi kapelusz;\n3)\nzamiast p\u00f3\u0142but\u00f3w galowych i botk\u00f3w zimowych nosi odpowiednio cz\u00f3\u0142enka galowe i kozaki.\n5.\nW sk\u0142ad kompletu p\u0142aszcza wchodzi podpinka.\n6.\nW sk\u0142ad kompletu kurtki s\u0142u\u017cbowej wchodzi podpinka kurtki s\u0142u\u017cbowej.\n7.\nFunkcjonariuszowi mianowanemu, przeniesionemu do s\u0142u\u017cby w Stra\u017cy Granicznej, wydaje\nsi\u0119 oznaki stopnia wed\u0142ug posiadanego lub przewidywanego na dzie\u0144 ich wydania stopnia\ns\u0142u\u017cbowego funkcjonariusza.\n8.\nDo munduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru wyj\u015bciowego letniego genera\u0142a,\nmunduru wyj\u015bciowego genera\u0142a z bryczesami, p\u0142aszcza sukiennego, p\u0142aszcza przys\u0142uguj\u0105\nobszycia oznak stopni haftowane bajorkiem. Bajorkiem s\u0105 haftowane tak\u017ce oznaki stopni\nna ta\u015bmie otokowej do czapki garnizonowej/kapelusza.\n9.\nOznak\u0119 Stra\u017cy Granicznej zast\u0119puje si\u0119 haftowanym or\u0142em. Na klapach p\u0142aszcza i kurtki\nmunduru wyj\u015bciowego, munduru galowego genera\u0142a, munduru wyj\u015bciowego letniego genera\u0142a\ni munduru wyj\u015bciowego genera\u0142a z bryczesami umieszcza si\u0119 or\u0142a haftowanego bajorkiem,\na na spodniach/sp\u00f3dnicy naszywa si\u0119 lampasy w kolorze zielonym po obu stronach wypustki.\n10.\nFunkcjonariuszowi zaopatrywanemu wed\u0142ug niniejszej tabeli wydaje si\u0119 jednorazowo poza\nsystemem punkt\u00f3w:\n1)\npokrowiec na mundur i p\u0142aszcz;\n2)\nuzupe\u0142nienie oznak stopni do umundurowania polowego i s\u0142u\u017cbowego.\n11.\nFunkcjonariuszowi w stopniu genera\u0142a brygady/dywizji Stra\u017cy Granicznej u\u017cytkuj\u0105cemu\numundurowanie Si\u0142 Powietrznych wydaje si\u0119 odpowiednie do tego rodzaju wojsk przedmioty\numundurowania. Funkcjonariusz nie otrzymuje wymienionych przedmiot\u00f3w, je\u017celi zosta\u0142y\nmu wcze\u015bniej wydane w zwi\u0105zku z powo\u0142aniem na stanowisko Komendanta G\u0142\u00f3wnego Stra\u017cy\nGranicznej, zast\u0119pcy Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej, komendanta oddzia\u0142u/o\u015brodka/o\u015brodka\nszkolenia Stra\u017cy Granicznej, zast\u0119pcy komendanta oddzia\u0142u/o\u015brodka/o\u015brodka szkolenia\nStra\u017cy Granicznej, wyznaczeniem na stanowisko Rektora-Komendanta Wy\u017cszej Szko\u0142y Stra\u017cy\nGranicznej, mianowaniem na stanowisko Prorektora-Zast\u0119pcy Komendanta lub Kanclerza\nWy\u017cszej Szko\u0142y Stra\u017cy Granicznej.\n12.\nFunkcjonariusz zaopatrywany na podstawie tabeli nie otrzymuje przedmiot\u00f3w wyszczeg\u00f3lnionych\nw zestawie, je\u017celi zosta\u0142y mu ju\u017c wcze\u015bniej wydane w zwi\u0105zku z pe\u0142nieniem przez niego\ns\u0142u\u017cby w Stra\u017cy Granicznej.\nTabela 5.\nNormy nale\u017cno\u015bci umundurowania wyj\u015bciowego, galowego, s\u0142u\u017cbowego i polowego funkcjonariuszy\nw stopniu kontradmira\u0142a/wiceadmira\u0142a Stra\u017cy Granicznej\nLp.\nPrzedmiot umundurowania\nJ.m.\nLiczba\nOkres u\u017cywalno\u015bci w latach\nLiczba punkt\u00f3w przeliczeniowych\nwarto\u015b\u0107 jednostkowa\nwarto\u015b\u0107 roczna\nwarto\u015b\u0107 ca\u0142kowita\nUmundurowanie wyj\u015bciowe i galowe\n1\nMundur wyj\u015bciowy\nkpl.\n1\n5\n475\n95\n475\n2\nMundur galowy admira\u0142a\nkpl.\n1\n5\n1350\n270\n1350\n3\nMundur wyj\u015bciowy letni admira\u0142a\nkpl.\n1\n5\n1350\n270\n1350\n4\nOznaki stopni na r\u0119kawy typu Marynarki Wojennej do munduru wyj\u015bciowego, munduru galowego\nadmira\u0142a i munduru wyj\u015bciowego letniego admira\u0142a\npara\n3\n5\n585\n351\n1755\n5\nOrze\u0142 haftowany bajorkiem do munduru wyj\u015bciowego, munduru galowego admira\u0142a i munduru\nwyj\u015bciowego letniego admira\u0142a\npara\n4\n5\n75\n60\n300\n6\nP\u0142aszcz sukienny admira\u0142a\nszt.\n1\n7\n903\n129\n903\n7\nOrze\u0142 haftowany bajorkiem do p\u0142aszcza sukiennego admira\u0142a\npara\n1\n7\n70\n10\n70\n8\nOznaki stopni do p\u0142aszcza sukiennego admira\u0142a\npara\n1\n7\n91\n13\n91\n9\nP\u0142aszcz\nkpl.\n1\n7\n693\n99\n693\n10\nOznaki stopni do p\u0142aszcza\nkpl.\n1\n5\n105\n21\n105\n11\nCzapka garnizonowa/kapelusz\nszt.\n1\n5\n100\n20\n100\n12\nCzapka garnizonowa letnia/kapelusz\nszt.\n1\n5\n100\n20\n100\n13\nOznaki stopnia do czapki garnizonowej i czapki garnizonowej letniej/kapeluszy\nszt.\n2\n5\n15\n6\n30\n14\nKoszula wyj\u015bciowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n5\n60\n24\n120\n15\nKoszula wyj\u015bciowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n5\n55\n22\n110\n16\nOznaki stopni do koszul, pochewki\npara\n1\n5\n10\n2\n10\n17\nBotki zimowe/kozaki\npara\n1\n5\n130\n26\n130\n18\nP\u00f3\u0142buty galowe/cz\u00f3\u0142enka galowe\npara\n1\n5\n100\n20\n100\n19\nKrawat\nszt.\n1\n5\n10\n2\n10\n20\nSzalik\nszt.\n1\n5\n30\n6\n30\n21\nR\u0119kawiczki\npara\n1\n5\n40\n8\n40\n22\nSznur galowy admira\u0142a\nszt.\n1\n5\n160\n32\n160\n23\nPasek\nszt.\n1\n5\n25\n5\n25\n24\nSzalik letni\nszt.\n1\n5\n15\n3\n15\n25\nR\u0119kawiczki letnie\npara\n1\n5\n50\n10\n50\n26\nR\u0119kawiczki dziane w kolorze bia\u0142ym\npara\n1\n5\n25\n5\n25\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie wyj\u015bciowe\ni galowe\n1529\n8147\nUmundurowanie s\u0142u\u017cbowe\n1\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nszt.\n2\n3\n132\n88\n264\n2\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nszt.\n2\n3\n111\n74\n222\n3\nKoszulka s\u0142u\u017cbowa polo\nszt.\n1\n3\n48\n16\n48\n4\nCzapka s\u0142u\u017cbowa letnia\nszt.\n1\n3\n30\n10\n30\n5\nCzapka s\u0142u\u017cbowa zimowa\nszt.\n1\n3\n33\n11\n33\n6\nSpodnie s\u0142u\u017cbowe\nszt.\n2\n3\n156\n104\n312\n7\nKurtka s\u0142u\u017cbowa\nkpl.\n1\n3\n774\n258\n774\n8\nP\u00f3\u0142buty s\u0142u\u017cbowe\npara\n1\n3\n204\n68\n204\n9\nTrzewiki s\u0142u\u017cbowe\npara\n1\n3\n339\n113\n339\n10\nOznaki stopni do umundurowania s\u0142u\u017cbowego, pochewki\npara\n3\n3\n8\n8\n24\n11\nPas\nszt.\n1\n3\n36\n12\n36\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie s\u0142u\u017cbowe\n763\n2289\nUmundurowanie polowe\n1\nBluza munduru polowego\nszt.\n1\n4\n188\n47\n188\n2\nSpodnie munduru polowego\nszt.\n2\n4\n180\n90\n360\n3\nKoszula polowa\nszt.\n1\n4\n72\n18\n72\n4\nKoszulka\nszt.\n2\n4\n60\n30\n120\n5\nCzapka polowa\nszt.\n1\n4\n28\n7\n28\n6\nOznaka stopnia na czapk\u0119 i koszulk\u0119\nszt.\n2\n4\n4\n2\n8\n7\nOznaki stopni, pochewki\npara\n3\n4\n8\n6\n24\n8\nKurtka ubrania na z\u0142\u0105 pogod\u0119\nszt.\n1\n4\n552\n138\n552\n9\nBluza ocieplaj\u0105ca typu softshell\nszt.\n1\n4\n440\n110\n440\n10\nTrzewiki polowe\npara\n1\n4\n196\n49\n196\nSuma punkt\u00f3w przeliczeniowych nale\u017cno\u015bci rocznej/ca\u0142kowitej - umundurowanie polowe\n497\n1988\nUmundurowanie \u0142\u0105cznie - nale\u017cno\u015b\u0107 roczna/ca\u0142kowita\n2789\n12424\nPozosta\u0142e sk\u0142adniki normy\nBielizna:\nkpl.\n1\nX\n1\nskarpety w kolorze czarnym/rajstopy w kolorze be\u017cowym do umundurowania wyj\u015bciowego\npara/szt.\n5\n5\n12\n12\n60\nskarpety w kolorze czarnym do umundurowania s\u0142u\u017cbowego i polowego\npara\n7\n3\n12\n28\n84\ntermoaktywny podkoszulek w kolorze czarnym z kr\u00f3tkimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\ntermoaktywny podkoszulek w kolorze czarnym z d\u0142ugimi r\u0119kawami\nszt.\n3\n3\n90\n90\n270\nkalesony termoaktywne w kolorze czarnym\nszt.\n3\n3\n90\n90\n270\nSuma warto\u015bci nale\u017cno\u015bci rocznej/ca\u0142kowitej - bielizna\n310\n954\nUwagi:\n1.\nFunkcjonariusz w stopniu komandora Stra\u017cy Granicznej mianowany na stopie\u0144 kontradmira\u0142a\nStra\u017cy Granicznej otrzymuje, w naturze lub formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego, z zaliczeniem\nokresu u\u017cywalno\u015bci od dnia mianowania nast\u0119puj\u0105ce przedmioty umundurowania: mundur\ngalowy admira\u0142a, mundur wyj\u015bciowy letni admira\u0142a, p\u0142aszcz sukienny admira\u0142a, oznaki\nstopni do p\u0142aszcza i p\u0142aszcza sukiennego admira\u0142a, czapk\u0119 garnizonow\u0105 letni\u0105 i czapk\u0119\ngarnizonow\u0105/kapelusze, oznaki stopni na r\u0119kawy do munduru wyj\u015bciowego letniego admira\u0142a\ni munduru galowego admira\u0142a, munduru wyj\u015bciowego, or\u0142a haftowanego bajorkiem do munduru\nwyj\u015bciowego letniego admira\u0142a i munduru galowego admira\u0142a, munduru wyj\u015bciowego oraz\np\u0142aszcza sukiennego admira\u0142a i p\u0142aszcza, sznur galowy admira\u0142a, szalik letni, r\u0119kawiczki\nletnie i r\u0119kawiczki dziane w kolorze bia\u0142ym.\n2.\nFunkcjonariusz w stopniu kontradmira\u0142a Stra\u017cy Granicznej mianowany na kolejny stopie\u0144\notrzymuje, w naturze lub w formie r\u00f3wnowa\u017cnika pieni\u0119\u017cnego, z zaliczeniem okresu u\u017cywalno\u015bci\nod dnia mianowania nast\u0119puj\u0105ce przedmioty umundurowania: oznaki stopni na r\u0119kawy munduru\ngalowego admira\u0142a i munduru wyj\u015bciowego letniego admira\u0142a, munduru wyj\u015bciowego, oznaki\nstopni do p\u0142aszcza i p\u0142aszcza sukiennego admira\u0142a.\n3.\nW sk\u0142ad kompletu munduru wyj\u015bciowego, munduru galowego admira\u0142a, munduru wyj\u015bciowego\nletniego admira\u0142a wchodz\u0105 kurtka munduru oraz spodnie munduru (dla funkcjonariuszy\nm\u0119\u017cczyzn) lub sp\u00f3dnica munduru (dla funkcjonariuszy kobiet).\n4.\nFunkcjonariusz kobieta:\n1)\nmo\u017ce nosi\u0107 jako sk\u0142adnik umundurowania wyj\u015bciowego spodnie munduru; zakupu dokonuje\nwe w\u0142asnym zakresie i z w\u0142asnych \u015brodk\u00f3w finansowych;\n2)\nzamiast czapki garnizonowej i czapki garnizonowej letniej nosi kapelusz;\n3)\nzamiast p\u00f3\u0142but\u00f3w galowych i botk\u00f3w zimowych nosi odpowiednio cz\u00f3\u0142enka galowe i kozaki.\n5.\nW sk\u0142ad kompletu p\u0142aszcza wchodzi podpinka.\n6.\nW sk\u0142ad kompletu kurtki s\u0142u\u017cbowej wchodzi podpinka kurtki s\u0142u\u017cbowej.\n7.\nFunkcjonariuszowi mianowanemu, przeniesionemu do s\u0142u\u017cby w Stra\u017cy Granicznej, wydaje\nsi\u0119 oznaki stopnia wed\u0142ug posiadanego lub przewidywanego na dzie\u0144 ich wydania stopnia\ns\u0142u\u017cbowego funkcjonariusza.\n8.\nDo munduru galowego admira\u0142a, munduru wyj\u015bciowego, munduru wyj\u015bciowego letniego admira\u0142a\nprzys\u0142uguj\u0105 oznaki stopni naszywane na r\u0119kawach, do p\u0142aszcza sukiennego admira\u0142a i\np\u0142aszcza przys\u0142uguj\u0105 naramienniki z oznakami stopni.\n9.\nOznak\u0119 Stra\u017cy Granicznej zast\u0119puje si\u0119 haftowanym or\u0142em. Na klapach p\u0142aszcza sukiennego\nadmira\u0142a, p\u0142aszcza i kurtki munduru galowego admira\u0142a, munduru wyj\u015bciowego i munduru\nwyj\u015bciowego letniego admira\u0142a umieszcza si\u0119 or\u0142a haftowanego bajorkiem.\n10.\nFunkcjonariuszowi zaopatrywanemu wed\u0142ug niniejszej tabeli wydaje si\u0119 jednorazowo poza\nsystemem punkt\u00f3w:\n1)\npokrowiec na mundur i p\u0142aszcz;\n2)\nuzupe\u0142nienie oznak stopni do umundurowania polowego i s\u0142u\u017cbowego.\n11.\nFunkcjonariusz zaopatrywany na podstawie tabeli nie otrzymuje przedmiot\u00f3w wyszczeg\u00f3lnionych\nw zestawie, je\u017celi zosta\u0142y mu ju\u017c wcze\u015bniej wydane w zwi\u0105zku z pe\u0142nieniem przez niego\ns\u0142u\u017cby w Stra\u017cy Granicznej.\nZa\u0142\u0105cznik nr 9\n-\nWykaz przedmiot\u00f3w umundurowania, o kt\u00f3re powi\u0119ksza si\u0119 norm\u0119 nale\u017cno\u015bci umundurowania\n(wz\u00f3r)\nLp.\nOpis przypadku\nWykaz przedmiot\u00f3w umundurowania\n1\nPowo\u0142anie na stanowisko Komendanta lub zast\u0119pcy Komendanta Biura Spraw Wewn\u0119trznych\nStra\u017cy Granicznej, komendanta lub zast\u0119pcy komendanta oddzia\u0142u, o\u015brodka lub o\u015brodka\nszkolenia Stra\u017cy Granicznej, wyznaczenie na stanowisko Rektora-Komendanta Wy\u017cszej\nSzko\u0142y Stra\u017cy Granicznej, mianowanie na stanowisko Prorektora-Zast\u0119pcy Komendanta\nlub Kanclerza Wy\u017cszej Szko\u0142y Stra\u017cy Granicznej\n1) r\u0119kawiczki letnie 2) pokrowiec na mundur i p\u0142aszcz\n2\nPowo\u0142anie na stanowisko Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej lub zast\u0119pcy Komendanta\nG\u0142\u00f3wnego Stra\u017cy Granicznej\n1) r\u0119kawiczki letnie 2) pokrowiec na mundur i p\u0142aszcz\n3\nMianowanie na stopie\u0144 genera\u0142a brygady Stra\u017cy Granicznej lub genera\u0142a dywizji Stra\u017cy\nGranicznej\n1) pokrowiec na mundur i p\u0142aszcz\n4\nMianowanie na stopie\u0144 kontradmira\u0142a Stra\u017cy Granicznej lub wiceadmira\u0142a Stra\u017cy Granicznej\n1) pokrowiec na mundur i p\u0142aszcz\n5\nMianowanie na stanowisko s\u0142u\u017cbowe w zwi\u0105zku z przeniesieniem z urz\u0119du, do miejsca\npe\u0142nienia s\u0142u\u017cby, w kt\u00f3rym obowi\u0105zuje odmienny typ (kolor) umundurowania: zmiana umundurowania\nz umundurowania typu Wojsk L\u0105dowych na umundurowanie typu Marynarki Wojennej oraz\nz umundurowania typu Marynarki Wojennej na umundurowanie typu Wojsk L\u0105dowych\n1) mundur wyj\u015bciowy 2) czapka garnizonowa/kapelusz 3) p\u0142aszcz 4) koszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami 5) koszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami 6) koszulka s\u0142u\u017cbowa polo 7) spodnie s\u0142u\u017cbowe 8) kurtka s\u0142u\u017cbowa 9) czapka s\u0142u\u017cbowa letnia\n6\nMianowanie na stanowisko s\u0142u\u017cbowe w zwi\u0105zku z przeniesieniem z urz\u0119du, do miejsca\npe\u0142nienia s\u0142u\u017cby, w kt\u00f3rym obowi\u0105zuje odmienny typ (kolor) umundurowania: zmiana umundurowania\nz umundurowania typu Si\u0142 Powietrznych na umundurowanie typu Marynarki Wojennej oraz\nz umundurowania typu Marynarki Wojennej na umundurowanie typu Si\u0142 Powietrznych\n1) mundur wyj\u015bciowy 2) czapka garnizonowa/kapelusz 3) p\u0142aszcz 4) koszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami 5) koszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami 6) koszulka s\u0142u\u017cbowa polo 7) spodnie s\u0142u\u017cbowe 8) kurtka s\u0142u\u017cbowa 9) czapka s\u0142u\u017cbowa letnia\n7\nMianowanie na stanowisko s\u0142u\u017cbowe w zwi\u0105zku z przeniesieniem z urz\u0119du, do miejsca\npe\u0142nienia s\u0142u\u017cby, w kt\u00f3rym obowi\u0105zuje odmienny typ (kolor) umundurowania: zmiana umundurowania\nz umundurowania tupu Wojsk L\u0105dowych na umundurowanie typu Si\u0142 Powietrznych oraz z\numundurowania typu Si\u0142 Powietrznych na umundurowanie typu Wojsk L\u0105dowych\n1) mundur wyj\u015bciowy 2) czapka garnizonowa/kapelusz 3) p\u0142aszcz\n8\nPrzywr\u00f3cenie do s\u0142u\u017cby w Stra\u017cy Granicznej\nprzedmioty umundurowania, kt\u00f3rych funkcjonariusz nie otrzyma\u0142 w zwi\u0105zku z pe\u0142nieniem\ns\u0142u\u017cby w Stra\u017cy Granicznej, wed\u0142ug wzor\u00f3w obowi\u0105zuj\u0105cych w dacie przywr\u00f3cenia do s\u0142u\u017cby\nw Stra\u017cy Granicznej\nZa\u0142\u0105cznik nr 10\n-\nSzczeg\u00f3\u0142owe zestawy umundurowania funkcjonariuszy (wz\u00f3r)\nTabela 1.\nUmundurowanie s\u0142u\u017cbowe\nLp.\nNazwa przedmiotu\nZestaw 1\nZestaw 2\nZestaw 3\nZestaw 4\nZestaw 5\nZestaw 6\nZestaw 7\nZestaw 8\nZestaw 9\nUwagi\n1\nCzapka s\u0142u\u017cbowa letnia\nx\nx\nx\nx\nx\nx\n2\nCzapka s\u0142u\u017cbowa zimowa\nx\nx\nx\n3\nKoszula s\u0142u\u017cbowa z d\u0142ugimi r\u0119kawami\nx\nx\nx\nx\nx\nx\n4\nKoszula s\u0142u\u017cbowa z kr\u00f3tkimi r\u0119kawami\nx\n5\nKoszulka s\u0142u\u017cbowa polo\nx\n6\nKoszulka\nx\nz norm umundurowania polowego\n7\nSpodnie s\u0142u\u017cbowe\nx\nx\nx\nx\nx\nx\nx\nx\nx\n8\nKurtka s\u0142u\u017cbowa\nx\nx\nx\n9\nPodpinka kurtki s\u0142u\u017cbowej\nx\nx\n10\nBluza ocieplaj\u0105ca typu softshell\nx\nx\nz norm umundurowania polowego\n11\nP\u00f3\u0142buty s\u0142u\u017cbowe\nx\nx\nx\nx\nx\nx\n12\nTrzewiki s\u0142u\u017cbowe\nx\nx\nx\n13\nPas\nx\nx\nx\nx\nx\nx\nx\nx\nx\n14\nR\u0119kawiczki\nz norm umundurowania wyj\u015bciowego\n15\nBielizna\nUwagi:\n1.\nKoszule s\u0142u\u017cbowe z d\u0142ugimi r\u0119kawami i koszule s\u0142u\u017cbowe z kr\u00f3tkimi r\u0119kawami nosi si\u0119\nw\u0142o\u017cone do spodni. Koszulka s\u0142u\u017cbowa polo i koszulka mog\u0105 by\u0107 wk\u0142adane do spodni lub\nwyk\u0142adane na zewn\u0105trz spodni.\n2.\nKoszule s\u0142u\u017cbowe z d\u0142ugimi r\u0119kawami mo\u017cna nosi\u0107 z podwini\u0119tymi r\u0119kawami. Do podwini\u0119cia\nr\u0119kaw\u00f3w nale\u017cy wykorzysta\u0107 pasek oraz p\u0119telk\u0119, kt\u00f3re zosta\u0142y przyszyte do r\u0119kawa.\n3.\nKoszul\u0119 s\u0142u\u017cbow\u0105 z d\u0142ugimi r\u0119kawami, koszul\u0119 s\u0142u\u017cbow\u0105 z kr\u00f3tkimi r\u0119kawami, koszulk\u0119\ns\u0142u\u017cbow\u0105 polo, koszulk\u0119 (zestaw 5, zestaw 6, zestaw 7, zestaw 8, zestaw 9) mo\u017cna nosi\u0107\nzamiennie w zale\u017cno\u015bci od potrzeb.\n4.\nSpodnie s\u0142u\u017cbowe nosi si\u0119 na zewn\u0105trz obuwia; powinny one si\u0119ga\u0107 kraw\u0119dzi\u0105 nogawki\ndo g\u00f3rnej kraw\u0119dzi obcasa obuwia.\n5.\nP\u00f3\u0142buty s\u0142u\u017cbowe i trzewiki s\u0142u\u017cbowe (zestaw 5, zestaw 6, zestaw 7, zestaw 8, zestaw\n9) mo\u017cna nosi\u0107 zamiennie w zale\u017cno\u015bci od potrzeb.\n6.\nCzapk\u0119 s\u0142u\u017cbow\u0105 letni\u0105 i czapk\u0119 s\u0142u\u017cbow\u0105 zimow\u0105 (zestaw 5, zestaw 6, zestaw 7, zestaw\n8, zestaw 9) mo\u017cna nosi\u0107 zamiennie w zale\u017cno\u015bci od potrzeb.\n7.\nDo umundurowania s\u0142u\u017cbowego (zestaw 5, zestaw 6, zestaw 7, zestaw 8, zestaw 9) mo\u017cna\nnosi\u0107 r\u0119kawiczki w zale\u017cno\u015bci od potrzeb.\n8.\nDo umundurowania s\u0142u\u017cbowego mo\u017cna nosi\u0107 bielizn\u0119 w zale\u017cno\u015bci od potrzeb.\nTabela 2.\nUmundurowanie wyj\u015bciowe i galowe\nLp.\nNazwa przedmiotu\nUmundurowanie wyj\u015bciowe\nUmundurowanie galowe\nUwagi\nZestaw 1\nZestaw 2\nZestaw 3\nZestaw 4\nZestaw 5\nZestaw 1\nZestaw 2\n1\nCzapka garnizonowa\nx\nx\nx\nx\nx\nx\nx\ndla funkcjonariusza kobiety - kapelusz\n2\nKurtka munduru wyj\u015bciowego\nx\nx\nx\nx\n3\nSpodnie munduru wyj\u015bciowego\nx\nx\nx\nx\nx\nx\nx\ndla funkcjonariusza kobiety - sp\u00f3dnica zamiast spodni\n4\nKoszula wyj\u015bciowa z d\u0142ugimi r\u0119kawami\nx\nx\nx\nx\nx\n5\nKoszula wyj\u015bciowa z kr\u00f3tkimi r\u0119kawami\nx\nx\n6\nP\u0142aszcz\nx\n7\nP\u00f3\u0142buty galowe\nx\nx\nx\nx\nx\nx\nx\ndla funkcjonariusza kobiety - cz\u00f3\u0142enka galowe\n8\nBotki zimowe\ndla funkcjonariusza kobiety - kozaki\n9\nPasek\nx\nx\nx\nx\nx\nx\nx\n10\nR\u0119kawiczki\nx\nx\n11\nSznur galowy\nx\nx\n12\nKrawat\nx\nx\nx\nx\nx\nx\n13\nSzalik\nx\n14\nBielizna\nUwagi:\n1.\nKurtk\u0119 munduru wyj\u015bciowego dopasowuje si\u0119 tak, aby kraw\u0119d\u017a r\u0119kawa si\u0119ga\u0142a do nasady\nkciuka d\u0142oni przy opuszczonej r\u0119ce; spodnie munduru wyj\u015bciowego powinny si\u0119ga\u0107 kraw\u0119dzi\u0105\nnogawek do g\u00f3rnej kraw\u0119dzi obcasa obuwia; sp\u00f3dnica munduru wyj\u015bciowego powinna si\u0119ga\u0107\ndoln\u0105 kraw\u0119dzi\u0105 do kolan lub 2-3 cm poni\u017cej linii kolan.\n2.\nP\u00f3\u0142buty galowe/cz\u00f3\u0142enka galowe i botki zimowe/kozaki mo\u017cna nosi\u0107 zamiennie w zale\u017cno\u015bci\nod potrzeb.\n3.\nKomendant Biura Spraw Wewn\u0119trznych Stra\u017cy Granicznej, oddzia\u0142u, o\u015brodka szkolenia\nlub o\u015brodka Stra\u017cy Granicznej oraz jego zast\u0119pcy, w zale\u017cno\u015bci od okoliczno\u015bci, razem\nz przedmiotami okre\u015blonymi w zestawie nosz\u0105 r\u0119kawiczki letnie.\n4.\nRektor-Komendant Wy\u017cszej Szko\u0142y Stra\u017cy Granicznej, Prorektor-Zast\u0119pca Komendanta lub\nKanclerz Wy\u017cszej Szko\u0142y Stra\u017cy Granicznej, w zale\u017cno\u015bci od okoliczno\u015bci, razem z przedmiotami\nokre\u015blonymi w zestawie nosz\u0105 r\u0119kawiczki letnie.\n5.\nSznur galowy nosi si\u0119 na prawym ramieniu kurtki munduru wyj\u015bciowego przypi\u0119ty pod\nnaramiennikiem (w umundurowaniu typu Marynarki Wojennej za pomoc\u0105 zapinki) przy wszyciu\nr\u0119kawa. P\u0119telk\u0119 sznura zapina si\u0119 na pierwszym g\u00f3rnym guziku zapi\u0119cia munduru, a w\numundurowaniu typu Marynarki Wojennej pod klap\u0105, na wysoko\u015bci pierwszego rz\u0119du guzik\u00f3w,\ntak aby zwisaj\u0105cy na ko\u0144cu warkocza metalowy wisior znajdowa\u0142 si\u0119 na \u015brodku mi\u0119dzy\nrz\u0119dami guzik\u00f3w. Warkocze sznura galowego genera\u0142a przeprowadza si\u0119 w nast\u0119puj\u0105cy\nspos\u00f3b: d\u0142u\u017cszy warkocz przeprowadza si\u0119 pod r\u0119kawem i zapina na pierwszy guzik, drugi\nwarkocz u\u0142o\u017cony na piersi zapina si\u0119 na drugi od g\u00f3ry guzik munduru. Sznur galowy\nadmira\u0142a zak\u0142ada si\u0119 jak u genera\u0142a, z tym \u017ce jego ko\u0144c\u00f3wki s\u0105 zapi\u0119te w jednym miejscu\n(jak u oficera marynarki wojennej). P\u0119tl\u0119 sznura galowego oficerskiego i genera\u0142a\nzak\u0142ada si\u0119 pod prawy r\u0119kaw kurtki munduru.\n6.\nKomendant G\u0142\u00f3wny Stra\u017cy Granicznej oraz zast\u0119pcy Komendanta G\u0142\u00f3wnego Stra\u017cy Granicznej,\nw zale\u017cno\u015bci od okoliczno\u015bci, razem z przedmiotami okre\u015blonymi w zestawie nosz\u0105: mundur\nwyj\u015bciowy letni, r\u0119kawiczki letnie oraz czapk\u0119 garnizonow\u0105 letni\u0105/kapelusz.\n7.\nFunkcjonariusz w stopniu genera\u0142a brygady Stra\u017cy Granicznej lub genera\u0142a dywizji Stra\u017cy\nGranicznej, w zale\u017cno\u015bci od okoliczno\u015bci, razem z przedmiotami okre\u015blonymi w zestawie\nnosi: mundur wyj\u015bciowy letni genera\u0142a, r\u0119kawiczki letnie, czapk\u0119 garnizonow\u0105 letni\u0105/kapelusz,\nmundur galowy genera\u0142a, mundur wyj\u015bciowy genera\u0142a z bryczesami i buty genera\u0142a, p\u0142aszcz\nsukienny genera\u0142a, mundur galowy genera\u0142a, mundur wyj\u015bciowy genera\u0142a z bryczesami\ni buty genera\u0142a.\n8.\nFunkcjonariusz w stopniu kontradmira\u0142a Stra\u017cy Granicznej, w zale\u017cno\u015bci od okoliczno\u015bci,\nrazem z przedmiotami okre\u015blonymi w zestawie nosi: mundur wyj\u015bciowy letni admira\u0142a,\nr\u0119kawiczki letnie, r\u0119kawiczki dziane koloru bia\u0142ego, czapk\u0119 garnizonow\u0105 letni\u0105/kapelusz,\nmundur galowy admira\u0142a lub mundur wyj\u015bciowy, p\u0142aszcz sukienny admira\u0142a, mundur galowy\nadmira\u0142a lub mundur wyj\u015bciowy.\n9.\nSzalik (zestaw 5) mo\u017cna nosi\u0107 w zale\u017cno\u015bci od potrzeb.\n10.\nDo umundurowania galowego (zestaw 2) mo\u017cna nosi\u0107 p\u0142aszcz w zale\u017cno\u015bci od potrzeb.\n11.\nDo umundurowania wyj\u015bciowego i galowego mo\u017cna nosi\u0107 bielizn\u0119 w zale\u017cno\u015bci od potrzeb.\nTabela 3.\nUmundurowanie polowe\nLp.\nNazwa przedmiotu\nZestaw 1\nZestaw 2\nZestaw 3\nZestaw 4\nZestaw 5\nZestaw 6\nZestaw 7\nZestaw 8\nZestaw 9\nZestaw 10\nUwagi\n1\nCzapka polowa\nx\nx\nx\nx\nx\nx\nx\n2\nCzapka s\u0142u\u017cbowa zimowa\nx\nx\nx\nz norm umundurowania s\u0142u\u017cbowego\n3\nBluza munduru polowego\nx\nx\nx\nx\nx\nx\nx\n4\nSpodnie munduru polowego\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\n5\nKoszula polowa\nx\n6\nKoszulka s\u0142u\u017cbowa polo\nx\nz norm umundurowania s\u0142u\u017cbowego\n7\nKoszulka\nx\nx\n8\nKurtka ubrania na z\u0142\u0105 pogod\u0119\nx\nx\nx\n9\nBluza ocieplaj\u0105ca typu softshell\nx\nx\n10\nPodpinka kurtki s\u0142u\u017cbowej\nx\nx\nz norm umundurowania s\u0142u\u017cbowego\n11\nTrzewiki polowe\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\n12\nP\u00f3\u0142buty s\u0142u\u017cbowe/ Trzewiki s\u0142u\u017cbowe\nz norm umundurowania s\u0142u\u017cbowego\n13\nPas\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nz norm umundurowania s\u0142u\u017cbowego\n14\nR\u0119kawiczki\nz norm umundurowania wyj\u015bciowego\n15\nBielizna\nUwagi:\n1.\nBluz\u0119 munduru polowego mo\u017cna nosi\u0107 zapi\u0119t\u0105 pod szyj\u0105 lub z podwini\u0119tymi r\u0119kawami.\n2.\nSpodnie munduru polowego mo\u017cna nosi\u0107 na zewn\u0105trz obuwia (powinny si\u0119ga\u0107 kraw\u0119dzi\u0105\nnogawki do g\u00f3rnej kraw\u0119dzi obcasa obuwia) lub wewn\u0105trz obuwia.\n3.\nBluz\u0119 munduru polowego, koszul\u0119 polow\u0105, koszulk\u0119 s\u0142u\u017cbowa polo, koszulk\u0119 (zestaw 6,\nzestaw 7, zestaw 8, zestaw 9, zestaw 10) mo\u017cna nosi\u0107 zamiennie w zale\u017cno\u015bci od potrzeb.\n4.\nKoszulka s\u0142u\u017cbowa polo i koszulka mog\u0105 by\u0107 wk\u0142adane do spodni lub wyk\u0142adane na zewn\u0105trz\nspodni.\n5.\nDo umundurowania polowego mo\u017cna nosi\u0107 zamiennie obuwie s\u0142u\u017cbowe w zale\u017cno\u015bci od potrzeb\n(tylko w przypadku spodni munduru polowego noszonych na zewn\u0105trz obuwia).\n6.\nPas w zestawie ze spodniami munduru polowego oraz bluz\u0105 munduru polowego mo\u017cna nosi\u0107\nna bluzie polowej lub w\u0142o\u017cony w podtrzymywacze spodni munduru polowego.\n7.\nCzapk\u0119 polow\u0105 i czapk\u0119 s\u0142u\u017cbow\u0105 zimow\u0105 (zestaw 1, zestaw 2, zestaw 6, zestaw 7, zestaw\n8, zestaw 9) mo\u017cna nosi\u0107 zamiennie w zale\u017cno\u015bci od potrzeb.\n8.\nDo umundurowania polowego (zestaw 6, zestaw 7, zestaw 8, zestaw 9, zestaw 10) mo\u017cna\nnosi\u0107 r\u0119kawiczki w zale\u017cno\u015bci od potrzeb.\n9.\nDo umundurowania polowego mo\u017cna nosi\u0107 bielizn\u0119, w zale\u017cno\u015bci od potrzeb.\nZa\u0142\u0105cznik nr 11\n-\nWzory emblemat\u00f3w Stra\u017cy Granicznej (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 12\n-\nWz\u00f3r oznaki Stra\u017cy Granicznej (wz\u00f3r)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 13\n-\nWz\u00f3r emblematu imiennego funkcjonariusza (wz\u00f3r)\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.239297Z",
+    "updated_at": "2026-10-03T16:33:13.239297Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 123,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 76,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-17T18:06:08.458889Z",
+  "updated_at": "2026-10-17T18:06:08.458889Z",
+  "draft_created_at": "2026-10-17T18:03:56.138084Z",
+  "lead_time": 142.507,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 123,
+  "parent_annotation": null,
+  "last_created_by": null
+}
