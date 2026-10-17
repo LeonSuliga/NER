@@ -1,6 +1,9 @@
+import csv
 import re
 import json
 from pathlib import Path
+
+metadata_regex_file = Path("data/processed/metadata_regex.csv")
 
 # Article references
 ART_PATTERN = re.compile(
@@ -872,7 +875,6 @@ def main():
     files = list(
         input_dir.glob("*.txt")
     )
-
     if not files:
         print("Nie znaleziono plików TXT.")
         return
@@ -899,6 +901,34 @@ def main():
             entities,
             output_path
         )
+
+        file_exists = metadata_regex_file.exists()
+        with open(
+            metadata_regex_file,
+            "a",
+            newline="",
+            encoding="utf-8"
+        ) as f:
+            fieldnames = [
+                "part",
+                "file_name",
+                "number_of_entities"
+            ]
+
+            writer = csv.DictWriter(
+                f,
+                fieldnames=fieldnames
+            )
+
+            if not file_exists:
+                writer.writeheader()
+                file_exists = True
+
+            writer.writerow({
+                "part": part,
+                "file_name": file_path.name,
+                "number_of_entities": len(entities)
+            })
 
         print(
             f"  znaleziono: {len(entities)} encji"
