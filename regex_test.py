@@ -125,6 +125,14 @@ DWE_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+# DZIENNIK URZĘDOWY UE Polskie wydanie specjalne
+DUE_PL_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.\s*UE\s+'
+    r'Polskie\s+wydanie\s+specjalne\b',
+    re.IGNORECASE
+)
+
+
 def add_entity(entities, start, end, text, label):
     """Append one Label Studio-compatible entity annotation."""
     entities.append(
@@ -346,6 +354,44 @@ def process_eu_publication(text, match):
 
     return entities
 
+def process_due_pl_publication(text, match):
+    
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.\s*UE\s+Polskie\s+wydanie\s+specjalne\b',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
 
 
 def find_references(text):
@@ -389,6 +435,13 @@ def find_references(text):
             )
         )
 
+    for match in DUE_PL_PATTERN.finditer(text):
+        entities.extend(
+            process_due_pl_publication(
+                text,
+                match
+            )
+        )
 
 
     # Process each reference family with its corresponding key and value pattern.
