@@ -1,0 +1,876 @@
+{
+  "id": 82,
+  "result": [
+    {
+      "value": {
+        "start": 494,
+        "end": 498,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "z42SGDRhw8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 499,
+        "end": 501,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ROlz-zuK93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 502,
+        "end": 506,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "600j0jenTn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 507,
+        "end": 508,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "xFeCDjBUja",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 509,
+        "end": 515,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "vAYLHe13IU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 516,
+        "end": 524,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "CoohwnmT-y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 624,
+        "end": 645,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Rspq2MGFSd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 646,
+        "end": 650,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "R4H_zirSY8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 872,
+        "end": 893,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bhPy214L9g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 894,
+        "end": 897,
+        "text": "406",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "wT2iPcTNRh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1047,
+        "end": 1058,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "NBiuk55aZS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1059,
+        "end": 1062,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jR-Zk8EiE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1232,
+        "end": 1236,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xFK2RYuU_F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1237,
+        "end": 1239,
+        "text": "84",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ExjqFRNduJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1350,
+        "end": 1361,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DVq-gkagQs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1362,
+        "end": 1365,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9QcciqOIFz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1495,
+        "end": 1499,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xEa5KiXtcX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1500,
+        "end": 1502,
+        "text": "65",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "J_cw2rsy8N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1503,
+        "end": 1507,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "tVFv2pSsms",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1508,
+        "end": 1509,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "btskfxQ2_t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1512,
+        "end": 1516,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dVZYYiaxL2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1517,
+        "end": 1519,
+        "text": "73",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "A3xq3xO781",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1520,
+        "end": 1524,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "aZ-tR2N7XJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1525,
+        "end": 1526,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9cEdVOInLg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1573,
+        "end": 1577,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "RP7t6vsWBL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1578,
+        "end": 1580,
+        "text": "47",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "QQw4NS7r8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1583,
+        "end": 1587,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "N_mLBHxSB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1588,
+        "end": 1590,
+        "text": "82",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "jQsKJzhQLB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3144,
+        "end": 3148,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qptUukMYig",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3149,
+        "end": 3150,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "p6L-uTAqL5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4115,
+        "end": 4119,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "kp9TZi_Loc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4120,
+        "end": 4122,
+        "text": "25",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "z41tPFu3-1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4233,
+        "end": 4244,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EMs8ph_lqY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4245,
+        "end": 4248,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "O0nEH5Q9d8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5020,
+        "end": 5024,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "BXJ_IZGYt5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5025,
+        "end": 5026,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hmbXqK5pFl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5364,
+        "end": 5368,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "8PPPqTePlI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5369,
+        "end": 5370,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "df-TrQfG8b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6684,
+        "end": 6688,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "bB7q4MDUz_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6689,
+        "end": 6690,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9o-idEiSV3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6691,
+        "end": 6692,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "s9A0ri8ZKJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7264,
+        "end": 7268,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ceHDxFst7p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7269,
+        "end": 7270,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-ASWjmAwzl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7440,
+        "end": 7444,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pmECmLWCKU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7445,
+        "end": 7446,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tfs8rT3_ph",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7818,
+        "end": 7822,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "tgnFPM3lER",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7823,
+        "end": 7824,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hxBL6WRGdv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8108,
+        "end": 8129,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "lBuu5Od5N0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8130,
+        "end": 8134,
+        "text": "1251",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "m2Em8w43oP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8136,
+        "end": 8140,
+        "text": "1429",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RKliYpPbyL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8143,
+        "end": 8147,
+        "text": "1672",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "nfelyhlBOZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8153,
+        "end": 8167,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "e_kVEWWKSX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8168,
+        "end": 8171,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "EuVjR3ovEr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8173,
+        "end": 8176,
+        "text": "858",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "paEn020XKS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8179,
+        "end": 8183,
+        "text": "1243",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "c2SBL4KGrP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 130,
+    "data": {
+      "text": "Obwieszczenie Marsza\u0142ka Sejmu Rzeczypospolitej Polskiej z dnia 11 wrze\u015bnia 2024 r. w sprawie og\u0142oszenia jednolitego tekstu ustawy o ekwiwalencie pieni\u0119\u017cnym z tytu\u0142u\nprawa do bezp\u0142atnego w\u0119gla dla os\u00f3b uprawnionych z przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity ustawy z dnia 6 lipca 2007 r. o ekwiwalencie pieni\u0119\u017cnym z tytu\u0142u prawa\ndo bezp\u0142atnego w\u0119gla dla os\u00f3b uprawnionych z przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych\ni niekt\u00f3rych innych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2007 r. o ekwiwalencie pieni\u0119\u017cnym z tytu\u0142u prawa do bezp\u0142atnego\nw\u0119gla dla os\u00f3b uprawnionych z przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych\n(Dz. U. z 2022 r. poz. 406), z uwzgl\u0119dnieniem zmiany wprowadzonej ustaw\u0105 z dnia 15 maja 2024 r. o zmianie niekt\u00f3rych ustaw zwi\u0105zanych z funkcjonowaniem\nadministracji rz\u0105dowej\n(Dz. U. poz. 834) oraz zmian wynikaj\u0105cych z przepis\u00f3w og\u0142oszonych przed dniem 10 wrze\u015bnia 2024 r.\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje\nart. 84 ustawy z dnia 15 maja 2024 r. o zmianie niekt\u00f3rych ustaw zwi\u0105zanych z funkcjonowaniem\nadministracji rz\u0105dowej\n(Dz. U. poz. 834), kt\u00f3ry stanowi:\n\u201eArt. 84.\nUstawa wchodzi w \u017cycie pierwszego dnia miesi\u0105ca nast\u0119puj\u0105cego po miesi\u0105cu og\u0142oszenia,\nz wyj\u0105tkiem:\n1)\nart. 65 ust. 2 i art. 73 ust. 2, kt\u00f3re wchodz\u0105 w \u017cycie z dniem og\u0142oszenia;\n2)\nart. 47 i art. 82, kt\u00f3re wchodz\u0105 w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity ustawy z dnia 6 lipca 2007 r. o ekwiwalencie pieni\u0119\u017cnym z tytu\u0142u prawa\ndo bezp\u0142atnego w\u0119gla dla os\u00f3b uprawnionych z przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych\nArt. 1.\nUstawa okre\u015bla zasady i spos\u00f3b realizacji uprawnienia do ekwiwalentu pieni\u0119\u017cnego z\ntytu\u0142u prawa do bezp\u0142atnego w\u0119gla, zwanego dalej \u201eekwiwalentem\u201d, przys\u0142uguj\u0105cego osobom\nuprawnionym z przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych od dnia 1 stycznia 2002 r.\nArt. 2.\nU\u017cyte w ustawie okre\u015blenia oznaczaj\u0105:\n1)\nosoby uprawnione - emeryt\u00f3w i rencist\u00f3w maj\u0105cych ustalone prawo do emerytury lub renty,\nkt\u00f3rzy pobierali bezp\u0142atny w\u0119giel w naturze od przedsi\u0119biorstw rob\u00f3t g\u00f3rniczych lub\nprzeszli na emerytur\u0119 lub rent\u0119 z tych przedsi\u0119biorstw oraz wdowy, wdowc\u00f3w i sieroty\nmaj\u0105cych ustalone prawo do renty rodzinnej po by\u0142ych pracownikach przedsi\u0119biorstw\nrob\u00f3t g\u00f3rniczych, uprawnionych do bezp\u0142atnego w\u0119gla na podstawie Uk\u0142adu Zbiorowego\nPracy dla pracownik\u00f3w zak\u0142ad\u00f3w g\u00f3rniczych z dnia 21 grudnia 1991 r., i kt\u00f3rzy uzyskali\nemerytur\u0119 lub rent\u0119 przed dniem 1 stycznia 2007 r., a po dniu 31 grudnia 2001 r. nie\npobierali ekwiwalentu;\n2)\nprzedsi\u0119biorstwo rob\u00f3t g\u00f3rniczych - przedsi\u0119biorc\u0119 prowadz\u0105cego roboty g\u00f3rnicze pod\nziemi\u0105 zwi\u0105zane z budow\u0105, utrzymaniem lub likwidacj\u0105 zak\u0142adu g\u00f3rniczego.\n3)\n(uchylony)\nArt. 3.\n1.\nEkwiwalent nie przys\u0142uguje osobom uprawnionym, kt\u00f3rych roszczenia z tytu\u0142u prawa do\nbezp\u0142atnego w\u0119gla zosta\u0142y zaspokojone przed dniem wej\u015bcia w \u017cycie ustawy.\n2.\nW przypadku gdy roszczenia, o kt\u00f3rych mowa w ust. 1, zosta\u0142y cz\u0119\u015bciowo zaspokojone\nekwiwalent przys\u0142uguje w cz\u0119\u015bci niezaspokojonego roszczenia.\nArt. 4.\n1.\nW razie zbiegu u jednej osoby uprawnionej prawa do ekwiwalent\u00f3w wyp\u0142aca si\u0119 jeden\nekwiwalent.\n2.\nW przypadku gdy prawo do ekwiwalentu przys\u0142uguje osobie uprawnionej do renty rodzinnej,\ndo kt\u00f3rej jest uprawnionych wi\u0119cej ni\u017c jedna osoba - wszystkim osobom do niej uprawnionym\nprzys\u0142uguje \u0142\u0105cznie jeden ekwiwalent. W razie podzia\u0142u renty rodzinnej ekwiwalent\nulega podzia\u0142owi w cz\u0119\u015bciach r\u00f3wnych, odpowiednio do liczby uprawnionych.\nArt. 5.\n1.\nWysoko\u015b\u0107 ekwiwalentu stanowi iloczyn ilo\u015bci w\u0119gla obj\u0119tego uprawnieniem, kt\u00f3ra nie\nmo\u017ce by\u0107 wy\u017csza ni\u017c 3 Mg w\u0119gla kamiennego rocznie i przeci\u0119tnej \u015bredniorocznej ceny\nzbytu 1 Mg w\u0119gla kamiennego w asortymencie Orzech.\n2.\nZa rok 2002 cen\u0119 zbytu 1 Mg w\u0119gla kamiennego w asortymencie Orzech II ustala si\u0119 na\npodstawie ceny zbytu 1 Mg w\u0119gla kamiennego w asortymencie Orzech II z roku 2006.\n3 1) Ze zmian\u0105 wprowadzon\u0105 przez art. 25 ustawy z dnia 15 maja 2024 r. o zmianie niekt\u00f3rych\nustaw zwi\u0105zanych z funkcjonowaniem administracji rz\u0105dowej (Dz. U. poz. 834), kt\u00f3ra\nwesz\u0142a w \u017cycie z dniem 1 lipca 2024 r..\nZa lata nast\u0119pne minister w\u0142a\u015bciwy do spraw gospodarki surowcami energetycznymi, w\nterminie do dnia 20 stycznia ka\u017cdego roku, ustala i og\u0142asza, w formie obwieszczenia,\nw Dzienniku Urz\u0119dowym Rzeczypospolitej Polskiej \u201eMonitor Polski\u201d, przeci\u0119tn\u0105 \u015brednioroczn\u0105\ncen\u0119 zbytu 1 Mg w\u0119gla kamiennego w asortymencie Orzech, z roku poprzedzaj\u0105cego rok,\nw kt\u00f3rym ekwiwalent ma by\u0107 wyp\u0142acany, skorygowan\u0105 o przewidywany wska\u017anik wzrostu\ncen towar\u00f3w i us\u0142ug konsumpcyjnych na rok planowany.\nArt. 6.\nW przypadku gdy prawo do emerytury lub renty powsta\u0142o w trakcie miesi\u0105ca, ekwiwalent\nwyp\u0142aca si\u0119 za pe\u0142ny miesi\u0105c.\nArt. 7.\n1.\nEkwiwalent wyp\u0142aca Zak\u0142ad Ubezpiecze\u0144 Spo\u0142ecznych, zwany dalej \u201eZUS\u201d, zgodnie z harmonogramem,\no kt\u00f3rym mowa w ust. 5, na wniosek osoby uprawnionej.\n2.\nWniosek o wyp\u0142at\u0119 ekwiwalentu zawiera:\n1)\nimi\u0119 i nazwisko osoby uprawnionej;\n2)\nnumer PESEL albo rodzaj i numer dokumentu to\u017csamo\u015bci obcokrajowca;\n3)\nadres zamieszkania osoby uprawnionej;\n4)\nnumer \u015bwiadczenia osoby uprawnionej;\n5)\nnazw\u0119 przedsi\u0119biorstwa rob\u00f3t g\u00f3rniczych.\n3.\nDo wniosku, o kt\u00f3rym mowa w ust. 2, nale\u017cy do\u0142\u0105czy\u0107 dokument potwierdzaj\u0105cy uprawnienie\ndo ekwiwalentu i okre\u015blaj\u0105cy jego wysoko\u015b\u0107 oraz o\u015bwiadczenie osoby uprawnionej o niepobieraniu\nw latach 2002-2007 lub za ich cz\u0119\u015b\u0107, ekwiwalentu lub bezp\u0142atnego w\u0119gla w naturze.\n4.\nWnioski o wyp\u0142at\u0119 ekwiwalentu zg\u0142asza si\u0119 do ko\u0144ca I kwarta\u0142u roku, w kt\u00f3rym ekwiwalent\nma zosta\u0107 wyp\u0142acony po raz pierwszy.\n5.\nEkwiwalent jest wyp\u0142acany wed\u0142ug nast\u0119puj\u0105cego harmonogramu:\n1)\nza rok 2002 - w 2007 r.;\n2)\nza rok 2003 - w 2008 r.;\n3)\nza lata 2004-2005 - w 2009 r.;\n4)\nza lata 2006-2007 - w 2010 r.;\n5)\nza lata 2008-2009 - w 2011 r.;\n6)\nza lata 2010-2011 - w 2012 r.;\n7)\nza lata 2012-2013 - w 2013 r.;\n8)\nza rok 2014 - w 2014 r.;\n9)\nza rok 2015 - w 2015 r.;\n10)\nza rok 2016 i kolejne lata - odpowiednio w danym roku.\n6.\nEkwiwalent jest wyp\u0142acany:\n1)\nza lata 2002-2009 - w terminie 2 miesi\u0119cy od dnia zg\u0142oszenia wniosku za dany okres;\n2)\nza lata 2010-2015 - w terminie do ko\u0144ca I kwarta\u0142u roku, w kt\u00f3rym ekwiwalent ma zosta\u0107\nwyp\u0142acony;\n2a)\nza rok 2016 i kolejne lata - w terminie do ko\u0144ca I kwarta\u0142u roku, w kt\u00f3rym ekwiwalent\nma zosta\u0107 wyp\u0142acony, odpowiednio za dany rok;\n3)\nw przypadku sk\u0142adania wniosku o wyp\u0142at\u0119 ekwiwalentu po raz pierwszy - w terminie 2\nmiesi\u0119cy od dnia zg\u0142oszenia wniosku.\n7.\nW przypadku wyp\u0142aty przez ZUS ekwiwalentu na wniosek, o kt\u00f3rym mowa w ust. 1-4, ekwiwalent\nw nast\u0119pnych latach wyp\u0142aca si\u0119 bez konieczno\u015bci z\u0142o\u017cenia kolejnych wniosk\u00f3w o jego\nwyp\u0142at\u0119.\nArt. 8.\n1.\nW razie \u015bmierci osoby uprawnionej, kt\u00f3ra zg\u0142osi\u0142a wniosek o wyp\u0142at\u0119 ekwiwalentu, nale\u017cny\njej ekwiwalent wyp\u0142aca si\u0119 ma\u0142\u017conkowi oraz dzieciom, z kt\u00f3rymi prowadzi\u0142a wsp\u00f3lne\ngospodarstwo domowe, a w razie ich braku - ma\u0142\u017conkowi i dzieciom, z kt\u00f3rymi osoba\nta nie prowadzi\u0142a wsp\u00f3lnego gospodarstwa domowego, a w razie ich braku - innym cz\u0142onkom\nrodziny uprawnionym do renty rodzinnej lub na kt\u00f3rych utrzymaniu pozostawa\u0142a ta osoba.\n2.\nOsoby, o kt\u00f3rych mowa w ust. 1, maj\u0105 prawo do udzia\u0142u w post\u0119powaniu o wyp\u0142at\u0119 ekwiwalentu,\nnieuko\u0144czonym wskutek \u015bmierci osoby, kt\u00f3ra wyst\u0105pi\u0142a o wyp\u0142at\u0119 ekwiwalentu.\n3.\nRoszczenia, o kt\u00f3rych mowa w ust. 1, wygasaj\u0105 po up\u0142ywie 12 miesi\u0119cy od dnia \u015bmierci\nosoby, kt\u00f3rej ekwiwalent przys\u0142ugiwa\u0142, chyba \u017ce przed up\u0142ywem tego okresu zg\u0142oszony\nzostanie wniosek o prowadzenie post\u0119powania w tym zakresie.\nArt. 9.\n1.\nDecyzj\u0119 w sprawie ekwiwalentu wydaje i ekwiwalent ten wyp\u0142aca jednostka organizacyjna\nZUS, kt\u00f3ra ustali\u0142a prawo do emerytury lub renty.\n2.\nOd decyzji, o kt\u00f3rej mowa w ust. 1, osobie uprawnionej przys\u0142uguje odwo\u0142anie do s\u0105du\nw\u0142a\u015bciwego w sprawach emerytur i rent.\nArt. 10.\n1.\nDo dochodzenia zwrotu nienale\u017cnie pobranego ekwiwalentu stosuje si\u0119 odpowiednio przepisy\nustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpiecze\u0144 Spo\u0142ecznych\n(Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834, 858 i 1243), dotycz\u0105ce dochodzenia zwrotu nienale\u017cnie pobranych \u015bwiadcze\u0144 z ubezpiecze\u0144 spo\u0142ecznych.\n2.\nZ ekwiwalentu nie dokonuje si\u0119 potr\u0105ce\u0144 i egzekucji.\nArt. 11.\n1.\nEkwiwalent oraz koszty zwi\u0105zane z obs\u0142ug\u0105 wyp\u0142aty ekwiwalentu s\u0105 finansowane ze \u015brodk\u00f3w\nbud\u017cetu pa\u0144stwa z cz\u0119\u015bci, kt\u00f3rej dysponentem jest Prezes ZUS.\n2.\n(uchylony)\n3.\n(uchylony)\n4.\n(uchylony)\n5.\n(uchylony)\nArt. 12.\n(uchylony)\nArt. 13.\nUstawa wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 2) Ustawa zosta\u0142a og\u0142oszona w dniu 14 sierpnia 2007 r.."
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.241364Z",
+    "updated_at": "2026-10-03T16:33:13.241364Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 130,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 83,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-17T18:21:48.306975Z",
+  "updated_at": "2026-10-17T18:21:48.306975Z",
+  "draft_created_at": "2026-10-17T18:21:18.100264Z",
+  "lead_time": 38.947,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 130,
+  "parent_annotation": null,
+  "last_created_by": null
+}

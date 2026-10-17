@@ -1,0 +1,651 @@
+{
+  "id": 97,
+  "result": [
+    {
+      "value": {
+        "start": 299,
+        "end": 300,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "BK_cKTs-Ka",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 301,
+        "end": 302,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "2bs78TrlNy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 303,
+        "end": 307,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "wHf8-0Q5e_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 308,
+        "end": 309,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "iTU1PcnMFQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 310,
+        "end": 313,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "kgDDD4AOTW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 314,
+        "end": 315,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "xhpxoIG9iI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 451,
+        "end": 462,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wycV4fqPXZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 463,
+        "end": 467,
+        "text": "2722",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "g8q8Glq_xY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 504,
+        "end": 508,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "tAA3Rb_Jwr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 509,
+        "end": 511,
+        "text": "35",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "CrSsNig2RU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 512,
+        "end": 516,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "skn-YdRW4i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 517,
+        "end": 518,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "yxjUpB34QZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 563,
+        "end": 584,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "fJiyFS-tgT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 585,
+        "end": 589,
+        "text": "1488",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "UYkf9C0Lb1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 798,
+        "end": 809,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "UAaWvHa7LV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 810,
+        "end": 814,
+        "text": "2171",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "C0fYcARy3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 816,
+        "end": 830,
+        "text": "z 2018 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Sv5bsEmPxy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 831,
+        "end": 835,
+        "text": "2338",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CNi8nH_mJ8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 837,
+        "end": 851,
+        "text": "z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Rkd9EPMA5H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 852,
+        "end": 856,
+        "text": "2394",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NUnLN3EGxo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 862,
+        "end": 876,
+        "text": "z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_aOUoWbXM4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 877,
+        "end": 881,
+        "text": "1608",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Q-mYzwuXda",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 922,
+        "end": 923,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "_ABqRbw9tY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 924,
+        "end": 926,
+        "text": "10",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "2qAFmqI5x6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 931,
+        "end": 935,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jrafN7uDuc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 936,
+        "end": 937,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mRxxH0GNMQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1249,
+        "end": 1253,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "HR5bc31niv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1254,
+        "end": 1256,
+        "text": "35",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "lD8cYSxW7X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1257,
+        "end": 1261,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lPHgBusiUB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1262,
+        "end": 1263,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "5Gyy-VTJ4N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5726,
+        "end": 5730,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "wFSOLgKLx1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5731,
+        "end": 5732,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mcK7_rBnP6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5806,
+        "end": 5807,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nkXebrgIiD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5808,
+        "end": 5810,
+        "text": "11",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "k7AsK-suxl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5813,
+        "end": 5817,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qPT_oFmhUG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5818,
+        "end": 5819,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Ob9OWqjpM-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5893,
+        "end": 5894,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "fcLlOos5zv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5895,
+        "end": 5897,
+        "text": "12",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "v-0MscQcOC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6248,
+        "end": 6249,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "6YTGSsye9k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6250,
+        "end": 6251,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "j7kaqqNyUB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 146,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Sportu i Turystyki z dnia 20 grudnia 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie odznak, wyr\u00f3\u017cnie\u0144 oraz nagr\u00f3d pieni\u0119\u017cnych za\nosi\u0105gni\u0119cia w dzia\u0142alno\u015bci w zakresie sportu 1) Minister Sportu i Turystyki kieruje dzia\u0142em administracji rz\u0105dowej - kultura fizyczna,\nna podstawie \u00a7 1 ust. 2 pkt 1 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Sportu i Turystyki (Dz.\nU. poz. 2722).\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 35 ust. 4 ustawy z dnia 25 czerwca 2010 r. o sporcie\n(Dz. U. z 2024 r. poz. 1488) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Sportu i Turystyki z dnia 16 listopada 2017 r. w sprawie odznak,\nwyr\u00f3\u017cnie\u0144 oraz nagr\u00f3d pieni\u0119\u017cnych za osi\u0105gni\u0119cia w dzia\u0142alno\u015bci w zakresie sportu\n(Dz. U. poz. 2171, z 2018 r. poz. 2338, z 2020 r. poz. 2394 oraz z 2021 r. poz. 1608) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\n1)\nw \u00a7 10:\na)\nust. 2 otrzymuje brzmienie:\n\u201e2.\nTrener prowadz\u0105cy szkolenie lub uczestnicz\u0105cy w szkoleniu mo\u017ce otrzyma\u0107 nagrod\u0119, je\u017celi\njego zawodnik, zesp\u00f3\u0142, sztafeta, osada lub dru\u017cyna zaj\u0119li:\n1)\n1. miejsce na igrzyskach olimpijskich, igrzyskach paralimpijskich lub igrzyskach g\u0142uchych\n- do 5,82\u2011krotno\u015bci podstawy, o kt\u00f3rej mowa w art. 35 ust. 3 ustawy z dnia 25 czerwca 2010 r. o sporcie, zwanej dalej \u201epodstaw\u0105\u201d;\n2)\n2. miejsce na igrzyskach olimpijskich, igrzyskach paralimpijskich lub igrzyskach g\u0142uchych\n- do 4,66\u2011krotno\u015bci podstawy;\n3)\n3. miejsce na igrzyskach olimpijskich, igrzyskach paralimpijskich lub igrzyskach g\u0142uchych\n- do 3,96\u2011krotno\u015bci podstawy;\n4)\n1. miejsce na mistrzostwach \u015bwiata senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk\nolimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych - do 3,19\u2011krotno\u015bci podstawy;\n5)\n2. miejsce na mistrzostwach \u015bwiata senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk\nolimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych - do 2,66\u2011krotno\u015bci podstawy;\n6)\n3. miejsce na mistrzostwach \u015bwiata senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk\nolimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych albo pierwsze miejsce na\nmistrzostwach Europy senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych - do 2,13\u2011krotno\u015bci podstawy;\n7)\n2. miejsce na mistrzostwach Europy senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk\nolimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych - do 1,60\u2011krotno\u015bci podstawy;\n8)\n3. miejsce na mistrzostwach Europy senior\u00f3w w konkurencjach obj\u0119tych programem igrzysk\nolimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych lub pierwsze miejsce na\nm\u0142odzie\u017cowych mistrzostwach \u015bwiata w konkurencjach obj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych - do 1,33\u2011krotno\u015bci podstawy;\n9)\n1. miejsce na uniwersjadzie letniej lub zimowej albo pierwsze miejsce na mistrzostwach\n\u015bwiata junior\u00f3w w konkurencjach obj\u0119tych programem igrzysk olimpijskich, igrzysk paralimpijskich\nlub igrzysk g\u0142uchych, lub drugie miejsce na m\u0142odzie\u017cowych mistrzostwach \u015bwiata, lub\npierwsze miejsce na m\u0142odzie\u017cowych mistrzostwach Europy w konkurencjach obj\u0119tych programem\nigrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych, lub pierwsze miejsce\nna mistrzostwach \u015bwiata senior\u00f3w w konkurencjach nieobj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych - do 1,06\u2011krotno\u015bci podstawy;\n10)\n2. miejsce na uniwersjadzie letniej lub zimowej lub drugie miejsce na mistrzostwach\n\u015bwiata junior\u00f3w w konkurencjach obj\u0119tych programem igrzysk olimpijskich, igrzysk paralimpijskich\nlub igrzysk g\u0142uchych, lub trzecie miejsce na m\u0142odzie\u017cowych mistrzostwach \u015bwiata w\nkonkurencjach obj\u0119tych programem igrzysk olimpijskich, igrzysk paralimpijskich lub\nigrzysk g\u0142uchych, lub drugie miejsce na m\u0142odzie\u017cowych mistrzostwach Europy w konkurencjach\nobj\u0119tych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych,\nlub pierwsze miejsce na mistrzostwach Europy junior\u00f3w w konkurencjach obj\u0119tych programem\nigrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych, lub drugie miejsce\nna mistrzostwach \u015bwiata senior\u00f3w w konkurencjach nieobj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych, lub pierwsze miejsce na mistrzostwach\nEuropy senior\u00f3w w konkurencjach nieobj\u0119tych programem igrzysk olimpijskich, igrzysk\nparalimpijskich lub igrzysk g\u0142uchych, lub pierwsze miejsce na akademickich mistrzostwach\n\u015bwiata - do 0,80\u2011krotno\u015bci podstawy;\n11)\n3. miejsce na uniwersjadzie letniej lub zimowej albo trzecie miejsce na mistrzostwach\n\u015bwiata junior\u00f3w w konkurencjach obj\u0119tych programem igrzysk olimpijskich, igrzysk paralimpijskich\nlub igrzysk g\u0142uchych, lub trzecie miejsce na m\u0142odzie\u017cowych mistrzostwach Europy, lub\ndrugie miejsce na mistrzostwach Europy junior\u00f3w w konkurencjach obj\u0119tych programem\nigrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych, lub trzecie miejsce\nna mistrzostwach \u015bwiata senior\u00f3w w konkurencjach nieobj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych, lub drugie miejsce na mistrzostwach\nEuropy senior\u00f3w w konkurencjach nieobj\u0119tych programem igrzysk olimpijskich, igrzysk\nparalimpijskich lub igrzysk g\u0142uchych, lub drugie miejsce na akademickich mistrzostwach\n\u015bwiata - do 0,53 krotno\u015bci podstawy;\n12)\n3. miejsce na mistrzostwach Europy senior\u00f3w w konkurencjach nieobj\u0119tych programem\nigrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk g\u0142uchych lub trzecie miejsce\nna mistrzostwach Europy junior\u00f3w w konkurencjach obj\u0119tych programem igrzysk olimpijskich,\nigrzysk paralimpijskich lub igrzysk g\u0142uchych, lub trzecie miejsce na akademickich\nmistrzostwach \u015bwiata - do 0,40 podstawy.\u201d,\nb)\nu\u017cyty w ust. 5 wyraz \u201e3,5-krotno\u015bci\u201d zast\u0119puje si\u0119 wyrazem \u201e1,86-krotno\u015bci\u201d;\n2)\nu\u017cyty w \u00a7 11 w ust. 3 wyraz \u201e4,5-krotno\u015bci\u201d zast\u0119puje si\u0119 wyrazem \u201e2,40\u2011krotno\u015bci\u201d;\n3)\nu\u017cyte w \u00a7 12 wyrazy \u201edo wysoko\u015bci podstawy\u201d zast\u0119puje si\u0119 wyrazami \u201ew wysoko\u015bci do 0,53-krotno\u015bci podstawy\u201d.\n\u00a7 2.\nDo spraw dotycz\u0105cych wniosk\u00f3w o przyznanie nagr\u00f3d pieni\u0119\u017cnych na podstawie wynik\u00f3w\nsportowych uprawniaj\u0105cych do nagrody pieni\u0119\u017cnej osi\u0105gni\u0119tych przed dniem wej\u015bcia w\n\u017cycie niniejszego rozporz\u0105dzenia stosuje si\u0119 przepisy rozporz\u0105dzenia zmienianego w\n\u00a7 1 w brzmieniu nadanym niniejszym rozporz\u0105dzeniem.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2025 r."
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.248865Z",
+    "updated_at": "2026-10-03T16:33:13.248865Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 146,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 99,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-17T19:46:02.295932Z",
+  "updated_at": "2026-10-17T19:46:02.295932Z",
+  "draft_created_at": "2026-10-17T19:45:56.665571Z",
+  "lead_time": 13.123,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 146,
+  "parent_annotation": null,
+  "last_created_by": null
+}

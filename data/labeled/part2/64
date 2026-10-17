@@ -1,0 +1,1491 @@
+{
+  "id": 64,
+  "result": [
+    {
+      "value": {
+        "start": 1408,
+        "end": 1412,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "PYKhNFmKx4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1413,
+        "end": 1415,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "AG_kxRajWz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1416,
+        "end": 1420,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "2C4izIGzL5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1421,
+        "end": 1422,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ahWjcfy81H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1522,
+        "end": 1543,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "GclhpV04_U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1544,
+        "end": 1548,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "YA7iFfLt0t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2001,
+        "end": 2022,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "mPK4BNTvvJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2023,
+        "end": 2027,
+        "text": "1888",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "TiJDPvLOpc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2483,
+        "end": 2494,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "aIM_dQNhwA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2495,
+        "end": 2499,
+        "text": "2355",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "heHjO_SxJ1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2917,
+        "end": 2928,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wXiadrkhp_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2929,
+        "end": 2933,
+        "text": "2449",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LWDZZ9U7B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3351,
+        "end": 3362,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Yj7uBUPpji",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3363,
+        "end": 3367,
+        "text": "2789",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "l_fPlU3gmY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3784,
+        "end": 3795,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "deM_QiGRu7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3796,
+        "end": 3800,
+        "text": "1117",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0k_Z6EpL9j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4220,
+        "end": 4231,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_JpzM3ImK1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4232,
+        "end": 4236,
+        "text": "2611",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5DXNJ6czjA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4652,
+        "end": 4663,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "FpS3au133M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4664,
+        "end": 4667,
+        "text": "471",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PiEpciuy1k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4770,
+        "end": 4771,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "1ogm3ao98V",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4772,
+        "end": 4773,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "e8HeBy9Nk2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5186,
+        "end": 5197,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "F60Z3qjOEh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5198,
+        "end": 5202,
+        "text": "2355",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "y0z-2IT5Dm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5289,
+        "end": 5290,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "rN4ycOpJFI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5291,
+        "end": 5292,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "X1Z-K8mWp4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5705,
+        "end": 5716,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "afxhb-hvqz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5717,
+        "end": 5721,
+        "text": "2449",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "wsqyD5e9PZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5808,
+        "end": 5809,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "SSYiqwvJCb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5810,
+        "end": 5811,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "NywY0tE02l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6224,
+        "end": 6235,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "KnjxqJbqs9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6236,
+        "end": 6240,
+        "text": "2789",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "W4bzgPpKdC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6327,
+        "end": 6328,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "wMl7TaO96i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6329,
+        "end": 6330,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "I6LlnOBlzZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6742,
+        "end": 6753,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vqkxruCgF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6754,
+        "end": 6758,
+        "text": "1117",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "K2CFYHO0BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6842,
+        "end": 6843,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "h1XW4-Cyjl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6844,
+        "end": 6845,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OOl3wxQuog",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7260,
+        "end": 7271,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "AQtzQy4-Rn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7272,
+        "end": 7276,
+        "text": "2611",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "URc-AoO2a2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7363,
+        "end": 7364,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "L54NBFSUWp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7365,
+        "end": 7366,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "CUOrIPfEBI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7777,
+        "end": 7788,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "KxyFxTPh23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7789,
+        "end": 7792,
+        "text": "471",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ViNV1JjEeZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8329,
+        "end": 8333,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1NbCycSWur",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8334,
+        "end": 8336,
+        "text": "28",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "NRhL04A3KF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8411,
+        "end": 8432,
+        "text": "Dz. U. z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kpFIFCyixv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8433,
+        "end": 8437,
+        "text": "2492",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "bryOhRuQTX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8443,
+        "end": 8457,
+        "text": "z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wQ4nmXOVWg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8458,
+        "end": 8462,
+        "text": "1615",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iixqxEdKlZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11520,
+        "end": 11524,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "d1d_-vNnt4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11525,
+        "end": 11526,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "m99WAk-dYL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11527,
+        "end": 11530,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "vuFcbBKW6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11531,
+        "end": 11532,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "b2RU9fJk4c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14042,
+        "end": 14043,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "DkXpyeN0nN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14044,
+        "end": 14045,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "L42g9SW7Q8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14046,
+        "end": 14049,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "aMclajHFqW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14050,
+        "end": 14051,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "i8z9twcpsg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14464,
+        "end": 14475,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "OC1LZ7__cm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14476,
+        "end": 14480,
+        "text": "2789",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DypokT6kfJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14560,
+        "end": 14561,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "41xRdkCKrO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14562,
+        "end": 14563,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bkshXGEfCV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14564,
+        "end": 14567,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "or69luNDVo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14568,
+        "end": 14569,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ryAnVD0U9q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14984,
+        "end": 14995,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Yto5DOxyCV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14996,
+        "end": 15000,
+        "text": "2611",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hS2XWFsHFT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18878,
+        "end": 18879,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "HFigUIwOO6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18880,
+        "end": 18882,
+        "text": "12",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "9zOeg9mq0N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19137,
+        "end": 19141,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "om3jRqGRzy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19142,
+        "end": 19143,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1NnLBI-iJO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19607,
+        "end": 19611,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Axox9uv5vV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19612,
+        "end": 19615,
+        "text": "151",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "IgP7hwJ5Z9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19618,
+        "end": 19619,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "QXqgNasA3l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19620,
+        "end": 19621,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "RkYgcgUVqX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19671,
+        "end": 19692,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "1SqkOKxVUU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19693,
+        "end": 19697,
+        "text": "1465",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jlWtevFLj2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20162,
+        "end": 20163,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "OHbpUMIRWG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20164,
+        "end": 20166,
+        "text": "10",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Qo2yfdbrhA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20168,
+        "end": 20170,
+        "text": "11",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "CtfBWCPgAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20173,
+        "end": 20175,
+        "text": "13",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "VcZOFMJn2l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20454,
+        "end": 20458,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "RLv2F0RVsI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20459,
+        "end": 20460,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "dbDIhXSUiS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20955,
+        "end": 20959,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "0eceqWKlYK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20960,
+        "end": 20961,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2vcQ07kng8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22228,
+        "end": 22239,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-WIhc03w0d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22240,
+        "end": 22244,
+        "text": "1647",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SoilenMJIV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22481,
+        "end": 22492,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "t9AZz9FLmQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22493,
+        "end": 22496,
+        "text": "196",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "-9EYPMv3GG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26316,
+        "end": 26317,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "gVzGMJ-oOB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26318,
+        "end": 26319,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "xAthTiM4ul",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26730,
+        "end": 26741,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "hNBBZ1_4eG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26742,
+        "end": 26745,
+        "text": "471",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "28foZfxDrZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27220,
+        "end": 27221,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "G4XpDwHSkG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27222,
+        "end": 27223,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "diMGg-ZQrY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27634,
+        "end": 27645,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "649qndLTWu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 27646,
+        "end": 27649,
+        "text": "471",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "pCmLE3klPx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 111,
+    "data": {
+      "text": "Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 maja 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Prezydenta Rzeczypospolitej\nPolskiej w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych\npracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 marca 2011 r. w sprawie\nstanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz\nszczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych,\nasystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nZa\u0142\u0105cznik nr 1 - Tabela stanowisk, zaszeregowa\u0144 i kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nZa\u0142\u0105cznik nr 2 - Tabela zaszeregowa\u0144 asystent\u00f3w s\u0119dzi\u00f3w i starszych asystent\u00f3w s\u0119dzi\u00f3w\nZa\u0142\u0105cznik nr 3 - Tabela miesi\u0119cznych stawek wynagrodzenia zasadniczego asystent\u00f3w s\u0119dzi\u00f3w, starszych\nasystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nZa\u0142\u0105cznik nr 4 - Tabela stawek dodatku funkcyjnego\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 marca 2011 r. w sprawie\nstanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz\nszczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych,\nasystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. z 2020 r. poz. 1888), z uwzgl\u0119dnieniem zmian wprowadzonych:\n1)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 17 grudnia 2020 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2355);\n2)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 27 grudnia 2021 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2449);\n3)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 2022 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2789);\n4)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 5 czerwca 2023 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 1117);\n5)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 27 listopada 2023 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2611);\n6)\nrozporz\u0105dzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 25 marca 2024 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 471).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje:\n1)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 17 grudnia 2020 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2355), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2021 r.\u201d;\n2)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 27 grudnia 2021 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2449), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2022 r.\u201d;\n3)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 2022 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2789), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2023 r.\u201d;\n4)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 5 czerwca 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 1117), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 lipca 2023 r.\u201d;\n5)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 27 listopada 2023 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 2611), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2024 r.\u201d;\n6)\n\u00a7 2 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 25 marca 2024 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i\ninnych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych\nreferendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w\noraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 471), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia, z moc\u0105 od\ndnia 1 stycznia 2024 r.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 marca 2011 r. w sprawie\nstanowisk i wymaganych kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz\nszczeg\u00f3\u0142owych zasad wynagradzania referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych,\nasystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nNa podstawie art. 28 ustawy z dnia 25 lipca 2002 r. - Prawo o ustroju s\u0105d\u00f3w administracyjnych\n(Dz. U. z 2022 r. poz. 2492 oraz z 2023 r. poz. 1615) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nstanowiska urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\noraz kwalifikacje wymagane do zajmowania tych stanowisk;\n2)\nszczeg\u00f3\u0142owe zasady wynagradzania referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych,\nasystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych;\n3)\ntabele wynagrodzenia zasadniczego oraz wysoko\u015b\u0107 dodatk\u00f3w z tytu\u0142u zajmowanych stanowisk\nlub pe\u0142nionej funkcji referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w\ns\u0119dzi\u00f3w, starszych asystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich\ns\u0105d\u00f3w administracyjnych.\n\u00a7 2.\nUstala si\u0119:\n1)\ntabel\u0119 stanowisk, zaszeregowa\u0144 i kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych, stanowi\u0105c\u0105 za\u0142\u0105cznik nr 1 do rozporz\u0105dzenia;\n2)\ntabel\u0119 zaszeregowa\u0144 asystent\u00f3w s\u0119dzi\u00f3w i starszych asystent\u00f3w s\u0119dzi\u00f3w, stanowi\u0105c\u0105\nza\u0142\u0105cznik nr 2 do rozporz\u0105dzenia;\n3)\ntabel\u0119 miesi\u0119cznych stawek wynagrodzenia zasadniczego asystent\u00f3w s\u0119dzi\u00f3w, starszych\nasystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych,\nstanowi\u0105c\u0105 za\u0142\u0105cznik nr 3 do rozporz\u0105dzenia;\n4)\ntabel\u0119 stawek dodatku z tytu\u0142u zajmowanego stanowiska lub pe\u0142nionej funkcji urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych, zwanego dalej\n\u201edodatkiem funkcyjnym\u201d, stanowi\u0105c\u0105 za\u0142\u0105cznik nr 4 do rozporz\u0105dzenia.\n\u00a7 3.\nPrzez u\u017cyte w niniejszym rozporz\u0105dzeniu okre\u015blenie \u201enajni\u017csze wynagrodzenie zasadnicze\u201d\nnale\u017cy rozumie\u0107 najni\u017csze wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania,\nustalone w tabeli miesi\u0119cznych stawek wynagrodzenia zasadniczego, stanowi\u0105cej za\u0142\u0105cznik\nnr 3 do rozporz\u0105dzenia.\n\u00a7 4.\n1.\nWynagrodzenie zasadnicze referendarza s\u0105dowego wynosi:\n1)\n75 % wynagrodzenia zasadniczego w stawce pierwszej s\u0119dziego s\u0105du rejonowego, powi\u0119kszonego\no nale\u017cn\u0105 sk\u0142adk\u0119 z tytu\u0142u ubezpieczenia spo\u0142ecznego;\n2)\npo siedmiu latach pracy na stanowisku referendarza s\u0105dowego wynagrodzenie zasadnicze\npodwy\u017csza si\u0119 do wysoko\u015bci 75 % wynagrodzenia zasadniczego s\u0119dziego s\u0105du rejonowego\nw stawce drugiej, powi\u0119kszonego o nale\u017cn\u0105 sk\u0142adk\u0119 z tytu\u0142u ubezpieczenia spo\u0142ecznego;\n3)\npo dalszych siedmiu latach pracy na stanowisku referendarza s\u0105dowego wynagrodzenie\nzasadnicze podwy\u017csza si\u0119 do wysoko\u015bci 75 % wynagrodzenia zasadniczego s\u0119dziego s\u0105du\nrejonowego w stawce trzeciej, powi\u0119kszonego o nale\u017cn\u0105 sk\u0142adk\u0119 z tytu\u0142u ubezpieczenia\nspo\u0142ecznego.\n2.\nWynagrodzenie zasadnicze starszego referendarza s\u0105dowego wynosi:\n1)\n85 % wynagrodzenia zasadniczego s\u0119dziego s\u0105du rejonowego w stawce drugiej, powi\u0119kszonego\no nale\u017cn\u0105 sk\u0142adk\u0119 z tytu\u0142u ubezpieczenia spo\u0142ecznego;\n2)\npo siedmiu latach pracy na stanowisku starszego referendarza s\u0105dowego wynagrodzenie\nzasadnicze podwy\u017csza si\u0119 do wysoko\u015bci 85 % wynagrodzenia zasadniczego s\u0119dziego s\u0105du\nrejonowego w stawce trzeciej, powi\u0119kszonego o nale\u017cn\u0105 sk\u0142adk\u0119 z tytu\u0142u ubezpieczenia\nspo\u0142ecznego.\n3.\nDo okresu pracy, o kt\u00f3rym mowa w ust. 1 pkt 2, zalicza si\u0119 okres pozostawania na stanowiskach\nzwi\u0105zanych ze stosowaniem lub tworzeniem prawa administracyjnego, przed mianowaniem\nna stanowisko referendarza s\u0105dowego.\n\u00a7 5.\nNa stanowiskach okre\u015blonych w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia - tabela A, z wyj\u0105tkiem\nreferenta -sta\u017cysty, s\u0105 zatrudniani urz\u0119dnicy s\u0105dowi.\n\u00a7 6.\nUrz\u0119dnik s\u0105dowy wojew\u00f3dzkiego s\u0105du administracyjnego, kt\u00f3ry wykonuje dodatkowe zadania\nzwi\u0105zane z organizowaniem zaj\u0119\u0107 wchodz\u0105cych w zakres sta\u017cu urz\u0119dniczego, w okresie\nwykonywania tych zada\u0144 otrzymuje dodatkowe wynagrodzenie w wysoko\u015bci 15 % wynagrodzenia\nzasadniczego miesi\u0119cznie. W przypadku gdy sta\u017c urz\u0119dniczy odbywa r\u00f3wnocze\u015bnie wi\u0119cej\nni\u017c 12 sta\u017cyst\u00f3w, prezes wojew\u00f3dzkiego s\u0105du administracyjnego mo\u017ce zwolni\u0107 tego urz\u0119dnika\nod innych obowi\u0105zk\u00f3w s\u0142u\u017cbowych i powierzy\u0107 mu jedynie kierowanie sta\u017cem, bez dodatkowego\nwynagrodzenia.\n\u00a7 7.\nPrezes wojew\u00f3dzkiego s\u0105du administracyjnego mo\u017ce, w szczeg\u00f3lnie uzasadnionych przypadkach,\nskr\u00f3ci\u0107 okres pracy zawodowej wymagany od urz\u0119dnik\u00f3w s\u0105dowych lub innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych do zaj\u0119cia danego stanowiska, z wy\u0142\u0105czeniem stanowisk,\ndla kt\u00f3rych wymagany okres pracy zawodowej okre\u015blaj\u0105 odr\u0119bne przepisy.\n\u00a7 8.\n1.\nUrz\u0119dnikom s\u0105dowym i innym pracownikom wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych zatrudnionym\nna stanowiskach zwi\u0105zanych z kierowaniem zespo\u0142em pracownik\u00f3w oraz radcy prawnemu\nprzys\u0142uguje dodatek funkcyjny.\n2.\nDodatek funkcyjny przys\u0142uguje r\u00f3wnie\u017c urz\u0119dnikom s\u0105dowym lub innym pracownikom wojew\u00f3dzkich\ns\u0105d\u00f3w administracyjnych zatrudnionym na samodzielnych stanowiskach niezwi\u0105zanych z\nkierowaniem zespo\u0142em, dla kt\u00f3rych w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia przewiduje si\u0119\ndodatek funkcyjny.\n3.\nReferendarzowi s\u0105dowemu przys\u0142uguje dodatek funkcyjny w stawce 6 okre\u015blonej w za\u0142\u0105czniku\nnr 4 do rozporz\u0105dzenia.\n4.\nStarszemu referendarzowi s\u0105dowemu przys\u0142uguje dodatek funkcyjny w stawce 7 okre\u015blonej\nw za\u0142\u0105czniku nr 4 do rozporz\u0105dzenia.\n\u00a7 9.\n1.\nZ tytu\u0142u okresowego zwi\u0119kszenia obowi\u0105zk\u00f3w s\u0142u\u017cbowych lub powierzenia zada\u0144 zwi\u0105zanych\nz wysokim stopniem odpowiedzialno\u015bci prezes wojew\u00f3dzkiego s\u0105du administracyjnego mo\u017ce\nprzyzna\u0107 asystentom s\u0119dzi\u00f3w, starszym asystentom s\u0119dzi\u00f3w oraz urz\u0119dnikom s\u0105dowym wojew\u00f3dzkich\ns\u0105d\u00f3w administracyjnych, dodatek specjalny na czas okre\u015blony.\n2.\nDodatek specjalny jest wyp\u0142acany w ramach przyznanych danemu wojew\u00f3dzkiemu s\u0105dowi\nadministracyjnemu \u015brodk\u00f3w na wynagrodzenia, w kwocie nieprzekraczaj\u0105cej 40 % sumy\nwynagrodzenia zasadniczego i dodatku funkcyjnego.\n3 1) Dodany przez \u00a7 1 pkt 1 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia\n21 grudnia 2022 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji\nurz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych (Dz.\nU. poz. 2789), kt\u00f3re wesz\u0142o w \u017cycie z dniem 1 stycznia 2023 r.; w brzmieniu ustalonym\nprzez \u00a7 1 pkt 1 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej z dnia 27 listopada\n2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych kwalifikacji\nurz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych asystent\u00f3w\ns\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych (Dz.\nU. poz. 2611), kt\u00f3re wesz\u0142o w \u017cycie z dniem 1 stycznia 2024 r..\nAsystentowi s\u0119dziego, starszemu asystentowi s\u0119dziego, urz\u0119dnikowi s\u0105dowemu oraz innemu\npracownikowi wojew\u00f3dzkiego s\u0105du administracyjnego zatrudnionemu w s\u0105dzie, kt\u00f3rego\nsiedziba znajduje si\u0119 na obszarze m.st. Warszawy, \u015bwiadcz\u0105cemu prac\u0119 na obszarze m.st.\nWarszawy mo\u017ce, w ramach posiadanych \u015brodk\u00f3w na wynagrodzenia, zosta\u0107 przyznany na\nczas okre\u015blony r\u00f3wnie\u017c sto\u0142eczny dodatek specjalny w wysoko\u015bci nieprzekraczaj\u0105cej\n25 % wynagrodzenia zasadniczego i dodatku z tytu\u0142u zajmowanego stanowiska lub pe\u0142nionej\nfunkcji \u0142\u0105cznie.\n\u00a7 10.\n1.\nDo okres\u00f3w pracy uprawniaj\u0105cych do dodatku za wieloletni\u0105 prac\u0119, zwanego dalej \u201edodatkiem\nza wys\u0142ug\u0119 lat\u201d, wlicza si\u0119 wszystkie poprzednio zako\u0144czone okresy zatrudnienia oraz\ninne okresy, kt\u00f3re na podstawie odr\u0119bnych przepis\u00f3w podlegaj\u0105 wliczeniu do okresu\npracy, od kt\u00f3rego zale\u017c\u0105 uprawnienia pracownicze.\n2.\nW przypadku r\u00f3wnoczesnego pozostawania w wi\u0119cej ni\u017c jednym stosunku pracy, do okresu\npracy uprawniaj\u0105cego do dodatku za wieloletni\u0105 prac\u0119 wlicza si\u0119 tylko jeden z tych\nokres\u00f3w.\n3.\nDodatek za wieloletni\u0105 prac\u0119 przys\u0142uguje urz\u0119dnikowi s\u0105dowemu i innemu pracownikowi\nwojew\u00f3dzkiego s\u0105du administracyjnego za dni, za kt\u00f3re otrzymuje wynagrodzenie, oraz\nza dni nieobecno\u015bci w pracy z powodu niezdolno\u015bci do pracy wskutek choroby albo konieczno\u015bci\nosobistego sprawowania opieki nad dzieckiem lub chorym cz\u0142onkiem rodziny, za kt\u00f3re\nurz\u0119dnik lub inny pracownik otrzymuje z tego tytu\u0142u zasi\u0142ek z ubezpieczenia spo\u0142ecznego.\n4.\nDodatek za wieloletni\u0105 prac\u0119 jest wyp\u0142acany w terminie wyp\u0142aty wynagrodzenia, pocz\u0105wszy\nod pierwszego dnia miesi\u0105ca kalendarzowego nast\u0119puj\u0105cego po miesi\u0105cu, w kt\u00f3rym urz\u0119dnik\ns\u0105dowy lub inny pracownik wojew\u00f3dzkiego s\u0105du administracyjnego naby\u0142 prawo do dodatku\nlub do wy\u017cszej jego stawki.\n\u00a7 11.\n1.\nDo okresu pracy uprawniaj\u0105cego do nagrody jubileuszowej wlicza si\u0119 wszystkie poprzednio\nzako\u0144czone okresy zatrudnienia oraz inne okresy, kt\u00f3re na podstawie odr\u0119bnych przepis\u00f3w\npodlegaj\u0105 wliczeniu do okresu pracy, od kt\u00f3rego zale\u017c\u0105 uprawnienia pracownicze.\n2.\nW razie r\u00f3wnoczesnego pozostawania w wi\u0119cej ni\u017c jednym stosunku pracy do okresu pracy\nuprawniaj\u0105cego do nagrody jubileuszowej wlicza si\u0119 jeden z tych okres\u00f3w.\n3.\nUrz\u0119dnik s\u0105dowy i inny pracownik wojew\u00f3dzkiego s\u0105du administracyjnego nabywa prawo\ndo nagrody jubileuszowej w dniu up\u0142ywu okresu uprawniaj\u0105cego do tej nagrody albo w\ndniu wej\u015bcia w \u017cycie przepis\u00f3w wprowadzaj\u0105cych nagrod\u0119 jubileuszow\u0105.\n4.\nUrz\u0119dnik s\u0105dowy i inny pracownik wojew\u00f3dzkiego s\u0105du administracyjnego jest obowi\u0105zany\nudokumentowa\u0107 swoje prawo do nagrody jubileuszowej, je\u017celi w jego aktach osobowych\nbrak jest odpowiedniej dokumentacji.\n5.\nWyp\u0142ata nagrody jubileuszowej powinna nast\u0105pi\u0107 niezw\u0142ocznie po nabyciu przez urz\u0119dnika\ns\u0105dowego lub innego pracownika prawa do tej nagrody.\n6.\nPodstaw\u0119 obliczenia nagrody jubileuszowej stanowi wynagrodzenie przys\u0142uguj\u0105ce urz\u0119dnikowi\ns\u0105dowemu lub innemu pracownikowi wojew\u00f3dzkiego s\u0105du administracyjnego w dniu nabycia\nprawa do nagrody, a je\u017celi dla pracownika jest to korzystniejsze - wynagrodzenie przys\u0142uguj\u0105ce\nmu w dniu jej wyp\u0142aty. Je\u017celi urz\u0119dnik s\u0105dowy lub inny pracownik wojew\u00f3dzkiego s\u0105du\nadministracyjnego naby\u0142 prawo do nagrody, b\u0119d\u0105c zatrudnionym w innym wymiarze czasu\npracy ni\u017c w dniu jej wyp\u0142aty, podstaw\u0119 obliczenia nagrody stanowi wynagrodzenie przys\u0142uguj\u0105ce\nmu w dniu nabycia prawa do nagrody. Nagrod\u0119 oblicza si\u0119 wed\u0142ug zasad obowi\u0105zuj\u0105cych\nprzy ustalaniu ekwiwalentu pieni\u0119\u017cnego za urlop wypoczynkowy.\n7.\nZ chwil\u0105 ustania stosunku pracy w zwi\u0105zku z przej\u015bciem na rent\u0119 z tytu\u0142u niezdolno\u015bci\ndo pracy lub emerytur\u0119, urz\u0119dnikowi s\u0105dowemu lub innemu pracownikowi wojew\u00f3dzkiego\ns\u0105du administracyjnego, kt\u00f3remu do nabycia prawa do nagrody jubileuszowej brakuje\nmniej ni\u017c 12 miesi\u0119cy, licz\u0105c od dnia rozwi\u0105zania stosunku pracy, nagrod\u0119 t\u0119 wyp\u0142aca\nsi\u0119 w dniu rozwi\u0105zania stosunku pracy.\n\u00a7 12.\n1.\nTworzy si\u0119 fundusz nagr\u00f3d, z przeznaczeniem na nagrody za szczeg\u00f3lne osi\u0105gni\u0119cia w\npracy, w wysoko\u015bci do 3 % planowanych wynagrodze\u0144 osobowych, pozostaj\u0105cy w dyspozycji\nprezesa wojew\u00f3dzkiego s\u0105du administracyjnego.\n2.\nFundusz nagr\u00f3d, o kt\u00f3rym mowa w ust. 1, mo\u017ce by\u0107 podwy\u017cszany, za zgod\u0105 Prezesa Naczelnego\nS\u0105du Administracyjnego, w ramach posiadanych \u015brodk\u00f3w na wynagrodzenia.\n\u00a7 13.\n1.\nUrz\u0119dnikowi s\u0105dowemu i innemu pracownikowi wojew\u00f3dzkiego s\u0105du administracyjnego wykonuj\u0105cemu\nprac\u0119 w porze nocnej przys\u0142uguje dodatek do wynagrodzenia za ka\u017cd\u0105 godzin\u0119 pracy w\nporze nocnej w wysoko\u015bci 20 % godzinowej stawki wynagrodzenia zasadniczego. Dodatek\ndo wynagrodzenia nie mo\u017ce by\u0107 ni\u017cszy od dodatku ustalonego na podstawie art. 151 8 \u00a7 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy\n(Dz. U. z 2023 r. poz. 1465).\n2.\nGodzinow\u0105 stawk\u0119 wynagrodzenia zasadniczego, wynikaj\u0105c\u0105 z zaszeregowania urz\u0119dnika\ns\u0105dowego lub innego pracownika wojew\u00f3dzkiego s\u0105du administracyjnego okre\u015blonego stawk\u0105\nmiesi\u0119czn\u0105, ustala si\u0119, dziel\u0105c miesi\u0119czn\u0105 stawk\u0119 wynagrodzenia przez liczb\u0119 godzin\npracy przypadaj\u0105cych do przepracowania w danym miesi\u0105cu.\n\u00a7 14.\nDo referendarzy s\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w i starszych\nasystent\u00f3w s\u0119dzi\u00f3w stosuje si\u0119 odpowiednio przepisy \u00a7 10, 11 i 13.\n\u00a7 15.\n1.\nDla pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych, zatrudnionych na stanowiskach\nokre\u015blonych w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia - tabela B, tworzy si\u0119 fundusz premiowy\nw ramach posiadanych \u015brodk\u00f3w na wynagrodzenia.\n2.\nWysoko\u015b\u0107 funduszu premiowego, o kt\u00f3rym mowa w ust. 1, oraz warunki przyznawania premii\nokre\u015bla regulamin premiowania ustalony przez prezesa wojew\u00f3dzkiego s\u0105du administracyjnego.\n3.\nMaksymalna wysoko\u015b\u0107 premii nie mo\u017ce przekracza\u0107 60 % wynagrodzenia zasadniczego pracownika.\n\u00a7 16.\n1.\nKierowcy, z tytu\u0142u powierzenia dodatkowych czynno\u015bci niewchodz\u0105cych w zakres jego\nnormalnych obowi\u0105zk\u00f3w, mo\u017ce by\u0107 przyznany, na czas okre\u015blony, dodatek w wysoko\u015bci\nnieprzekraczaj\u0105cej 60 % najni\u017cszego wynagrodzenia zasadniczego.\n2.\nWysoko\u015b\u0107 dodatku, o kt\u00f3rym mowa w ust. 1, oraz okres, na kt\u00f3ry jest przyznany, ustala\nprezes wojew\u00f3dzkiego s\u0105du administracyjnego, uwzgl\u0119dniaj\u0105c rodzaj czynno\u015bci i ich\nuci\u0105\u017cliwo\u015b\u0107.\n\u00a7 17.\nUrz\u0119dnik s\u0105dowy lub inny pracownik zatrudniony w s\u0105dzie administracyjnym przed dniem\nwej\u015bcia w \u017cycie rozporz\u0105dzenia, zajmuj\u0105cy stanowisko, dla kt\u00f3rego jest wymagane wykszta\u0142cenie\nwy\u017csze, mo\u017ce by\u0107, w szczeg\u00f3lnie uzasadnionych przypadkach, zatrudniony nadal na tym\nstanowisku, o ile posiada co najmniej wykszta\u0142cenie \u015brednie.\n\u00a7 18.\nUstalane na podstawie przepis\u00f3w niniejszego rozporz\u0105dzenia wynagrodzenia urz\u0119dnik\u00f3w\ns\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych zatrudnionych w\ndniu wej\u015bcia w \u017cycie rozporz\u0105dzenia nie mog\u0105 by\u0107 ni\u017csze od wynagrodze\u0144 przys\u0142uguj\u0105cych\ndotychczas.\n\u00a7 19.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 2) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 5 kwietnia 2011 r. z moc\u0105 od dnia 10 kwietnia 2010 r. 3) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Prezydenta Rzeczypospolitej\nPolskiej z dnia 18 wrze\u015bnia 2003 r. w sprawie stanowisk i wymaganych kwalifikacji\nurz\u0119dnik\u00f3w i innych pracownik\u00f3w s\u0105dowych oraz szczeg\u00f3\u0142owych zasad wynagradzania referendarzy\ns\u0105dowych, innych urz\u0119dnik\u00f3w i pracownik\u00f3w s\u0105dowych wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 1647), kt\u00f3re utraci\u0142o moc z dniem 10 kwietnia 2010 r. w zwi\u0105zku z wej\u015bciem\nw \u017cycie ustawy z dnia 12 lutego 2010 r. o zmianie ustawy - Prawo o ustroju s\u0105d\u00f3w administracyjnych\noraz ustawy - Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. poz. 196).\nZa\u0142\u0105cznik nr 1\n-\nTabela stanowisk, zaszeregowa\u0144 i kwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w\nwojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\nA.\nDLA URZ\u0118DNIK\u00d3W S\u0104DOWYCH\nLP.\nSTANOWISKO\nKATEGORIA ZASZEREGOWANIA\nDODATKU FUNKCYJNEGO DO\nWYMAGANE KWALIFIKACJE\nWYKSZTA\u0141CENIE\nLICZBA LAT PRACY\n1\n2\n3\n4\n5\n6\n1\nDYREKTOR\nXVIII-XXI\n10\nWY\u017bSZE\n5\n2\nZAST\u0118PCA DYREKTORA\nXVII-XX\n9\nWY\u017bSZE\n5\n3\nG\u0141\u00d3WNY KSI\u0118GOWY\nXVI-XX\n8\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n4\nRADCA PRAWNY\nXVII-XIX\n9\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n5\nKIEROWNIK ODDZIA\u0141U\nXV-XIX\n9\nWY\u017bSZE\n5\n6\nAUDYTOR WEWN\u0118TRZNY\nXV-XIX\n7\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n7\nPE\u0141NOMOCNIK DS. OCHRONY INFORMACJI NIEJAWNYCH\nXIV-XVIII\n5\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n8\nINSPEKTOR OCHRONY DANYCH\nXV-XIX\n8\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n9\nG\u0141\u00d3WNY SPECJALISTA\nXV-XIX\n8\nWY\u017bSZE\n5\n10\nG\u0141\u00d3WNY SPECJALISTA DS. BHP\nXV-XIX\n8\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n11\nKIEROWNIK SEKRETARIATU WYDZIA\u0141U\nXIV-XIX\n7\nWY\u017bSZE\n5\n12\nZAST\u0118PCA G\u0141\u00d3WNEGO KSI\u0118GOWEGO, KIEROWNIK ZESPO\u0141U\nXIV-XVIII\n5\nWY\u017bSZE\n5\n13\nSTARSZY INSPEKTOR DS. BIUROWO\u015aCI, STARSZY INSPEKTOR DS. OBRONNYCH\nXIV-XVIII\n4\nWY\u017bSZE\n3\n14\nSTARSZY SPECJALISTA, ZAST\u0118PCA KIEROWNIKA ODDZIA\u0141U, ZAST\u0118PCA KIEROWNIKA SEKRETARIATU\nWYDZIA\u0141U\nXIV-XVIII\n4\nWY\u017bSZE\n3\n15\nSTARSZY SPECJALISTA DS. BHP\nXIV-XVIII\n4\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n16\nSTARSZY INSPEKTOR S\u0104DOWY\nXIII-XVIII\n4\nWY\u017bSZE\n5\n17\nADMINISTRATOR SYSTEMU INFORMATYCZNEGO\nXIII-XVIII\n2\nWY\u017bSZE\n3\n18\nKIEROWNIK ARCHIWUM\nXII-XVII\n3\nWY\u017bSZE ORAZ KURS DLA ARCHIWIST\u00d3W\n3\n19\nKIEROWNIK BIURA PODAWCZEGO, KIEROWNIK KANCELARII TAJNEJ\nXII-XVII\n3\nWY\u017bSZE\n3\n20\nKIEROWNIK BIBLIOTEKI\nXII-XVII\n3\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n21\nSPECJALISTA\nXII-XVII\n2\nWY\u017bSZE\n3\n22\nSPECJALISTA DS. BHP\nXII-XVII\n2\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n23\nKIEROWNIK SEKCJI\nXI-XVI\n2\nWY\u017bSZE\n1\n24\nSTARSZY SEKRETARZ S\u0104DOWY, INFORMATYK\nXI-XV\n-\nWY\u017bSZE\n1\n25\nARCHIWISTA\nXI-XV\n-\n\u015aREDNIE ORAZ KURS DLA ARCHIWIST\u00d3W\n2\n26\nBIBLIOTEKARZ\nXI-XV\n-\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n27\nSEKRETARZ S\u0104DOWY\nIX-XIV\n-\n\u015aREDNIE\n2\n28\nSTARSZY KSI\u0118GOWY\nVIII-XIV\n-\n\u015aREDNIE\n2\n29\nKSI\u0118GOWY, INSPEKTOR\nVIII-XIII\n-\n\u015aREDNIE\n2\n30\nINSPEKTOR DS. OCHRONY PRZECIWPO\u017bAROWEJ\nVIII-XIII\n-\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n31\nSTARSZY REFERENT, POMOCNIK SEKRETARZA\nVII-XIII\n-\n\u015aREDNIE\n1\n32\nM\u0141ODSZY KSI\u0118GOWY, REFERENT\nVII-XI\n-\n\u015aREDNIE\n1\n33\nREFERENT STA\u017bYSTA\nIV-VI III-IV\n-\nWY\u017bSZE \u015aREDNIE\n-\nB.\nDLA INNYCH PRACOWNIK\u00d3W WOJEW\u00d3DZKICH S\u0104D\u00d3W ADMINISTRACYJNYCH NIEB\u0118D\u0104CYCH URZ\u0118DNIKAMI\nLP.\nSTANOWISKO\nKATEGORIA ZASZEREGOWANIA\nSTAWKA DODATKU FUNKCYJNEGO DO\nWYMAGANE KWALIFIKACJE\nWYKSZTA\u0141CENIE\nLICZBA LAT PRACY\n1\n2\n3\n4\n5\n6\n1\nKIEROWNIK WARSZTATU\nIII-VI\n3\n\u015aREDNIE\n4\n2\nKIEROWNIK MAGAZYNU, KIEROWNIK HALI MASZYN\nII-VI\n2\n\u015aREDNIE\n3\n3\nZAST\u0118PCA KIEROWNIKA WARSZTATU\nII-V\n2\n\u015aREDNIE\n3\n4\nOPERATOR URZ\u0104DZE\u0143 ELEKTRONICZNYCH\nII-V\n-\n\u015aREDNIE\n-\n5\nMASZYNISTKA KLASY MISTRZOWSKIEJ\nII-V\n-\n\u015aREDNIE\n-\n6\nSTARSZY MAGAZYNIER, KASJER, INTENDENT, STARSZA MASZYNISTKA\nII-IV\n-\n\u015aREDNIE\n3\n7\nMAGAZYNIER, STARSZA TELEFONISTKA, MASZYNISTKA\nII-IV\n-\n\u015aREDNIE\n-\n8\nTELEFONISTKA\nII-IV\n-\nPODSTAWOWE I UMIEJ\u0118TNO\u015a\u0106 WYKONYWANIA CZYNNO\u015aCI\n-\n9\nRZEMIE\u015aLNIK SPECJALISTA, WO\u0179NY AUDIENCJONALNY\nI-IV\n-\nZASADNICZE\n-\n10\nRZEMIE\u015aLNIK WYKWALIFIKOWANY, PALACZ CO\nI-IV\n-\nZASADNICZE\n-\n11\nKIEROWCA SAMOCHODU OSOBOWEGO\nI-IV\n-\nWED\u0141UG ODR\u0118BNYCH PRZEPIS\u00d3W\n12\nOPERATOR URZ\u0104DZE\u0143 POWIELAJ\u0104CYCH\nI-IV\n-\nPODSTAWOWE\n-\n13\nSTARSZY WO\u0179NY S\u0104DOWY\nI-IV\n-\nPODSTAWOWE\n-\n14\nWO\u0179NY S\u0104DOWY\nI-III\n-\nPODSTAWOWE\n-\n15\nPORTIER, SZATNIARZ, WO\u0179NY, DOZORCA, ROBOTNIK GOSPODARCZY\nI-III\n-\nPODSTAWOWE\n-\n16\nSPRZ\u0104TACZKA\nI-III\n-\nPODSTAWOWE\n-\n17\nGONIEC\nI-III\n-\nPODSTAWOWE\n-\nZa\u0142\u0105cznik nr 2\n-\nTabela zaszeregowa\u0144 asystent\u00f3w s\u0119dzi\u00f3w i starszych asystent\u00f3w s\u0119dzi\u00f3w\nLP.\nSTANOWISKO\nKATEGORIA ZASZEREGOWANIA\n1\nSTARSZY ASYSTENT S\u0118DZIEGO\nXV-XIX\n2\nASYSTENT S\u0118DZIEGO\nXV-XVII\nZa\u0142\u0105cznik nr 3\n-\nTabela miesi\u0119cznych stawek wynagrodzenia zasadniczego asystent\u00f3w s\u0119dzi\u00f3w, starszych\nasystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych 4) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej\nz dnia 25 marca 2024 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych\nkwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania\nreferendarzy s\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych\nasystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 471), kt\u00f3re wesz\u0142o w \u017cycie z moc\u0105 od dnia 1 stycznia 2024 r.\nKATEGORIA ZASZEREGOWANIA\nKWOTA W Z\u0141OTYCH\nI\n4300-5500\nII\n4340-5600\nIII\n4350-5900\nIV\n4360-6200\nV\n4370-6400\nVI\n4380-6900\nVII\n4390-7000\nVIII\n4400-7100\nIX\n4410-7200\nX\n4420-7300\nXI\n5000-7400\nXII\n5100-7500\nXIII\n5200-7600\nXIV\n5300-7700\nXV\n5400-7900\nXVI\n5500-8500\nXVII\n5600-9100\nXVIII\n5800-10 000\nXIX\n6000-11 200\nXX\n7000-12 000\nXXI\n8000-13 500\nZa\u0142\u0105cznik nr 4\n-\nTabela stawek dodatku funkcyjnego 4) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Prezydenta Rzeczypospolitej Polskiej\nz dnia 25 marca 2024 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie stanowisk i wymaganych\nkwalifikacji urz\u0119dnik\u00f3w s\u0105dowych i innych pracownik\u00f3w oraz szczeg\u00f3\u0142owych zasad wynagradzania\nreferendarzy s\u0105dowych, starszych referendarzy s\u0105dowych, asystent\u00f3w s\u0119dzi\u00f3w, starszych\nasystent\u00f3w s\u0119dzi\u00f3w, urz\u0119dnik\u00f3w oraz innych pracownik\u00f3w wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych\n(Dz. U. poz. 471), kt\u00f3re wesz\u0142o w \u017cycie z moc\u0105 od dnia 1 stycznia 2024 r.\nSTAWKA DODATKU FUNKCYJNEGO\nKWOTA W Z\u0141OTYCH\n1\ndo 950\n2\ndo 1400\n3\ndo 1800\n4\ndo 2200\n5\ndo 2600\n6\ndo 3000\n7\ndo 3400\n8\ndo 4100\n9\ndo 4800\n10\ndo 5500"
+    },
+    "meta": {},
+    "created_at": "2026-10-03T16:33:13.196091Z",
+    "updated_at": "2026-10-03T16:33:13.196091Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 111,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 64,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-08T12:58:58.822995Z",
+  "updated_at": "2026-10-08T12:58:58.822995Z",
+  "draft_created_at": "2026-10-08T12:49:17.859016Z",
+  "lead_time": 395.241,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
