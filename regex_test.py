@@ -140,8 +140,13 @@ MSG_PATTERN = re.compile(
 
 # DZIENNIK URZĘDOWY MINISTRA
 MIN_PATTERN = re.compile(
-    r'\bDz\.\s*Urz\.\s*Min\.'
-    r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
+    r'\bDz\.\s*Urz\.\s*Min\.',
+    re.IGNORECASE
+)
+
+#DZIENNIK URZĘDOWY URZĘDÓw CENTRALNYCH
+DUC_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.(?!\s*(?:UE\b|WE\b|Min\.|Woj\.))',
     re.IGNORECASE
 )
 
@@ -450,8 +455,45 @@ def process_min_publication(text, match):
     publication_start = match.start()
 
     key_pattern = re.compile(
-        r'\bDz\.\s*Urz\.\s*Min\.'
-        r'(?:.*?\bi\s+\bDz\.\s*Urz\.\s*Min\.)?',
+        r'\bDz\.\s*Urz\.\s*Min\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_duc_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.',
         re.IGNORECASE
     )
 
@@ -543,6 +585,14 @@ def find_references(text):
     for match in MIN_PATTERN.finditer(text):
         entities.extend(
             process_min_publication(
+                text,
+                match
+            )
+        )
+
+    for match in DUC_PATTERN.finditer(text):
+        entities.extend(
+            process_duc_publication(
                 text,
                 match
             )
@@ -739,7 +789,7 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    part = 4
+    part = 10
     input_dir = Path(f"data/processed/txt/part_{part}")
     output_dir = Path(f"data/processed/json/part_{part}")
 
