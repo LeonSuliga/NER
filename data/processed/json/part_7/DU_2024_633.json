@@ -1962,8 +1962,8 @@
           "type": "labels",
           "value": {
             "start": 6957,
-            "end": 6993,
-            "text": "Dz. Urz. UE L 158 z 30.04.2004, str.",
+            "end": 6970,
+            "text": "Dz. Urz. UE L",
             "labels": [
               "PUB_KEY"
             ]
@@ -1974,11 +1974,24 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 6994,
-            "end": 6996,
-            "text": "77",
+            "start": 6971,
+            "end": 6974,
+            "text": "158",
             "labels": [
               "PUB_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 6998,
+            "end": 7035,
+            "text": "Dz. Urz. UE Polskie\nwydanie specjalne",
+            "labels": [
+              "PUB_KEY"
             ]
           }
         },
@@ -2118,8 +2131,8 @@
           "type": "labels",
           "value": {
             "start": 7713,
-            "end": 7748,
-            "text": "Dz. Urz. UE L 29 z 31.01.2020, str.",
+            "end": 7726,
+            "text": "Dz. Urz. UE L",
             "labels": [
               "PUB_KEY"
             ]
@@ -2130,9 +2143,9 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 7749,
-            "end": 7750,
-            "text": "7",
+            "start": 7727,
+            "end": 7729,
+            "text": "29",
             "labels": [
               "PUB_VAL"
             ]
@@ -5966,8 +5979,8 @@
           "type": "labels",
           "value": {
             "start": 17397,
-            "end": 17433,
-            "text": "Dz. Urz. UE L 243 z 15.09.2009, str.",
+            "end": 17410,
+            "text": "Dz. Urz. UE L",
             "labels": [
               "PUB_KEY"
             ]
@@ -5978,9 +5991,9 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 17434,
-            "end": 17435,
-            "text": "1",
+            "start": 17411,
+            "end": 17414,
+            "text": "243",
             "labels": [
               "PUB_VAL"
             ]
@@ -6616,8 +6629,8 @@
           "type": "labels",
           "value": {
             "start": 23792,
-            "end": 23828,
-            "text": "Dz. Urz. UE L 303 z 28.11.2018, str.",
+            "end": 23805,
+            "text": "Dz. Urz. UE L",
             "labels": [
               "PUB_KEY"
             ]
@@ -6628,9 +6641,9 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 23829,
-            "end": 23831,
-            "text": "39",
+            "start": 23806,
+            "end": 23809,
+            "text": "303",
             "labels": [
               "PUB_VAL"
             ]
@@ -7151,6 +7164,19 @@
             "start": 29717,
             "end": 29718,
             "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 29723,
+            "end": 29724,
+            "text": "2",
             "labels": [
               "UST_VAL"
             ]
@@ -7980,6 +8006,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 31919,
+            "end": 31920,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 32050,
             "end": 32054,
             "text": "Art.",
@@ -8048,6 +8087,19 @@
             "start": 32724,
             "end": 32725,
             "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 32730,
+            "end": 32731,
+            "text": "2",
             "labels": [
               "UST_VAL"
             ]
@@ -9374,6 +9426,19 @@
             "start": 45245,
             "end": 45246,
             "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 45251,
+            "end": 45252,
+            "text": "4",
             "labels": [
               "UST_VAL"
             ]
@@ -11685,6 +11750,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 63535,
+            "end": 63536,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 63541,
             "end": 63545,
             "text": "art.",
@@ -13557,6 +13635,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 76864,
+            "end": 76865,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 76870,
             "end": 76874,
             "text": "art.",
@@ -13703,6 +13794,19 @@
             "start": 77209,
             "end": 77210,
             "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 77215,
+            "end": 77216,
+            "text": "3",
             "labels": [
               "UST_VAL"
             ]
@@ -13869,6 +13973,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 77578,
+            "end": 77579,
+            "text": "3",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 77584,
             "end": 77588,
             "text": "art.",
@@ -14015,6 +14132,19 @@
             "start": 78008,
             "end": 78009,
             "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 78014,
+            "end": 78015,
+            "text": "3",
             "labels": [
               "UST_VAL"
             ]
@@ -18250,6 +18380,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 111823,
+            "end": 111824,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 112199,
             "end": 112203,
             "text": "ust.",
@@ -18276,6 +18419,19 @@
           "to_name": "text",
           "type": "labels",
           "value": {
+            "start": 112210,
+            "end": 112211,
+            "text": "2",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
             "start": 112489,
             "end": 112493,
             "text": "ust.",
@@ -18292,6 +18448,19 @@
             "start": 112494,
             "end": 112495,
             "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 112500,
+            "end": 112501,
+            "text": "2",
             "labels": [
               "UST_VAL"
             ]
@@ -18448,6 +18617,19 @@
             "start": 112944,
             "end": 112945,
             "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 112950,
+            "end": 112951,
+            "text": "2",
             "labels": [
               "UST_VAL"
             ]

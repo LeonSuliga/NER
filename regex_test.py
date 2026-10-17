@@ -1,6 +1,9 @@
+import csv
 import re
 import json
 from pathlib import Path
+
+metadata_regex_file = Path("data/processed/metadata_regex.csv")
 
 # Article references
 ART_PATTERN = re.compile(
@@ -14,21 +17,22 @@ ART_PATTERN = re.compile(
 # Paragraph references
 PAR_PATTERN = re.compile(
     r'§\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
 # Subsection references
 UST_PATTERN = re.compile(
-    r'\bust\.\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'\bust\.\s*'
+    r'\d+[a-z]*'
+    r'(?:\s*(?:,|i|oraz|lub|albo|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
 # Point references
 PKT_PATTERN = re.compile(
     r'\bpkt\.?\s*\d+[a-z]*'
-    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]?)*',
+    r'(?:\s*(?:,|i|oraz|-|–)\s*\d+[a-z]*)*',
     re.IGNORECASE
 )
 
@@ -121,6 +125,56 @@ DWE_PATTERN = re.compile(
     r'[LC]\s+\d+'
     r'\s+z\s+\d{2}\.\d{2}\.\d{4}'
     r',\s*str\.\s*\d+',
+    re.IGNORECASE
+)
+
+# DZIENNIK URZĘDOWY UE Polskie wydanie specjalne
+DUE_PL_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.\s*UE\s+'
+    r'Polskie\s+wydanie\s+specjalne\b',
+    re.IGNORECASE
+)
+
+# MONITOR SĄDOWY GOSPODARCZY
+MSG_PATTERN = re.compile(
+    r'\bM\.\s*S\.\s*G\.',
+    re.IGNORECASE
+)
+
+# DZIENNIK URZĘDOWY MINISTRA
+MIN_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.\s*Min\.',
+    re.IGNORECASE
+)
+
+#DZIENNIK URZĘDOWY URZĘDÓw CENTRALNYCH
+DUC_PATTERN = re.compile(
+    r'\bDz\.\s*Urz\.(?!\s*(?:UE\b|WE\b|Min\.|Woj\.))',
+    re.IGNORECASE
+)
+
+WOJEWODZTWO_PATTERN = (
+    r'Dolno\.?|Dolnośląskiego|'
+    r'Kujaw\.?|Kujawsko-Pomorskiego|'
+    r'Lubel\.?|Lubelskiego|'
+    r'Lubus\.?|Lubelskiego|'
+    r'Łódzk\.?|Łódzkiego|'
+    r'Małop\.?|Małopolskiego|'
+    r'Mazow\.?|Mazowieckiego|'
+    r'Opols\.?|Opolskiego|'
+    r'Podka\.?|Podkarpackiego|'
+    r'Podl\.?|Podlaskiego|'
+    r'Pom\.?|Pomorskiego|'
+    r'Śląsk\.?|Śląskiego|'
+    r'Święt\.?|Świętokrzyskiego|'
+    r'Warmi\.?|Warmińsko-Mazurskiego|'
+    r'Wielk\.?|Wielkopolskiego|'
+    r'Zach\.?|Zachodniopomorskiego|'
+)
+
+# WOJEWÓDZKI DZIENNIK URZĘDOWY
+WDU_PATTERN = re.compile(
+    rf'\bDz\.\s*Urz\.\s*Woj\.\s+(?:{WOJEWODZTWO_PATTERN})',
     re.IGNORECASE
 )
 
@@ -287,10 +341,7 @@ def process_eu_publication(text, match):
     publication_start = match.start()
 
     key_pattern = re.compile(
-        r'\bDz\.\s*Urz\.\s*(?:UE|WE)\s+'
-        r'[LC]\s+\d+'
-        r'\s+z\s+\d{2}\.\d{2}\.\d{4}'
-        r',\s*str\.',
+        r'\bDz\.\s*Urz\.\s*(?:UE|WE)\s+[LCA]',
         re.IGNORECASE
     )
 
@@ -320,14 +371,12 @@ def process_eu_publication(text, match):
     )
 
     value_pattern = re.compile(
-        r'\d+'
+        r'(?<=[LCA]\s)\d+'
     )
 
-    value_start = key_match.end()
 
     for value_match in value_pattern.finditer(
-        publication_text,
-        value_start
+        publication_text
     ):
 
         start = (
@@ -347,6 +396,197 @@ def process_eu_publication(text, match):
             text[start:end],
             "PUB_VAL"
         )
+
+    return entities
+
+def process_due_pl_publication(text, match):
+    
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.\s*UE\s+Polskie\s+wydanie\s+specjalne\b',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_msg_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bM\.\s*S\.\s*G\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_min_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.\s*Min\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_duc_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bDz\.\s*Urz\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
+def process_wdu_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        rf'\bDz\.\s*Urz\.\s*Woj\.\s+(?:{WOJEWODZTWO_PATTERN})',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
 
     return entities
 
@@ -392,6 +632,45 @@ def find_references(text):
             )
         )
 
+    for match in DUE_PL_PATTERN.finditer(text):
+        entities.extend(
+            process_due_pl_publication(
+                text,
+                match
+            )
+        )
+
+    for match in MSG_PATTERN.finditer(text):
+        entities.extend(
+            process_msg_publication(
+                text,
+                match
+            )
+        )
+
+    for match in MIN_PATTERN.finditer(text):
+        entities.extend(
+            process_min_publication(
+                text,
+                match
+            )
+        )
+
+    for match in DUC_PATTERN.finditer(text):
+        entities.extend(
+            process_duc_publication(
+                text,
+                match
+            )
+        )
+
+    for match in WDU_PATTERN.finditer(text):
+        entities.extend(
+            process_wdu_publication(
+                text,
+                match
+            )
+        )
 
     # Process each reference family with its corresponding key and value pattern.
     # ART
@@ -584,8 +863,9 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    input_dir = Path("data/processed/txt/part_10")
-    output_dir = Path("data/processed/json/part_10")
+    part = 10
+    input_dir = Path(f"data/processed/txt/part_{part}")
+    output_dir = Path(f"data/processed/json/part_{part}")
 
     output_dir.mkdir(
         parents=True,
@@ -595,7 +875,6 @@ def main():
     files = list(
         input_dir.glob("*.txt")
     )
-
     if not files:
         print("Nie znaleziono plików TXT.")
         return
@@ -622,6 +901,34 @@ def main():
             entities,
             output_path
         )
+
+        file_exists = metadata_regex_file.exists()
+        with open(
+            metadata_regex_file,
+            "a",
+            newline="",
+            encoding="utf-8"
+        ) as f:
+            fieldnames = [
+                "part",
+                "file_name",
+                "number_of_entities"
+            ]
+
+            writer = csv.DictWriter(
+                f,
+                fieldnames=fieldnames
+            )
+
+            if not file_exists:
+                writer.writeheader()
+                file_exists = True
+
+            writer.writerow({
+                "part": part,
+                "file_name": file_path.name,
+                "number_of_entities": len(entities)
+            })
 
         print(
             f"  znaleziono: {len(entities)} encji"

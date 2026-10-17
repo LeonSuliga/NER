@@ -440,9 +440,9 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 2886,
-            "end": 2922,
-            "text": "Dz. Urz. UE L 335 z 21.12.2005, str.",
+            "start": 2379,
+            "end": 2416,
+            "text": "Dz. Urz. UE Polskie wydanie specjalne",
             "labels": [
               "PUB_KEY"
             ]
@@ -453,9 +453,35 @@
           "to_name": "text",
           "type": "labels",
           "value": {
-            "start": 2923,
-            "end": 2925,
-            "text": "13",
+            "start": 2673,
+            "end": 2710,
+            "text": "Dz. Urz. UE Polskie wydanie specjalne",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2886,
+            "end": 2899,
+            "text": "Dz. Urz. UE L",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 2900,
+            "end": 2903,
+            "text": "335",
             "labels": [
               "PUB_VAL"
             ]
@@ -484,6 +510,32 @@
             "text": "3",
             "labels": [
               "ART_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4077,
+            "end": 4114,
+            "text": "Dz. Urz. UE Polskie wydanie specjalne",
+            "labels": [
+              "PUB_KEY"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 4343,
+            "end": 4380,
+            "text": "Dz. Urz. UE Polskie wydanie specjalne",
+            "labels": [
+              "PUB_KEY"
             ]
           }
         },
@@ -1561,6 +1613,19 @@
             "start": 14740,
             "end": 14741,
             "text": "1",
+            "labels": [
+              "UST_VAL"
+            ]
+          }
+        },
+        {
+          "from_name": "label",
+          "to_name": "text",
+          "type": "labels",
+          "value": {
+            "start": 14746,
+            "end": 14747,
+            "text": "3",
             "labels": [
               "UST_VAL"
             ]

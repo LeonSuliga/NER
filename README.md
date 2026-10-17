@@ -1,201 +1,64 @@
-# Legal Citation Entity Linking Pipeline
+# Polish Legal Citation NER
 
-This project builds a legal citation extraction and entity-linking pipeline for Polish legal acts. It combines:
-
-- ETL for Sejm ELI metadata
-- PostgreSQL with pgvector for deterministic, fuzzy, and semantic matching
-- Neo4j for legal act graph relationships
-- rule-based citation extraction and NER dataset tooling
-- optional spaCy training for sequence labeling
-
-The target use case is a legal reference resolver that can map a string like `Dz. U. z 2020 r. poz. 1` to the corresponding legal act ID and provide confidence and match method.
-
-## System requirements
-
-- Operating system: Linux / WSL2 (Ubuntu 22.04 LTS)
-- Python: 3.11 or 3.12
-- Docker: required for PostgreSQL + pgvector and Neo4j
-- Optional: Windows native Python 3.14 + MinGW/MSYS2 is not supported for spaCy/thinc due to missing prebuilt wheels and native compilation issues
-
-## Architecture
-
-The project is organized in four layers:
-
-1. ETL layer
-   - Fetch legal act metadata from the Sejm ELI API
-   - Normalize and stage records in JSONL
-2. Relational + vector layer
-   - PostgreSQL with pgvector
-   - Structured legal act storage and embeddings
-3. Graph layer
-   - Neo4j legal act graph with amendment/repeal relations
-4. Extraction and resolution layer
-   - regex_ner.py for rule-based parsing
-   - entity_linker.py for exact / fuzzy / vector matching
-   - optional spaCy NER training pipeline
+Trains and compares NER models for legal citations in Polish legal acts, using hand-labeled Label Studio annotations.
 
 ## Project structure
 
 ```text
 .
-├── etl_sejm.py                  # Fetch and normalize ELI metadata
-├── load_pg.py                  # Load staging JSONL into PostgreSQL
-├── schema.sql                  # PostgreSQL schema and indexes
-├── build_graph.py              # Load acts and relations into Neo4j
-├── entity_linker.py            # Exact / fuzzy / vector legal act resolver
-├── regex_ner.py                # Rule-based legal citation parser
-├── test_full_pipeline.py       # Full regex -> linker end-to-end check
-├── generate_ner_dataset.py     # Generate synthetic legal NER examples
-├── convert_dataset.py          # Convert spans to BIO labels
-├── convert_to_spacy.py         # Convert BIO to spaCy DocBin
-├── train_spacy_ner.py          # Train a spaCy NER model
-├── evaluate_pipeline.py        # Compare regex and model outputs
-├── constraints.cypher          # Neo4j uniqueness and index constraints
-├── docker-compose.yml          # PostgreSQL + Neo4j runtime configuration
-├── requirements.txt            # Python dependencies
-├── data/                       # Generated NER data and conversion outputs
-├── staging/                    # ETL JSONL output
-├── models/                     # Trained spaCy models
-├── scripts/                    # Validation and sample queries
-├── README.md                   # Project documentation
-└── .venv/                      # Local virtual environment
+├── data/
+│   ├── raw/                  # Legal act HTML downloaded from the Sejm API (source documents)
+│   ├── processed/            # Cleaned plain-text versions of the raw documents
+│   ├── labeled/              # Hand-labeled Label Studio exports (the training data)
+│   ├── ner_dataset.json      # Labels converted to project span format
+│   ├── train_bio.json        # Labels converted to token-level BIO tags
+│   └── spacy/                # train/dev/test DocBins shared by all models
+├── annotation_cleaning/      # Check and fix the hand-labeled files
+│   ├── audit_annotations.py      # Report label stats and annotation problems
+│   ├── deduplicate_spans.py      # Remove duplicate spans
+│   ├── find_exact_overlaps.py    # List overlapping spans
+│   └── clean_bad_lit_vals.py     # Remove overlapping LIT_VAL spans in files 5, 6, 38
+├── data_prep/                # Labeled files -> training data
+│   ├── labelstudio_to_project.py # data/labeled/   -> data/ner_dataset.json
+│   ├── convert_dataset.py        # ner_dataset.json -> train_bio.json
+│   └── convert_to_spacy.py       # train_bio.json  -> data/spacy/{train,dev,test}.spacy
+├── training/                 # Train the three NER models
+│   ├── train_spacy_ner.py        # Blank spaCy model         -> models/ner_spacy
+│   ├── train_spacy_vectors.py    # spaCy + pl_core_news_md   -> models/ner_spacy_vectors
+│   ├── train_herbert_ner.py      # HerBERT transformer       -> models/ner_herbert
+│   └── configs/ner_spacy_vectors.cfg
+├── evaluation/
+│   ├── evaluate_model.py         # Score the blank spaCy model on the test set
+│   └── compare_models.py         # Score all three models -> models/comparison.json
+├── models/                   # Trained models and comparison results
+├── archive/                  # Old ETL / Postgres / Neo4j / regex code, not used by this pipeline
+├── run_pipeline.bat          # Runs data_prep -> training -> evaluation end to end
+└── requirements.txt
 ```
 
-## Quickstart
-
-### 1. Create a Python virtual environment
+## Usage
 
 ```bash
-python3.11 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip setuptools wheel
 python -m pip install -r requirements.txt
-```
-
-If you are using WSL2, install the system packages first when needed:
-
-```bash
-sudo apt-get update
-sudo apt-get install python3.11 python3.11-venv python3.11-dev
-```
-
-### 2. Start the required services with Docker
-
-```bash
-docker compose up -d postgres neo4j
-```
-
-This starts:
-
-- PostgreSQL with pgvector on `localhost:5432`
-- Neo4j on `localhost:7687` and the browser UI on `localhost:7474`
-
-### 3. Run the ETL ingest
-
-```bash
-python etl_sejm.py --publisher dziennik_ustaw --year 2020 --out staging/du_2020_test.jsonl --insecure --per-page 20 --limit 10
-```
-
-This downloads detailed legal act records from the Sejm ELI API and writes JSONL staging entries.
-
-### 4. Load data into PostgreSQL
-
-```bash
-python load_pg.py --db-url postgresql://postgres:postgres@localhost:5432/legaldb --staging-dir ./staging --embed-model fallback --vector-dim 768
-```
-
-This loads the legal acts, aliases, and optional vector embeddings into the PostgreSQL schema.
-
-### 5. Load graph data into Neo4j
-
-```bash
-python build_graph.py --neo4j-uri bolt://localhost:7687 --neo4j-user neo4j --neo4j-pass neo4jpass --staging-dir ./staging
-```
-
-This creates `:LegalAct` nodes and graph edges such as `:AMENDS` and `:REPEALS` when relation metadata is present in the staging records.
-
-### 6. Generate synthetic NER data and convert it
-
-```bash
-python generate_ner_dataset.py
-python convert_dataset.py
-python convert_to_spacy.py
-```
-
-This generates the synthetic legal-citation dataset and converts it to spaCy DocBin format for training.
-
-### 7. Train the spaCy model and evaluate
-
-```bash
-python train_spacy_ner.py --epochs 15
-python evaluate_pipeline.py
-```
-
-The trained model is written to `models/ner_spacy`.
-
-#### Comparing three NER models
-
-All three models use the same train/dev/test split from `data/spacy/*.spacy`:
-
-| Model | Script | Output | Description |
-|---|---|---|---|
-| `spacy_blank` | `train_spacy_ner.py` | `models/ner_spacy` | blank `pl` pipeline, hand-written training loop |
-| `spacy_vectors` | `train_spacy_vectors.py` | `models/ner_spacy_vectors/model-best` | `spacy train` with `configs/ner_spacy_vectors.cfg`, `pl_core_news_md` static vectors, ~200-token training chunks, best-on-dev checkpoint |
-| `herbert` | `train_herbert_ner.py` | `models/ner_herbert` | `allegro/herbert-base-cased` fine-tuned for token classification (256-subword windows) |
-
-```bash
 python -m spacy download pl_core_news_md
-python train_spacy_ner.py
-python train_spacy_vectors.py
-python train_herbert_ner.py --epochs 3
-python scripts/compare_models.py
+
+# optional: check / clean the labeled files
+python annotation_cleaning/audit_annotations.py --root . --only-labeled
+
+# full pipeline (Windows)
+run_pipeline.bat
 ```
 
-`compare_models.py` runs every model on the gold tokenization of the test set and scores them all with spaCy's span scorer. It prints overall and per-label P/R/F plus tokens/sec, and writes `models/comparison.json`. `run_pipeline.bat` runs all of these steps.
-
-### 8. Run the full pipeline test
+Or step by step:
 
 ```bash
-python test_full_pipeline.py
+python data_prep/labelstudio_to_project.py
+python data_prep/convert_dataset.py
+python data_prep/convert_to_spacy.py
+python training/train_spacy_ner.py
+python training/train_spacy_vectors.py
+python training/train_herbert_ner.py --epochs 3
+python evaluation/compare_models.py
 ```
 
-This performs a rule-based parse of raw legal citation strings, resolves them via `entity_linker.py`, and prints the matching act ID and processing time.
-
-## Notes on dependencies and platform support
-
-- This project expects Linux / WSL2 for reliable native builds of spaCy, thinc, and related NLP packages.
-- Python 3.14 on Windows MinGW/MSYS2 is not the recommended runtime for training and evaluation because prebuilt wheels are missing or compilation fails.
-- The code uses deterministic fallback embeddings when a sentence-transformers model is unavailable, which is useful for testing but not a substitute for a real semantic model.
-
-## Typical workflow
-
-```bash
-# 1) Setup environment
-python3.11 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-
-# 2) Start infrastructure
-docker compose up -d
-
-# 3) Fetch ETL data
-python etl_sejm.py --publisher dziennik_ustaw --year 2020 --out staging/du_2020_test.jsonl --insecure --per-page 20 --limit 10
-
-# 4) Load PostgreSQL and Neo4j
-python load_pg.py --db-url postgresql://postgres:postgres@localhost:5432/legaldb --staging-dir ./staging --embed-model fallback --vector-dim 768
-python build_graph.py --neo4j-uri bolt://localhost:7687 --neo4j-user neo4j --neo4j-pass neo4jpass --staging-dir ./staging
-
-# 5) NER generation and evaluation
-python generate_ner_dataset.py
-python convert_dataset.py
-python convert_to_spacy.py
-python train_spacy_ner.py --epochs 15
-python evaluate_pipeline.py
-python test_full_pipeline.py
-```
-
-## Troubleshooting
-
-- If `spaCy` fails to install, switch to WSL2 or Ubuntu and use Python 3.11/3.12.
-- If PostgreSQL or Neo4j is not ready, wait for Docker health checks to pass before running the loaders.
-- If the Sejm API returns sparse metadata, the ETL falls back to constructing detail URLs from the act address.
+All scripts resolve paths from the project root, so they can be run from any directory.
