@@ -15,7 +15,7 @@ model_candidates = [
 ]
 model_path = next((p for p in model_candidates if p.exists()), model_candidates[0])
 
-# Prefer the project split under data/spacy; fall back to data/test.spacy
+
 test_candidates = [
     ROOT / 'data' / 'spacy' / 'test.spacy',
     ROOT / 'data' / 'test.spacy',

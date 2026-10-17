@@ -16,10 +16,10 @@ except Exception:
     print('spaCy not installed; train_spacy_vectors.py requires spaCy (pip install spacy).')
     sys.exit(1)
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 p = argparse.ArgumentParser()
-p.add_argument('--config', default=os.path.join(ROOT, 'configs', 'ner_spacy_vectors.cfg'))
+p.add_argument('--config', default=os.path.join(ROOT, 'training', 'configs', 'ner_spacy_vectors.cfg'))
 p.add_argument('--train', default=os.path.join(ROOT, 'data', 'spacy', 'train.spacy'))
 p.add_argument('--dev', default=os.path.join(ROOT, 'data', 'spacy', 'dev.spacy'))
 p.add_argument('--output', default=os.path.join(ROOT, 'models', 'ner_spacy_vectors'))

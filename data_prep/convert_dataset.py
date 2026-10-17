@@ -1,8 +1,8 @@
 import os, json, re
 from typing import List, Dict
 
-IN = os.path.join(os.path.dirname(__file__), 'data', 'ner_dataset.json')
-OUT = os.path.join(os.path.dirname(__file__), 'data', 'train_bio.json')
+IN = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'ner_dataset.json')
+OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'train_bio.json')
 
 # simple tokenizer: split on whitespace and keep punctuation as separate tokens
 TOKEN_RE = re.compile(r"\w+|[^	\w\s]", re.UNICODE)

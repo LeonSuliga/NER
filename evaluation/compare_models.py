@@ -20,7 +20,7 @@ from spacy.tokens import Doc, DocBin, Span
 from spacy.training import Example
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / 'training'))
 
 MODELS = {
     'spacy_blank': ('spacy', ROOT / 'models' / 'ner_spacy'),

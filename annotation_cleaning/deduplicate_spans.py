@@ -76,7 +76,7 @@ def main():
 
     print(f"Total duplicate spans removed: {total_removed}")
     print("Done.")
-    print("Next: python .\\scripts\\audit_annotations.py --root . --only-labeled")
+    print("Next: python .\\annotation_cleaning\\audit_annotations.py --root . --only-labeled")
 
 
 if __name__ == "__main__":
