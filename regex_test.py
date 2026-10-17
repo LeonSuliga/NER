@@ -150,6 +150,31 @@ DUC_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+WOJEWODZTWO_PATTERN = (
+    r'Dolno\.?|Dolnośląskiego|'
+    r'Kujaw\.?|Kujawsko-Pomorskiego|'
+    r'Lubel\.?|Lubelskiego|'
+    r'Lubus\.?|Lubelskiego|'
+    r'Łódzk\.?|Łódzkiego|'
+    r'Małop\.?|Małopolskiego|'
+    r'Mazow\.?|Mazowieckiego|'
+    r'Opols\.?|Opolskiego|'
+    r'Podka\.?|Podkarpackiego|'
+    r'Podl\.?|Podlaskiego|'
+    r'Pom\.?|Pomorskiego|'
+    r'Śląsk\.?|Śląskiego|'
+    r'Święt\.?|Świętokrzyskiego|'
+    r'Warmi\.?|Warmińsko-Mazurskiego|'
+    r'Wielk\.?|Wielkopolskiego|'
+    r'Zach\.?|Zachodniopomorskiego|'
+)
+
+# WOJEWÓDZKI DZIENNIK URZĘDOWY
+WDU_PATTERN = re.compile(
+    rf'\bDz\.\s*Urz\.\s*Woj\.\s+(?:{WOJEWODZTWO_PATTERN})',
+    re.IGNORECASE
+)
+
 def add_entity(entities, start, end, text, label):
     """Append one Label Studio-compatible entity annotation."""
     entities.append(
@@ -524,6 +549,44 @@ def process_duc_publication(text, match):
 
     return entities
 
+def process_wdu_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        rf'\bDz\.\s*Urz\.\s*Woj\.\s+(?:{WOJEWODZTWO_PATTERN})',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
 
 def find_references(text):
     """Find all supported legal references and return sorted annotations."""
@@ -593,6 +656,14 @@ def find_references(text):
     for match in DUC_PATTERN.finditer(text):
         entities.extend(
             process_duc_publication(
+                text,
+                match
+            )
+        )
+
+    for match in WDU_PATTERN.finditer(text):
+        entities.extend(
+            process_wdu_publication(
                 text,
                 match
             )
