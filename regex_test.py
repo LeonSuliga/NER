@@ -132,6 +132,11 @@ DUE_PL_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+# MONITOR SĄDOWY GOSPODARCZY
+MSG_PATTERN = re.compile(
+    r'\bM\.\s*S\.\s*G\.',
+    re.IGNORECASE
+)
 
 def add_entity(entities, start, end, text, label):
     """Append one Label Studio-compatible entity annotation."""
@@ -393,6 +398,44 @@ def process_due_pl_publication(text, match):
 
     return entities
 
+def process_msg_publication(text, match):
+    entities = []
+
+    publication_text = match.group()
+    publication_start = match.start()
+
+    key_pattern = re.compile(
+        r'\bM\.\s*S\.\s*G\.',
+        re.IGNORECASE
+    )
+
+    key_match = key_pattern.search(
+        publication_text
+    )
+
+    if not key_match:
+        return entities
+
+    key_start = (
+        publication_start +
+        key_match.start()
+    )
+
+    key_end = (
+        publication_start +
+        key_match.end()
+    )
+
+    add_entity(
+        entities,
+        key_start,
+        key_end,
+        text[key_start:key_end],
+        "PUB_KEY"
+    )
+
+    return entities
+
 
 def find_references(text):
     """Find all supported legal references and return sorted annotations."""
@@ -443,6 +486,13 @@ def find_references(text):
             )
         )
 
+    for match in MSG_PATTERN.finditer(text):
+        entities.extend(
+            process_msg_publication(
+                text,
+                match
+            )
+        )
 
     # Process each reference family with its corresponding key and value pattern.
     # ART
@@ -635,8 +685,9 @@ def save_to_json(text, entities, output_path):
 
 def main():
     """Annotate every processed TXT file and save one JSON file per document."""
-    input_dir = Path("data/processed/txt/part_10")
-    output_dir = Path("data/processed/json/part_10")
+    part = 10
+    input_dir = Path(f"data/processed/txt/part_{part}")
+    output_dir = Path(f"data/processed/json/part_{part}")
 
     output_dir.mkdir(
         parents=True,
