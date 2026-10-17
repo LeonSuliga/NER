@@ -1,0 +1,801 @@
+{
+  "id": 21,
+  "result": [
+    {
+      "value": {
+        "start": 638,
+        "end": 642,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "myRXHv62E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 643,
+        "end": 645,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ngeC_IjEZ9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 646,
+        "end": 650,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "rfr1gr_6mS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 651,
+        "end": 652,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "otVzSsowIS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 752,
+        "end": 773,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "b4H225_At9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 774,
+        "end": 778,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "x2Bo-eupSv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1092,
+        "end": 1103,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "m166xOC6RB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1104,
+        "end": 1108,
+        "text": "1645",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "7ZhRekzK8Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1413,
+        "end": 1424,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "r9g6jZS4xD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1425,
+        "end": 1428,
+        "text": "417",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "EMWKAEXYF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1527,
+        "end": 1528,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KuFFNfhgpP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1529,
+        "end": 1530,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "79F-Xu6_zT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1796,
+        "end": 1807,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "AXr9iazdjf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1808,
+        "end": 1811,
+        "text": "417",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OH8AU2-R8d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2161,
+        "end": 2165,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "vGa0v9cBBn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2166,
+        "end": 2167,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "SrzJa_Vk7J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2168,
+        "end": 2169,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Twa2AC72Sb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2170,
+        "end": 2171,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ZjMYmXIOhs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2226,
+        "end": 2247,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "gnnplJQi6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2248,
+        "end": 2252,
+        "text": "1001",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "00ZcszK-yr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2473,
+        "end": 2476,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "L5FvWgjFin",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2477,
+        "end": 2478,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "j6LRNHLYnA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2555,
+        "end": 2558,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "mL-X6rw5G4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2559,
+        "end": 2560,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "X0XrCC-O6L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2651,
+        "end": 2654,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "IxbZHA6oqN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2655,
+        "end": 2656,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "vw7OE_T7gy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2955,
+        "end": 2959,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "xEEsqvcU00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2960,
+        "end": 2961,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "NKu3dqOm7d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2962,
+        "end": 2965,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "vETT6LmAYw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2966,
+        "end": 2967,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "U2rcGcU6l4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3860,
+        "end": 3864,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "IffN66-hB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3865,
+        "end": 3866,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "m0E9yCQS_B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4595,
+        "end": 4599,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "NG2QuzboTN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4600,
+        "end": 4601,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ujeZYRO4HX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5770,
+        "end": 5774,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "VRFcTfS4yT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5775,
+        "end": 5777,
+        "text": "90",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "y03WwKgO3n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5778,
+        "end": 5779,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "6QeV24zDfU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5780,
+        "end": 5781,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "pNf-H12Maw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5866,
+        "end": 5870,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Ir6YcdMm1v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5871,
+        "end": 5872,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ojBQHbqQMu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6259,
+        "end": 6263,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ZXIhbLDGlE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6264,
+        "end": 6265,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "FZ9Ogz9Hj8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6446,
+        "end": 6447,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Tw5Rd7OsvO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6448,
+        "end": 6449,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "4-8q6BhFwL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6715,
+        "end": 6726,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-C5qh1_3QJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6727,
+        "end": 6730,
+        "text": "417",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Y3NtiVrwo1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7081,
+        "end": 7092,
+        "text": "Dz. U.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DKu0CQuwbn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7093,
+        "end": 7097,
+        "text": "1011",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "yE2wmaBTRU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7103,
+        "end": 7117,
+        "text": "z 2006 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "r1d2xRDt7m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7118,
+        "end": 7121,
+        "text": "646",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8s6lK7UyFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 26,
+    "data": {
+      "text": "Obwieszczenie Ministra Sprawiedliwo\u015bci z dnia 12 wrze\u015bnia 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci w\nsprawie pobierania przez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej\ni ich przekazywania s\u0105dom oraz prowadzenia ewidencji pobranych op\u0142at s\u0105dowych\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 6 pa\u017adziernika 2015 r. w sprawie pobierania\nprzez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej i ich przekazywania\ns\u0105dom oraz prowadzenia ewidencji pobranych op\u0142at s\u0105dowych\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 6 pa\u017adziernika 2015 r. w sprawie pobierania\nprzez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej i ich przekazywania\ns\u0105dom oraz prowadzenia ewidencji pobranych op\u0142at s\u0105dowych\n(Dz. U. poz. 1645), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 25 marca 2016 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie pobierania przez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze\nwieczystej i ich przekazywania s\u0105dom oraz prowadzenia ewidencji pobranych op\u0142at s\u0105dowych\n(Dz. U. poz. 417).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 25 marca 2016 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie pobierania przez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o\nwpis w ksi\u0119dze wieczystej i ich przekazywania s\u0105dom oraz prowadzenia ewidencji pobranych\nop\u0142at s\u0105dowych\n(Dz. U. poz. 417), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 kwietnia 2016 r.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 6 pa\u017adziernika 2015 r. w sprawie pobierania\nprzez notariuszy op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej i ich przekazywania\ns\u0105dom oraz prowadzenia ewidencji pobranych op\u0142at s\u0105dowych\nNa podstawie art. 7 \u00a7 3 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie\n(Dz. U. z 2024 r. poz. 1001) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nspos\u00f3b uiszczania i pobierania op\u0142at s\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej;\n2)\nspos\u00f3b i termin przekazywania s\u0105dom op\u0142at s\u0105dowych, o kt\u00f3rych mowa w pkt 1;\n3)\nspos\u00f3b prowadzenia ewidencji pobranych op\u0142at s\u0105dowych, o kt\u00f3rych mowa w pkt 1, oraz\nczas jej przechowywania;\n4)\nspos\u00f3b i termin zwrotu op\u0142at s\u0105dowych, o kt\u00f3rych mowa w pkt 1.\n\u00a7 2.\n1.\nOp\u0142at\u0119 s\u0105dow\u0105 od wniosku o wpis w ksi\u0119dze wieczystej, zwan\u0105 dalej \u201eop\u0142at\u0105\u201d, uiszcza\nsi\u0119:\n1)\nw formie wp\u0142aty got\u00f3wkowej, bezpo\u015brednio w kancelarii notarialnej;\n2)\nw formie bezgot\u00f3wkowej, na rachunek bankowy kancelarii notarialnej.\n2.\nW przypadku uiszczenia op\u0142aty w spos\u00f3b, o kt\u00f3rym mowa w ust. 1 pkt 1, na \u017c\u0105danie uiszczaj\u0105cego\nop\u0142at\u0119, notariusz wydaje pokwitowanie zawieraj\u0105ce kwot\u0119 op\u0142aty, imi\u0119 i nazwisko notariusza,\ndat\u0119 i numer aktu notarialnego, w zwi\u0105zku z kt\u00f3rym powsta\u0142 obowi\u0105zek uiszczenia op\u0142aty.\n\u00a7 3.\n1.\nNotariusz wskazuje we wniosku o wpis w ksi\u0119dze wieczystej wysoko\u015b\u0107 pobranej op\u0142aty.\n2.\nJe\u017celi wnioskodawca zosta\u0142 zwolniony od koszt\u00f3w s\u0105dowych od wniosku o wpis w ksi\u0119dze\nwieczystej, notariusz wskazuje we wniosku, \u017ce op\u0142ata nie zosta\u0142a pobrana i podaje\npodstaw\u0119 prawn\u0105 zwolnienia.\n\u00a7 4.\n1.\nPobran\u0105 op\u0142at\u0119 notariusz przekazuje s\u0105dowi rejonowemu w\u0142a\u015bciwemu do rozpoznania wniosku\no wpis w ksi\u0119dze wieczystej, w terminie do 7. dnia miesi\u0105ca nast\u0119puj\u0105cego po miesi\u0105cu,\nw kt\u00f3rym pobrano op\u0142at\u0119 i z\u0142o\u017cono wniosek o wpis w ksi\u0119dze wieczystej, dokonuj\u0105c jej\nwp\u0142aty na rachunek bankowy tego s\u0105du lub bezpo\u015brednio w jego kasie.\n2.\nOrygina\u0142 lub kopi\u0119 potwierdzenia wp\u0142aty, o kt\u00f3rej mowa w ust. 1, notariusz przekazuje,\nw terminie 7 dni od jej dokonania, s\u0105dowi rejonowemu, na rzecz kt\u00f3rego dokonano wp\u0142aty,\nwraz z wykazem zawieraj\u0105cym nast\u0119puj\u0105ce dane:\n1)\noznaczenie uiszczaj\u0105cego op\u0142at\u0119;\n2)\nwysoko\u015b\u0107 pobranej op\u0142aty;\n3)\nnumer ksi\u0119gi wieczystej, kt\u00f3rej dotyczy op\u0142ata, je\u017celi ksi\u0119ga ta zosta\u0142a za\u0142o\u017cona;\n4)\nnumer, pod kt\u00f3rym akt notarialny zosta\u0142 wpisany do repertorium A, oraz imi\u0119 i nazwisko\nnotariusza, kt\u00f3ry akt sporz\u0105dzi\u0142;\n5)\ndat\u0119 pobrania op\u0142aty i z\u0142o\u017cenia wniosku o wpis w ksi\u0119dze wieczystej.\n3.\nW przypadku przekazania wydruku potwierdzaj\u0105cego dokonanie operacji bankowej, na wydruku\ntym notariusz zamieszcza potwierdzon\u0105 w\u0142asnor\u0119cznym podpisem informacj\u0119, \u017ce figuruj\u0105ca\nna nim kwota stanowi wp\u0142at\u0119, o kt\u00f3rej mowa w ust. 1.\n4.\nNotariusze prowadz\u0105cy wsp\u00f3lnie jedn\u0105 kancelari\u0119 przekazuj\u0105 op\u0142aty \u0142\u0105cznie.\n\u00a7 5.\n1.\nNotariusz prowadzi ewidencj\u0119 pobranych op\u0142at, zwan\u0105 dalej \u201eewidencj\u0105\u201d, odr\u0119bnie na\nka\u017cdy rok kalendarzowy. Notariusz przechowuje ewidencj\u0119 przez 5 lat, licz\u0105c od ko\u0144ca\nroku, w kt\u00f3rym ewidencja zosta\u0142a za\u0142o\u017cona.\n2.\nEwidencja, prowadzona jako odr\u0119bna ksi\u0119ga, zawiera:\n1)\nliczb\u0119 porz\u0105dkow\u0105;\n2)\ndat\u0119 aktu notarialnego, w zwi\u0105zku z kt\u00f3rym powsta\u0142 obowi\u0105zek uiszczenia op\u0142aty;\n3)\nnumer, pod kt\u00f3rym akt notarialny zosta\u0142 wpisany do repertorium A;\n4)\nimi\u0119 i nazwisko oraz adres osoby, kt\u00f3ra ui\u015bci\u0142a op\u0142at\u0119, a gdy uiszczaj\u0105cym jest osoba\nprawna - jej nazw\u0119 lub firm\u0119 i siedzib\u0119 oraz imi\u0119, nazwisko i adres jej przedstawiciela,\nkt\u00f3ry ui\u015bci\u0142 op\u0142at\u0119;\n5)\nkwot\u0119 pobranej op\u0142aty, nazw\u0119 s\u0105du rejonowego, kt\u00f3remu op\u0142ata zosta\u0142a przekazana oraz\ndat\u0119 jej przekazania;\n6)\nuwagi.\n3.\nNotariusz dokonuje w ewidencji - oddzielnie dla ka\u017cdego s\u0105du rejonowego - podsumowania\npobranych op\u0142at w okresach miesi\u0119cznych i odnotowuje w rubryce \u201euwagi\u201d kwot\u0119, dat\u0119\nwp\u0142aty, okres i s\u0105d, kt\u00f3rego wp\u0142ata dotyczy.\n\u00a7 6.\n1.\nEwidencja mo\u017ce by\u0107 zast\u0105piona przez repertorium A, okre\u015blone w przepisach wydanych\nna podstawie art. 90 \u00a7 2 ustawy z dnia 14 lutego 1991 r. - Prawo o notariacie.\n2.\nPrzepisy, o kt\u00f3rych mowa w ust. 1, dotycz\u0105ce ewidencji stosuje si\u0119 odpowiednio do\nrepertorium zast\u0119puj\u0105cego ewidencj\u0119.\n\u00a7 7.\n1.\nW przypadku, gdy op\u0142ata zosta\u0142a uiszczona, a akt notarialny nie zosta\u0142 sporz\u0105dzony,\nnotariusz zwraca op\u0142at\u0119 osobie, kt\u00f3ra j\u0105 ui\u015bci\u0142a, w terminie 7 dni od dnia uiszczenia\nop\u0142aty.\n2.\nNotariusz zwraca op\u0142at\u0119:\n1)\ngot\u00f3wk\u0105;\n2)\nprzelewem na wskazany rachunek bankowy.\n3.\nW przypadku, o kt\u00f3rym mowa w ust. 1, notariusz odnotowuje w ewidencji w rubryce \u201euwagi\u201d\nwysoko\u015b\u0107 kwoty zwrotu, dat\u0119 i spos\u00f3b jej przekazania oraz dane osoby, kt\u00f3rej zwr\u00f3ci\u0142\nop\u0142at\u0119.\n\u00a7 8 1) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 25\nmarca 2016 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie pobierania przez notariuszy op\u0142at\ns\u0105dowych od wniosk\u00f3w o wpis w ksi\u0119dze wieczystej i ich przekazywania s\u0105dom oraz prowadzenia\newidencji pobranych op\u0142at s\u0105dowych (Dz. U. poz. 417), kt\u00f3re wesz\u0142o w \u017cycie z dniem\n1 kwietnia 2016 r..\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 lipca 2016 r. 2) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci\nz dnia 27 sierpnia 2001 r. w sprawie pobierania przez notariuszy op\u0142at s\u0105dowych od\nwniosk\u00f3w o wpis do ksi\u0119gi wieczystej zamieszczanych w aktach notarialnych (Dz. U.\npoz. 1011 oraz z 2006 r. poz. 646)."
+    },
+    "meta": {},
+    "created_at": "2026-10-08T14:35:50.718949Z",
+    "updated_at": "2026-10-08T14:35:50.718970Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 26,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-13T16:56:24.049804Z",
+  "updated_at": "2026-10-13T16:56:24.049840Z",
+  "draft_created_at": "2026-10-13T16:55:46.802477Z",
+  "lead_time": 42.979,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": 26,
+  "parent_annotation": null,
+  "last_created_by": null
+}

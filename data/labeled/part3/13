@@ -1,0 +1,1896 @@
+{
+  "id": 13,
+  "result": [
+    {
+      "value": {
+        "start": 255,
+        "end": 256,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "qRCU5vDgvX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 257,
+        "end": 258,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "6ErgczbVl_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 259,
+        "end": 263,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "DBtlSdElN6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 264,
+        "end": 265,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "OXCkBFx5XT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 390,
+        "end": 401,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "rvoQpHEKwj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 402,
+        "end": 406,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "QFb52AnliC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1935,
+        "end": 1939,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "aSAg_a76IN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1940,
+        "end": 1942,
+        "text": "14",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "E_AgWPJRpY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1943,
+        "end": 1947,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "moSAw7G6H2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1948,
+        "end": 1949,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "RcnEigFbVW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1952,
+        "end": 1956,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Zq8Zh2ijC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1957,
+        "end": 1958,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Q_oM_DXF-p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1959,
+        "end": 1962,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "hJrQTu6-wh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1963,
+        "end": 1964,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "buprWqbnej",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2038,
+        "end": 2059,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "h6vULoFnoo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2060,
+        "end": 2064,
+        "text": "1448",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4PMS_i7VRA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4923,
+        "end": 4924,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "gWwvIiaYHI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4925,
+        "end": 4926,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "tGQE5C-pWz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4929,
+        "end": 4930,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "OqHh0zTE2M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4931,
+        "end": 4932,
+        "text": "5",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "yLGKeJFiFo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6697,
+        "end": 6701,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "H69bB6nns7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6702,
+        "end": 6703,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jwnXfT8SX6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6704,
+        "end": 6707,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "_UHNnoutl_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6708,
+        "end": 6709,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "b_KIAI-Jzq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6710,
+        "end": 6711,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "B3thIQx4Pi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7109,
+        "end": 7113,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "IhSfLBXi1c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7114,
+        "end": 7115,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "oA8bimIizy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7118,
+        "end": 7119,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Kj1sGKLmra",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7398,
+        "end": 7419,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "lHiurj02m2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7420,
+        "end": 7424,
+        "text": "1011",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WS6F4Ums2R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 994,
+        "end": 1007,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "pIVMnNa6nL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1008,
+        "end": 1011,
+        "text": "141",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "IkYZoHuX2_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1331,
+        "end": 1344,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "GwMeJc2i1L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1345,
+        "end": 1348,
+        "text": "225",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "a8wjesNdsz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1677,
+        "end": 1690,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "boFGjx3yWX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1691,
+        "end": 1694,
+        "text": "284",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "HbLjX1l0oh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1881,
+        "end": 1894,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-eEmN2T6EU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1895,
+        "end": 1897,
+        "text": "25",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "caHXGlcOdp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7715,
+        "end": 7728,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "HOmpV0WxBs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7729,
+        "end": 7732,
+        "text": "338",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OEivf3ADsp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7756,
+        "end": 7769,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ytkdfTbmgl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7770,
+        "end": 7773,
+        "text": "338",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zCyun0zPBd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7797,
+        "end": 7810,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "AW2MJ_KqeE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7811,
+        "end": 7814,
+        "text": "320",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JXUAVl9Kf6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7837,
+        "end": 7850,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "nUz1ueIpKw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7851,
+        "end": 7854,
+        "text": "363",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tnP04G4i0R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7877,
+        "end": 7890,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Ucxnrf-t5x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7891,
+        "end": 7894,
+        "text": "281",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jdQHncRnZY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7917,
+        "end": 7930,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "NovWItgVe3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7931,
+        "end": 7934,
+        "text": "277",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "UvCds-uV3T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7961,
+        "end": 7970,
+        "text": "Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "jenadSvdKo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7971,
+        "end": 7973,
+        "text": "87",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jKa-MS-ncJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7998,
+        "end": 8011,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XSj1QTQQFq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8012,
+        "end": 8015,
+        "text": "178",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "7qDFt-HvzG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8039,
+        "end": 8052,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ck8e1pBGyc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8053,
+        "end": 8056,
+        "text": "314",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VEc4JPfnWR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8079,
+        "end": 8092,
+        "text": "Dz.\\nUrz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-lMMYkYXaI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8093,
+        "end": 8096,
+        "text": "159",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RJA4xMYEVo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8120,
+        "end": 8133,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "QU5OY6dNkT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8134,
+        "end": 8136,
+        "text": "46",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0We1Eo3BQ7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8160,
+        "end": 8173,
+        "text": "Dz. Urz.\\nUE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "iWGPasPErE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8174,
+        "end": 8177,
+        "text": "327",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "T4gFffFzwh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8201,
+        "end": 8214,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XV5lelTTlf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8215,
+        "end": 8216,
+        "text": "8",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GhtLoh_18q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8240,
+        "end": 8253,
+        "text": "Dz. Urz. UE\\nL",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "pnd8b9iVzt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8254,
+        "end": 8257,
+        "text": "158",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gM9Tiz_bQD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8280,
+        "end": 8293,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "tjHxYqcM4G",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8294,
+        "end": 8297,
+        "text": "160",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "cx6jKFxgiL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8321,
+        "end": 8334,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "sTiF_c-Oxp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8335,
+        "end": 8338,
+        "text": "220",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tvs5zsZtFq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8362,
+        "end": 8375,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "5aGwaq8sci",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8376,
+        "end": 8378,
+        "text": "69",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xx-Bghxoql",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8402,
+        "end": 8415,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "S44N36z7w_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8416,
+        "end": 8419,
+        "text": "175",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "leOA6kG-QP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8442,
+        "end": 8455,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_V59lf9KXN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8456,
+        "end": 8459,
+        "text": "307",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Advi7s3tzy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8483,
+        "end": 8496,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kjvXPRYdr0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8497,
+        "end": 8499,
+        "text": "67",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Yr3q2WpBZO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8523,
+        "end": 8536,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xKrQFi1-4h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8537,
+        "end": 8540,
+        "text": "144",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "38L2YpW_eH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8564,
+        "end": 8577,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "yLWr6arMys",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8578,
+        "end": 8581,
+        "text": "285",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KTL65KpNqg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8604,
+        "end": 8617,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "9p0hWp2kZ2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8618,
+        "end": 8621,
+        "text": "285",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JoUSXid7a4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8645,
+        "end": 8658,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0f45AKkAEa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8659,
+        "end": 8661,
+        "text": "45",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2XJRkSJVt_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8685,
+        "end": 8698,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Sf_INeT0FU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8699,
+        "end": 8702,
+        "text": "197",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gSMQhpPhi3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8726,
+        "end": 8739,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "v2KDyxnHuU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8740,
+        "end": 8743,
+        "text": "239",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Kz5w6kddla",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8767,
+        "end": 8780,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "9sV2ulVLq7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8781,
+        "end": 8783,
+        "text": "42",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ydNrp3msmN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8807,
+        "end": 8820,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EYwp5cmjvE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8821,
+        "end": 8823,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v-4rIoqTox",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8847,
+        "end": 8860,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "U5HrR1ZrrX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8861,
+        "end": 8863,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xkgOUUFMJo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8887,
+        "end": 8900,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "s-Dvsd5keN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8901,
+        "end": 8903,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "piIAg7k_wr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8927,
+        "end": 8940,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xPNz-Z0wqQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8941,
+        "end": 8943,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NbV2IwsLn6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8967,
+        "end": 8980,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "4BbhcrUJFl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8981,
+        "end": 8983,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RW3xddJav5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9007,
+        "end": 9020,
+        "text": "Dz.\\nUrz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VBbgRiWLia",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9021,
+        "end": 9023,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "igNyci2pvG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9047,
+        "end": 9060,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "zBxJHfNOgv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9061,
+        "end": 9063,
+        "text": "43",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hzHerviPC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9087,
+        "end": 9100,
+        "text": "Dz. Urz.\\nUE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wv3Sz5DLXN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9101,
+        "end": 9104,
+        "text": "198",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6b41x7nveA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9129,
+        "end": 9142,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "cLCW2_0dC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9143,
+        "end": 9146,
+        "text": "434",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SiPycQA8LA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9170,
+        "end": 9183,
+        "text": "Dz. Urz.\\nUE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BLVbpfR0t4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9184,
+        "end": 9187,
+        "text": "297",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Vd5r8Xddb-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9210,
+        "end": 9223,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZBlQvX8SHe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9224,
+        "end": 9227,
+        "text": "357",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "pct4ETCkcP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9251,
+        "end": 9264,
+        "text": "Dz. Urz. UE\\nL",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "AYhrT0eoHt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9265,
+        "end": 9268,
+        "text": "299",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "66y7fkkMH6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9291,
+        "end": 9304,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "y_ZsyulKR_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9305,
+        "end": 9312,
+        "text": "2023/24",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "D-9ngDxSYT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9331,
+        "end": 9344,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "RUWq_M-b39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9345,
+        "end": 9354,
+        "text": "2024/1141",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2xrQo-FvDN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 12659,
+        "end": 12672,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "YlXdd_gdVw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 12673,
+        "end": 12676,
+        "text": "139",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "IGlQvACDUP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 12717,
+        "end": 12754,
+        "text": "Dz. Urz. UE Polskie wydanie specjalne",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Xv0oJdyNcH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 24,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Zdrowia z dnia 30 sierpnia 2024 r. w sprawie rozpuszczalnik\u00f3w ekstrakcyjnych, kt\u00f3re mog\u0105 by\u0107 stosowane w produkcji \u017cywno\u015bci\nlub sk\u0142adnik\u00f3w \u017cywno\u015bci 1) Minister Zdrowia kieruje dzia\u0142em administracji rz\u0105dowej - zdrowie, na podstawie \u00a7\n1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie\nszczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nSpis tre\u015bci\nTre\u015b\u0107 rozporz\u0105dzenia\nZa\u0142\u0105cznik nr 1 - Wykazy substancji i materia\u0142\u00f3w dopuszczonych do stosowania w produkcji \u017cywno\u015bci lub\nsk\u0142adnik\u00f3w \u017cywno\u015bci jako rozpuszczalniki ekstrakcyjne\nZa\u0142\u0105cznik nr 2 - Specyfikacja i kryteria czysto\u015bci dla 2-metylooksolanu\nTre\u015b\u0107 rozporz\u0105dzenia\n2) Przepisy niniejszego rozporz\u0105dzenia wdra\u017caj\u0105: 1) dyrektyw\u0119 Parlamentu Europejskiego\ni Rady 2009/32/WE z dnia 23 kwietnia 2009 r. w sprawie zbli\u017cenia przepis\u00f3w ustawowych\npa\u0144stw cz\u0142onkowskich dotycz\u0105cych rozpuszczalnik\u00f3w do ekstrakcji stosowanych w produkcji\n\u015brodk\u00f3w spo\u017cywczych i sk\u0142adnik\u00f3w \u017cywno\u015bci (Dz. Urz. UE L 141 z 06.06.2009, str. 3);\n2) dyrektyw\u0119 Komisji 2010/59/UE z dnia 26 sierpnia 2010 r. zmieniaj\u0105c\u0105 dyrektyw\u0119 Parlamentu\nEuropejskiego i Rady 2009/32/WE w sprawie zbli\u017cenia przepis\u00f3w ustawowych pa\u0144stw cz\u0142onkowskich\ndotycz\u0105cych rozpuszczalnik\u00f3w do ekstrakcji stosowanych w produkcji \u015brodk\u00f3w spo\u017cywczych\ni sk\u0142adnik\u00f3w \u017cywno\u015bci (Dz. Urz. UE L 225 z 27.08.2010, str. 10); 3) dyrektyw\u0119 Komisji\n(UE) 2016/1855 z dnia 19 pa\u017adziernika 2016 r. zmieniaj\u0105c\u0105 dyrektyw\u0119 Parlamentu Europejskiego\ni Rady 2009/32/WE w sprawie zbli\u017cenia przepis\u00f3w ustawowych pa\u0144stw cz\u0142onkowskich dotycz\u0105cych\nrozpuszczalnik\u00f3w do ekstrakcji stosowanych w produkcji \u015brodk\u00f3w spo\u017cywczych i sk\u0142adnik\u00f3w\n\u017cywno\u015bci (Dz. Urz. UE L 284 z 20.10.2016, str. 19); 4) dyrektyw\u0119 Komisji (UE) 2023/175\nz dnia 26 stycznia 2023 r. zmieniaj\u0105c\u0105 dyrektyw\u0119 Parlamentu Europejskiego i Rady 2009/32/WE\nw odniesieniu do 2-metylooksolanu (Dz. Urz. UE L 25 z 27.01.2023, str. 67).\nNa podstawie art. 14 ust. 2 i ust. 3 pkt 2 ustawy z dnia 25 sierpnia 2006 r. o bezpiecze\u0144stwie\n\u017cywno\u015bci i \u017cywienia\n(Dz. U. z 2023 r. poz. 1448) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nmaksymalne dopuszczalne poziomy zawarto\u015bci pierwiastk\u00f3w szkodliwych dla zdrowia w\nrozpuszczalnikach ekstrakcyjnych;\n2)\nwykaz substancji i materia\u0142\u00f3w dopuszczonych do stosowania w produkcji \u017cywno\u015bci lub\nsk\u0142adnik\u00f3w \u017cywno\u015bci jako rozpuszczalniki ekstrakcyjne;\n3)\nwarunki stosowania rozpuszczalnik\u00f3w ekstrakcyjnych;\n4)\nmaksymalne dopuszczalne poziomy pozosta\u0142o\u015bci rozpuszczalnik\u00f3w ekstrakcyjnych w \u017cywno\u015bci\nlub w sk\u0142adnikach \u017cywno\u015bci;\n5)\nszczeg\u00f3\u0142owe wymagania w zakresie oznakowania rozpuszczalnik\u00f3w ekstrakcyjnych;\n6)\nspecyfikacje i kryteria czysto\u015bci rozpuszczalnik\u00f3w ekstrakcyjnych.\n2.\nRozporz\u0105dzenie nie ma zastosowania do rozpuszczalnik\u00f3w ekstrakcyjnych stosowanych\nw produkcji substancji dodatkowych, witamin i innych sk\u0142adnik\u00f3w od\u017cywczych, chyba\n\u017ce zosta\u0142y one uwzgl\u0119dnione w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia.\n\u00a7 2.\n1.\nWykazy substancji i materia\u0142\u00f3w dopuszczonych do stosowania w produkcji \u017cywno\u015bci lub\nsk\u0142adnik\u00f3w \u017cywno\u015bci jako rozpuszczalniki ekstrakcyjne s\u0105 okre\u015blone w za\u0142\u0105czniku nr\n1 do rozporz\u0105dzenia.\n2.\nMaksymalny dopuszczalny poziom zawarto\u015bci arsenu lub o\u0142owiu w rozpuszczalniku ekstrakcyjnym\nnie mo\u017ce przekracza\u0107 1 mg/kg.\n3.\nW produkcji \u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci mog\u0105 by\u0107 r\u00f3wnie\u017c stosowane jako rozpuszczalniki\nekstrakcyjne:\n1)\nwoda, do kt\u00f3rej mog\u0105 by\u0107 dodane substancje reguluj\u0105ce kwasowo\u015b\u0107 lub zasadowo\u015b\u0107;\n2)\ninne substancje spo\u017cywcze posiadaj\u0105ce w\u0142a\u015bciwo\u015bci rozpuszczalnika.\n\u00a7 3.\n1.\nW produkcji \u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci zgodnie z dobr\u0105 praktyk\u0105 produkcyjn\u0105\nmo\u017cna stosowa\u0107 rozpuszczalniki ekstrakcyjne, kt\u00f3rych wykaz jest okre\u015blony w tabeli\nnr 1 za\u0142\u0105cznika nr 1 do rozporz\u0105dzenia.\n2.\nStosowanie rozpuszczalnik\u00f3w ekstrakcyjnych w produkcji \u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci\nuwa\u017ca si\u0119 za zgodne z dobr\u0105 praktyk\u0105 produkcyjn\u0105, je\u017celi w wyniku ich u\u017cycia pozosta\u0142o\u015bci\ntych rozpuszczalnik\u00f3w lub ich pochodnych b\u0119d\u0105 wyst\u0119powa\u0142y w ilo\u015bciach technicznie\nnieuniknionych, kt\u00f3re nie stanowi\u0105 zagro\u017cenia dla zdrowia cz\u0142owieka.\n3.\nDo rafinacji oliwy z wyt\u0142ok\u00f3w z oliwek nie stosuje si\u0119 acetonu.\n\u00a7 4.\nWykaz rozpuszczalnik\u00f3w ekstrakcyjnych dopuszczonych do stosowania w produkcji \u017cywno\u015bci\nlub sk\u0142adnik\u00f3w \u017cywno\u015bci, dla kt\u00f3rych zosta\u0142y okre\u015blone warunki stosowania, oraz maksymalne\ndopuszczalne poziomy pozosta\u0142o\u015bci tych rozpuszczalnik\u00f3w w \u017cywno\u015bci lub w sk\u0142adnikach\n\u017cywno\u015bci s\u0105 okre\u015blone w tabeli nr 2 za\u0142\u0105cznika nr 1 do rozporz\u0105dzenia.\n\u00a7 5.\nWykaz rozpuszczalnik\u00f3w ekstrakcyjnych, kt\u00f3re mog\u0105 by\u0107 stosowane do produkcji aromat\u00f3w\nz naturalnych produkt\u00f3w posiadaj\u0105cych w\u0142a\u015bciwo\u015bci aromatyzuj\u0105ce, oraz maksymalne dopuszczalne\npoziomy pozosta\u0142o\u015bci tych rozpuszczalnik\u00f3w w \u017cywno\u015bci lub w sk\u0142adnikach \u017cywno\u015bci s\u0105\nokre\u015blone w tabeli nr 3 za\u0142\u0105cznika nr 1 do rozporz\u0105dzenia.\n\u00a7 6.\n1.\nNiedozwolone jest po\u0142\u0105czone u\u017cycie heksanu i ketonu metyloetylowego, wskazanych w\nwykazach, o kt\u00f3rych mowa w \u00a7 4 i \u00a7 5.\n2.\nMaksymalna dopuszczalna zawarto\u015b\u0107 n-heksanu w ketonie metylowym nie mo\u017ce przekracza\u0107\n50 mg/kg.\n\u00a7 7.\nSubstancje dodatkowe, witaminy i inne sk\u0142adniki od\u017cywcze mog\u0105 by\u0107 dodawane do \u017cywno\u015bci\npod warunkiem, \u017ce nie spowoduje to obecno\u015bci w \u015brodkach spo\u017cywczych pozosta\u0142o\u015bci rozpuszczalnik\u00f3w\nekstrakcyjnych, pochodz\u0105cych od tych substancji dodatkowych, witamin i innych sk\u0142adnik\u00f3w\nod\u017cywczych, na poziomie stanowi\u0105cym zagro\u017cenie dla zdrowia cz\u0142owieka.\n\u00a7 8.\nSpecyfikacja oraz kryteria czysto\u015bci dla 2-metylooksolanu s\u0105 okre\u015blone w za\u0142\u0105czniku\nnr 2 do rozporz\u0105dzenia.\n\u00a7 9.\n1.\nNa opakowaniu, pojemniku lub na etykiecie wprowadzanego do obrotu rozpuszczalnika\nekstrakcyjnego dopuszczonego do stosowania w produkcji \u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci\numieszcza si\u0119 sporz\u0105dzone w j\u0119zyku polskim nast\u0119puj\u0105ce informacje:\n1)\nnazw\u0119 rozpuszczalnika ekstrakcyjnego, okre\u015blon\u0105 w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia;\n2)\njednoznaczne wskazanie, \u017ce dana substancja lub materia\u0142 mog\u0105 by\u0107 stosowane w produkcji\n\u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci;\n3)\ndane umo\u017cliwiaj\u0105ce identyfikacj\u0119 partii lub serii rozpuszczalnika ekstrakcyjnego;\n4)\ndane identyfikuj\u0105ce podmiot dzia\u0142aj\u0105cy na rynku spo\u017cywczym, kt\u00f3ry produkuje lub pakuje\nrozpuszczalniki lub, je\u017celi jego dzia\u0142alno\u015b\u0107 jest zarejestrowana w pa\u0144stwie cz\u0142onkowskim\nUnii Europejskiej, wprowadza rozpuszczalniki do obrotu, obejmuj\u0105ce firm\u0119, a w przypadku\npodmiotu nieb\u0119d\u0105cego przedsi\u0119biorc\u0105 nazw\u0119 (imi\u0119 i nazwisko), oraz adres siedziby lub\nmiejsca zamieszkania;\n5)\nzawarto\u015b\u0107 rozpuszczalnika ekstrakcyjnego netto podan\u0105 w jednostkach obj\u0119to\u015bci;\n6)\nszczeg\u00f3lne warunki stosowania lub magazynowania rozpuszczalnika ekstrakcyjnego - je\u017celi\njest to konieczne ze wzgl\u0119du na bezpiecze\u0144stwo \u017cywno\u015bci.\n2.\nW przypadku umieszczenia informacji, o kt\u00f3rych mowa w ust. 1 pkt 3-6, w dokumentach\nhandlowych dotycz\u0105cych danej partii lub serii rozpuszczalnika ekstrakcyjnego dopuszczonego\ndo stosowania w produkcji \u017cywno\u015bci lub sk\u0142adnik\u00f3w \u017cywno\u015bci i dostarczenia tych dokument\u00f3w\nodbiorcy razem z dostaw\u0105 danego rozpuszczalnika ekstrakcyjnego lub wcze\u015bniej - mo\u017cna\nodst\u0105pi\u0107 od umieszczenia tych informacji na opakowaniu, pojemniku lub na etykiecie.\n3.\nW zakresie nieuregulowanym w ust. 1 i 2 do oznakowania rozpuszczalnik\u00f3w ekstrakcyjnych\nstosuje si\u0119 odpowiednio przepisy o znakowaniu \u015brodk\u00f3w spo\u017cywczych.\n\u00a7 10.\nTraci moc rozporz\u0105dzenie Ministra Zdrowia z dnia 4 wrze\u015bnia 2008 r. w sprawie rozpuszczalnik\u00f3w\nekstrakcyjnych, kt\u00f3re mog\u0105 by\u0107 stosowane w produkcji \u017cywno\u015bci\n(Dz. U. z 2020 r. poz. 1011).\n\u00a7 11.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\nZa\u0142\u0105cznik nr 1\n-\nWykazy substancji i materia\u0142\u00f3w dopuszczonych do stosowania w produkcji \u017cywno\u015bci lub\nsk\u0142adnik\u00f3w \u017cywno\u015bci jako rozpuszczalniki ekstrakcyjne 1) Zmiany wymienionego rozporz\u0105dzenia zosta\u0142y og\u0142oszone w Dz. Urz. UE L 338 z 22.12.2005,\nstr. 27, Dz. Urz. UE L 338 z 22.12.2005, str. 83, Dz. Urz. UE L 320 z 18.11.2006,\nstr. 1, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 281 z 25.10.2007, str.\n8, Dz. Urz. UE L 277 z 18.10.2008, str. 8, Dz. Urz. UE L 87 z 31.03.2009, str. 109,\nDz. Urz. UE L 178 z 09.07.2009, str. 25, Dz. Urz. UE L 314 z 01.12.2009, str. 8, Dz.\nUrz. UE L 159 z 25.06.2010, str. 18, Dz. Urz. UE L 46 z 19.02.2011, str. 14, Dz. Urz.\nUE L 327 z 09.12.2011, str. 39, Dz. Urz. UE L 8 z 12.01.2012, str. 29, Dz. Urz. UE\nL 158 z 10.06.2013, str. 1, Dz. Urz. UE L 160 z 12.06.2013, str. 15, Dz. Urz. UE L\n220 z 17.08.2013, str. 14, Dz. Urz. UE L 69 z 08.03.2014, str. 95, Dz. Urz. UE L 175\nz 14.06.2014, str. 6, Dz. Urz. UE L 307 z 28.10.2014, str. 28, Dz. Urz. UE L 67 z\n12.03.2016, str. 22, Dz. Urz. UE L 144 z 07.06.2017, str. 37, Dz. Urz. UE L 285 z\n01.11.2017, str. 3, Dz. Urz. UE L 285 z 01.11.2017, str. 10, Dz. Urz. UE L 45 z 17.02.2018,\nstr. 47, Dz. Urz. UE L 197 z 03.08.2018, str. 15, Dz. Urz. UE L 239 z 24.09.2018,\nstr. 41, Dz. Urz. UE L 42 z 13.02.2019, str. 35, Dz. Urz. UE L 43 z 14.02.2019, str.\n39, Dz. Urz. UE L 43 z 14.02.2019, str. 40, Dz. Urz. UE L 43 z 14.02.2019, str. 42,\nDz. Urz. UE L 43 z 14.02.2019, str. 43, Dz. Urz. UE L 43 z 14.02.2019, str. 44, Dz.\nUrz. UE L 43 z 14.02.2019, str. 45, Dz. Urz. UE L 43 z 14.02.2019, str. 46, Dz. Urz.\nUE L 198 z 25.07.2019, str. 241, Dz. Urz. UE L 434 z 23.12.2020, str. 10, Dz. Urz.\nUE L 297 z 20.08.2021, str. 1, Dz. Urz. UE L 357 z 08.10.2021, str. 27, Dz. Urz. UE\nL 299 z 18.11.2022, str. 5, Dz. Urz. UE L 2023/24 z 26.01.2023 oraz Dz. Urz. UE L\n2024/1141 z 19.04.2024.\nTabela 1.\nWykaz rozpuszczalnik\u00f3w ekstrakcyjnych dopuszczonych do stosowania w produkcji \u017cywno\u015bci\nlub sk\u0142adnik\u00f3w \u017cywno\u015bci zgodnie z dobr\u0105 praktyk\u0105 produkcyjn\u0105\nLp.\nNazwa rozpuszczalnika ekstrakcyjnego\n1\nAceton\n2\nButan\n3\nDwutlenek w\u0119gla\n4\nEtanol\n5\nOctan etylu\n6\nPodtlenek azotu\n7\nPropan\nTabela 2.\nWykaz rozpuszczalnik\u00f3w ekstrakcyjnych dopuszczonych do stosowania w produkcji \u017cywno\u015bci\nlub sk\u0142adnik\u00f3w \u017cywno\u015bci, dla kt\u00f3rych zosta\u0142y okre\u015blone warunki stosowania, oraz maksymalne\ndopuszczalne poziomy pozosta\u0142o\u015bci tych rozpuszczalnik\u00f3w w \u017cywno\u015bci lub w sk\u0142adnikach\n\u017cywno\u015bci\nLp.\nNazwa rozpuszczalnika ekstrakcyjnego\nWarunki stosowania\nMaksymalna pozosta\u0142o\u015b\u0107 w \u017cywno\u015bci lub w sk\u0142adnikach \u017cywno\u015bci\n1\nHeksan 1)\nProdukcja lub frakcjonowanie t\u0142uszcz\u00f3w i olej\u00f3w lub produkcja t\u0142uszczu kakaowego\n1 mg/kg w t\u0142uszczu, oleju lub w t\u0142uszczu kakaowym\nPrzygotowanie odt\u0142uszczonych produkt\u00f3w bia\u0142kowych i odt\u0142uszczonej m\u0105ki\n10 mg/kg w \u017cywno\u015bci zawieraj\u0105cej odt\u0142uszczone produkty bia\u0142kowe i odt\u0142uszczon\u0105 m\u0105k\u0119\n30 mg/kg w odt\u0142uszczonych produktach sojowych w postaci sprzedawanej finalnemu konsumentowi\nPrzygotowanie odt\u0142uszczonych zarodk\u00f3w zb\u00f3\u017c\n5 mg/kg w odt\u0142uszczonych zarodkach zb\u00f3\u017c\n2\n2-metylooksolan\nProdukcja lub frakcjonowanie t\u0142uszcz\u00f3w i olej\u00f3w lub produkcja t\u0142uszczu kakaowego\n1 mg/kg w t\u0142uszczu, oleju lub w t\u0142uszczu kakaowym\nPrzygotowanie odt\u0142uszczonych produkt\u00f3w bia\u0142kowych i odt\u0142uszczonej m\u0105ki\n10 mg/kg w \u017cywno\u015bci zawieraj\u0105cej odt\u0142uszczone produkty bia\u0142kowe i odt\u0142uszczon\u0105 m\u0105k\u0119\n30 mg/kg w odt\u0142uszczonych produktach sojowych w postaci sprzedawanej finalnemu konsumentowi\nPrzygotowanie odt\u0142uszczonych zarodk\u00f3w zb\u00f3\u017c\n5 mg/kg w odt\u0142uszczonych zarodkach zb\u00f3\u017c\n3\nOctan metylu\nProdukcja kawy i herbaty bezkofeinowej oraz kawy i herbaty pozbawionej substancji\ndra\u017cni\u0105cych i zgorzkniaj\u0105cych\n20 mg/kg w kawie lub herbacie\nProdukcja cukru z melasy\n1 mg/kg w cukrze\n4\nKeton metyloetylowy\nFrakcjonowanie t\u0142uszcz\u00f3w i olej\u00f3w\n5 mg/kg w t\u0142uszczu lub oleju\nProdukcja kawy i herbaty bezkofeinowej oraz kawy i herbaty pozbawionej substancji\ndra\u017cni\u0105cych i zgorzkniaj\u0105cych\n20 mg/kg w kawie lub herbacie\n5\nDichlorometan (chlorek metylenu)\nProdukcja kawy i herbaty bezkofeinowej oraz kawy i herbaty pozbawionej substancji\ndra\u017cni\u0105cych i zgorzkniaj\u0105cych\n2 mg/kg w kawie palonej i 5 mg/kg w herbacie\n6\nMetanol\nDo wszystkich zastosowa\u0144\n10 mg/kg\n7\nPropan-2-ol\nDo wszystkich zastosowa\u0144\n10 mg/kg\n8\nEter dimetylowy\nPrzygotowanie odt\u0142uszczonych bia\u0142kowych produkt\u00f3w zwierz\u0119cych, w\u0142\u0105cznie z \u017celatyn\u0105 2)\n0,009 mg/kg w odt\u0142uszczonych bia\u0142kowych produktach zwierz\u0119cych, w\u0142\u0105cznie z \u017celatyn\u0105\nPrzygotowanie kolagenu 3) i pochodnych kolagenu, z wyj\u0105tkiem \u017celatyny\n3 mg/kg w kolagenie i pochodnych kolagenu, z wyj \u0105tkiem \u017celatyny\nObja\u015bnienia:\n1) Heksan oznacza produkt handlowy sk\u0142adaj\u0105cy si\u0119 g\u0142\u00f3wnie z acyklicznych nasyconych\nw\u0119glowodor\u00f3w, zawieraj\u0105cych 6 atom\u00f3w w\u0119gla i podlegaj\u0105cych destylacji w temperaturze\nmi\u0119dzy 64 \u00b0C a 70 \u00b0C.\n2) \u017belatyna oznacza naturalne rozpuszczalne bia\u0142ko, \u017celuj\u0105ce lub nie\u017celuj\u0105ce, uzyskane\nw wyniku cz\u0119\u015bciowej hydrolizy kolagenu pochodz\u0105cego z ko\u015bci, sk\u00f3ry i sk\u00f3rek oraz \u015bci\u0119gien\nzwierz\u0105t zgodnie z odpowiednimi wymogami rozporz\u0105dzenia (WE) nr 853/2004 Parlamentu\nEuropejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiaj\u0105cego szczeg\u00f3lne przepisy\ndotycz\u0105ce higieny w odniesieniu do \u017cywno\u015bci pochodzenia zwierz\u0119cego (Dz. Urz. UE L\n139 z 30.04.2004, str. 55, z p\u00f3\u017an. zm. 1) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanego dalej\n\u201erozporz\u0105dzeniem nr 853/2004\u201d.\n3) Kolagen oznacza produkt na bazie bia\u0142ka pochodz\u0105cy ze zwierz\u0119cych ko\u015bci, sk\u00f3r, sk\u00f3rek\ni \u015bci\u0119gien, wytworzony zgodnie z odpowiednimi wymogami rozporz\u0105dzenia nr 853/2004.\nTabela 3.\nWykaz rozpuszczalnik\u00f3w ekstrakcyjnych, kt\u00f3re mog\u0105 by\u0107 stosowane do produkcji aromat\u00f3w\nz naturalnych produkt\u00f3w posiadaj\u0105cych w\u0142a\u015bciwo\u015bci aromatyzuj\u0105ce, oraz maksymalne dopuszczalne\npoziomy pozosta\u0142o\u015bci tych rozpuszczalnik\u00f3w w \u017cywno\u015bci lub w sk\u0142adnikach \u017cywno\u015bci\nLp.\nNazwa rozpuszczalnika ekstrakcyjnego\nMaksymalna pozosta\u0142o\u015b\u0107 w \u017cywno\u015bci lub w sk\u0142adnikach \u017cywno\u015bci\n1\n1,1,1,2-tetrafluoroetan\n0,02 mg/kg\n2\n2-metylooksolan\n1 mg/kg\n3\nButan-l-ol\n1 mg/kg\n4\nButan-2-ol\n1 mg/kg\n5\nCykloheksan\n1 mg/kg\n6\nDichlorometan (chlorek metylenu)\n0,02 mg/kg\n7\nEter dietylowy\n2 mg/kg\n8\nHeksan\n1 mg/kg\n9\nKeton metyloetylowy\n1 mg/kg\n10\nMetanol\n1,5 mg/kg\n11\nOctan metylu\n1 mg/kg\n12\nPropan-1-ol\n1 mg/kg\n13\nPropan-2-ol\n1 mg/kg\nZa\u0142\u0105cznik nr 2\n-\nSpecyfikacja i kryteria czysto\u015bci dla 2-metylooksolanu\nNazwa rozpuszczalnika ekstrakcyjnego\nNR CAS *\nOznaczenie zawarto\u015bci\nCzysto\u015b\u0107\n2-metylooksolan\n96-47-9\nNie mniej ni\u017c 99,9 % w przeliczeniu na such\u0105 mas\u0119\nFuran\nNie wi\u0119cej ni\u017c 50 mg/kg (w przeliczeniu na such\u0105 mas\u0119)\n2-metylofuran\nNie wi\u0119cej ni\u017c 500 mg/kg (w przeliczeniu na such\u0105 mas\u0119)\nEtanol\nNie wi\u0119cej ni\u017c 450 mg/kg (w przeliczeniu na such\u0105 mas\u0119)\nObja\u015bnienie:\n* NR CAS oznacza mi\u0119dzynarodowy, unikalny identyfikator substancji chemicznej nadawany\nprzez Chemical Abstracts Service (CAS), kt\u00f3ry jest cz\u0119\u015bci\u0105 Ameryka\u0144skiego Towarzystwa\nChemicznego. Ka\u017cda substancja chemiczna posiada jeden unikalny numer identyfikacyjny,\nniezale\u017cnie od stosowanych nazw chemicznych i zwyczajowych."
+    },
+    "meta": {},
+    "created_at": "2026-10-08T14:35:50.718565Z",
+    "updated_at": "2026-10-08T14:35:50.718585Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 24,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-13T08:52:06.158133Z",
+  "updated_at": "2026-10-13T08:52:06.158165Z",
+  "draft_created_at": "2026-10-13T08:40:54.685328Z",
+  "lead_time": 356.012,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
