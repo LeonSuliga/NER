@@ -1,0 +1,1896 @@
+{
+  "id": 109,
+  "result": [
+    {
+      "value": {
+        "start": 306,
+        "end": 307,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "A3aiLDSUdZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 308,
+        "end": 309,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "C6tpBl7Lr3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 310,
+        "end": 314,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "CBfr4NkH3v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 315,
+        "end": 316,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "MPN0-i0nwq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 317,
+        "end": 320,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "XKFVxvOkb2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 321,
+        "end": 322,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "fPnnrIhr6-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 460,
+        "end": 471,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kDcYEj62aS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 472,
+        "end": 476,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "qazbeIshjI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1927,
+        "end": 1931,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3SJlhp4VNx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1932,
+        "end": 1934,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "WedtM2c-4b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1935,
+        "end": 1939,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "o7RFvo95oB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1940,
+        "end": 1941,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-l0Lq5p70x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2041,
+        "end": 2062,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "gB8IwzriHC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2063,
+        "end": 2067,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hwXHmIWiIm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2271,
+        "end": 2282,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bI2TUHFHOV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2283,
+        "end": 2287,
+        "text": "2279",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "P2jELxa0bM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2492,
+        "end": 2503,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ROq2iLtSwN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2504,
+        "end": 2508,
+        "text": "2131",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KqhIh9SXBa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2607,
+        "end": 2608,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "y-j749ZDs_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2609,
+        "end": 2610,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "5bLuhVglmE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2776,
+        "end": 2787,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "77OClB4GrP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2788,
+        "end": 2792,
+        "text": "2131",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OsN6e3PaA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3203,
+        "end": 3204,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "IZIownn6zY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3205,
+        "end": 3206,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "tLF905yzDK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3207,
+        "end": 3211,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "kkfxiFPBQe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3212,
+        "end": 3213,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "kF5ytB3yJ3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3214,
+        "end": 3217,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "KcdNEi_6-t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3218,
+        "end": 3219,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "D9OyahcEM3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3357,
+        "end": 3368,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bHcyV6NUHl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3369,
+        "end": 3373,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ch60h8c6AH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3582,
+        "end": 3595,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "z0rYmEhE4g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3596,
+        "end": 3599,
+        "text": "152",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BCZoTJ6VNq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3626,
+        "end": 3639,
+        "text": "Dz.\nUrz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kYMQ-rJDor",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3640,
+        "end": 3643,
+        "text": "226",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "aqmUtEf9p_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3863,
+        "end": 3876,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Z51KEn3q4d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3877,
+        "end": 3879,
+        "text": "23",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "puvt2VfU5I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3902,
+        "end": 3915,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kJZqAKKDQy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3916,
+        "end": 3918,
+        "text": "87",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Cjtp1QtDLK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3947,
+        "end": 3960,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DIoUEhZRLw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3961,
+        "end": 3964,
+        "text": "226",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LCgFOfrll8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4292,
+        "end": 4305,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xpC0m3XAiD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4306,
+        "end": 4309,
+        "text": "226",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0Zc9mQNE-1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4336,
+        "end": 4349,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "s58R8dQdP0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4350,
+        "end": 4352,
+        "text": "72",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tNrR_5NNR6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4391,
+        "end": 4395,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "4ntu2YRB54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4396,
+        "end": 4398,
+        "text": "90",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Cv0MyjDZ7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4399,
+        "end": 4403,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "rVUavCEi9y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4404,
+        "end": 4405,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Gn0l9RjYNU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4468,
+        "end": 4489,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "45AIyFZLuJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4490,
+        "end": 4492,
+        "text": "54",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "aD9ig3ODWe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4495,
+        "end": 4498,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PO9Xv7Y8rU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6050,
+        "end": 6054,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "rt0lg1cVn7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6055,
+        "end": 6057,
+        "text": "89",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "LK_7qH5q3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6185,
+        "end": 6189,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "oRxb_-lTsc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6190,
+        "end": 6192,
+        "text": "87",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OfGggrKcUS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6193,
+        "end": 6197,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "2XleJceY-J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6198,
+        "end": 6199,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Q0nUDEStH4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7243,
+        "end": 7244,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "HEG090lE92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7245,
+        "end": 7246,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "naBR0p7e92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7247,
+        "end": 7250,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "4PJ9T9avau",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7251,
+        "end": 7252,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "GnW6YuYT9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7418,
+        "end": 7429,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "fsb07pQ8u2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7430,
+        "end": 7434,
+        "text": "2131",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1bp5kIdLHm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7792,
+        "end": 7796,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lFybpKg-P5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7797,
+        "end": 7798,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "y7HRr4G6ZU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7799,
+        "end": 7802,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Tp3qifFY9m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7803,
+        "end": 7804,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "xg8i8gTMwx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7805,
+        "end": 7806,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "sbvjDh0vxr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8074,
+        "end": 8078,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1rA4UFWktj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8079,
+        "end": 8081,
+        "text": "89",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "SBh3dqEzya",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9046,
+        "end": 9047,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Z3F5N1FBjY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9048,
+        "end": 9049,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "rPkBfloomU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9050,
+        "end": 9054,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Y_eNfcwR0i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9055,
+        "end": 9056,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1R7Sfd6Twe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11340,
+        "end": 11343,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "3gD1RWckDG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11344,
+        "end": 11345,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "yZgfmrSzD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11644,
+        "end": 11647,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "P5-ovl5q2j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11648,
+        "end": 11649,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "sHD7umS4fv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11652,
+        "end": 11653,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "QYilKVn31-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11794,
+        "end": 11797,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "YN6OW77lka",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11798,
+        "end": 11799,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "2JqOX0Fmrs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13582,
+        "end": 13586,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lvLdJQZuLi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13587,
+        "end": 13588,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ZkY0xzinVf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13935,
+        "end": 13939,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "_MeUToNVji",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13940,
+        "end": 13942,
+        "text": "88",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "c30um5coCS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13943,
+        "end": 13947,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "E7WpuSNW2N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13948,
+        "end": 13949,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "p3suWEMCiH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14852,
+        "end": 14853,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mhKxB9TKaO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14854,
+        "end": 14855,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "O3PCIa8ebp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14856,
+        "end": 14860,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dzImmz4-OM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14861,
+        "end": 14862,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "yzdrgFHmbt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14895,
+        "end": 14899,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "wRlLhUrd-a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14900,
+        "end": 14901,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zt-IgLNLvx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14904,
+        "end": 14905,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "33QWDwymIs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14950,
+        "end": 14954,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dAAOnOlYdY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14955,
+        "end": 14956,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "nmiOxj6CeO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14959,
+        "end": 14960,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "0r3U3O803h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16925,
+        "end": 16929,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "JaYCDOmBTW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16930,
+        "end": 16931,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "eazlwL8Mri",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17903,
+        "end": 17907,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "J67g6yVi1i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17908,
+        "end": 17909,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "pfwf2YHjsQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17911,
+        "end": 17912,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2aOrAwSahQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17915,
+        "end": 17916,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Lpc01bVNmN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17985,
+        "end": 17986,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ZYmKFlbezx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17987,
+        "end": 17989,
+        "text": "13",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "BhorlEnHOY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18313,
+        "end": 18317,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "p1qwrQrrHp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18318,
+        "end": 18319,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Fn4VVTVK76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19892,
+        "end": 19896,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "2QROjdbkPS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19897,
+        "end": 19898,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9kqEbKOdDw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20557,
+        "end": 20568,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "JnCyROf364",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20569,
+        "end": 20572,
+        "text": "314",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "wrD0dnsQwt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20605,
+        "end": 20609,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "xGovd_55hN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20610,
+        "end": 20611,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Hnp2_vDueo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20881,
+        "end": 20885,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pdK0R-EjAz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20886,
+        "end": 20887,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "JUn2WHgSNW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21829,
+        "end": 21840,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "6kD_pTIW-4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21841,
+        "end": 21845,
+        "text": "1119",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2zFYVwcR3M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21864,
+        "end": 21868,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "cvJWlUb27l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21869,
+        "end": 21871,
+        "text": "28",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "iSUWZedH6P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21872,
+        "end": 21876,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "oyeshx_CK0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21877,
+        "end": 21878,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "N7VKd4ZHwW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21988,
+        "end": 21999,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vae3z0E7Xo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22000,
+        "end": 22004,
+        "text": "1479",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "k4Nhmr9jNl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 9,
+    "data": {
+      "text": "Obwieszczenie Ministra Klimatu i \u015arodowiska z dnia 6 maja 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska\nw sprawie dokonywania oceny poziom\u00f3w substancji w powietrzu 1) Minister Klimatu i \u015arodowiska kieruje dzia\u0142em administracji rz\u0105dowej - klimat, na\npodstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz.\nU. poz. 2726).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Klimatu i \u015arodowiska z dnia 11 grudnia 2020 r. w sprawie dokonywania\noceny poziom\u00f3w substancji w powietrzu\nZa\u0142\u0105cznik nr 1 - Wymagania dotycz\u0105ce jako\u015bci pomiar\u00f3w i innych metod oceny jako\u015bci powietrza\nZa\u0142\u0105cznik nr 2 - G\u00f3rne i dolne progi oszacowania dla benzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku\nsiarki, ozonu, tlenku w\u0119gla, py\u0142u zawieszonego PM2,5, py\u0142u zawieszonego PM10 oraz\no\u0142owiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 oraz dopuszczalne\ncz\u0119sto\u015bci ich przekraczania na potrzeby ustalania metody oceny poziom\u00f3w substancji\nw powietrzu\nZa\u0142\u0105cznik nr 3 - Kryteria lokalizacji punkt\u00f3w pomiarowych\nZa\u0142\u0105cznik nr 4 - Minimalna liczba sta\u0142ych stanowisk pomiarowych\nZa\u0142\u0105cznik nr 5 - Wykaz substancji, kt\u00f3re przyczyniaj\u0105 si\u0119 do tworzenia ozonu przyziemnego w powietrzu\nZa\u0142\u0105cznik nr 6 - Zakres pomiar\u00f3w sk\u0142adu chemicznego py\u0142u zawieszonego PM2,5 i py\u0142u zawieszonego PM10,\nrt\u0119ci ca\u0142kowitej w stanie gazowym oraz depozycji ca\u0142kowitej substancji wspomagaj\u0105cych\nocen\u0119 jako\u015bci powietrza na obszarach t\u0142a regionalnego\nZa\u0142\u0105cznik nr 7 - Metodyki referencyjne\nZa\u0142\u0105cznik nr 8 - Dokumentacja dotycz\u0105ca uzasadnienia lokalizacji punkt\u00f3w pomiarowych, w tym jej zakres\nZa\u0142\u0105cznik nr 9 - Kryteria kontroli poprawno\u015bci danych dotycz\u0105cych substancji w powietrzu w trakcie\nich agregacji i obliczania parametr\u00f3w statystycznych dla substancji\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 11 grudnia 2020 r. w sprawie dokonywania\noceny poziom\u00f3w substancji w powietrzu\n(Dz. U. poz. 2279), z uwzgl\u0119dnieniem zmian wprowadzonych rozporz\u0105dzeniem Ministra Klimatu i \u015arodowiska z dnia 3 pa\u017adziernika 2022 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie dokonywania oceny poziom\u00f3w substancji w powietrzu\n(Dz. U. poz. 2131).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 3 pa\u017adziernika 2022 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie dokonywania oceny poziom\u00f3w substancji w powietrzu\n(Dz. U. poz. 2131), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Klimatu i \u015arodowiska z dnia 11 grudnia 2020 r. w sprawie dokonywania\noceny poziom\u00f3w substancji w powietrzu 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - klimat kieruje Minister Klimatu i \u015arodowiska, na podstawie\n\u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz. U. poz.\n2726).\n2) Niniejsze rozporz\u0105dzenie w zakresie swojej regulacji wdra\u017ca: 1) dyrektyw\u0119 Parlamentu\nEuropejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jako\u015bci powietrza\ni czystszego powietrza dla Europy (Dz. Urz. UE L 152 z 11.06.2008, str. 1 oraz Dz.\nUrz. UE L 226 z 29.08.2015, str. 4); 2) dyrektyw\u0119 2004/107/WE Parlamentu Europejskiego\ni Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rt\u0119ci, niklu i wielopier\u015bcieniowych\nw\u0119glowodor\u00f3w aromatycznych w otaczaj\u0105cym powietrzu (Dz. Urz. UE L 23 z 26.01.2005,\nstr. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109 oraz Dz. Urz. UE L 226 z 29.08.2015,\nstr. 4); 3) dyrektyw\u0119 Komisji (UE) 2015/1480 z dnia 28 sierpnia 2015 r. zmieniaj\u0105c\u0105\nniekt\u00f3re za\u0142\u0105czniki do dyrektyw Parlamentu Europejskiego i Rady 2004/107/WE i 2008/50/WE\nustanawiaj\u0105cych przepisy dotycz\u0105ce metod referencyjnych, zatwierdzania danych i lokalizacji\npunkt\u00f3w pomiarowych do oceny jako\u015bci powietrza (Dz. Urz. UE L 226 z 29.08.2015, str.\n4 oraz Dz. Urz. UE L 72 z 14.03.2019, str. 141).\nNa podstawie art. 90 ust. 3 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony \u015brodowiska\n(Dz. U. z 2024 r. poz. 54 i 834) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nmetody i zakres dokonywania oceny poziom\u00f3w substancji w powietrzu;\n2)\nwymagania dotycz\u0105ce jako\u015bci pomiar\u00f3w i innych metod oceny jako\u015bci powietrza, w tym\nmodelowania matematycznego transportu i przemian substancji w powietrzu;\n3)\ng\u00f3rne i dolne progi oszacowania dla niekt\u00f3rych substancji w powietrzu oraz dopuszczaln\u0105\ncz\u0119sto\u015b\u0107 ich przekraczania;\n4)\nzakresy wymaganych pomiar\u00f3w, z podzia\u0142em na pomiary ci\u0105g\u0142e oraz wska\u017anikowe;\n5)\nkryteria lokalizacji punkt\u00f3w pomiarowych oraz wymagania dotycz\u0105ce reprezentatywno\u015bci\nstanowisk pomiarowych;\n6)\nminimaln\u0105 liczb\u0119 sta\u0142ych stanowisk pomiarowych z uwzgl\u0119dnieniem \u017ar\u00f3de\u0142 emisji;\n7)\nprzypadki, gdy ocena jako\u015bci powietrza:\na)\npowinna by\u0107 dokonywana metodami pomiarowymi,\nb)\nmo\u017ce by\u0107 dokonywana:\n-\nprzy zastosowaniu kombinacji metod pomiarowych i metod modelowania matematycznego\ntransportu i przemian substancji w powietrzu,\n-\nmetodami modelowania matematycznego transportu i przemian substancji w powietrzu lub\ninnymi metodami szacowania;\n8)\nmetodyki referencyjne;\n9)\nwymagania dotycz\u0105ce dokumentacji dotycz\u0105cej uzasadnienia lokalizacji punkt\u00f3w pomiarowych,\nw tym jej zakres;\n10)\nkryteria kontroli poprawno\u015bci danych dotycz\u0105cych substancji w powietrzu w trakcie\nich agregacji i obliczania parametr\u00f3w statystycznych dla substancji w powietrzu;\n11)\nzakres i cel prowadzenia pomiar\u00f3w wspomagaj\u0105cych ocen\u0119 jako\u015bci powietrza, w szczeg\u00f3lno\u015bci\nzakres prowadzenia analiz sk\u0142adu chemicznego py\u0142u.\n\u00a7 2.\n1.\nOceny poziom\u00f3w substancji w powietrzu, o kt\u00f3rej mowa w art. 89 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony \u015brodowiska, zwanej dalej \u201eustaw\u0105\u201d, dokonuje si\u0119 w strefach, o kt\u00f3rych mowa w art. 87 ust. 2\nustawy, zwanych dalej \u201estrefami\u201d, w odniesieniu do:\n1)\ndopuszczalnych poziom\u00f3w substancji w powietrzu powi\u0119kszonych o margines tolerancji;\n2)\ndopuszczalnych poziom\u00f3w substancji w powietrzu;\n3)\ndocelowych poziom\u00f3w substancji w powietrzu;\n4)\npoziom\u00f3w cel\u00f3w d\u0142ugoterminowych substancji w powietrzu.\n2.\nOceny poziom\u00f3w substancji w powietrzu dokonuje si\u0119 ze wzgl\u0119du na ochron\u0119 zdrowia ludzi\noraz ochron\u0119 ro\u015blin.\n3.\nOceny poziom\u00f3w substancji w powietrzu ze wzgl\u0119du na ochron\u0119 zdrowia ludzi dokonuje\nsi\u0119 w zakresie dwutlenku siarki, dwutlenku azotu, tlenku w\u0119gla, py\u0142u zawieszonego\nPM2,5, py\u0142u zawieszonego PM10, benzenu i ozonu w powietrzu oraz o\u0142owiu, arsenu, kadmu,\nniklu i benzo(a)pirenu w pyle zawieszonym PM10, w strefach na terytorium Rzeczypospolitej\nPolskiej, z wy\u0142\u0105czeniem:\n1)\nteren\u00f3w zamkni\u0119tych lub instalacji przemys\u0142owych;\n2)\nmiejsc niezamieszka\u0142ych, do kt\u00f3rych obowi\u0105zuje zakaz wst\u0119pu;\n3)\njezdni dr\u00f3g i pas\u00f3w dziel\u0105cych drogi, z wyj\u0105tkiem sytuacji, w kt\u00f3rej piesi maj\u0105 dost\u0119p\ndo pasa dziel\u0105cego drog\u0119.\n4 3) W brzmieniu ustalonym przez \u00a7 1 pkt 1 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska\nz dnia 3 pa\u017adziernika 2022 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie dokonywania oceny\npoziom\u00f3w substancji w powietrzu (Dz. U. poz. 2131), kt\u00f3re wesz\u0142o w \u017cycie z dniem 2\nlistopada 2022 r..\nOceny poziom\u00f3w substancji w powietrzu ze wzgl\u0119du na ochron\u0119 ro\u015blin dokonuje si\u0119 w\nzakresie dwutlenku siarki, tlenk\u00f3w azotu i ozonu w strefach na terytorium Rzeczypospolitej\nPolskiej stanowi\u0105cych pozosta\u0142y obszar wojew\u00f3dztwa niewchodz\u0105cy w sk\u0142ad aglomeracji\ni miast, z wy\u0142\u0105czeniem miejsc, o kt\u00f3rych mowa w ust. 3 pkt 1-3.\n\u00a7 3.\n1.\nMetodami dokonywania oceny poziom\u00f3w substancji w powietrzu s\u0105 pomiary ci\u0105g\u0142e, pomiary\nwska\u017anikowe oraz metody szacowania, w tym modelowanie matematyczne transportu i przemian\nsubstancji w powietrzu.\n2.\nDla strefy, w kt\u00f3rej ocena jako\u015bci powietrza, zgodnie z art. 89 ustawy, by\u0142a wykonana\nmetodami innymi ni\u017c pomiary, gromadzi si\u0119:\n1)\nopis czynno\u015bci wykonywanych w zwi\u0105zku z ocen\u0105 jako\u015bci powietrza;\n2)\nopis zastosowanych metod w ocenie jako\u015bci powietrza;\n3)\ninformacje o \u017ar\u00f3d\u0142ach danych i informacje wykorzystane w ocenie jako\u015bci powietrza;\n4)\nopis wynik\u00f3w oceny jako\u015bci powietrza wraz z niepewno\u015bci\u0105;\n5)\nw przypadku strefy, w kt\u00f3rej st\u0119\u017cenie substancji wyst\u0119puj\u0105cych w powietrzu przekracza\npoziomy dopuszczalne, poziomy docelowe lub poziom celu d\u0142ugoterminowego - informacje\no:\na)\nzasi\u0119gu terytorialnym ka\u017cdego z obszar\u00f3w przekrocze\u0144,\nb)\nd\u0142ugo\u015bci drogi przebiegaj\u0105cej przez stref\u0119 - w przypadku przekrocze\u0144 spowodowanych\noddzia\u0142ywaniem komunikacji;\n6)\ninformacje dotycz\u0105ce liczby ludno\u015bci potencjalnie nara\u017conej na dzia\u0142anie st\u0119\u017ce\u0144 substancji\nwyst\u0119puj\u0105cych w powietrzu, przekraczaj\u0105cych poziomy dopuszczalne, poziomy docelowe\ni poziomy cel\u00f3w d\u0142ugoterminowych, ustanowione dla ochrony zdrowia ludzi.\n\u00a7 4.\nMetody, o kt\u00f3rych mowa w \u00a7 3 ust. 1, spe\u0142niaj\u0105 wymagania dotycz\u0105ce jako\u015bci pomiar\u00f3w\ni innych metod oceny jako\u015bci powietrza i okre\u015bla je za\u0142\u0105cznik nr 1 do rozporz\u0105dzenia.\n\u00a7 5.\n1.\nW celu zagwarantowania dok\u0142adno\u015bci pomiar\u00f3w i zgodno\u015bci z wymaganiami dotycz\u0105cymi\njako\u015bci pomiar\u00f3w, o kt\u00f3rych mowa w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia, nale\u017cy spe\u0142ni\u0107\nnast\u0119puj\u0105ce warunki:\n1)\nwszystkie pomiary w zakresie oceny jako\u015bci powietrza, ustanowione na podstawie g\u00f3rnych\ni dolnych prog\u00f3w oszacowania, powinny mie\u0107 wykazan\u0105 sp\u00f3jno\u015b\u0107 pomiarow\u0105, zgodnie z\nwymogami okre\u015blonymi w normie PN-EN ISO/IEC 17025 \u201eOg\u00f3lne wymagania dotycz\u0105ce laboratori\u00f3w\nbadawczych i wzorcuj\u0105cych\u201d;\n2)\ninstytucje obs\u0142uguj\u0105ce sieci i poszczeg\u00f3lne punkty pomiarowe powinny posiada\u0107 wdro\u017cone\nsystemy zapewniania i kontroli jako\u015bci, kt\u00f3re gwarantuj\u0105 okresowe przegl\u0105dy zapewniaj\u0105ce\ndok\u0142adno\u015b\u0107 urz\u0105dze\u0144 pomiarowych, a tak\u017ce maj\u0105 ustalone procedury zapewniania i kontroli\njako\u015bci pomiar\u00f3w w zakresie prowadzenia pomiar\u00f3w, zbierania danych i przygotowywania\nsprawozda\u0144;\n3)\nkrajowe laboratorium referencyjne do spraw jako\u015bci powietrza atmosferycznego, jako\norganizator por\u00f3wna\u0144 mi\u0119dzylaboratoryjnych i bada\u0144 bieg\u0142o\u015bci na szczeblu krajowym,\npowinno by\u0107 akredytowane zgodnie z norm\u0105 PN-EN ISO/ IEC 17043 \u201eOcena zgodno\u015bci - Og\u00f3lne\nwymagania dotycz\u0105ce badania bieg\u0142o\u015bci\u201d oraz norm\u0105 PN-EN ISO/IEC 17025 \u201eOg\u00f3lne wymagania\ndotycz\u0105ce laboratori\u00f3w badawczych i wzorcuj\u0105cych\u201d w zakresie metodyk referencyjnych\ndla pomiar\u00f3w zanieczyszczenia powietrza: dwutlenkiem siarki, dwutlenkiem azotu i tlenkami\nazotu, o\u0142owiem, py\u0142em zawieszonym PM2,5 i py\u0142em zawieszonym PM10, benzenem, tlenkiem\nw\u0119gla i ozonem - przynajmniej w odniesieniu do tych zanieczyszcze\u0144, dla kt\u00f3rych st\u0119\u017cenia\nprzekraczaj\u0105 dolny pr\u00f3g oszacowania;\n4)\nurz\u0105dzenia pomiarowe:\na)\npracuj\u0105 w oparciu o metodyki referencyjne w zakresie pomiar\u00f3w zanieczyszczenia powietrza:\ndwutlenkiem siarki, dwutlenkiem azotu i tlenkami azotu, o\u0142owiem, py\u0142em zawieszonym\nPM2,5 i py\u0142em zawieszonym PM10, benzenem, tlenkiem w\u0119gla i ozonem, okre\u015blone w za\u0142\u0105czniku\nnr 7 do rozporz\u0105dzenia,\nb)\nspe\u0142niaj\u0105 wymagania dotycz\u0105ce skuteczno\u015bci w odniesieniu do warunk\u00f3w \u015brodowiskowych\ni lokalizacji charakterystycznych dla terytorium Rzeczypospolitej Polskiej;\n5)\nje\u017celi badania potwierdzaj\u0105ce, \u017ce urz\u0105dzenia pomiarowe spe\u0142niaj\u0105 wymagania okre\u015blone\nw pkt 4, zosta\u0142y wykonane w innym pa\u0144stwie cz\u0142onkowskim Unii Europejskiej, sprawozdania\nz tych bada\u0144 musz\u0105 by\u0107 wykonane przez laboratorium badawcze akredytowane w momencie\nwykonywania tych bada\u0144, zgodnie z norm\u0105 EN ISO/IEC 17025, w zakresie przeprowadzanych\nbada\u0144;\n6)\nspe\u0142nienie warunk\u00f3w, o kt\u00f3rych mowa w pkt 4 i 5, zosta\u0142o potwierdzone przez krajowe\nlaboratorium referencyjne do spraw jako\u015bci powietrza atmosferycznego;\n7)\npotwierdzenie, o kt\u00f3rym mowa w pkt 6, zosta\u0142o udost\u0119pnione przez krajowe laboratorium\nreferencyjne do spraw jako\u015bci powietrza atmosferycznego.\n2.\nDopuszcza si\u0119 stosowanie metodyk innych ni\u017c referencyjne pod warunkiem wykazania,\n\u017ce metodyka taka daje r\u00f3wnowa\u017cne wyniki w por\u00f3wnaniu z metodykami referencyjnymi.\n3.\nW przypadku py\u0142u zawieszonego PM10 i py\u0142u zawieszonego PM2,5, w celu wykazania odpowiedniego\npoziomu por\u00f3wnywalno\u015bci danych metodyki r\u00f3wnowa\u017cnej do metodyki referencyjnej, nale\u017cy\nstosowa\u0107 norm\u0119 PN-EN 16450:2017-05 \u201ePowietrze atmosferyczne - Automatyczne systemy\npomiarowe do pomiar\u00f3w st\u0119\u017cenia py\u0142u zawieszonego (PM10; PM2,5)\u201d. Wyniki uzyskane za\npomoc\u0105 metodyki r\u00f3wnowa\u017cnej do metodyki referencyjnej nale\u017cy skorygowa\u0107 (wsteczna\nkorekta), aby uzyskane wyniki by\u0142y r\u00f3wnowa\u017cne z tymi, kt\u00f3re otrzymano za pomoc\u0105 metodyki\nreferencyjnej.\n\u00a7 6.\n1.\nG\u00f3rne i dolne progi oszacowania dla benzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku\nsiarki, ozonu, tlenku w\u0119gla, py\u0142u zawieszonego PM2,5, py\u0142u zawieszonego PM10 oraz\no\u0142owiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 oraz dopuszczalne\ncz\u0119sto\u015bci ich przekraczania na potrzeby ustalania metody oceny poziom\u00f3w substancji\nw powietrzu okre\u015bla za\u0142\u0105cznik nr 2 do rozporz\u0105dzenia.\n2.\nDolny lub g\u00f3rny pr\u00f3g oszacowania uznaje si\u0119 za przekroczony w przypadku:\n1)\nbenzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku siarki, tlenku w\u0119gla, py\u0142u zawieszonego\nPM2,5, py\u0142u zawieszonego PM10, o\u0142owiu, arsenu, kadmu, niklu, benzo(a)pirenu w pyle\nzawieszonym PM10, je\u017celi podczas pi\u0119ciu poprzednich lat by\u0142 przekroczony w trzech\nlub wi\u0119cej odr\u0119bnych latach;\n2)\nozonu, je\u017celi podczas pi\u0119ciu poprzednich lat by\u0142 przekroczony przynajmniej w jednym\nroku.\n3.\nW przypadku braku danych pomiarowych z okresu poprzednich pi\u0119ciu lat do okre\u015blenia,\nczy progi, o kt\u00f3rych mowa w ust. 2, zosta\u0142y przekroczone, wykorzystuje si\u0119 dane z\nkr\u00f3tszego okresu pomiarowego, je\u017celi pomiary by\u0142y prowadzone w czasie i w miejscach\no najwy\u017cszych poziomach substancji w powietrzu, w po\u0142\u0105czeniu z wynikami inwentaryzacji\nemisji i modelowania matematycznego transportu i przemian substancji w powietrzu.\n4.\nDla strefy, kt\u00f3rej klasyfikacji, zgodnie z art. 88 ust. 2 ustawy, dokonuje si\u0119 metodami\ninnymi ni\u017c pomiary, gromadzi si\u0119:\n1)\nopis czynno\u015bci wykonywanych w zwi\u0105zku z klasyfikacj\u0105;\n2)\nopis zastosowanych metod przy dokonywaniu klasyfikacji;\n3)\ninformacje o \u017ar\u00f3d\u0142ach danych i informacje wykorzystane przy dokonywaniu klasyfikacji;\n4)\nopis wynik\u00f3w klasyfikacji wraz z niepewno\u015bci\u0105;\n5)\ninformacje o zasi\u0119gu terytorialnym ka\u017cdego obszaru, na kt\u00f3rym poziom substancji przekracza\ng\u00f3rny lub dolny pr\u00f3g oszacowania.\n\u00a7 7.\n1.\nKryteria lokalizacji punkt\u00f3w pomiarowych okre\u015bla za\u0142\u0105cznik nr 3 do rozporz\u0105dzenia.\n2.\nPrzy ocenie poziom\u00f3w substancji w powietrzu ze wzgl\u0119du na ochron\u0119 zdrowia ludzi oraz\nze wzgl\u0119du na ochron\u0119 ro\u015blin wykorzystuje si\u0119 wyniki pomiar\u00f3w z punkt\u00f3w pomiarowych\nsubstancji spe\u0142niaj\u0105cych kryteria lokalizacji punkt\u00f3w pomiarowych.\n3.\nJako\u015b\u0107 powietrza atmosferycznego jest oceniana na terytorium Rzeczypospolitej Polskiej,\nz wyj\u0105tkiem miejsc wymienionych w \u00a7 2 ust. 3, wed\u0142ug kryteri\u00f3w okre\u015blonych w ust.\n1 i 2 za\u0142\u0105cznika nr 3 do rozporz\u0105dzenia. Przepisy ust. 1 i 2 za\u0142\u0105cznika nr 3 do rozporz\u0105dzenia\nmaj\u0105 r\u00f3wnie\u017c zastosowanie w stopniu, w jakim jest mo\u017cliwa identyfikacja poszczeg\u00f3lnych\nmiejsc, w kt\u00f3rych zosta\u0142y okre\u015blone st\u0119\u017cenia danych zanieczyszcze\u0144, w przypadku gdy\njako\u015b\u0107 powietrza atmosferycznego jest oceniana za pomoc\u0105 pomiar\u00f3w wska\u017anikowych lub\nmodelowania matematycznego transportu i przemian substancji w powietrzu.\n\u00a7 8.\n1.\nMinimaln\u0105 liczb\u0119 sta\u0142ych stanowisk pomiarowych:\n1)\ndo pomiar\u00f3w poziom\u00f3w benzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku siarki, py\u0142u\nzawieszonego PM2,5, py\u0142u zawieszonego PM10 i tlenku w\u0119gla w powietrzu oraz o\u0142owiu,\narsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10,\n2)\ndo pomiar\u00f3w st\u0119\u017cenia ozonu\n- okre\u015bla za\u0142\u0105cznik nr 4 do rozporz\u0105dzenia.\n2.\nW przypadku pomiar\u00f3w poziom\u00f3w benzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku siarki,\npy\u0142u zawieszonego PM2,5, py\u0142u zawieszonego PM10 i tlenku w\u0119gla w powietrzu oraz o\u0142owiu,\narsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 minimalna liczba sta\u0142ych\nstanowisk pomiarowych w strefach, w kt\u00f3rych s\u0105 wymagane pomiary poziom\u00f3w substancji\nw powietrzu, mo\u017ce by\u0107 zmniejszona do 50 % w stosunku do minimalnej liczby stanowisk\npomiarowych w strefach okre\u015blonej w za\u0142\u0105czniku nr 4 do rozporz\u0105dzenia, je\u017celi wyniki\npomiar\u00f3w s\u0105 uzupe\u0142niane danymi uzyskanymi z innych metod, takich jak modelowanie matematyczne\ntransportu i przemian substancji w powietrzu, inwentaryzacje emisji lub pomiary wska\u017anikowe,\npod warunkiem \u017ce dane te umo\u017cliwi\u0105 dokonanie rzetelnej oceny poziom\u00f3w substancji w\npowietrzu i zapewni\u0105 w\u0142a\u015bciw\u0105 informacj\u0119 dla spo\u0142ecze\u0144stwa.\n\u00a7 9.\n1.\nOceny jako\u015bci powietrza w strefach, w kt\u00f3rych poziom substancji przekracza g\u00f3rny pr\u00f3g\noszacowania, dokonuje si\u0119 na podstawie pomiar\u00f3w ci\u0105g\u0142ych rozumianych jako pomiary\nautomatyczne lub jako pomiary manualne prowadzone w spos\u00f3b systematyczny, w sta\u0142ych\npunktach pomiarowych, w kt\u00f3rych wyst\u0119powa\u0142y wcze\u015bniej najwy\u017csze st\u0119\u017cenia substancji.\n2.\nPrzy dokonywaniu ocen, o kt\u00f3rych mowa w ust. 1, mo\u017cna dodatkowo wykorzysta\u0107 metody\nmodelowania matematycznego transportu i przemian substancji w powietrzu, kt\u00f3rego wyniki\npowinny by\u0107 poddane sprawdzeniu poprawno\u015bci (walidacji) w oparciu o wyniki pomiar\u00f3w\nci\u0105g\u0142ych substancji w powietrzu.\n3.\nOceny jako\u015bci powietrza w strefach, w kt\u00f3rych poziom substancji nie przekracza g\u00f3rnego\nprogu oszacowania, a przekracza dolny pr\u00f3g oszacowania, dokonuje si\u0119 na podstawie\npomiar\u00f3w w sta\u0142ych punktach pomiarowych w po\u0142\u0105czeniu z metodami szacowania, w tym\nmetod\u0105 modelowania matematycznego transportu i przemian substancji w powietrzu, kt\u00f3rej\nwyniki powinny by\u0107 poddane walidacji w oparciu o wyniki pomiar\u00f3w ci\u0105g\u0142ych substancji\nw powietrzu.\n4.\nOceny jako\u015bci powietrza w strefach, w kt\u00f3rych poziom substancji nie przekracza dolnego\nprogu oszacowania, mo\u017cna dokona\u0107 na podstawie modelowania matematycznego transportu\ni przemian substancji w powietrzu, innych metod szacowania lub pomiar\u00f3w wska\u017anikowych.\n5.\nPomiar\u00f3w, o kt\u00f3rych mowa w ust. 1, 3 i 4, dokonuje si\u0119 zgodnie z metodykami referencyjnymi,\no kt\u00f3rych mowa w \u00a7 13.\n\u00a7 10.\n1.\nPomiary poziom\u00f3w substancji, kt\u00f3re przyczyniaj\u0105 si\u0119 do tworzenia ozonu przyziemnego\nw powietrzu, obejmuj\u0105ce co najmniej tlenki azotu, tlenek w\u0119gla i lotne zwi\u0105zki organiczne,\nprowadzi si\u0119 w co najmniej jednym punkcie pomiarowym na terytorium Rzeczypospolitej\nPolskiej.\n2.\nG\u0142\u00f3wnym celem pomiar\u00f3w, o kt\u00f3rych mowa w ust. 1, jest analiza zmian st\u0119\u017ce\u0144 prekursor\u00f3w\nozonu w czasie, sprawdzenie skuteczno\u015bci strategii redukcji emisji, kontrola sp\u00f3jno\u015bci\ninwentaryzacji emisji oraz pomoc w identyfikacji \u017ar\u00f3de\u0142 emisji do zaobserwowanych\nst\u0119\u017ce\u0144 zanieczyszcze\u0144. Celem dodatkowym jest lepsze zrozumienie proces\u00f3w powstawania\nozonu i rozprzestrzeniania si\u0119 jego prekursor\u00f3w, jak r\u00f3wnie\u017c zastosowanie modeli matematycznych\ntransportu i przemian substancji w powietrzu, w tym modeli fotochemicznych.\n3.\nWykaz substancji, kt\u00f3re przyczyniaj\u0105 si\u0119 do tworzenia ozonu przyziemnego w powietrzu,\nokre\u015bla za\u0142\u0105cznik nr 5 do rozporz\u0105dzenia.\n\u00a7 11.\nW celu okre\u015blenia udzia\u0142u benzo(a)pirenu w wielopier\u015bcieniowych w\u0119glowodorach aromatycznych\nobecnych w powietrzu, opr\u00f3cz pomiar\u00f3w benzo(a)pirenu w pyle zawieszonym PM10, prowadzi\nsi\u0119 pomiary zawarto\u015bci benzo(a)antracenu, benzo(b)fluorantenu, benzo(j)fluorantenu,\nbenzo(k)fluorantenu, indeno(l,2,3-cd)pirenu, dibenzo(a,h)antracenu w pyle zawieszonym\nPM10 w jednym punkcie pomiarowym w obszarze t\u0142a miejskiego w wojew\u00f3dztwie.\n\u00a7 12.\n1.\nPomiary:\n1)\nsk\u0142adu chemicznego py\u0142u zawieszonego PM2,5 i py\u0142u zawieszonego PM10,\n2)\nrt\u0119ci ca\u0142kowitej w stanie gazowym,\n3)\ndepozycji ca\u0142kowitej substancji rozumianej jako masa ca\u0142kowita zanieczyszcze\u0144, kt\u00f3re\nprzedostaj\u0105 si\u0119 z atmosfery na powierzchni\u0119 ziemi na okre\u015blonym obszarze w danym czasie\n- wspomagaj\u0105ce ocen\u0119 jako\u015bci powietrza, prowadzi si\u0119 na obszarze t\u0142a regionalnego\nw co najmniej trzech punktach pomiarowych na terytorium Rzeczypospolitej Polskiej,\nw oddaleniu od istotnych \u017ar\u00f3de\u0142 zanieczyszcze\u0144.\n2.\nPomiary, o kt\u00f3rych mowa w ust. 1, mog\u0105 by\u0107 w uzasadnionych przypadkach skoordynowane\nze strategi\u0105 monitorowania oraz programem pomiar\u00f3w w ramach wsp\u00f3lnego programu monitoringu\ni oceny przenoszenia zanieczyszcze\u0144 powietrza na dalekie odleg\u0142o\u015bci w Europie (EMEP) 4) O\u015bwiadczenie rz\u0105dowe z dnia 18 listopada 1988 r. w sprawie przyst\u0105pienia przez Polsk\u0105\nRzeczpospolit\u0105 Ludow\u0105 do Protoko\u0142u do Konwencji z 1979 r. w sprawie transgranicznego\nzanieczyszczania powietrza na dalekie odleg\u0142o\u015bci, dotycz\u0105cego d\u0142ugofalowego finansowania\nwsp\u00f3lnego programu monitoringu i oceny przenoszenia zanieczyszcze\u0144 powietrza na dalekie\nodleg\u0142o\u015bci w Europie (EMEP), sporz\u0105dzonego w Genewie dnia 28 wrze\u015bnia 1984 r. (Dz.\nU. poz. 314)..\n3.\nPomiary, o kt\u00f3rych mowa w ust. 1, mog\u0105 by\u0107 w uzasadnionych przypadkach prowadzone\nwsp\u00f3lnie z s\u0105siaduj\u0105cymi z terytorium Rzeczypospolitej Polskiej pa\u0144stwami cz\u0142onkowskimi\nUnii Europejskiej, pod warunkiem \u017ce jeden punkt pomiarowy przypada na obszar 100 tysi\u0119cy\nkm 2.\n4.\nZakres pomiar\u00f3w, o kt\u00f3rych mowa w ust. 1, okre\u015bla za\u0142\u0105cznik nr 6 do rozporz\u0105dzenia.\n\u00a7 13.\nMetodyki referencyjne okre\u015bla za\u0142\u0105cznik nr 7 do rozporz\u0105dzenia.\n\u00a7 14.\n1.\nPrzegl\u0105du lokalizacji punkt\u00f3w pomiarowych pod k\u0105tem ich zgodno\u015bci z kryteriami i warunkami\nokre\u015blonymi w za\u0142\u0105cznikach nr 3 i 4 do rozporz\u0105dzenia dokonuje si\u0119 co najmniej raz\nna 2 lata.\n2.\nDokumentacj\u0119 dotycz\u0105c\u0105 uzasadnienia lokalizacji punkt\u00f3w pomiarowych, w tym jej zakres,\nokre\u015bla za\u0142\u0105cznik nr 8 do rozporz\u0105dzenia.\n\u00a7 15.\nKryteria kontroli poprawno\u015bci danych dotycz\u0105cych substancji w powietrzu w trakcie\nich agregacji i obliczania parametr\u00f3w statystycznych dla substancji okre\u015bla za\u0142\u0105cznik\nnr 9 do rozporz\u0105dzenia.\n\u00a7 16.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 5) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 17 grudnia 2020 r.. 6) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra \u015arodowiska z dnia\n8 czerwca 2018 r. w sprawie dokonywania oceny poziom\u00f3w substancji w powietrzu (Dz.\nU. poz. 1119), kt\u00f3re zgodnie z art. 28 ust. 2 ustawy z dnia 20 lipca 2018 r. o zmianie\nustawy o Inspekcji Ochrony \u015arodowiska oraz niekt\u00f3rych innych ustaw (Dz. U. poz. 1479)\nutraci\u0142o moc z dniem wej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia.\nZa\u0142\u0105cznik nr 1\n-\nWymagania dotycz\u0105ce jako\u015bci pomiar\u00f3w i innych metod oceny jako\u015bci powietrza\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 2\n-\nG\u00f3rne i dolne progi oszacowania dla benzenu, dwutlenku azotu, tlenk\u00f3w azotu, dwutlenku\nsiarki, ozonu, tlenku w\u0119gla, py\u0142u zawieszonego PM2,5, py\u0142u zawieszonego PM10 oraz\no\u0142owiu, arsenu, kadmu, niklu i benzo(a)pirenu w pyle zawieszonym PM10 oraz dopuszczalne\ncz\u0119sto\u015bci ich przekraczania na potrzeby ustalania metody oceny poziom\u00f3w substancji\nw powietrzu\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nKryteria lokalizacji punkt\u00f3w pomiarowych\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 4\n-\nMinimalna liczba sta\u0142ych stanowisk pomiarowych\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 5\n-\nWykaz substancji, kt\u00f3re przyczyniaj\u0105 si\u0119 do tworzenia ozonu przyziemnego w powietrzu\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 6\n-\nZakres pomiar\u00f3w sk\u0142adu chemicznego py\u0142u zawieszonego PM2,5 i py\u0142u zawieszonego PM10,\nrt\u0119ci ca\u0142kowitej w stanie gazowym oraz depozycji ca\u0142kowitej substancji wspomagaj\u0105cych\nocen\u0119 jako\u015bci powietrza na obszarach t\u0142a regionalnego\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 7\n-\nMetodyki referencyjne\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 8\n-\nDokumentacja dotycz\u0105ca uzasadnienia lokalizacji punkt\u00f3w pomiarowych, w tym jej zakres\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 9\n-\nKryteria kontroli poprawno\u015bci danych dotycz\u0105cych substancji w powietrzu w trakcie\nich agregacji i obliczania parametr\u00f3w statystycznych dla substancji\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-19T14:27:44.439935Z",
+    "updated_at": "2026-10-19T14:27:44.439935Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 110,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-19T15:23:45.798426Z",
+  "updated_at": "2026-10-19T15:23:45.798426Z",
+  "draft_created_at": "2026-10-19T15:20:07.069007Z",
+  "lead_time": 228.469,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 157,
+  "parent_annotation": null,
+  "last_created_by": null
+}

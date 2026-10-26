@@ -1,0 +1,1281 @@
+{
+  "id": 143,
+  "result": [
+    {
+      "value": {
+        "start": 427,
+        "end": 431,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "E6YMTThkyb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 432,
+        "end": 434,
+        "text": "86",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "W3XYsAfVn7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 435,
+        "end": 439,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "tJfqMMn54r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 440,
+        "end": 441,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "DBDRLgw2v6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 493,
+        "end": 514,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZBZ9_8DrrB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 515,
+        "end": 518,
+        "text": "248",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "sG98o0VNlg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 520,
+        "end": 523,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0WY3m8NiF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 525,
+        "end": 529,
+        "text": "1089",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "uKXKjevNbI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 531,
+        "end": 535,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DEG__En9Pf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 537,
+        "end": 541,
+        "text": "1248",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "L_h9wHLKm8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 544,
+        "end": 548,
+        "text": "1585",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "YQkp2mqzmO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2170,
+        "end": 2171,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "wP3A5fY7p7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2172,
+        "end": 2173,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "rYKlSYwNQe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2174,
+        "end": 2177,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "kVmvXZnLPv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2178,
+        "end": 2179,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "t1gxmZJU9L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2180,
+        "end": 2182,
+        "text": "15",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "epuDJLgsA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2806,
+        "end": 2807,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Bt2aThkXlK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2808,
+        "end": 2809,
+        "text": "9",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "BqLfCbh3cJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2890,
+        "end": 2891,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "1EwTUQ9Q5M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2892,
+        "end": 2893,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Ye6XZJVgYf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6998,
+        "end": 6999,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "0frG7j6Nma",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7000,
+        "end": 7001,
+        "text": "7",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "snxTaC11_X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7002,
+        "end": 7005,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "QtF1ObAnm6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7006,
+        "end": 7007,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Fflqt79PTl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7009,
+        "end": 7010,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9R_xSMOpGb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7013,
+        "end": 7014,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "0wzuh34I1d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7116,
+        "end": 7117,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "DvkoKZfIU1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7118,
+        "end": 7119,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bBxC5FlBc2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7120,
+        "end": 7123,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "p7-EfFc9te",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7124,
+        "end": 7125,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "clU4a1qQY-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7126,
+        "end": 7128,
+        "text": "15",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "u0IWwBnsiT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10519,
+        "end": 10523,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "F6nfQHN_o6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10524,
+        "end": 10525,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "8yOEsKC5wa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10621,
+        "end": 10642,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XpCpe6ufZb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10643,
+        "end": 10647,
+        "text": "1100",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SDlwas9ib-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10653,
+        "end": 10667,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "tz6JfiRpxP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10668,
+        "end": 10672,
+        "text": "1243",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "mwyAatwdtV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10701,
+        "end": 10705,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "6G9UYlvAUO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10706,
+        "end": 10707,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "bKcEhSn7a-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10708,
+        "end": 10712,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "yDWnHL7Kn3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10713,
+        "end": 10714,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "nnApQfnNUu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10951,
+        "end": 10972,
+        "text": "Dz. U. z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "2BnXO-Vf0r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10973,
+        "end": 10977,
+        "text": "1774",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "o4FOn-NicY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11353,
+        "end": 11354,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "tXUViuVZp-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11355,
+        "end": 11356,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "x94nyrzJXt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11357,
+        "end": 11360,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "fckpB1Wz7d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11361,
+        "end": 11362,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "0K_8tDujpP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11363,
+        "end": 11367,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "WwuFmZPCbD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11368,
+        "end": 11369,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "dZpe2x2vfw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11375,
+        "end": 11376,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Yg8X5POSO3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11377,
+        "end": 11381,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "DipBS3NBNN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11382,
+        "end": 11383,
+        "text": "d",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "w7L2kAeBtE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11386,
+        "end": 11387,
+        "text": "e",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "XDfRC7xj4Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11397,
+        "end": 11398,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "d1JcYlE-tp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11399,
+        "end": 11401,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "wRtWKhizwy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13214,
+        "end": 13215,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Gy4lt8zYVv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13216,
+        "end": 13217,
+        "text": "6",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "DEHbQva4oy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13218,
+        "end": 13221,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "v2wTLLz8s-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13222,
+        "end": 13223,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Ef0y__Qjff",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13224,
+        "end": 13228,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "uDfaxWrTyI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13229,
+        "end": 13230,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "1xcO_S6g-K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13237,
+        "end": 13238,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Dr7gkHQLuC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13239,
+        "end": 13241,
+        "text": "14",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "rdfYq-Mxcc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18517,
+        "end": 18528,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BXhVLWk1OE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18529,
+        "end": 18533,
+        "text": "1013",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "67T2HfDU2R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18535,
+        "end": 18549,
+        "text": "z 2017 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "xjeMVdA28c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18550,
+        "end": 18553,
+        "text": "843",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CLzqMI16iW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18556,
+        "end": 18560,
+        "text": "2370",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Iao60i4tew",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18562,
+        "end": 18576,
+        "text": "z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "2t0C2FP3KX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18577,
+        "end": 18580,
+        "text": "352",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "O6FOGzYGLw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18583,
+        "end": 18587,
+        "text": "1818",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ni_RdTTCWM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18593,
+        "end": 18607,
+        "text": "z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "1hbwWAgctw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18608,
+        "end": 18610,
+        "text": "94",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "dzPDiEY-7I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18690,
+        "end": 18694,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "qT6-EY7E7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18695,
+        "end": 18697,
+        "text": "12",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "yv2RurFn9z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18698,
+        "end": 18702,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pnWFWixlG6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18703,
+        "end": 18704,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BqfdYb66vn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18814,
+        "end": 18825,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BhoQ7uzeSe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18826,
+        "end": 18830,
+        "text": "1872",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gs3_TI1S5N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11371,
+        "end": 11374,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "vja-kLtjDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 11393,
+        "end": 11396,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "IvELz9Vt21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 13233,
+        "end": 13236,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "86zoDxui8f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 43,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Obrony Narodowej z dnia 4 grudnia 2024 r. w sprawie utworzenia wojskowych komisji lekarskich, okre\u015blenia ich siedzib, filii,\nzasi\u0119gu dzia\u0142ania oraz w\u0142a\u015bciwo\u015bci\nSpis tre\u015bci\nTre\u015b\u0107 rozporz\u0105dzenia\nRozdzia\u0142 1 - Przepisy og\u00f3lne\nRozdzia\u0142 2 - Zasi\u0119g terytorialny wojskowych komisji lekarskich\nRozdzia\u0142 3 - W\u0142a\u015bciwo\u015b\u0107 wojskowych komisji lekarskich\nRozdzia\u0142 4 - Przepisy ko\u0144cowe\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 86 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny\n(Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) zarz\u0105dza si\u0119, co nast\u0119puje:\nRozdzia\u0142 1\nPrzepisy og\u00f3lne\n\u00a7 1.\nRozporz\u0105dzenie:\n1)\ntworzy wojskowe komisje lekarskie, okre\u015bla ich siedziby oraz tworzy filie wojskowych\nkomisji lekarskich;\n2)\nokre\u015bla terytorialny zasi\u0119g dzia\u0142ania wojskowych komisji lekarskich oraz ich w\u0142a\u015bciwo\u015b\u0107.\n\u00a7 2.\nTworzy si\u0119 nast\u0119puj\u0105ce wojskowe komisje lekarskie, ustala ich siedziby oraz tworzy\nsi\u0119 filie wojskowych komisji lekarskich:\n1)\nCentraln\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Warszawie;\n2)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 do spraw S\u0142u\u017cby Kontrwywiadu Wojskowego i S\u0142u\u017cby\nWywiadu Wojskowego z siedzib\u0105 w Warszawie;\n3)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lotniczo-Lekarsk\u0105 z siedzib\u0105 w Warszawie z fili\u0105 w D\u0119blinie;\n4)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Morsko-Lekarsk\u0105 z siedzib\u0105 w Gda\u0144sku;\n5)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Legionowie;\n6)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Poznaniu;\n7)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w \u017baganiu;\n8)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Bydgoszczy;\n9)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w E\u0142ku z fili\u0105 w Bia\u0142ymstoku;\n10)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Krakowie;\n11)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Lublinie;\n12)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w \u0141odzi;\n13)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Szczecinie;\n14)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 w Warszawie z fili\u0105 w Siedlcach;\n15)\nRejonow\u0105 Wojskow\u0105 Komisj\u0119 Lekarsk\u0105 z siedzib\u0105 we Wroc\u0142awiu.\n\u00a7 3.\nCentralna Wojskowa Komisja Lekarska w Warszawie jest komisj\u0105 wy\u017cszego stopnia w stosunku\ndo wojskowych komisji lekarskich, o kt\u00f3rych mowa w \u00a7 2 pkt 2-15.\nRozdzia\u0142 2\nZasi\u0119g terytorialny wojskowych komisji lekarskich\n\u00a7 4.\n1.\nTerytorialny zasi\u0119g dzia\u0142ania Centralnej Wojskowej Komisji Lekarskiej w Warszawie\nobejmuje terytorium Rzeczypospolitej Polskiej.\n2.\nTerytorialny zasi\u0119g dzia\u0142ania:\n1)\nRejonowej Wojskowej Komisji Lekarskiej do spraw S\u0142u\u017cby Kontrwywiadu Wojskowego i S\u0142u\u017cby\nWywiadu Wojskowego w Warszawie obejmuje terytorium Rzeczypospolitej Polskiej;\n2)\nRejonowej Wojskowej Komisji Lotniczo-Lekarskiej w Warszawie z fili\u0105 w D\u0119blinie obejmuje\nterytorium Rzeczypospolitej Polskiej;\n3)\nRejonowej Wojskowej Komisji Morsko-Lekarskiej w Gda\u0144sku:\na)\nw sprawach, o kt\u00f3rych mowa w \u00a7 9, obejmuje terytorium Rzeczypospolitej Polskiej,\nb)\nw sprawach, o kt\u00f3rych mowa w \u00a7 6, obejmuje obszar wojew\u00f3dztwa pomorskiego oraz w wojew\u00f3dztwie\nwarmi\u0144sko-mazurskim obszar powiat\u00f3w: braniewskiego, elbl\u0105skiego oraz miasto na prawach\npowiatu Elbl\u0105g;\n4)\nRejonowej Wojskowej Komisji Lekarskiej w Bydgoszczy obejmuje obszar wojew\u00f3dztwa kujawsko-pomorskiego;\n5)\nRejonowej Wojskowej Komisji Lekarskiej w E\u0142ku z fili\u0105 w Bia\u0142ymstoku obejmuje w wojew\u00f3dztwie\nwarmi\u0144sko-mazurskim obszar powiat\u00f3w: bartoszyckiego, e\u0142ckiego, gi\u017cyckiego, go\u0142dapskiego,\ni\u0142awskiego, k\u0119trzy\u0144skiego, lidzbarskiego, mr\u0105gowskiego, nowomiejskiego, oleckiego,\nolszty\u0144skiego, ostr\u00f3dzkiego, piskiego, szczycie\u0144skiego i w\u0119gorzewskiego oraz miasto\nna prawach powiatu Olsztyn oraz w wojew\u00f3dztwie podlaskim obszar powiat\u00f3w: augustowskiego,\nbia\u0142ostockiego, bielskiego, grajewskiego, hajnowskiego, kolne\u0144skiego, \u0142om\u017cy\u0144skiego,\nmonieckiego, sejne\u0144skiego, sok\u00f3lskiego, suwalskiego, wysokomazowieckiego i zambrowskiego\noraz miast na prawach powiatu: Bia\u0142egostoku, \u0141om\u017cy i Suwa\u0142k;\n6)\nRejonowej Wojskowej Komisji Lekarskiej w Krakowie obejmuje obszar wojew\u00f3dztw ma\u0142opolskiego\ni \u015bl\u0105skiego;\n7)\nRejonowej Wojskowej Komisji Lekarskiej w Legionowie obejmuje w wojew\u00f3dztwie warmi\u0144sko-mazurskim\nobszar powiat\u00f3w: dzia\u0142dowskiego i nidzickiego oraz w wojew\u00f3dztwie mazowieckim obszar\npowiat\u00f3w: ciechanowskiego, gostyni\u0144skiego, legionowskiego, makowskiego, m\u0142awskiego,\nnowodworskiego, ostro\u0142\u0119ckiego, ostrowskiego, p\u0142ockiego, p\u0142o\u0144skiego, przasnyskiego,\npu\u0142tuskiego, sierpeckiego, sochaczewskiego, wyszkowskiego i \u017curomi\u0144skiego oraz miast\nna prawach powiatu Ostro\u0142\u0119ki i P\u0142ocka;\n8)\nRejonowej Wojskowej Komisji Lekarskiej w Lublinie obejmuje w wojew\u00f3dztwie lubelskim\nobszar powiat\u00f3w: bi\u0142gorajskiego, che\u0142mskiego, hrubieszowskiego, janowskiego, krasnostawskiego,\nkra\u015bnickiego, lubartowskiego, lubelskiego, \u0142\u0119czy\u0144skiego, opolskiego, parczewskiego,\npu\u0142awskiego, ryckiego, \u015bwidnickiego, tomaszowskiego, w\u0142odawskiego, zamojskiego oraz\nmiast na prawach powiatu: Lublina, Che\u0142ma, Zamo\u015bcia, a tak\u017ce obszar wojew\u00f3dztwa podkarpackiego;\n9)\nRejonowej Wojskowej Komisji Lekarskiej w \u0141odzi obejmuje obszar wojew\u00f3dztw \u0142\u00f3dzkiego\ni \u015bwi\u0119tokrzyskiego;\n10)\nRejonowej Wojskowej Komisji Lekarskiej w Poznaniu obejmuje obszar wojew\u00f3dztwa wielkopolskiego;\n11)\nRejonowej Wojskowej Komisji Lekarskiej w Szczecinie obejmuje obszar wojew\u00f3dztwa zachodniopomorskiego;\n12)\nRejonowej Wojskowej Komisji Lekarskiej w Warszawie z fili\u0105 w Siedlcach obejmuje w\nwojew\u00f3dztwie mazowieckim obszar powiat\u00f3w: bia\u0142obrzeskiego, garwoli\u0144skiego, grodziskiego,\ngr\u00f3jeckiego, kozienickiego, lipskiego, \u0142osickiego, mi\u0144skiego, otwockiego, piaseczy\u0144skiego,\npruszkowskiego, przysuskiego, radomskiego, siedleckiego, soko\u0142owskiego, szyd\u0142owieckiego,\nwarszawskiego zachodniego, w\u0119growskiego, wo\u0142omi\u0144skiego, zwole\u0144skiego i \u017cyrardowskiego,\nmiast na prawach powiatu Radomia i Siedlec oraz miasta sto\u0142ecznego Warszawy, w wojew\u00f3dztwie\npodlaskim obszar powiatu siemiatyckiego oraz w wojew\u00f3dztwie lubelskim obszar powiat\u00f3w:\nbialskiego, \u0142ukowskiego i radzy\u0144skiego oraz miasta na prawach powiatu Bia\u0142ej Podlaskiej;\n13)\nRejonowej Wojskowej Komisji Lekarskiej we Wroc\u0142awiu obejmuje w wojew\u00f3dztwie dolno\u015bl\u0105skim\nobszar powiat\u00f3w: dzier\u017coniowskiego, g\u00f3rowskiego, jaworskiego, jeleniog\u00f3rskiego, kamiennog\u00f3rskiego,\nk\u0142odzkiego, legnickiego, luba\u0144skiego, lubi\u0144skiego, lw\u00f3weckiego, milickiego, ole\u015bnickiego,\no\u0142awskiego, strzeli\u0144skiego, \u015bredzkiego, \u015bwidnickiego, trzebnickiego, wa\u0142brzyskiego,\nwo\u0142owskiego, wroc\u0142awskiego, z\u0105bkowickiego i z\u0142otoryjskiego oraz miast na prawach powiatu:\nJeleniej G\u00f3ry, Legnicy i Wroc\u0142awia, a tak\u017ce obszar wojew\u00f3dztwa opolskiego;\n14)\nRejonowej Wojskowej Komisji Lekarskiej w \u017baganiu obejmuje w wojew\u00f3dztwie dolno\u015bl\u0105skim\nobszar powiat\u00f3w: boles\u0142awieckiego, g\u0142ogowskiego, polkowickiego i zgorzeleckiego oraz\nobszar wojew\u00f3dztwa lubuskiego.\nRozdzia\u0142 3\nW\u0142a\u015bciwo\u015b\u0107 wojskowych komisji lekarskich\n\u00a7 5.\nW\u0142a\u015bciwo\u015b\u0107 miejscow\u0105 wojskowych komisji lekarskich ustala si\u0119 w stosunku do:\n1)\n\u017co\u0142nierzy w czynnej s\u0142u\u017cbie wojskowej - ze wzgl\u0119du na miejsce stacjonowania jednostki\nwojskowej lub pododdzia\u0142u jednostki wojskowej, w kt\u00f3rej pe\u0142ni\u0105 czynn\u0105 s\u0142u\u017cb\u0119 wojskow\u0105;\n2)\nemeryt\u00f3w i rencist\u00f3w wojskowych oraz os\u00f3b, o kt\u00f3rych mowa w \u00a7 7 pkt 3, 5 i 6 - ze\nwzgl\u0119du na miejsce ich zamieszkania.\n\u00a7 6.\nRejonowe wojskowe komisje lekarskie, o kt\u00f3rych mowa w \u00a7 2 pkt 3-15, oraz ich filie\ns\u0105 w\u0142a\u015bciwe w zakresie:\n1)\norzekania o zdolno\u015bci do pe\u0142nienia czynnej s\u0142u\u017cby wojskowej, w tym orzekania w stosunku\ndo os\u00f3b:\na)\nubiegaj\u0105cych si\u0119 o przyj\u0119cie do Akademii Marynarki Wojennej i Szko\u0142y Podoficerskiej\nMarynarki Wojennej z wy\u0142\u0105czeniem orzekania o zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby wojskowej\nna okr\u0119tach wojennych i innych jednostkach p\u0142ywaj\u0105cych marynarki wojennej, a tak\u017ce\nw charakterze nurk\u00f3w i p\u0142etwonurk\u00f3w,\nb)\nubiegaj\u0105cych si\u0119 o przyj\u0119cie do Lotniczej Akademii Wojskowej i Szko\u0142y Podoficerskiej\nSi\u0142 Powietrznych z wy\u0142\u0105czeniem orzekania o zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby wojskowej\nw charakterze personelu lataj\u0105cego i naziemnego personelu lotniczego;\n2)\norzekania o zdolno\u015bci do zawodowej s\u0142u\u017cby wojskowej z ograniczeniami w stosunku do\n\u017co\u0142nierzy pe\u0142ni\u0105cych zawodow\u0105 s\u0142u\u017cb\u0119 wojskow\u0105;\n3)\norzekania o zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w rodzajach wojsk i s\u0142u\u017cb oraz na stanowiskach\ns\u0142u\u017cbowych i w funkcjach wojskowych wymagaj\u0105cych szczeg\u00f3lnych predyspozycji zdrowotnych:\na)\nw \u017bandarmerii Wojskowej,\nb)\nw jednostkach specjalnych,\nc)\nw jednostkach i pododdzia\u0142ach reprezentacyjnych Si\u0142 Zbrojnych Rzeczypospolitej Polskiej,\nd)\nw jednostkach lub instytucjach na stanowiskach s\u0142u\u017cbowych, na kt\u00f3rych przewiduje si\u0119\nwykonywanie skok\u00f3w spadochronowych z wysoko\u015bci do 4000 metr\u00f3w,\ne)\ndo s\u0142u\u017cby poza granicami pa\u0144stwa,\nf)\ndo obs\u0142ugi i pilotowania bezza\u0142ogowych statk\u00f3w powietrznych o maksymalnej masie startowej\n(MTOM) poni\u017cej 150 kg (klasa I);\n4)\norzekania o zwi\u0105zku chor\u00f3b i u\u0142omno\u015bci ze s\u0142u\u017cb\u0105 wojskow\u0105;\n5)\norzekania o potrzebie d\u0142ugotrwa\u0142ego lub sta\u0142ego zwolnienia \u017co\u0142nierza ze wzgl\u0119du na\nstan zdrowia od niekt\u00f3rych zaj\u0119\u0107 s\u0142u\u017cbowych w stosunku do \u017co\u0142nierzy w czynnej s\u0142u\u017cbie\nwojskowej;\n6)\norzekania o potrzebie udzielenia \u017co\u0142nierzowi zawodowemu urlopu zdrowotnego;\n7)\nustalania stopnia uszczerbku na zdrowiu dla cel\u00f3w odszkodowawczych;\n8)\nkontroli prawid\u0142owo\u015bci orzekania o czasowej niezdolno\u015bci do s\u0142u\u017cby z powodu choroby;\n9)\nustalania zwi\u0105zku \u015bmierci ze s\u0142u\u017cb\u0105 wojskow\u0105 w stosunku do \u017co\u0142nierzy i \u017co\u0142nierzy rezerwy;\n10)\nokre\u015blania inwalidztwa i ustalania grupy inwalidztwa w stosunku do \u017co\u0142nierzy zawodowych;\n11)\norzekania o zdolno\u015bci do pracy i samodzielnej egzystencji \u017co\u0142nierzy i \u017co\u0142nierzy rezerwy;\n12)\norzekania o zwi\u0105zku \u015bmierci ze s\u0142u\u017cb\u0105 wojskow\u0105 oraz orzekania o okre\u015bleniu inwalidztwa\ni ustaleniu grupy inwalidztwa w stosunku do emeryt\u00f3w i rencist\u00f3w wojskowych;\n13)\nzwi\u0105zku zranie\u0144, kontuzji i innych obra\u017ce\u0144 lub chor\u00f3b ze s\u0142u\u017cb\u0105 wojskow\u0105 albo dzia\u0142aniami\nwojennymi lub maj\u0105cymi charakter dzia\u0142a\u0144 wojennych;\n14)\nrozpatrywania odwo\u0142a\u0144 od orzecze\u0144 wydanych w pierwszej instancji jednoosobowo przez\nlekarza wojskowego centrum rekrutacji oraz lekarza, z kt\u00f3rym szef wojskowego centrum\nrekrutacji zawar\u0142 umow\u0119 w zakresie orzekania o zdolno\u015bci do s\u0142u\u017cby wojskowej.\n\u00a7 7.\nWojskowe komisje lekarskie s\u0105 w\u0142a\u015bciwe wobec:\n1)\nos\u00f3b, kt\u00f3re ubiegaj\u0105 si\u0119 o powo\u0142anie do s\u0142u\u017cby wojskowej;\n2)\n\u017co\u0142nierzy pe\u0142ni\u0105cych czynn\u0105 s\u0142u\u017cb\u0119 wojskow\u0105;\n3)\nos\u00f3b pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 wojskow\u0105 w aktywnej i pasywnej rezerwie, skierowanych na ich\nwniosek przez w\u0142a\u015bciwy organ, w celu okre\u015blenia aktualnej zdolno\u015bci do czynnej s\u0142u\u017cby\nwojskowej;\n4)\nemeryt\u00f3w i rencist\u00f3w wojskowych;\n5)\nos\u00f3b nieb\u0119d\u0105cych \u017co\u0142nierzami rezerwy, kt\u00f3re pe\u0142ni\u0142y albo odby\u0142y s\u0142u\u017cb\u0119, oraz os\u00f3b,\nkt\u00f3re odby\u0142y zaj\u0119cia wojskowe w czasie trwania studi\u00f3w albo by\u0142y kszta\u0142cone w szko\u0142ach\nlub orkiestrach wojskowych, a tak\u017ce os\u00f3b, o kt\u00f3rych mowa w art. 8 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalid\u00f3w wojennych i wojskowych\noraz ich rodzin\n(Dz. U. z 2023 r. poz. 1100 oraz z 2024 r. poz. 1243);\n6)\nos\u00f3b, o kt\u00f3rych mowa w art. 1 ust. 1 ustawy z dnia 2 wrze\u015bnia 1994 r. o \u015bwiadczeniu pieni\u0119\u017cnym i uprawnieniach\nprzys\u0142uguj\u0105cych \u017co\u0142nierzom zast\u0119pczej s\u0142u\u017cby wojskowej przymusowo zatrudnianym w kopalniach\nw\u0119gla, kamienio\u0142omach, zak\u0142adach rud uranu i batalionach budowlanych\n(Dz. U. z 2021 r. poz. 1774), oraz os\u00f3b ubiegaj\u0105cych si\u0119 o przyznanie takiego statusu;\n7)\nfunkcjonariuszy S\u0142u\u017cby Kontrwywiadu Wojskowego, zwanej dalej \u201eSKW\u201d, i S\u0142u\u017cby Wywiadu\nWojskowego, zwanej dalej \u201eSWW\u201d, oraz kandydat\u00f3w do s\u0142u\u017cby w SKW i SWW;\n8)\nemeryt\u00f3w i rencist\u00f3w SKW i SWW.\n\u00a7 8.\nRejonowa Wojskowa Komisja Lotniczo-Lekarska w Warszawie z fili\u0105 w D\u0119blinie jest w\u0142a\u015bciwa\nw zakresie, o kt\u00f3rym mowa w \u00a7 6 pkt 1 lit. b, pkt 3 lit. d i e oraz pkt 4-12, oraz\ndo:\n1)\norzekania w stosunku do os\u00f3b ubiegaj\u0105cych si\u0119 o przyj\u0119cie do czynnej s\u0142u\u017cby wojskowej\nw jednostkach wojskowych Si\u0142 Powietrznych, os\u00f3b ubiegaj\u0105cych si\u0119 o przyj\u0119cie do Lotniczej\nAkademii Wojskowej i Szko\u0142y Podoficerskiej Si\u0142 Powietrznych, podchor\u0105\u017cych Lotniczej\nAkademii Wojskowej oraz \u017co\u0142nierzy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w czasie kszta\u0142cenia w Szkole\nPodoficerskiej Si\u0142 Powietrznych:\na)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze personelu lataj\u0105cego i naziemnego personelu\nlotniczego,\nb)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze skoczk\u00f3w spadochronowych wykonuj\u0105cych\nskoki powy\u017cej 4000 metr\u00f3w,\nc)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze instruktor\u00f3w spadochronowych;\n2)\nprzeprowadzania okresowych i okoliczno\u015bciowych bada\u0144 lekarskich podchor\u0105\u017cych Lotniczej\nAkademii Wojskowej oraz \u017co\u0142nierzy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w czasie kszta\u0142cenia w Szkole\nPodoficerskiej Si\u0142 Powietrznych pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w charakterze personelu lataj\u0105cego,\nnaziemnego personelu lotniczego, instruktor\u00f3w spadochronowych i skoczk\u00f3w spadochronowych;\n3)\norzekania w stosunku do \u017co\u0142nierzy - cz\u0142onk\u00f3w personelu lataj\u0105cego, naziemnego personelu\nlotniczego, instruktor\u00f3w spadochronowych i skoczk\u00f3w spadochronowych:\na)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze personelu lataj\u0105cego i naziemnego personelu\nlotniczego,\nb)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze instruktor\u00f3w spadochronowych,\nc)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze skoczk\u00f3w spadochronowych wykonuj\u0105cych\nskoki powy\u017cej 4000 metr\u00f3w;\n4)\nprzeprowadzania okresowych i okoliczno\u015bciowych bada\u0144 lekarskich \u017co\u0142nierzy pe\u0142ni\u0105cych\ns\u0142u\u017cb\u0119 w charakterze personelu lataj\u0105cego, naziemnego personelu lotniczego, instruktor\u00f3w\nspadochronowych i skoczk\u00f3w spadochronowych.\n\u00a7 9.\nRejonowa Wojskowa Komisja Morsko-Lekarska w Gda\u0144sku jest w\u0142a\u015bciwa w zakresie, o kt\u00f3rym\nmowa w \u00a7 6 pkt 1 lit. a i pkt 2-14, oraz do:\n1)\norzekania w stosunku do os\u00f3b ubiegaj\u0105cych si\u0119 o przyj\u0119cie do jednostek wojskowych\nMarynarki Wojennej, os\u00f3b ubiegaj\u0105cych si\u0119 o przyj\u0119cie do Akademii Marynarki Wojennej\ni Szko\u0142y Podoficerskiej Marynarki Wojennej, podchor\u0105\u017cych Akademii Marynarki Wojennej\noraz \u017co\u0142nierzy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w czasie kszta\u0142cenia w Szkole Podoficerskiej Marynarki\nWojennej:\na)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby na okr\u0119tach wojennych i innych jednostkach p\u0142ywaj\u0105cych\nMarynarki Wojennej oraz w jednostkach nadbrze\u017cnych Marynarki Wojennej,\nb)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze nurk\u00f3w i p\u0142etwonurk\u00f3w;\n2)\nprzeprowadzania okresowych i okoliczno\u015bciowych bada\u0144 lekarskich podchor\u0105\u017cych Akademii\nMarynarki Wojennej oraz \u017co\u0142nierzy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w czasie kszta\u0142cenia w Szkole\nPodoficerskiej Marynarki Wojennej;\n3)\norzekania w stosunku do \u017co\u0142nierzy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 na stanowiskach w jednostkach\nMarynarki Wojennej:\na)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby na okr\u0119tach wojennych i innych jednostkach p\u0142ywaj\u0105cych\nMarynarki Wojennej oraz w jednostkach nadbrze\u017cnych Marynarki Wojennej,\nb)\no zdolno\u015bci do pe\u0142nienia s\u0142u\u017cby w charakterze nurk\u00f3w i p\u0142etwonurk\u00f3w;\n4)\nprzeprowadzania okresowych i okoliczno\u015bciowych bada\u0144 lekarskich \u017co\u0142nierzy pe\u0142ni\u0105cych\ns\u0142u\u017cb\u0119 na okr\u0119tach wojennych i innych jednostkach p\u0142ywaj\u0105cych Marynarki Wojennej,\nw jednostkach nadbrze\u017cnych Marynarki Wojennej oraz nurk\u00f3w i p\u0142etwonurk\u00f3w.\n\u00a7 10.\nRejonowa Wojskowa Komisja Lekarska do spraw S\u0142u\u017cby Kontrwywiadu Wojskowego i S\u0142u\u017cby\nWywiadu Wojskowego w Warszawie jest w\u0142a\u015bciwa w zakresie:\n1)\norzekania o zdolno\u015bci fizycznej i psychicznej kandydat\u00f3w do s\u0142u\u017cby w SKW i SWW oraz\n\u017co\u0142nierzy zawodowych ubiegaj\u0105cych si\u0119 o wyznaczenie na stanowiska s\u0142u\u017cbowe w SKW i\nSWW;\n2)\norzekania o zdolno\u015bci fizycznej i psychicznej funkcjonariuszy do s\u0142u\u017cby w SKW i SWW\noraz o zwi\u0105zku poszczeg\u00f3lnych chor\u00f3b lub u\u0142omno\u015bci oraz \u015bmierci ze s\u0142u\u017cb\u0105 w SKW i\nSWW;\n3)\norzekania o zdolno\u015bci funkcjonariuszy SKW i SWW oraz \u017co\u0142nierzy zawodowych wyznaczonych\nna stanowiska s\u0142u\u017cbowe w SKW i SWW do s\u0142u\u017cby poza granicami pa\u0144stwa;\n4)\norzekania o zdolno\u015bci do obs\u0142ugi i pilotowania bezza\u0142ogowych statk\u00f3w powietrznych\no maksymalnej masie startowej (MTOM) poni\u017cej 150 kg (klasa I);\n5)\norzekania o inwalidztwie, zdolno\u015bci do pracy i samodzielnej egzystencji:\na)\nfunkcjonariuszy i \u017co\u0142nierzy zawodowych wyznaczonych na stanowiska s\u0142u\u017cbowe w SKW i\nSWW,\nb)\n\u017co\u0142nierzy zawodowych i funkcjonariuszy SKW i SWW zwolnionych z SKW i SWW,\nc)\nemeryt\u00f3w i rencist\u00f3w SKW i SWW;\n6)\norzekania o zdolno\u015bci do s\u0142u\u017cby wojskowej \u017co\u0142nierzy zawodowych wyznaczonych na stanowiska\ns\u0142u\u017cbowe w SKW lub SWW oraz zwi\u0105zku chor\u00f3b i u\u0142omno\u015bci oraz \u015bmierci ze s\u0142u\u017cb\u0105 wojskow\u0105;\n7)\norzekania o uszczerbku na zdrowiu funkcjonariuszy SKW i SWW oraz \u017co\u0142nierzy zawodowych\nwyznaczonych na stanowiska s\u0142u\u017cbowe w SKW i SWW;\n8)\nkontroli prawid\u0142owo\u015bci orzekania o czasowej niezdolno\u015bci do s\u0142u\u017cby z powodu choroby\noraz prawid\u0142owo\u015bci wykorzystania zwolnienia lekarskiego;\n9)\nwnioskowania o udzielenie funkcjonariuszowi SKW i SWW urlopu zdrowotnego oraz orzekania\no potrzebie udzielenia urlopu zdrowotnego \u017co\u0142nierzowi zawodowemu wyznaczonemu na stanowisku\ns\u0142u\u017cbowe w SKW i SWW;\n10)\norzekania o potrzebie d\u0142ugotrwa\u0142ego lub sta\u0142ego zwolnienia ze wzgl\u0119du na stan zdrowia\nod niekt\u00f3rych zaj\u0119\u0107 s\u0142u\u017cbowych w stosunku do \u017co\u0142nierzy zawodowych wyznaczonych na\nstanowiska s\u0142u\u017cbowe w SKW i SWW.\n\u00a7 11.\nDo w\u0142a\u015bciwo\u015bci Centralnej Wojskowej Komisji Lekarskiej w Warszawie nale\u017cy:\n1)\nrozpatrywanie odwo\u0142a\u0144 od orzecze\u0144 rejonowych wojskowych komisji lekarskich;\n2)\nzajmowanie stanowiska wobec sprzeciw\u00f3w do orzecze\u0144 wojskowych komisji lekarskich;\n3)\nzatwierdzanie projekt\u00f3w orzecze\u0144 wojskowych komisji lekarskich dotycz\u0105cych ustalenia\nzwi\u0105zku \u015bmierci \u017co\u0142nierza ze s\u0142u\u017cb\u0105 wojskow\u0105;\n4)\nsprawowanie merytorycznego nadzoru nad dzia\u0142alno\u015bci\u0105 wojskowych komisji lekarskich,\nw tym rozstrzyganie kwestii budz\u0105cych powa\u017cne w\u0105tpliwo\u015bci lub rozbie\u017cno\u015bci w orzecznictwie\noraz wydawanie w tym przedmiocie wi\u0105\u017c\u0105cych zalece\u0144;\n5)\nanalizowanie ca\u0142okszta\u0142tu orzecznictwa wojskowo-lekarskiego i dzia\u0142alno\u015bci orzeczniczo-lekarskiej\nwojskowych komisji lekarskich;\n6)\nwsp\u00f3\u0142dzia\u0142anie z podmiotami leczniczymi, w tym utworzonymi przez Ministra Obrony Narodowej\nambulatoriami, ambulatoriami z izb\u0105 chorych i lekarzami w jednostkach wojskowych,\nwy\u017cszymi szko\u0142ami medycznymi lub prowadz\u0105cymi dzia\u0142alno\u015b\u0107 dydaktyczn\u0105 i badawcz\u0105 w\ndziedzinie nauk medycznych, instytutami badawczymi prowadz\u0105cymi dzia\u0142alno\u015b\u0107 w dziedzinie\nnauk medycznych oraz organami i jednostkami organizacyjnymi wykonuj\u0105cymi czynno\u015bci\norzeczniczo-lekarskie;\n7)\nwsp\u00f3\u0142dzia\u0142anie z dow\u00f3dcami i organami wojskowymi oraz Wojskow\u0105 Izb\u0105 Lekarsk\u0105;\n8)\ninicjowanie i opiniowanie projekt\u00f3w akt\u00f3w prawnych dotycz\u0105cych dzia\u0142alno\u015bci orzeczniczo-lekarskiej\nwojskowych komisji lekarskich.\nRozdzia\u0142 4\nPrzepisy ko\u0144cowe\n\u00a7 12.\nSprawy wszcz\u0119te i niezako\u0144czone przez w\u0142a\u015bciwe wojskowe komisje lekarskie przed dniem\nwej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia rozpatruj\u0105 wojskowe komisje lekarskie wed\u0142ug\ndotychczasowej w\u0142a\u015bciwo\u015bci.\n\u00a7 13.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia. 1) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Obrony Narodowej\nz dnia 24 sierpnia 2012 r. w sprawie wojskowych komisji lekarskich oraz okre\u015blenia\nich siedzib, zasi\u0119gu dzia\u0142ania i w\u0142a\u015bciwo\u015bci (Dz. U. poz. 1013, z 2017 r. poz. 843\ni 2370, z 2020 r. poz. 352 i 1818 oraz z 2022 r. poz. 94), kt\u00f3re traci moc z dniem\nwej\u015bcia w \u017cycie niniejszego rozporz\u0105dzenia zgodnie z art. 12 ust. 4 ustawy z dnia\n17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niekt\u00f3rych innych\nustaw (Dz. U. poz. 1872)."
+    },
+    "meta": {},
+    "created_at": "2026-10-19T14:27:44.453264Z",
+    "updated_at": "2026-10-19T14:27:44.453264Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 144,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-26T15:50:56.556368Z",
+  "updated_at": "2026-10-26T15:50:56.556368Z",
+  "draft_created_at": "2026-10-26T15:50:09.664318Z",
+  "lead_time": 53.067,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 191,
+  "parent_annotation": null,
+  "last_created_by": null
+}

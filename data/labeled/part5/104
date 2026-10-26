@@ -1,0 +1,2316 @@
+{
+  "id": 104,
+  "result": [
+    {
+      "value": {
+        "start": 356,
+        "end": 357,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "LUxUgf2HiR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 358,
+        "end": 359,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bywqukZYMW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 360,
+        "end": 364,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "oXXJPfSBoT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 365,
+        "end": 366,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "0b1CQGdfof",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 367,
+        "end": 370,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "hTCBJ1Vubi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 371,
+        "end": 372,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "7fGGfBYcfh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 526,
+        "end": 537,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZzCFMuEi8q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 538,
+        "end": 542,
+        "text": "2715",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v9AocDlfz6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 774,
+        "end": 778,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "m33yZcg5Yu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 779,
+        "end": 781,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "XqzmK1SxLN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 782,
+        "end": 786,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "fJ0dSAyQrn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 787,
+        "end": 788,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "c9b08GcTTE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 888,
+        "end": 909,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "aA0T3iiaaX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 910,
+        "end": 914,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CUmNRQVMc3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1136,
+        "end": 1157,
+        "text": "Dz. U. z 2016 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DxlcfuaETV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1158,
+        "end": 1161,
+        "text": "472",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0ac_MnqU0K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1379,
+        "end": 1390,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bb9zHRh7N7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1391,
+        "end": 1394,
+        "text": "811",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "em9UF89AFp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1493,
+        "end": 1494,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "G4y0MqOYk2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1495,
+        "end": 1496,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "GamcPvAV0y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1675,
+        "end": 1686,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "W7J8I86KNp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1687,
+        "end": 1690,
+        "text": "811",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "b0YSk5ZmuT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2137,
+        "end": 2138,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Isw0-lo-d3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2139,
+        "end": 2140,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "jxRPFLupdM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2141,
+        "end": 2145,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "BN1Gfkp6Yk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2146,
+        "end": 2147,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ZkF935JLBQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2148,
+        "end": 2151,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "JLlN5jeIru",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2152,
+        "end": 2153,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "1nQ6f4NYa9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2307,
+        "end": 2318,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "03LBSz9ElU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2319,
+        "end": 2323,
+        "text": "2715",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "XQEotLGjkj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2339,
+        "end": 2343,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "w5wKkGB868",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2344,
+        "end": 2347,
+        "text": "108",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "v7Zxct-J2O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2348,
+        "end": 2352,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "JNF3sbgEnI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2353,
+        "end": 2354,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "FK8Y0_od0M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2441,
+        "end": 2462,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TtP9sRKez3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2463,
+        "end": 2466,
+        "text": "475",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "n3pwETnDkK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2891,
+        "end": 2892,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "I2NzR2dT15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2893,
+        "end": 2894,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "iJ0CdVYQFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3923,
+        "end": 3924,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "MO4HcAgeW6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3925,
+        "end": 3926,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "CDSivTQiyj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4948,
+        "end": 4952,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "u_YoBE1BJT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4953,
+        "end": 4955,
+        "text": "2a",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "NbYgvuX-zM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4969,
+        "end": 4973,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "MOelnoQzXZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4974,
+        "end": 4976,
+        "text": "2a",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Y4pwPGuSOs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4979,
+        "end": 4981,
+        "text": "2b",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ykMVYKlMtI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5405,
+        "end": 5409,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_dWOvPynIS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5410,
+        "end": 5411,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "SWJ2fveIih",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5750,
+        "end": 5754,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "VpG6kiNtti",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5755,
+        "end": 5756,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "0u86nLzFOm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6663,
+        "end": 6667,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "FNtCiiTRkl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6668,
+        "end": 6670,
+        "text": "5a",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "SlVVOGGMY0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8315,
+        "end": 8319,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "0BO4f4QBP9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8320,
+        "end": 8322,
+        "text": "5d",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "T9sTLYFrUa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8561,
+        "end": 8565,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_vpyCBAScZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8566,
+        "end": 8567,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "XsWppV5BJ1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8591,
+        "end": 8595,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "oesmT_qOaF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8596,
+        "end": 8597,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "kuIcZK5--E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9245,
+        "end": 9246,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nfuA0HRkML",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9247,
+        "end": 9248,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "CGZjkb6Gtw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9249,
+        "end": 9253,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qoThRZN6Y6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9254,
+        "end": 9255,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "kCIkU01oVH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9281,
+        "end": 9282,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "1RV0kM77Jn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9283,
+        "end": 9284,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "UaB9Hn2gaZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9285,
+        "end": 9288,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Up80Gih-KZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9289,
+        "end": 9290,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Yj-xNeOkV3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9469,
+        "end": 9480,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "6OXKbAT1hG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9481,
+        "end": 9484,
+        "text": "811",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "nHhticZsJH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9560,
+        "end": 9561,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "NPOJDnRQp6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9562,
+        "end": 9563,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "m6Knb6C52j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9564,
+        "end": 9567,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "duVGDy0p7-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9568,
+        "end": 9569,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "R5GVxWxMqz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9748,
+        "end": 9759,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "mVK0zYb5ES",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9760,
+        "end": 9763,
+        "text": "811",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "MmQm8JIAfL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10512,
+        "end": 10513,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "V8NGAL7-Pq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10514,
+        "end": 10515,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OztoHUilqo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11213,
+        "end": 11214,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "BcQSMoVs5H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11215,
+        "end": 11216,
+        "text": "4",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "s9Idw9y2rU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11217,
+        "end": 11221,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "OsvzBGPulY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11222,
+        "end": 11223,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "SQgz_T6_vb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11252,
+        "end": 11256,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "5eKExU_kkX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11257,
+        "end": 11258,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "vSqLPi25NO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11296,
+        "end": 11300,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "XYetpEad0X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11301,
+        "end": 11303,
+        "text": "29",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "v1eBFNQZAe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11304,
+        "end": 11308,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TvxRe5AFNr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11309,
+        "end": 11311,
+        "text": "12",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "4_QDP_CjZW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11371,
+        "end": 11392,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TNrx-W0pAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11393,
+        "end": 11397,
+        "text": "1270",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "HF3H7I6M-i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11479,
+        "end": 11500,
+        "text": "Dz. U. z 2023 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "3xMxUVkv95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11501,
+        "end": 11505,
+        "text": "1273",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "G3WEgGC2UU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11507,
+        "end": 11511,
+        "text": "1407",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jJK0bXosAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11513,
+        "end": 11517,
+        "text": "1429",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8O0gtn8W46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11519,
+        "end": 11523,
+        "text": "1641",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KLW5kf4BaE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11525,
+        "end": 11529,
+        "text": "1693",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VQS-ivUsyc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11532,
+        "end": 11536,
+        "text": "1872",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Gp2ajlOfWB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12840,
+        "end": 12844,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "9k-mRudRB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12845,
+        "end": 12846,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ImvMSgZFfY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12957,
+        "end": 12958,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "tUoRizoZ-4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12959,
+        "end": 12960,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "FJCL2Qzc4o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13525,
+        "end": 13526,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "NnVvHdrcpQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13527,
+        "end": 13529,
+        "text": "10",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "kk2Ugt2LLc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14328,
+        "end": 14329,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "bnUBfie3Q7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14330,
+        "end": 14331,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "uMPfbnKm-n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14332,
+        "end": 14335,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "PpaRBkl9-0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14336,
+        "end": 14337,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "sJFxTZ_LWD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14467,
+        "end": 14471,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Z0ynH9mz_C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14472,
+        "end": 14473,
+        "text": "6",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "UnuNF7QVCq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14474,
+        "end": 14478,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "s4asLrO3b4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14479,
+        "end": 14480,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "77emJNzfjy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15169,
+        "end": 15173,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "m-A9F0Gl99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15174,
+        "end": 15175,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "sxsPGA769w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15364,
+        "end": 15368,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "BxXNlATMRg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15369,
+        "end": 15370,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "e6Z43BOL2Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16180,
+        "end": 16184,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "LsWmBHxacv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16185,
+        "end": 16186,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BXH41MwfAr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16703,
+        "end": 16714,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8IzOznkkoa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16715,
+        "end": 16717,
+        "text": "41",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "cFGvlRF7Ow",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16803,
+        "end": 16807,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "PTuclRA3jU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16808,
+        "end": 16811,
+        "text": "149",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ePCGygg9Mt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16812,
+        "end": 16816,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Y1WoDuINWj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16817,
+        "end": 16818,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "xYU9pTfKi0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16905,
+        "end": 16926,
+        "text": "Dz. U. z 2008 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bGREFVgbI7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16927,
+        "end": 16930,
+        "text": "415",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "UmhfnHHEag",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16932,
+        "end": 16935,
+        "text": "416",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "lffFz3KSDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16937,
+        "end": 16940,
+        "text": "850",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5ITXgZuMan",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16942,
+        "end": 16946,
+        "text": "1056",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "D1dGy6OG7Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16948,
+        "end": 16952,
+        "text": "1367",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NBXWrBbqzZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16955,
+        "end": 16959,
+        "text": "1654",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4Z0t2gwf7P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16961,
+        "end": 16975,
+        "text": "z 2009 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0NIne7_FHb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16976,
+        "end": 16978,
+        "text": "33",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "8Yn0smi9KB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16980,
+        "end": 16983,
+        "text": "595",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zl68Foi_QS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16985,
+        "end": 16988,
+        "text": "742",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5bHB7fwibK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16990,
+        "end": 16993,
+        "text": "800",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "X2FnOXqoqt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16995,
+        "end": 16998,
+        "text": "964",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "csGXgCYz6-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17000,
+        "end": 17004,
+        "text": "1035",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WRHdpJtCc_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17006,
+        "end": 17010,
+        "text": "1052",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KVhVYKWZsR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17012,
+        "end": 17016,
+        "text": "1278",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "917SLscyDI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17019,
+        "end": 17023,
+        "text": "1706",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "O7lDCZH6a0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17025,
+        "end": 17039,
+        "text": "z 2010 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8ZqdBNgg_x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17040,
+        "end": 17043,
+        "text": "146",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BAEpeJf458",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17045,
+        "end": 17048,
+        "text": "531",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "w-JxK9AqA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17050,
+        "end": 17054,
+        "text": "1578",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PEKZljZcWu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17056,
+        "end": 17060,
+        "text": "1593",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "q6Ccy15myv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17062,
+        "end": 17066,
+        "text": "1700",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "3YyTZ8a96R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17068,
+        "end": 17072,
+        "text": "1725",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4w0mNFhIix",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17075,
+        "end": 17079,
+        "text": "1726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4knQ0NGtqY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17085,
+        "end": 17099,
+        "text": "z 2011 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "s2OwVh_f9W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17100,
+        "end": 17103,
+        "text": "235",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "13yeHDp8nf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17105,
+        "end": 17108,
+        "text": "622",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GKtL5c1KB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17110,
+        "end": 17114,
+        "text": "1016",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NxjoNwcXPM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17116,
+        "end": 17120,
+        "text": "1206",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "rXmg-rtcvV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 17123,
+        "end": 17127,
+        "text": "1211",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "QXPgc7BJpt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 4,
+    "data": {
+      "text": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Spo\u0142ecznej z dnia 19 kwietnia 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Pracy i Polityki Spo\u0142ecznej\nw sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu Pracy 1) Minister Rodziny, Pracy i Polityki Spo\u0142ecznej kieruje dzia\u0142em administracji rz\u0105dowej\n- praca, na podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia\n18 grudnia 2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Rodziny, Pracy\ni Polityki Spo\u0142ecznej (Dz. U. poz. 2715).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Pracy i Polityki Spo\u0142ecznej z dnia 7 pa\u017adziernika 2011 r.\nw sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu Pracy\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Pracy i Polityki Spo\u0142ecznej z dnia 7 pa\u017adziernika 2011 r.\nw sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu Pracy\n(Dz. U. z 2016 r. poz. 472), z uwzgl\u0119dnieniem zmian wprowadzonych rozporz\u0105dzeniem Ministra Rodziny i Polityki Spo\u0142ecznej z dnia 26 kwietnia 2023 r.\nzmieniaj\u0105cym rozporz\u0105dzenie w sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu\nPracy\n(Dz. U. poz. 811).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Rodziny i Polityki Spo\u0142ecznej z dnia 26 kwietnia 2023 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu\nPracy\n(Dz. U. poz. 811), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Pracy i Polityki Spo\u0142ecznej z dnia 7 pa\u017adziernika 2011 r.\nw sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej Funduszu Pracy 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - praca kieruje Minister Rodziny, Pracy i Polityki Spo\u0142ecznej,\nna podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Rodziny, Pracy i Polityki\nSpo\u0142ecznej (Dz. U. poz. 2715).\nNa podstawie art. 108 ust. 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach\nrynku pracy\n(Dz. U. z 2024 r. poz. 475) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla szczeg\u00f3\u0142owe zasady gospodarki finansowej Funduszu Pracy, zwanego\ndalej \u201eFunduszem\u201d, oraz zasady i tryb powierzania przez organy zatrudnienia bankom\ni innym instytucjom dokonywania wyp\u0142at \u015bwiadcze\u0144 pieni\u0119\u017cnych dla bezrobotnych i innych\nuprawnionych os\u00f3b.\n\u00a7 2.\nObs\u0142ug\u0119 finansowo-ksi\u0119gow\u0105 \u015brodk\u00f3w Funduszu prowadzi urz\u0105d obs\u0142uguj\u0105cy dysponenta\nFunduszu, z zastrze\u017ceniem \u00a7 3.\n\u00a7 3.\nObs\u0142ug\u0119 finansowo-ksi\u0119gow\u0105 \u015brodk\u00f3w Funduszu przekazanych przez dysponenta Funduszu\nna wyodr\u0119bniony dla \u015brodk\u00f3w Funduszu rachunek bankowy, samorz\u0105dom wojew\u00f3dztw, samorz\u0105dom\npowiat\u00f3w, Ochotniczym Hufcom Pracy, wojewodom oraz innym jednostkom realizuj\u0105cym zadania\nfinansowane ze \u015brodk\u00f3w Funduszu i maj\u0105cym, na podstawie odr\u0119bnych przepis\u00f3w albo um\u00f3w\nzawartych na ich podstawie z dysponentem Funduszu, obowi\u0105zek utworzenia wyodr\u0119bnionych\nrachunk\u00f3w bankowych z przeznaczeniem dla \u015brodk\u00f3w Funduszu, prowadz\u0105 ich w\u0142a\u015bciwe organy\nlub jednostki organizacyjne.\n\u00a7 4.\n1.\nDysponent Funduszu w terminie 21 dni od dnia og\u0142oszenia ustawy bud\u017cetowej zatwierdza\nplan finansowy Funduszu sporz\u0105dzany wed\u0142ug zada\u0144 oraz organ\u00f3w i jednostek realizuj\u0105cych\nte zadania, zwany dalej \u201eplanem finansowym wed\u0142ug zada\u0144\u201d, okre\u015blaj\u0105cy kwoty \u015brodk\u00f3w\nFunduszu na finansowanie zada\u0144 przez samorz\u0105dy wojew\u00f3dztw, samorz\u0105dy powiat\u00f3w, Ochotnicze\nHufce Pracy, wojewod\u00f3w oraz urz\u0105d obs\u0142uguj\u0105cy ministra w\u0142a\u015bciwego do spraw pracy i\ninne jednostki, o kt\u00f3rych mowa w \u00a7 3, z uwzgl\u0119dnieniem kwot wynikaj\u0105cych z rocznego\nplanu finansowego Funduszu, zwanego dalej \u201eplanem finansowym Funduszu\u201d.\n2.\nPlan finansowy wed\u0142ug zada\u0144 obejmuje:\n1)\nkwoty \u015brodk\u00f3w Funduszu na wyp\u0142at\u0119 zasi\u0142k\u00f3w dla bezrobotnych i innych obligatoryjnych\n\u015bwiadcze\u0144;\n2)\nkwoty \u015brodk\u00f3w Funduszu (limity) na realizacj\u0119 program\u00f3w na rzecz promocji zatrudnienia,\n\u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej;\n3)\nkwoty \u015brodk\u00f3w Funduszu (limity) na realizacj\u0119 innych zada\u0144 fakultatywnych;\n4)\nkwoty \u015brodk\u00f3w Funduszu na realizacj\u0119 innych zada\u0144 finansowanych z Funduszu.\n2a.\nKwota \u015brodk\u00f3w Funduszu (limit) na realizacj\u0119 przez samorz\u0105dy powiat\u00f3w program\u00f3w na\nrzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej\noraz innych fakultatywnych zada\u0144 jest przekazywana przez dysponenta Funduszu miesi\u0119cznie\nw wysoko\u015bci 1/12 limitu rocznego.\n2b.\nDysponent Funduszu, na podstawie pisemnego wniosku starosty (prezydenta miasta), mo\u017ce\nw danym miesi\u0105cu przekaza\u0107 \u015brodki Funduszu w kwocie wy\u017cszej ni\u017c okre\u015blona w ust. 2a.\n2c.\nPrzepis ust. 2a i 2b stosuje si\u0119 odpowiednio do przekazywania \u015brodk\u00f3w Funduszu na\nrealizacj\u0119 przez samorz\u0105dy powiat\u00f3w projekt\u00f3w wsp\u00f3\u0142finansowanych z Europejskiego Funduszu\nSpo\u0142ecznego.\n3.\nDo czasu zatwierdzenia przez dysponenta Funduszu planu finansowego wed\u0142ug zada\u0144, podstaw\u0105\nwydatkowania \u015brodk\u00f3w Funduszu jest projekt planu finansowego wed\u0142ug zada\u0144 sporz\u0105dzany\nna podstawie projektu planu finansowego Funduszu.\n4.\nW okresie, o kt\u00f3rym mowa w ust. 3, kwota \u015brodk\u00f3w Funduszu (limit) na realizacj\u0119 program\u00f3w\nna rzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej\noraz innych fakultatywnych zada\u0144 jest przekazywana przez dysponenta Funduszu miesi\u0119cznie\nw wysoko\u015bci nie ni\u017cszej ni\u017c 1/12 limitu rocznego, jednak nie wy\u017cszej ni\u017c 2/12 limitu\nrocznego.\n4a.\nPrzepis ust. 4 stosuje si\u0119 odpowiednio do przekazywania \u015brodk\u00f3w Funduszu na realizacj\u0119\nprzez samorz\u0105dy powiat\u00f3w projekt\u00f3w wsp\u00f3\u0142finansowanych z Europejskiego Funduszu Spo\u0142ecznego.\n5.\nDysponent Funduszu zawiadamia na pi\u015bmie marsza\u0142k\u00f3w wojew\u00f3dztw, starost\u00f3w (prezydent\u00f3w\nmiast), komendanta Ochotniczych Hufc\u00f3w Pracy oraz wojewod\u00f3w o wysoko\u015bci ustalonych\nkwot \u015brodk\u00f3w Funduszu (limit\u00f3w), jakie mog\u0105 by\u0107 wydatkowane w roku bud\u017cetowym na finansowanie\nrealizowanych przez nich zada\u0144.\n5a.\nKwota \u015brodk\u00f3w Funduszu (limit) z przeznaczeniem na finansowanie w wojew\u00f3dztwie program\u00f3w\nna rzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej\noraz innych fakultatywnych zada\u0144 jest dzielona pomi\u0119dzy samorz\u0105dy powiat\u00f3w w terminie\nmiesi\u0105ca od dnia uzyskania od dysponenta Funduszu zawiadomienia na pi\u015bmie o jej wysoko\u015bci.\n5b.\nMarsza\u0142ek wojew\u00f3dztwa, w terminie 7 dni od dnia dokonania podzia\u0142u, o kt\u00f3rym mowa\nw ust. 5a, zawiadamia na pi\u015bmie dysponenta Funduszu o wysoko\u015bci kwot \u015brodk\u00f3w Funduszu\nustalonych wed\u0142ug kryteri\u00f3w przyj\u0119tych przez sejmik wojew\u00f3dztwa na finansowanie program\u00f3w\nna rzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej\noraz innych fakultatywnych zada\u0144, realizowanych przez samorz\u0105dy powiat\u00f3w. Do zawiadomienia\ndo\u0142\u0105cza si\u0119 kryteria podzia\u0142u tych kwot przyj\u0119te przez sejmik wojew\u00f3dztwa.\n5c.\nNa z\u0142o\u017cony w terminie do dnia 31 pa\u017adziernika danego roku kalendarzowego wniosek starosty\n(prezydenta miasta), zaopiniowany przez marsza\u0142ka wojew\u00f3dztwa, dysponent Funduszu\nmo\u017ce wyrazi\u0107 zgod\u0119 na zwi\u0119kszenie kwoty \u015brodk\u00f3w Funduszu ustalonej dla samorz\u0105du powiatu\nna finansowanie program\u00f3w na rzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia\ni aktywizacji zawodowej o cz\u0119\u015b\u0107 kwoty \u015brodk\u00f3w Funduszu ustalonej dla samorz\u0105du powiatu\nna finansowanie innych zada\u0144 fakultatywnych, je\u017celi jej wykorzystanie w danym roku\nbud\u017cetowym nie jest mo\u017cliwe lub by\u0142oby nieefektywne.\n5d.\nW przypadku powstania po dniu 30 listopada poprzedniego roku bud\u017cetowego nowego powiatowego\nurz\u0119du pracy lub w przypadku zmiany po tym dniu obszaru dzia\u0142ania powiatowego urz\u0119du\npracy, starostowie (prezydenci miast) sprawuj\u0105cy zwierzchnictwo nad tymi urz\u0119dami\npracy przedstawiaj\u0105 marsza\u0142kowi wojew\u00f3dztwa, na jego wniosek, informacje o dokonanych\nuzgodnieniach dotycz\u0105cych przej\u0119cia zobowi\u0105za\u0144 z poprzednich okres\u00f3w oraz o proponowanym\npodziale \u015brodk\u00f3w Funduszu na finansowanie zada\u0144 realizowanych przez samorz\u0105dy powiat\u00f3w.\n5e.\nW przypadku niedokonania w terminie 30 dni od dnia otrzymania wniosku marsza\u0142ka wojew\u00f3dztwa\nuzgodnie\u0144, o kt\u00f3rych mowa w ust. 5d, decyzj\u0119 o kwotach \u015brodk\u00f3w Funduszu przys\u0142uguj\u0105cych\nna finansowanie zada\u0144 realizowanych przez samorz\u0105dy powiat\u00f3w podejmuje dysponent Funduszu\nna wniosek marsza\u0142ka wojew\u00f3dztwa.\n6.\n(uchylony).\n7.\nNa podstawie zawiadomienia, o kt\u00f3rym mowa w ust. 5, podmioty wymienione w ust. 5 opracowuj\u0105\nplan finansowy w uk\u0142adzie paragraf\u00f3w klasyfikacji bud\u017cetowej i przekazuj\u0105 dysponentowi\nFunduszu w terminie wskazanym w tym zawiadomieniu.\n\u00a7 5.\n1.\nDysponent Funduszu mo\u017ce upowa\u017cni\u0107 marsza\u0142k\u00f3w wojew\u00f3dztw, starost\u00f3w (prezydent\u00f3w miast),\nkomendanta Ochotniczych Hufc\u00f3w Pracy oraz wojewod\u00f3w do dokonywania zmian w planie\nfinansowym polegaj\u0105cych na przeniesieniach planowanych wydatk\u00f3w pomi\u0119dzy poszczeg\u00f3lnymi\nparagrafami klasyfikacji bud\u017cetowej oraz wprowadzeniu nowych paragraf\u00f3w klasyfikacji\nbud\u017cetowej, stosownie do uzasadnionych potrzeb, je\u017celi nie spowoduje to przekroczenia\nustalonych kwot \u015brodk\u00f3w Funduszu (limit\u00f3w), o kt\u00f3rych mowa w \u00a7 4 ust. 5.\n2.\n(uchylony). 2) Przez \u00a7 1 pkt 1 rozporz\u0105dzenia Ministra Rodziny i Polityki Spo\u0142ecznej z dnia 26 kwietnia\n2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej\nFunduszu Pracy (Dz. U. poz. 811), kt\u00f3re wesz\u0142o w \u017cycie z dniem 28 kwietnia 2023 r.\n3.\n(uchylony). 2) Przez \u00a7 1 pkt 1 rozporz\u0105dzenia Ministra Rodziny i Polityki Spo\u0142ecznej z dnia 26 kwietnia\n2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie szczeg\u00f3\u0142owych zasad gospodarki finansowej\nFunduszu Pracy (Dz. U. poz. 811), kt\u00f3re wesz\u0142o w \u017cycie z dniem 28 kwietnia 2023 r.\n\u00a7 6.\n1.\n\u015arodki Funduszu niewykorzystane w roku bud\u017cetowym, pozostaj\u0105ce na wyodr\u0119bnionych rachunkach\nbankowych samorz\u0105d\u00f3w wojew\u00f3dztw, wojewod\u00f3w oraz Ochotniczych Hufc\u00f3w Pracy, pozostaj\u0105\nna tych rachunkach do dnia 31 stycznia nast\u0119pnego roku bud\u017cetowego w kwotach nie wy\u017cszych\nni\u017c wynikaj\u0105ce z konieczno\u015bci uregulowania zobowi\u0105za\u0144 poprzedniego roku bud\u017cetowego.\n2.\n\u015arodki Funduszu niewykorzystane w roku bud\u017cetowym, pozostaj\u0105ce na wyodr\u0119bnionych rachunkach\nbankowych samorz\u0105d\u00f3w powiat\u00f3w, pozostaj\u0105 na tych rachunkach z przeznaczeniem na wyp\u0142at\u0119\nzasi\u0142k\u00f3w dla bezrobotnych i innych obligatoryjnych \u015bwiadcze\u0144.\n3.\n\u015arodki Funduszu przekazane przez dysponenta Funduszu na podstawie um\u00f3w, o kt\u00f3rych\nmowa w \u00a7 3, niewykorzystane w roku bud\u017cetowym podlegaj\u0105 zwrotowi na rachunek bankowy\nFunduszu na zasadach okre\u015blonych w tych umowach.\n\u00a7 7.\n1.\n\u015arodki finansowe przekazane na wyodr\u0119bniony rachunek bankowy samorz\u0105du wojew\u00f3dztwa\nlub samorz\u0105du powiatu przez inne ni\u017c dysponent Funduszu organy, organizacje i podmioty,\nz przeznaczeniem na realizacj\u0119 program\u00f3w na rzecz promocji zatrudnienia, \u0142agodzenia\nskutk\u00f3w bezrobocia i aktywizacji zawodowej oraz innych fakultatywnych zada\u0144, stanowi\u0105\nprzych\u00f3d Funduszu.\n2.\nDysponent Funduszu, na wniosek marsza\u0142ka wojew\u00f3dztwa lub starosty (prezydenta miasta),\nzwi\u0119ksza ustalon\u0105 dla samorz\u0105du wojew\u00f3dztwa lub samorz\u0105du powiatu kwot\u0119 \u015brodk\u00f3w Funduszu\n(limitu), o kt\u00f3rych mowa w \u00a7 4 ust. 5, o \u015brodki, o kt\u00f3rych mowa w ust. 1, po spe\u0142nieniu\nwymog\u00f3w okre\u015blonych w art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych\n(Dz. U. z 2023 r. poz. 1270, z p\u00f3\u017an. zm. 3) Zmiany tekstu jednolitego wymienionej ustawy zosta\u0142y og\u0142oszone w Dz. U. z 2023 r.\npoz. 1273, 1407, 1429, 1641, 1693 i 1872.).\n\u00a7 8.\n1.\n\u015arodki Funduszu stanowi\u0105ce rezerw\u0119 b\u0119d\u0105c\u0105 w dyspozycji dysponenta Funduszu, zwan\u0105\ndalej \u201erezerw\u0105\u201d, s\u0105 naliczane w roku bud\u017cetowym w wysoko\u015bci okre\u015blonej w przepisach\nw sprawie algorytmu ustalania kwot \u015brodk\u00f3w Funduszu Pracy na finansowanie zada\u0144 w\nwojew\u00f3dztwie i przyznawane zgodnie z przeznaczeniem okre\u015blonym w tych przepisach.\n2.\nWojewoda, marsza\u0142ek wojew\u00f3dztwa, starosta (prezydent miasta) oraz Komendant G\u0142\u00f3wny\nOchotniczych Hufc\u00f3w Pracy, ubiegaj\u0105cy si\u0119 o \u015brodki rezerwy, sk\u0142adaj\u0105 do dysponenta\nFunduszu wniosek okre\u015blaj\u0105cy w szczeg\u00f3lno\u015bci:\n1)\nwysoko\u015b\u0107 wnioskowanej kwoty;\n2)\nrodzaj i zakres zada\u0144 maj\u0105cych by\u0107 przedmiotem finansowania;\n3)\nopis zak\u0142adanych efekt\u00f3w.\n3.\nStarosta (prezydent miasta), kt\u00f3ry otrzyma\u0142 \u015brodki rezerwy na finansowanie program\u00f3w\nna rzecz promocji zatrudnienia, \u0142agodzenia skutk\u00f3w bezrobocia i aktywizacji zawodowej,\nsporz\u0105dza informacj\u0119 dotycz\u0105c\u0105 wydatkowania przyznanych \u015brodk\u00f3w oraz efektywno\u015bci\nzatrudnieniowej i kosztowej ich wykorzystania i przekazuje t\u0119 informacj\u0119 marsza\u0142kowi\nwojew\u00f3dztwa w terminie do dnia 31 maja kolejnego roku bud\u017cetowego.\n4.\nMarsza\u0142ek wojew\u00f3dztwa przekazuje dysponentowi Funduszu, nie p\u00f3\u017aniej ni\u017c do ko\u0144ca I\np\u00f3\u0142rocza kolejnego roku bud\u017cetowego, informacje starost\u00f3w (prezydent\u00f3w miast) dotycz\u0105ce\nwydatkowania \u015brodk\u00f3w, o kt\u00f3rych mowa w ust. 3, oraz efektywno\u015bci zatrudnieniowej i\nkosztowej ich wykorzystania.\n\u00a7 9.\nKierownicy jednostek, o kt\u00f3rych mowa w \u00a7 3, realizuj\u0105c zadania finansowane ze \u015brodk\u00f3w\nFunduszu, s\u0105 obowi\u0105zani, w ramach prowadzonych ksi\u0105g rachunkowych jednostki, do:\n1)\nprowadzenia wyodr\u0119bnionej ewidencji ksi\u0119gowej \u015brodk\u00f3w Funduszu przekazanych przez\ndysponenta Funduszu oraz koszt\u00f3w ponoszonych z tych \u015brodk\u00f3w;\n2)\nw\u0142a\u015bciwego dokumentowania przychod\u00f3w i koszt\u00f3w Funduszu;\n3)\nudost\u0119pniania do kontroli dokument\u00f3w dotycz\u0105cych przychod\u00f3w i koszt\u00f3w Funduszu przedstawicielom\ndysponenta Funduszu oraz innym upowa\u017cnionym organom i instytucjom;\n4)\nprzekazywania dysponentowi Funduszu informacji, o kt\u00f3rych mowa w \u00a7 10, umo\u017cliwiaj\u0105cych\nsporz\u0105dzenie przez dysponenta Funduszu sprawozda\u0144 bud\u017cetowych i finansowych zgodnie\nz obowi\u0105zuj\u0105cymi przepisami;\n5)\nprzekazywania dysponentowi Funduszu informacji o posiadanym stanie \u015brodk\u00f3w Funduszu,\nzapotrzebowania na te \u015brodki w bie\u017c\u0105cym i nast\u0119pnych miesi\u0105cach, a tak\u017ce innych danych\ni informacji niezb\u0119dnych dla zapewnienia p\u0142ynno\u015bci finansowej Funduszu;\n6)\nprzekazywania dysponentowi Funduszu, zgodnie z ustalonym przez dysponenta Funduszu\nterminem i zakresem danych, informacji o uzyskanych efektach realizowanych us\u0142ug,\ninstrument\u00f3w rynku pracy i innych dzia\u0142a\u0144 finansowanych z Funduszu;\n7)\nprzekazywania dysponentowi Funduszu, zgodnie z ustalonym przez dysponenta Funduszu\nterminem, rozliczenia wykorzystanych \u015brodk\u00f3w rezerwy Funduszu.\n\u00a7 10 4) W brzmieniu ustalonym przez \u00a7 1 pkt 2 rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 2..\n1.\nKierownicy jednostek tworz\u0105cych publiczne s\u0142u\u017cby zatrudnienia, o kt\u00f3rych mowa w art. 6 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach\nrynku pracy, oraz Ochotnicze Hufce Pracy, na podstawie ewidencji ksi\u0119gowej, sporz\u0105dzaj\u0105 informacje\nz wykonania planu finansowego Funduszu i przekazuj\u0105 dysponentowi Funduszu za okres\nod pocz\u0105tku roku bud\u017cetowego do:\n1)\n31 marca danego roku bud\u017cetowego, w terminie do dnia 10 kwietnia danego roku bud\u017cetowego;\n2)\nko\u0144ca kolejnego miesi\u0105ca od kwietnia do listopada danego roku bud\u017cetowego, w terminie\ndo 10. dnia miesi\u0105ca nast\u0119puj\u0105cego po miesi\u0105cu sprawozdawczym w danym roku bud\u017cetowym;\n3)\n31 grudnia danego roku bud\u017cetowego, w terminie do dnia 21 stycznia nast\u0119pnego roku\nbud\u017cetowego.\n2.\nInformacje, o kt\u00f3rych mowa w ust. 1, obejmuj\u0105 planowane i osi\u0105gni\u0119te przychody oraz\nplanowane i poniesione koszty, a tak\u017ce stan \u015brodk\u00f3w obrotowych na pocz\u0105tek i koniec\nokresu sprawozdawczego.\n3.\nInformacje, o kt\u00f3rych mowa w ust. 1, s\u0105 sporz\u0105dzane w postaci elektronicznej, opatrywane\nkwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym,\ni przekazywane dysponentowi Funduszu na elektroniczn\u0105 skrzynk\u0119 podawcz\u0105, ze wskazaniem\ntytu\u0142u, nazwy jednostki przekazuj\u0105cej informacj\u0119 oraz okresu, kt\u00f3rego te informacje\ndotycz\u0105.\n\u00a7 11.\n1.\nStarosta (prezydent miasta), po uzyskaniu pozytywnej opinii powiatowej rady rynku\npracy, mo\u017ce zleci\u0107 bankom i innym instytucjom dokonywanie ze \u015brodk\u00f3w Funduszu wyp\u0142at\n\u015bwiadcze\u0144 pieni\u0119\u017cnych dla bezrobotnych i innych uprawnionych os\u00f3b, je\u017celi koszty ich\nwyp\u0142aty nie przekrocz\u0105 0,8 % wyp\u0142aconych kwot.\n2.\nNa umotywowany wniosek starosty (prezydenta miasta) dysponent Funduszu mo\u017ce wyrazi\u0107\nzgod\u0119 na sfinansowanie ze \u015brodk\u00f3w Funduszu koszt\u00f3w wyp\u0142aty \u015bwiadcze\u0144 pieni\u0119\u017cnych,\no kt\u00f3rych mowa w ust. 1, przez banki i inne instytucje, je\u017celi koszty ich wyp\u0142aty\nnie przekrocz\u0105 1 % wyp\u0142aconych kwot.\n\u00a7 12.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 5) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 17 pa\u017adziernika 2011 r.. 6) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Pracy i Polityki\nSpo\u0142ecznej z dnia 12 stycznia 2000 r. w sprawie szczeg\u00f3\u0142owych zasad finansowania wydatk\u00f3w\nz Funduszu Pracy oraz sposobu wsp\u00f3\u0142pracy organ\u00f3w zatrudnienia z bankami i instytucjami\nfinansuj\u0105cymi (Dz. U. poz. 41), kt\u00f3re utraci\u0142o moc z dniem wej\u015bcia w \u017cycie niniejszego\nrozporz\u0105dzenia na podstawie art. 149 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji\nzatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. poz. 415, 416, 850, 1056,\n1367 i 1654, z 2009 r. poz. 33, 595, 742, 800, 964, 1035, 1052, 1278 i 1706, z 2010 r.\npoz. 146, 531, 1578, 1593, 1700, 1725 i 1726 oraz z 2011 r. poz. 235, 622, 1016, 1206\ni 1211)."
+    },
+    "meta": {},
+    "created_at": "2026-10-19T14:27:44.439935Z",
+    "updated_at": "2026-10-19T14:27:44.439935Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 105,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-19T15:02:20.421320Z",
+  "updated_at": "2026-10-19T15:02:20.421320Z",
+  "draft_created_at": "2026-10-19T14:59:31.098386Z",
+  "lead_time": 177.146,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 152,
+  "parent_annotation": null,
+  "last_created_by": null
+}

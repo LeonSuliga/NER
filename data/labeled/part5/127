@@ -1,0 +1,621 @@
+{
+  "id": 127,
+  "result": [
+    {
+      "value": {
+        "start": 238,
+        "end": 242,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "7SH0TTvk4k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 243,
+        "end": 246,
+        "text": "232",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "YUl4qgCuuK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 312,
+        "end": 323,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "h_nDfwZq9Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 324,
+        "end": 327,
+        "text": "483",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9loJjtOWJD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 329,
+        "end": 343,
+        "text": "z 2001 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bgERo9zVQx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 344,
+        "end": 347,
+        "text": "319",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Tjy8Tba4-Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 349,
+        "end": 363,
+        "text": "z 2006 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "w_vOI-gLDV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 364,
+        "end": 368,
+        "text": "1471",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tyUiOMU6-_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 374,
+        "end": 388,
+        "text": "z 2009 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "MJ0D4iUxCX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 389,
+        "end": 392,
+        "text": "946",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "00mP6MipwR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 399,
+        "end": 403,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "k0vUB4aYrj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 404,
+        "end": 405,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "xJtwg9l9vq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 406,
+        "end": 410,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ZxskBWGHEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 411,
+        "end": 412,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "MS50zYqBcm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 415,
+        "end": 416,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "bOPDduk5Cd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 479,
+        "end": 500,
+        "text": "Dz. U. z 2017 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kGDFoAQBPw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 501,
+        "end": 505,
+        "text": "1897",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zXEwIKv7x9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 720,
+        "end": 731,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "W4S_gprBEp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 732,
+        "end": 736,
+        "text": "1365",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VFzb91Qtki",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 739,
+        "end": 743,
+        "text": "1380",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0nDfyivQH9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 784,
+        "end": 785,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "gy4fVUWQWJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 786,
+        "end": 787,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "z0ofKD5fiT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 790,
+        "end": 794,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "x1mV2jT7Nh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 795,
+        "end": 796,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "nWrgitPR0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 800,
+        "end": 803,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "1GyRh1mCjt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 804,
+        "end": 806,
+        "text": "1a",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "tQquVH4vcH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 818,
+        "end": 821,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "3hjcCG7-H3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 822,
+        "end": 824,
+        "text": "1b",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9mZfCVkB33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 937,
+        "end": 938,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "JYWWoOwdLV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 939,
+        "end": 940,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "GfQwJGuxdb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 943,
+        "end": 946,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "SZnkbIjVrH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 947,
+        "end": 948,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "xvUnQKZ8kD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 994,
+        "end": 997,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "3JCZ6n4bya",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 998,
+        "end": 999,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "IWyY8hQ_TA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1190,
+        "end": 1191,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "1puWOu75ph",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1192,
+        "end": 1193,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "EhJct1_Iq3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1194,
+        "end": 1198,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jwjNsR2ODc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1199,
+        "end": 1200,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "krgIBuYHwL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 27,
+    "data": {
+      "text": "Rozporz\u0105dzenie Rady Ministr\u00f3w z dnia 20 wrze\u015bnia 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie wprowadzenia stanu kl\u0119ski \u017cywio\u0142owej na obszarze\ncz\u0119\u015bci wojew\u00f3dztwa dolno\u015bl\u0105skiego, opolskiego oraz \u015bl\u0105skiego\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.\n(Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. o stanie kl\u0119ski \u017cywio\u0142owej\n(Dz. U. z 2017 r. poz. 1897) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Rady Ministr\u00f3w z dnia 16 wrze\u015bnia 2024 r. w sprawie wprowadzenia stanu\nkl\u0119ski \u017cywio\u0142owej na obszarze cz\u0119\u015bci wojew\u00f3dztwa dolno\u015bl\u0105skiego, opolskiego oraz \u015bl\u0105skiego\n(Dz. U. poz. 1365 i 1380) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\n1)\nw \u00a7 1 w ust. 2 po pkt 1a dodaje si\u0119 pkt 1b w brzmieniu:\n\u201e1b)\nw wojew\u00f3dztwie dolno\u015bl\u0105skim - powiaty boles\u0142awiecki, jaworski, legnicki i z\u0142otoryjski;\u201d;\n2)\nw \u00a7 2 w pkt 4 kropk\u0119 zast\u0119puje si\u0119 \u015brednikiem i dodaje si\u0119 pkt 5 w brzmieniu:\n\u201e5)\nobowi\u0105zku stosowania okre\u015blonych \u015brodk\u00f3w zapewniaj\u0105cych ochron\u0119 \u015brodowiska - w zakresie\nzbierania, transportu lub przetwarzania odpad\u00f3w pochodz\u0105cych z obszaru okre\u015blonego\nw \u00a7 1 ust. 2.\u201d.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem og\u0142oszenia."
+    },
+    "meta": {},
+    "created_at": "2026-10-19T14:27:44.446787Z",
+    "updated_at": "2026-10-19T14:27:44.446787Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 128,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-26T15:30:53.284907Z",
+  "updated_at": "2026-10-26T15:30:53.284907Z",
+  "draft_created_at": "2026-10-26T15:30:48.165058Z",
+  "lead_time": 10.741,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 175,
+  "parent_annotation": null,
+  "last_created_by": null
+}

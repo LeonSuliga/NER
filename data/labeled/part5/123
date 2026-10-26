@@ -1,0 +1,681 @@
+{
+  "id": 123,
+  "result": [
+    {
+      "value": {
+        "start": 253,
+        "end": 254,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "VFE7cfxxF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 255,
+        "end": 256,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Sfv6IckvU-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 257,
+        "end": 261,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Y5BxZ1br4Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 262,
+        "end": 263,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "l8xlpw84zw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 388,
+        "end": 399,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wblx1VcKb4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 400,
+        "end": 404,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Br6bIgr51P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 441,
+        "end": 445,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OaGSoNgDic",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 446,
+        "end": 449,
+        "text": "31d",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ep7gwPl_cz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 556,
+        "end": 577,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vLA5ur2fr0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 578,
+        "end": 581,
+        "text": "146",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iGDMyi5xTX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 583,
+        "end": 586,
+        "text": "858",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "EL7anrglwG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 589,
+        "end": 593,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "42iGOHJJDg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 774,
+        "end": 795,
+        "text": "Dz. U. z 2016 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "sMrZfreY8a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 796,
+        "end": 799,
+        "text": "357",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VbtvWkI1AN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 891,
+        "end": 912,
+        "text": "Dz. U. z\n2016 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8r_AV6CytN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 913,
+        "end": 917,
+        "text": "2164",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ni-2_74NRU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 919,
+        "end": 933,
+        "text": "z 2017 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "j03Z6u0pUI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 934,
+        "end": 938,
+        "text": "1244",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "GRs6aX22un",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 940,
+        "end": 944,
+        "text": "1766",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "dZhu5nYMAU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 947,
+        "end": 951,
+        "text": "2423",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6ooFFmsLUo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 953,
+        "end": 967,
+        "text": "z 2018 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Frgn8xWwql",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 968,
+        "end": 971,
+        "text": "657",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "qEzAlJ6bvX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 973,
+        "end": 987,
+        "text": "z 2019 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "W8lr7UDSQW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 988,
+        "end": 991,
+        "text": "397",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "a8X88YcHXV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 993,
+        "end": 997,
+        "text": "1060",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "K3mekNTirz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1000,
+        "end": 1004,
+        "text": "1864",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "egh1V_e1LL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1006,
+        "end": 1020,
+        "text": "z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "luaKK5GK2v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1021,
+        "end": 1024,
+        "text": "612",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vmRCmsIMRl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1026,
+        "end": 1040,
+        "text": "z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "udHZ2uxMOM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1041,
+        "end": 1044,
+        "text": "543",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "QTdpdloM2f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1047,
+        "end": 1050,
+        "text": "727",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5uHHCnq1CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1052,
+        "end": 1066,
+        "text": "z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DN0e01N0iD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1067,
+        "end": 1070,
+        "text": "365",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PpdX3FN8kK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1072,
+        "end": 1075,
+        "text": "482",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "-sm_MgSrlk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1077,
+        "end": 1081,
+        "text": "1542",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "h9hg3sCu30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1083,
+        "end": 1087,
+        "text": "2641",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JcjLsNNTWk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1090,
+        "end": 1094,
+        "text": "2678",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "3pqjyT0m-q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1096,
+        "end": 1110,
+        "text": "z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "okK9huuv4a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1111,
+        "end": 1115,
+        "text": "1953",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "l5fzbCyOhO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1118,
+        "end": 1122,
+        "text": "2294",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "09f66g8BzO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1128,
+        "end": 1142,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-dpoOwOhdw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1143,
+        "end": 1146,
+        "text": "224",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AweBFroWnR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 23,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Zdrowia z dnia 22 sierpnia 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie \u015bwiadcze\u0144 gwarantowanych z zakresu ambulatoryjnej\nopieki specjalistycznej 1) Minister Zdrowia kieruje dzia\u0142em administracji rz\u0105dowej - zdrowie, na podstawie \u00a7\n1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie\nszczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o \u015bwiadczeniach opieki zdrowotnej finansowanych\nze \u015brodk\u00f3w publicznych\n(Dz. U. z 2024 r. poz. 146, 858 i 1222) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie \u015bwiadcze\u0144 gwarantowanych\nz zakresu ambulatoryjnej opieki specjalistycznej\n(Dz. U. z 2016 r. poz. 357, z p\u00f3\u017an. zm.) 2) Zmiany tekstu jednolitego wymienionego rozporz\u0105dzenia zosta\u0142y og\u0142oszone w Dz. U. z\n2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r.\npoz. 397, 1060 i 1864, z 2020 r. poz. 612, z 2021 r. poz. 543 i 727, z 2022 r. poz.\n365, 482, 1542, 2641 i 2678, z 2023 r. poz. 1953 i 2294 oraz z 2024 r. poz. 224. w za\u0142\u0105czniku nr 2 do rozporz\u0105dzenia w cz\u0119\u015bci I \u201eBadania laboratoryjne\u201d dodaje si\u0119\nlp. 918 i 919 w brzmieniu:\n918\nBrak kodu\nBadanie genetyczne metod\u0105 por\u00f3wnawczej hybrydyzacji genomowej do mikromacierzy (aCGH\n- Array Comparative Genomie Hybridization)\nWymagania formalne: Medyczne laboratorium diagnostyczne wpisane do ewidencji Krajowej Rady Diagnost\u00f3w\nLaboratoryjnych z pracowni\u0105 genetyczn\u0105, kt\u00f3re posiada pozytywny wynik zewn\u0119trznej\nkontroli jako\u015bci w zakresie badania metod\u0105 por\u00f3wnawczej hybrydyzacji genomowej do\nmikromacierzy (aCGH), przeprowadzonej przez Europejsk\u0105 Agencj\u0119 Kontroli Jako\u015bci Bada\u0144\nGenetycznych (ang. European Molecular Genetics Quality Network, EMQN) lub Agencj\u0119\nOceny Genomu (ang. Genomic Quality Assessment, GenQA), lub inn\u0105 organizacj\u0119 posiadaj\u0105c\u0105\ncertyfikat ISO 17043; wydany w okresie ostatnich 24 miesi\u0119cy.\nPersonel:\n1) diagnosta laboratoryjny ze specjalizacj\u0105 w dziedzinie laboratoryjnej genetyki medycznej\nz co najmniej 3-letnim do\u015bwiadczeniem w wykonywaniu badania metod\u0105 aCGH lub\n2) specjalista w dziedzinie medycznej genetyki molekularnej z co najmniej 3-letnim\ndo\u015bwiadczeniem w wykonywaniu badania metod\u0105 aCGH;\n3) diagnosta laboratoryjny z co najmniej 3-letnim do\u015bwiadczeniem w wykonywaniu badania\nmetod\u0105 aCGH.\nWyposa\u017cenie w sprz\u0119t i aparatur\u0119 medyczn\u0105:\n1) skaner do mikromacierzy wraz z oprogramowaniem;\n2) urz\u0105dzenie do pomiaru st\u0119\u017cenia i jako\u015bci kwas\u00f3w nukleinowych;\n3) piec do hybrydyzacji;\n4) termocykler;\n5) wir\u00f3wka laboratoryjna;\n6) termoblok lub \u0142a\u017ania wodna.\nUrz\u0105dzenia posiadaj\u0105 certyfikat CE-IVD lub udokumentowan\u0105 wewn\u0105trzlaboratoryjn\u0105 walidacj\u0119\nzapewniaj\u0105c\u0105 w\u0142a\u015bciwy standard bada\u0144.\nKryteria kwalifikacji os\u00f3b wymagaj\u0105cych udzielenia \u015bwiadczenia:\n1. W diagnostyce prenatalnej w przypadku spe\u0142nienia co najmniej jednego z poni\u017cszych\nkryteri\u00f3w:\n1) stwierdzenie w badaniu USG co najmniej jednej nieprawid\u0142owo\u015bci strukturalnej p\u0142odu\nlub\n2) podejrzenie wyst\u0119powania aneuploidii u p\u0142odu, lub\n3) wykrycie w klasycznym badaniu cytogenetycznym (analiza kariotypu) u p\u0142odu z wadami\nwrodzonymi pozornie zr\u00f3wnowa\u017conych rearan\u017cacji dziedzicznych lub de novo.\n2. W diagnostyce postnatalnej w przypadku spe\u0142nienia co najmniej jednego z poni\u017cszych\nkryteri\u00f3w:\n1) podejrzenie aberracji chromosomowej innej ni\u017c aberracje liczbowe lub\n2) niepe\u0142nosprawno\u015b\u0107 intelektualna z cechami dysmorfii lub bez nich, lub\n3) op\u00f3\u017anienie rozwoju psychoruchowego, lub\n4) autyzm z towarzysz\u0105c\u0105 niepe\u0142nosprawno\u015bci\u0105 intelektualn\u0105 lub op\u00f3\u017anieniem rozwoju,\nlub cechami dysmorfii lub wadami rozwojowymi, lub\n5) strukturalne wady wrodzone - dotycz\u0105ce co najmniej jednego narz\u0105du lub uk\u0142adu,\nzespo\u0142y wad, du\u017ce wady izolowane jednego narz\u0105du, np. serca, nerek, m\u00f3zgu, ko\u0144czyn,\nlub\n6) padaczka o podejrzewanym pod\u0142o\u017cu genetycznym, lub\n7) rozpoznanie lub podejrzenie zespo\u0142u genetycznego, w kt\u00f3rym mog\u0105 wyst\u0119powa\u0107 zmiany\ntypu zmiany liczby kopii (ang. Copy Number Variants, CNV) (mikrodelecje lub mikroduplikacje),\nlub\n8) badanie rodzic\u00f3w w przypadku stwierdzenia u dziecka patogennej zmiany typu CNV,\nlub\n9) niejednoznaczny wynik badania kariotypu metodami cytogenetyki klasycznej lub wykryta\naberracja strukturalna chromosom\u00f3w wymagaj\u0105ca dok\u0142adnego okre\u015blenia zakresu aberracji.\nPozosta\u0142e wymagania: Skierowanie na badanie jest wystawiane przez lekarza specjalist\u0119 w dziedzinie genetyki\nklinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej, lub\nlekarza specjalist\u0119 w dziedzinie perinatologii, lub lekarza specjalist\u0119 w dziedzinie\nneonatologii.\n919\nBrak kodu\nAnaliza ekspresji genu lub kilku gen\u00f3w (w tym gen\u00f3w fuzyjnych) przy u\u017cyciu metody\nReal-Time PCR - ilo\u015bciowa reakcja \u0142a\u0144cuchowa polimerazy w czasie rzeczywistym (qRT-PCR\n- Real-Time Quantitative Polymerase Chain Reaction)\nWymagania formalne: Medyczne laboratorium diagnostyczne wpisane do ewidencji Krajowej Rady Diagnost\u00f3w\nLaboratoryjnych z pracowni\u0105 genetyczn\u0105, kt\u00f3re posiada udokumentowane co najmniej 3-letnie\ndo\u015bwiadczenie w wykonywaniu mutacji somatycznych lub w wykonywaniu oznacze\u0144 qRT-PCR.\nPersonel:\n1) diagnosta laboratoryjny ze specjalizacj\u0105 w dziedzinie laboratoryjnej genetyki medycznej\nz co najmniej 3-letnim do\u015bwiadczeniem w diagnostyce genetycznej zmian somatycznych\nw hematologii doros\u0142ych lub onkologii i hematologii dzieci\u0119cej lub z co najmniej 3-letnim\ndo\u015bwiadczeniem w wykonywaniu bada\u0144 genetycznych metod\u0105 qRT-PCR lub\n2) specjalista w dziedzinie medycznej genetyki molekularnej z co najmniej 3-letnim\ndo\u015bwiadczeniem w diagnostyce genetycznej zmian somatycznych w hematologii doros\u0142ych\nlub onkologii i hematologii dzieci\u0119cej lub z co najmniej 3-letnim do\u015bwiadczeniem w\nwykonywaniu bada\u0144 genetycznych metod\u0105 qRT-PCR;\n3) diagnosta laboratoryjny z co najmniej rocznym do\u015bwiadczeniem w diagnostyce genetycznej\nzmian somatycznych lub w wykonywaniu bada\u0144 genetycznych metod\u0105 qRT-PCR.\nWyposa\u017cenie w sprz\u0119t i aparatur\u0119 medyczn\u0105:\n1) termocykler przeznaczony do Real-Time PCR wraz z oprogramowaniem;\n2) wir\u00f3wka preparacyjna;\n3) pipeta automatyczna.\nUrz\u0105dzenia umo\u017cliwiaj\u0105 wykonywanie bada\u0144 zgodnie ze standardami EURO-MRD lub programami\nAML-BFM-2019 lub AIEOP-BFM ALL 2017, lub AIEOP-BFM-2020, lub AIEOP-BFM-2023, lub ML-DS-2018\ndla dzieci z ostrymi bia\u0142aczkami. Urz\u0105dzenia umo\u017cliwiaj\u0105 wykonywanie bada\u0144 zgodnie ze standardami EURO-MRD lub WHO, lub European LeukemiaNet dla doros\u0142ych chorych na\nbia\u0142aczki ostre i przewlek\u0142e.\nKryteria kwalifikacji os\u00f3b wymagaj\u0105cych udzielenia \u015bwiadczenia: Do badania kwalifikuj\u0105 si\u0119 pacjenci, u kt\u00f3rych jest wymagana diagnostyka w kierunku\nnowotwor\u00f3w uk\u0142adu mieloidalnego lub limfoidalnego lub monitorowanie odpowiedzi na\nleczenie, lub monitorowanie minimalnej choroby resztkowej (MRD - Minimal Residual\nDisease) w trakcie leczenia i po jego zako\u0144czeniu, w nowotworach uk\u0142adu mieloidalnego\ni limfoidalnego okre\u015blonych poni\u017cszymi kodami ICD-10:\n1) C91.0 - Ostra bia\u0142aczka limfoblastyczna;\n2) C92.0 - Ostra bia\u0142aczka szpikowa;\n3) C92.1 - Przewlek\u0142a bia\u0142aczka szpikowa;\n4) C92.2 - Podostra bia\u0142aczka szpikowa;\n5) C92.3 - Mi\u0119sak szpikowy;\n6) C92.4 - Ostra bia\u0142aczka promielocytowa;\n7) C92.5 - Ostra bia\u0142aczka szpikowo-monocytowa;\n8) C92.7 - Inna bia\u0142aczka szpikowa;\n9) C92.9 - Bia\u0142aczka szpikowa, nieokre\u015blona;\n10) C93 - Bia\u0142aczka monocytowa;\n11) C94 - Inne bia\u0142aczki okre\u015blonego rodzaju;\n12) C95 - Bia\u0142aczka z kom\u00f3rek nieokre\u015blonego rodzaju;\n13) C96 - Inny i nieokre\u015blony nowotw\u00f3r z\u0142o\u015bliwy tkanki limfatycznej, uk\u0142adu krwiotw\u00f3rczego\ni tkanek pokrewnych.\nZakres \u015bwiadczenia:\n1) diagnostyka w kierunku rozpoznawania nowotwor\u00f3w uk\u0142adu mieloidalnego lub limfoidalnego,\nw tym diagnostyka gen\u00f3w fuzyjnych:\na) BCR::ABL1 lub chromosomu Philadelphia (Ph) lub\nb) PML::RARA, lub\nc) RUNX1:: RUNX1T1, lub\nd) CBFB::MYH11, lub\ne) mutacji NPM1 lub\n2) monitorowanie odpowiedzi na zastosowan\u0105 terapi\u0119 oraz ocena chimeryzmu poprzeszczepowego\nu pacjent\u00f3w poddanych transplantacji allogenicznych krwiotw\u00f3rczych kom\u00f3rek macierzystych,\nlub\n3) monitorowanie minimalnej choroby resztkowej, kt\u00f3re obejmuje:\na) identyfikacj\u0119 rearan\u017cacji gen\u00f3w do monitorowania PCR MRD w ALL: ALL-MRD-PCR1;\nb) oznaczenie MRD metod\u0105 PCR w ALL: ALL-MRD-PCR2;\nc) diagnostyk\u0119 molekularn\u0105 AML i oznaczenie wyj\u015bciowego poziomu badanego transkryptu\ndo monitorowania MRD;\nd) oznaczenie MRD metod\u0105 qRT-PCR -AML-MRD-PCR, geny fuzyjne w AML;\ne) diagnostyk\u0119 molekularn\u0105 CML;\nf) oznaczanie MRD metod\u0105 qRT-PCR - transkrypt BCR: ABL1 w CML.\nWska\u017aniki jako\u015bci:\n1) badania molekularne w ALL przeprowadzane s\u0105 wed\u0142ug standardu europejskiego konsorcjum\nEURO-MRD u dzieci i doros\u0142ych;\n2) badania molekularne w AML przeprowadzane s\u0105 zgodnie z wymaganiami protoko\u0142u AML-BFM-2019\nlub AIEOP-BFM ALL 2017, lub AIEOP-BFM-2020, lub AIEOP-BFM-2023, lub ML-DS-2018 dla\ndzieci z ostrymi bia\u0142aczkami;\n3) badania molekularne w AML i CML u doros\u0142ych przeprowadzane s\u0105 zgodnie z rekomendacjami\nEuropean LeukemiaNet lub PALG (Polish Acute Leukemia Group).\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2025 r."
+    },
+    "meta": {},
+    "created_at": "2026-10-19T14:27:44.444475Z",
+    "updated_at": "2026-10-19T14:27:44.444475Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 124,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-26T15:24:10.616530Z",
+  "updated_at": "2026-10-26T15:24:10.616530Z",
+  "draft_created_at": "2026-10-26T15:24:05.874207Z",
+  "lead_time": 12.931,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": 171,
+  "parent_annotation": null,
+  "last_created_by": null
+}
