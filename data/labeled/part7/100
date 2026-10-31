@@ -1,0 +1,681 @@
+{
+  "id": 100,
+  "result": [
+    {
+      "value": {
+        "start": 497,
+        "end": 501,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "nDErsKJLJd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 502,
+        "end": 504,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "hxU4Po7XFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 505,
+        "end": 509,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "w5RnGeMu4e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 510,
+        "end": 511,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "HRoqMaMlw0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 611,
+        "end": 632,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "x9LPnP-K4q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 633,
+        "end": 637,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Oft9o41nrF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 847,
+        "end": 868,
+        "text": "Dz. U. z 2020 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "msLEqMSrU3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 869,
+        "end": 873,
+        "text": "1974",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4G2gBxs7pb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1073,
+        "end": 1084,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "lvYjApXfCV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1085,
+        "end": 1088,
+        "text": "619",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "btqWxJeCHT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1187,
+        "end": 1188,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "woaBZqoZZc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1189,
+        "end": 1190,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "d3e96zDoHk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1351,
+        "end": 1362,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZFLZ2vKSXU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1363,
+        "end": 1366,
+        "text": "619",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "bxIbyDjkk9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1626,
+        "end": 1630,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "zLjH2bWXf5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1631,
+        "end": 1633,
+        "text": "37",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "v-kfwrvgSy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1634,
+        "end": 1638,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "-Y8Qot-hHT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1639,
+        "end": 1640,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "KX7AA2TBzb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1696,
+        "end": 1717,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ivRh5Hqw4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1718,
+        "end": 1722,
+        "text": "1683",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PdzIXVlicu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1725,
+        "end": 1729,
+        "text": "1860",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "pNGe3bGEyr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4202,
+        "end": 4203,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KTL3Ywb72i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4204,
+        "end": 4205,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "rkBdSEMuXA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4206,
+        "end": 4209,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "QZG293MTay",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4210,
+        "end": 4211,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "doe_EHJ1om",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4372,
+        "end": 4383,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ZuBKSaoqq8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4384,
+        "end": 4387,
+        "text": "619",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "a7G_swjfUw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6319,
+        "end": 6320,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "PxU7MPvYF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6321,
+        "end": 6322,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "f-8Cv9z3pg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6323,
+        "end": 6326,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "FCf5Ncq7Nt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6327,
+        "end": 6328,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JBJjt1Hvb0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7060,
+        "end": 7071,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7m6Flv5Pgh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7072,
+        "end": 7075,
+        "text": "257",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "6Btx1py55_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7161,
+        "end": 7165,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "E2gN-v25Gv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7166,
+        "end": 7169,
+        "text": "272",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "bamFdqRsiE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7225,
+        "end": 7236,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wJuhm4IxSY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7237,
+        "end": 7240,
+        "text": "523",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hJAAoWzVMf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7243,
+        "end": 7247,
+        "text": "1228",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "hAHNFe-Yoh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7898,
+        "end": 7902,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "w7jyh8ZVsF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7903,
+        "end": 7904,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "PeYns00qhZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8023,
+        "end": 8044,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "DRJ5QDk1Kw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8045,
+        "end": 8048,
+        "text": "155",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gCrTkMGpZ_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 101,
+    "data": {
+      "text": "Obwieszczenie Ministra Sprawiedliwo\u015bci z dnia 1 maja 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci w\nsprawie legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 28 pa\u017adziernika 2010 r. w sprawie legitymacji\ns\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nZa\u0142\u0105cznik - Wz\u00f3r legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 28 pa\u017adziernika 2010 r. w sprawie legitymacji\ns\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. z 2020 r. poz. 1974), z uwzgl\u0119dnieniem zmian wprowadzonych rozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 27 marca 2023 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 619).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 27 marca 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 619), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 28 pa\u017adziernika 2010 r. w sprawie legitymacji\ns\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nNa podstawie art. 37 ust. 3 ustawy z dnia 9 kwietnia 2010 r. o S\u0142u\u017cbie Wi\u0119ziennej\n(Dz. U. z 2023 r. poz. 1683 i 1860) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nwz\u00f3r legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej, zwanego dalej \u201efunkcjonariuszem\u201d;\n2)\nszczeg\u00f3\u0142owy spos\u00f3b pos\u0142ugiwania si\u0119 legitymacj\u0105 s\u0142u\u017cbow\u0105 i dokonywania w niej zmian;\n3)\npodmioty w\u0142a\u015bciwe do wydawania legitymacji s\u0142u\u017cbowej.\n\u00a7 2.\n1.\nLegitymacja s\u0142u\u017cbowa funkcjonariusza zawiera:\n1)\naktualn\u0105 i wyra\u017an\u0105 fotografi\u0119 funkcjonariusza w mundurze wyj\u015bciowym, z widocznym stopniem\ns\u0142u\u017cbowym, bez sznura galowego, w koszuli wyj\u015bciowej, wykonan\u0105 na jednolitym jasnym\ntle, pokazuj\u0105c\u0105 twarz od wierzcho\u0142ka g\u0142owy do g\u00f3rnej cz\u0119\u015bci bark\u00f3w, tak aby zajmowa\u0142a\nona 70-80 % fotografii; fotografia ma przedstawia\u0107 funkcjonariusza z g\u0142ow\u0105 w pozycji\nlewego p\u00f3\u0142profilu, z widocznym lewym uchem, bez nakrycia g\u0142owy i okular\u00f3w z ciemnymi\nszk\u0142ami, z naturalnym wyrazem twarzy, otwartymi oczami i zamkni\u0119tymi ustami;\n2)\nalfagram o \u015brednicy 15 mm przedstawiaj\u0105cy odznak\u0119 S\u0142u\u017cby Wi\u0119ziennej;\n3)\nnumer seryjny blankietu legitymacji s\u0142u\u017cbowej;\n4)\nnumer legitymacji s\u0142u\u017cbowej;\n5)\nstopie\u0144 S\u0142u\u017cby Wi\u0119ziennej;\n6)\nimi\u0119 i nazwisko funkcjonariusza;\n7)\nstanowisko s\u0142u\u017cbowe i nazw\u0119 jednostki, w kt\u00f3rej funkcjonariusz na sta\u0142e pe\u0142ni s\u0142u\u017cb\u0119;\n8)\ntermin wa\u017cno\u015bci legitymacji s\u0142u\u017cbowej, nie d\u0142u\u017cszy ni\u017c 4 lata od dnia jej wystawienia;\n9)\nnazw\u0119 organu wydaj\u0105cego legitymacj\u0119 s\u0142u\u017cbow\u0105.\n1a.\nW przypadku funkcjonariuszy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 kandydack\u0105 w legitymacji s\u0142u\u017cbowej w\nmiejsce stanowiska s\u0142u\u017cbowego wpisuje si\u0119 wyrazy \u201es\u0142u\u017cba kandydacka\u201d.\n2.\nLegitymacja s\u0142u\u017cbowa ma form\u0119 spersonalizowanej karty identyfikacyjnej o wymiarach\n53,975 mm \u00d7 85,595 mm, wykonanej z tworzywa sztucznego.\n3.\nLegitymacja s\u0142u\u017cbowa mo\u017ce zawiera\u0107:\n1)\nelektroniczny uk\u0142ad zbli\u017ceniowy s\u0142u\u017c\u0105cy do identyfikacji funkcjonariusza;\n2)\nelektroniczny uk\u0142ad stykowy (chip) s\u0142u\u017c\u0105cy do uwierzytelnienia u\u017cytkownika w systemach\ninformatycznych.\n4.\nFunkcjonariusz okazuj\u0105cy legitymacj\u0119 s\u0142u\u017cbow\u0105 jest obowi\u0105zany czyni\u0107 to w spos\u00f3b umo\u017cliwiaj\u0105cy\nodczytanie umieszczonych w niej danych, nie przekazuj\u0105c jej do r\u0105k innej osoby, a\ntak\u017ce nie odst\u0119puj\u0105c innej osobie.\n5.\nWz\u00f3r legitymacji s\u0142u\u017cbowej funkcjonariusza okre\u015bla za\u0142\u0105cznik do rozporz\u0105dzenia.\n\u00a7 3.\nFunkcjonariusz pos\u0142uguje si\u0119 legitymacj\u0105 s\u0142u\u017cbow\u0105 podczas wykonywania czynno\u015bci s\u0142u\u017cbowych,\nw taki spos\u00f3b, aby by\u0142a ona w nale\u017cytym stanie. W szczeg\u00f3lno\u015bci powinien chroni\u0107 legitymacj\u0119\ns\u0142u\u017cbow\u0105 przed utrat\u0105, uszkodzeniem lub zniszczeniem.\n\u00a7 4.\nLegitymacj\u0119 s\u0142u\u017cbow\u0105 wydaje oraz dokonuje w niej zmian:\n1 1) W brzmieniu ustalonym przez \u00a7 1 pkt 1 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia\n27 marca 2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie legitymacji s\u0142u\u017cbowej funkcjonariusza\nS\u0142u\u017cby Wi\u0119ziennej (Dz. U. poz. 619), kt\u00f3re wesz\u0142o w \u017cycie z dniem 1 kwietnia 2023 r.)\nMinister Sprawiedliwo\u015bci - Dyrektorowi Generalnemu S\u0142u\u017cby Wi\u0119ziennej, Rektorowi-Komendantowi\nuczelni S\u0142u\u017cby Wi\u0119ziennej i Szefowi Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej;\n2)\nDyrektor Generalny S\u0142u\u017cby Wi\u0119ziennej:\na)\nzast\u0119pcy Dyrektora Generalnego S\u0142u\u017cby Wi\u0119ziennej,\nb)\ndyrektorowi okr\u0119gowemu S\u0142u\u017cby Wi\u0119ziennej, komendantowi Centralnego O\u015brodka Szkolenia\nS\u0142u\u017cby Wi\u0119ziennej, o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej i o\u015brodka doskonalenia kadr\nS\u0142u\u017cby Wi\u0119ziennej, podleg\u0142ym bezpo\u015brednio Dyrektorowi Generalnemu S\u0142u\u017cby Wi\u0119ziennej,\nc)\nfunkcjonariuszowi pe\u0142ni\u0105cemu s\u0142u\u017cb\u0119 w Centralnym Zarz\u0105dzie S\u0142u\u017cby Wi\u0119ziennej;\n3)\ndyrektor okr\u0119gowy S\u0142u\u017cby Wi\u0119ziennej:\na)\nzast\u0119pcy dyrektora okr\u0119gowego S\u0142u\u017cby Wi\u0119ziennej,\nb)\ndyrektorowi zak\u0142adu karnego i aresztu \u015bledczego oraz komendantowi o\u015brodka doskonalenia\nkadr S\u0142u\u017cby Wi\u0119ziennej,\nc)\nfunkcjonariuszowi pe\u0142ni\u0105cemu s\u0142u\u017cb\u0119 w okr\u0119gowym inspektoracie S\u0142u\u017cby Wi\u0119ziennej;\n4)\ndyrektor zak\u0142adu karnego i aresztu \u015bledczego, komendant Centralnego O\u015brodka Szkolenia\nS\u0142u\u017cby Wi\u0119ziennej, komendant o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej albo komendant o\u015brodka\ndoskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej, odpowiednio:\na)\nzast\u0119pcy dyrektora zak\u0142adu karnego i aresztu \u015bledczego, zast\u0119pcy komendanta Centralnego\nO\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, zast\u0119pcy komendanta o\u015brodka szkolenia S\u0142u\u017cby\nWi\u0119ziennej oraz zast\u0119pcy komendanta o\u015brodka doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej,\nb)\nfunkcjonariuszowi pe\u0142ni\u0105cemu s\u0142u\u017cb\u0119, odpowiednio, w zak\u0142adzie karnym, areszcie \u015bledczym,\nCentralnym O\u015brodku Szkolenia S\u0142u\u017cby Wi\u0119ziennej, o\u015brodku szkolenia S\u0142u\u017cby Wi\u0119ziennej\nalbo o\u015brodku doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej;\n5)\nRektor-Komendant uczelni S\u0142u\u017cby Wi\u0119ziennej:\na)\nprorektorowi uczelni S\u0142u\u017cby Wi\u0119ziennej, b\u0119d\u0105cemu funkcjonariuszem,\nb)\nfunkcjonariuszom pe\u0142ni\u0105cym s\u0142u\u017cb\u0119 w uczelni S\u0142u\u017cby Wi\u0119ziennej,\nc)\nfunkcjonariuszom pe\u0142ni\u0105cym s\u0142u\u017cb\u0119 kandydack\u0105 w uczelni S\u0142u\u017cby Wi\u0119ziennej;\n6 2) Dodany przez \u00a7 1 pkt 2 rozporz\u0105dzenia, o kt\u00f3rym mowa w odno\u015bniku 1.)\nSzef Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej:\na)\nzast\u0119pcy Szefa Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej,\nb)\nfunkcjonariuszom pe\u0142ni\u0105cym s\u0142u\u017cb\u0119 w Inspektoracie Wewn\u0119trznym S\u0142u\u017cby Wi\u0119ziennej.\n\u00a7 5.\nPosiadana przez funkcjonariusza w dniu wej\u015bcia w \u017cycie rozporz\u0105dzenia legitymacja\ns\u0142u\u017cbowa zachowuje moc do czasu up\u0142ywu terminu jej wa\u017cno\u015bci.\n\u00a7 6.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 9 listopada 2010 r.. 4) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci\nz dnia 24 stycznia 2007 r. w sprawie legitymacji s\u0142u\u017cbowej oraz innych dokument\u00f3w\nfunkcjonariusza S\u0142u\u017cby Wi\u0119ziennej (Dz. U. poz. 257), kt\u00f3re utraci\u0142o moc z dniem wej\u015bcia\nw \u017cycie niniejszego rozporz\u0105dzenia na podstawie art. 272 ustawy z dnia 9 kwietnia\n2010 r. o S\u0142u\u017cbie Wi\u0119ziennej (Dz. U. poz. 523 i 1228).\nZa\u0142\u0105cznik\n-\nWz\u00f3r legitymacji s\u0142u\u017cbowej funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nOpis:\nLegitymacja s\u0142u\u017cbowa:\n-\nma form\u0119 karty identyfikacyjnej formatu ID-1, zgodnie z norm\u0105 ISO/IEC 7810,\n-\nmo\u017ce zawiera\u0107 uk\u0142ad elektroniczny zbli\u017ceniowy, zgodnie ze standardem Mifare 4 k,\n-\nmo\u017ce zawiera\u0107 elektroniczny uk\u0142ad stykowy, tzw. chip, zgodnie ze standardem ISO 7816,\n-\njest personalizowana z wykorzystaniem druku termosublimacyjnego/termoretransferowego.\nAwers:\npatrz orygina\u0142\n1)\nkolory:\na)\nirys: czerwony, szary,\nb)\ngod\u0142o: \u017c\u00f3\u0142ty, szary,\nc)\nlogo w giloszu: szary,\nd)\nteksty: black C;\n2)\nwizerunek or\u0142a wed\u0142ug wzoru ustalonego dla god\u0142a pa\u0144stwowego, o kt\u00f3rym mowa w art. 2 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej\nPolskiej oraz o piecz\u0119ciach pa\u0144stwowych\n(Dz. U. z 2024 r. poz. 155);\n3)\nzr\u00f3\u017cnicowana wysoko\u015b\u0107 pisma \u201eS\u0141U\u017bBA WI\u0118ZIENNA\u201d;\n4)\nw tle - oznaka S\u0142u\u017cby Wi\u0119ziennej w kszta\u0142cie ko\u0142a;\n5)\nmikrodruki;\n6)\ndruk irysowy;\n7)\nnapisy drukowane czcionk\u0105 r\u00f3\u017cnej wielko\u015bci w kolorze czarnym: \u201eMINISTERSTWO SPRAWIEDLIWO\u015aCI\u201d,\n\u201eS\u0141U\u017bBA WI\u0118ZIENNA\u201d, \u201eLEGITYMACJA FUNKCJONARIUSZA S\u0141U\u017bBY WI\u0118ZIENNEJ\u201d;\n8)\nnumer seryjny blankietu legitymacji.\nRewers:\npatrz orygina\u0142\n1)\nkolory:\na)\nirys: czerwony, szary,\nb)\nlogo: granatowy,\nc)\nteksty: black C;\n2)\npod napisem \u201eNr\u201d, z lewej strony prostok\u0105tne bia\u0142e pole z elementami giloszu na obrze\u017cu\nprzeznaczone na fotografi\u0119 funkcjonariusza do 35 mm d\u0142ugo\u015bci legitymacji, kt\u00f3ra zostanie\nnaniesiona w procesie personalizacji;\n3)\nw prawym g\u00f3rnym rogu znak graficzny S\u0142u\u017cby Wi\u0119ziennej;\n4)\nalfagram o \u015brednicy 15 mm przedstawiaj\u0105cy oznak\u0119 S\u0142u\u017cby Wi\u0119ziennej w kszta\u0142cie ko\u0142a;\n5)\nmikrodruki oraz zniekszta\u0142cenia w mikrodrukach;\n6)\ngilosz mikrodrukowy aktywny w \u015bwietle UV;\n7)\nzmienna grubo\u015b\u0107 linii giloszowych;\n8)\ndruk irysowy;\n9)\nnapisy drukowane czcionk\u0105 r\u00f3\u017cnej wielko\u015bci w kolorze czarnym: \u201eLEGITYMACJA S\u0141U\u017bBOWA\u201d,\n\u201eNr\u201d, \u201eSTOPIE\u0143\u201d, \u201eIMI\u0118 I NAZWISKO\u201d, \u201eSTANOWISKO\u201d, \u201eJEDNOSTKA\u201d, \u201eJEST FUNKCONARIUSZEM\nS\u0141U\u017bBY WI\u0118ZIENNEJ\u201d, \u201eWA\u017bNA DO DNIA\u201d, \u201eNAZWA ORGANU WYDAJ\u0104CEGO\u201d."
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.019994Z",
+    "updated_at": "2026-10-31T18:02:56.020005Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 102,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T18:34:39.507111Z",
+  "updated_at": "2026-10-31T18:34:39.507146Z",
+  "draft_created_at": "2026-10-31T18:34:01.499807Z",
+  "lead_time": 64.634,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 101,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,801 @@
+{
+  "id": 124,
+  "result": [
+    {
+      "value": {
+        "start": 775,
+        "end": 779,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "H7-QWmF1tJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 780,
+        "end": 782,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "UJbauUBmu8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 783,
+        "end": 787,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "6BeZINlLJO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 788,
+        "end": 789,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qAYtNCB9sz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 889,
+        "end": 910,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "jaAfqsqUxG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 911,
+        "end": 915,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vXlt1YJ-WN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1122,
+        "end": 1133,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "HsbzRsdQdy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1134,
+        "end": 1138,
+        "text": "2729",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xFAl5g_5Qf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1344,
+        "end": 1355,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "5fjSMcBRUi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1356,
+        "end": 1359,
+        "text": "592",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "cMjhxoMSk5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1526,
+        "end": 1537,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VeZmeOaxIn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1538,
+        "end": 1541,
+        "text": "328",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "9-Cdtrj0iG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1712,
+        "end": 1723,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "E-EMZdnYPI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1724,
+        "end": 1727,
+        "text": "669",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "czfdkODAej",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1830,
+        "end": 1831,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "2yu8YpVMat",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1832,
+        "end": 1833,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "1CPRddbacC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1836,
+        "end": 1837,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "F5P0BQx1tC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1838,
+        "end": 1839,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "KBfXzWOgCM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2002,
+        "end": 2013,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Sah6yT3wpR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2014,
+        "end": 2017,
+        "text": "592",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "tTIxFOg7WQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2080,
+        "end": 2081,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "5_hPL4SChW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2082,
+        "end": 2083,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "zZzFp2ypJz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2489,
+        "end": 2500,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WFbJMNjlhM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2501,
+        "end": 2504,
+        "text": "328",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "nUWNNWiA6x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2605,
+        "end": 2606,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ogPWbEzhVB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2607,
+        "end": 2608,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "E8h4qlg88o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2611,
+        "end": 2612,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ec2Ug6Ph9z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2613,
+        "end": 2614,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "tKcX_9PV8j",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2780,
+        "end": 2791,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "AZpBDta6i_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2792,
+        "end": 2795,
+        "text": "669",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LmNi9xsZ5d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2858,
+        "end": 2859,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "gy4udSb8co",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2860,
+        "end": 2861,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "eCKobaDtzz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3263,
+        "end": 3267,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "cmD4JVhTEg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3268,
+        "end": 3270,
+        "text": "57",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "N0mzB3Q9HM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3271,
+        "end": 3275,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "xy2N0r2cpU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3276,
+        "end": 3277,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "phjQVLKDZC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3333,
+        "end": 3354,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8Q9q20BdPZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3355,
+        "end": 3359,
+        "text": "1683",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "z5QC4xqXSU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3362,
+        "end": 3366,
+        "text": "1860",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2CQXbw7LMk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3372,
+        "end": 3386,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "QpCj3zhsah",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3387,
+        "end": 3391,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JCQg77BcJX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4472,
+        "end": 4493,
+        "text": "Dz. U. z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "zwg_3HNwsq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4494,
+        "end": 4498,
+        "text": "1456",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "b8_l7ZkDon",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4504,
+        "end": 4518,
+        "text": "z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "c5kdnmng_e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4519,
+        "end": 4522,
+        "text": "649",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jVElbTNY1k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4525,
+        "end": 4528,
+        "text": "662",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Cd3Qd687g3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5646,
+        "end": 5647,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "rlXlD2BZ-8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5648,
+        "end": 5649,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "RdoK-Iv7JO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5811,
+        "end": 5822,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "yqiYQll7DW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5823,
+        "end": 5826,
+        "text": "328",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "dIri8CMrtC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 125,
+    "data": {
+      "text": "Obwieszczenie Ministra Sprawiedliwo\u015bci z dnia 11 pa\u017adziernika 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci w\nsprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 18 grudnia 2022 r. w sprawie uposa\u017cenia\nzasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\nZa\u0142\u0105cznik nr 1 - Grupy zaszeregowania oraz odpowiadaj\u0105ce im mno\u017cniki przeci\u0119tnego uposa\u017cenia stanowi\u0105ce\nuposa\u017cenie zasadnicze funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nZa\u0142\u0105cznik nr 2 - Grupy zaszeregowania poszczeg\u00f3lnych stanowisk s\u0142u\u017cbowych funkcjonariuszy do odpowiednich\ngrup uposa\u017cenia zasadniczego w jednostkach organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 18 grudnia 2022 r. w sprawie uposa\u017cenia\nzasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 2729), z uwzgl\u0119dnieniem zmian wprowadzonych:\n1)\nrozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 27 marca 2023 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 592);\n2)\nrozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 7 marca 2024 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 328);\n3)\nrozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 29 kwietnia 2024 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 669).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje:\n1)\n\u00a7 2 i \u00a7 3 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 27 marca 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 592), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nPrzepisy rozporz\u0105dzenia zmienianego w \u00a7 1 w brzmieniu nadanym niniejszym rozporz\u0105dzeniem\nmaj\u0105 zastosowanie do uposa\u017ce\u0144 zasadniczych funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej nale\u017cnych\nod dnia 1 marca 2023 r.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d;\n2)\n\u00a7 2 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 7 marca 2024 r. zmieniaj\u0105cego rozporz\u0105dzenie\nw sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 328), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d;\n3)\n\u00a7 2 i \u00a7 3 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 29 kwietnia 2024 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie uposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 669), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nPrzepisy rozporz\u0105dzenia zmienianego w \u00a7 1, w brzmieniu nadanym niniejszym rozporz\u0105dzeniem,\nmaj\u0105 zastosowanie do uposa\u017ce\u0144 zasadniczych funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej nale\u017cnych\nod dnia 1 stycznia 2024 r.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 18 grudnia 2022 r. w sprawie uposa\u017cenia\nzasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej\nNa podstawie art. 57 ust. 3 ustawy z dnia 9 kwietnia 2010 r. o S\u0142u\u017cbie Wi\u0119ziennej\n(Dz. U. z 2023 r. poz. 1683 i 1860 oraz z 2024 r. poz. 1222) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla grupy zaszeregowania poszczeg\u00f3lnych stanowisk oraz odpowiadaj\u0105ce\nim mno\u017cniki przeci\u0119tnego uposa\u017cenia stanowi\u0105ce uposa\u017cenie zasadnicze funkcjonariusza\nS\u0142u\u017cby Wi\u0119ziennej, zwanego dalej \u201efunkcjonariuszem\u201d.\n\u00a7 2.\nUstala si\u0119 grupy zaszeregowania oraz odpowiadaj\u0105ce im mno\u017cniki przeci\u0119tnego uposa\u017cenia\nstanowi\u0105ce uposa\u017cenie zasadnicze funkcjonariusza, okre\u015blone w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia.\n\u00a7 3.\n1.\nGrupy zaszeregowania poszczeg\u00f3lnych stanowisk s\u0142u\u017cbowych funkcjonariuszy do odpowiednich\ngrup uposa\u017cenia zasadniczego w jednostkach organizacyjnych S\u0142u\u017cby Wi\u0119ziennej s\u0105 okre\u015blone\nw tabelach stanowi\u0105cych za\u0142\u0105cznik nr 2 do rozporz\u0105dzenia.\n2.\nKwoty uposa\u017cenia zasadniczego funkcjonariusza zaokr\u0105gla si\u0119 do pe\u0142nych z\u0142otych w ten\nspos\u00f3b, \u017ce ko\u0144c\u00f3wki kwot wynosz\u0105ce mniej ni\u017c 50 groszy pomija si\u0119, a ko\u0144c\u00f3wki kwot\nwynosz\u0105ce 50 i wi\u0119cej groszy podwy\u017csza si\u0119 do pe\u0142nych z\u0142otych.\n\u00a7 4.\nTraci moc rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 29 listopada 2018 r. w sprawie\nuposa\u017cenia zasadniczego funkcjonariuszy S\u0142u\u017cby Wi\u0119ziennej (Dz. U. z 2021 r. poz. 1456\noraz z 2022 r. poz. 649 i 662).\n\u00a7 5.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia 1) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 22 grudnia 2022 r..\nZa\u0142\u0105cznik nr 1\n-\nGrupy zaszeregowania oraz odpowiadaj\u0105ce im mno\u017cniki przeci\u0119tnego uposa\u017cenia stanowi\u0105ce\nuposa\u017cenie zasadnicze funkcjonariusza S\u0142u\u017cby Wi\u0119ziennej\nGRUPY ZASZEREGOWANIA ORAZ ODPOWIADAJ\u0104CE IM MNO\u017bNIKI PRZECI\u0118TNEGO UPOSA\u017bENIA STANOWI\u0104CE\nUPOSA\u017bENIE ZASADNICZE FUNKCJONARIUSZA S\u0141U\u017bBY WI\u0118ZIENNEJ\nGrupa zaszeregowania\nMno\u017cniki przeci\u0119tnego uposa\u017cenia\n41\n1,3403\n40\n1,2179\n39\n1,1249\n38\n1,0570\n37\n0,9891\n36\n0,9196\n35\n0,8941\n34\n0,8599\n33\n0,8500\n32\n0,7866\n31\n0,7814\n30\n0,7765\n29\n0,7480\n28\n0,7432\n27\n0,7201\n26\n0,7113\n25\n0,6874\n24\n0,6872\n23\n0,6632\n22\n0,6593\n21\n0,6556\n20\n0,6363\n19\n0,6326\n18\n0,6247\n17\n0,6211\n16\n0,6014\n15\n0,5840\n14\n0,5809\n13\n0,5794\n12\n0,5726\n11\n0,5590\n10\n0,5596\n9\n0,5443\n8\n0,5373\n7\n0,5325\n6\n0,5201\n5\n0,5110\n4\n0,4960\n3\n0,4837\n2\n0,4617\n1\n0,1879\nZa\u0142\u0105cznik nr 2\n-\nGrupy zaszeregowania poszczeg\u00f3lnych stanowisk s\u0142u\u017cbowych funkcjonariuszy do odpowiednich\ngrup uposa\u017cenia zasadniczego w jednostkach organizacyjnych S\u0142u\u017cby Wi\u0119ziennej 3) Ze zmianami wprowadzonymi przez \u00a7 1 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia\n7 marca 2024 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie uposa\u017cenia zasadniczego funkcjonariuszy\nS\u0142u\u017cby Wi\u0119ziennej (Dz. U. poz. 328), kt\u00f3re wesz\u0142o w \u017cycie z dniem 8 marca 2024 r.\nTabela 1\nCentralny Zarz\u0105d S\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n41\nDyrektor Generalny S\u0142u\u017cby Wi\u0119ziennej\n2\noficerski\n40\nzast\u0119pca Dyrektora Generalnego S\u0142u\u017cby Wi\u0119ziennej\n3\noficerski\n37\ndyrektor biura\n4\noficerski\n37\ng\u0142\u00f3wny ksi\u0119gowy S\u0142u\u017cby Wi\u0119ziennej\n5\noficerski\n36\ng\u0142\u00f3wny ksi\u0119gowy Centralnego Zarz\u0105du S\u0142u\u017cby Wi\u0119ziennej\n6\noficerski\n36\nnaczelny lekarz wi\u0119ziennictwa\n7\noficerski\n36\nzast\u0119pca dyrektora biura\n8\noficerski\n36\nnaczelnik wydzia\u0142u\n9\noficerski\n33\nkierownik zespo\u0142u\n10\noficerski\n33\ndoradca Dyrektora Generalnego S\u0142u\u017cby Wi\u0119ziennej\n11\noficerski\n31\nradca prawny\n12\noficerski\n31\nlegislator\n13\noficerski\n31\ng\u0142\u00f3wny kontroler\n14\noficerski\n28\nstarszy kontroler\n15\noficerski\n22\nkontroler\n16\noficerski\n17\nm\u0142odszy kontroler\n17\noficerski\n31\nstarszy specjalista\n18\noficerski\n28\nspecjalista\n19\noficerski\n22\nstarszy inspektor\n20\noficerski\n17\ninspektor\n21\noficerski\n10\nm\u0142odszy inspektor\n22\nchor\u0105\u017cego\n31\nradca prawny\n23\nchor\u0105\u017cego\n31\nlegislator\n24\nchor\u0105\u017cego\n10\nm\u0142odszy inspektor\n25\nchor\u0105\u017cego\n10\nstarszy instruktor\n26\nchor\u0105\u017cego\n7\ninstruktor\n27\nchor\u0105\u017cego\n5\nm\u0142odszy instruktor\n28\npodoficerski\n6\nstarszy kierowca\n29\npodoficerski\n5\nkierowca\n30\npodoficerski\n4\nstarszy referent\n31\npodoficerski\n2\nreferent\n32\npodoficerski\n1\nm\u0142odszy referent\nTabela 2\nInspektorat Wewn\u0119trzny S\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n40\nSzef Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej\n2\noficerski\n33\nzast\u0119pca Szefa Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej\n3\noficerski\n31\nDyrektor Biura Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej\n4\noficerski\n24\nnaczelnik wydzia\u0142u\n5\noficerski\n24\nradca prawny\n6\noficerski\n23\nstarszy specjalista\n7\noficerski\n22\nspecjalista\n8\noficerski\n17\nstarszy inspektor\n9\noficerski\n14\ninspektor\n10\noficerski\n9\nm\u0142odszy inspektor\n11\nchor\u0105\u017cego\n24\nradca prawny\n12\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n13\nchor\u0105\u017cego\n9\nstarszy instruktor\n14\nchor\u0105\u017cego\n6\ninstruktor\n15\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n16\npodoficerski\n6\nstarszy kierowca\n17\npodoficerski\n5\nkierowca\n18\npodoficerski\n3\nstarszy referent\n19\npodoficerski\n2\nreferent\n20\npodoficerski\n1\nm\u0142odszy referent\nTabela 3\nOkr\u0119gowe inspektoraty S\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n37\ndyrektor okr\u0119gowy S\u0142u\u017cby Wi\u0119ziennej\n2\noficerski\n33\nzast\u0119pca dyrektora okr\u0119gowego S\u0142u\u017cby Wi\u0119ziennej\n3\noficerski\n31\ng\u0142\u00f3wny ksi\u0119gowy\n4\noficerski\n24\nnaczelny lekarz\n5\noficerski\n20\nkierownik zak\u0142adu opieki zdrowotnej medycyny pracy\n6\noficerski\n19\nzast\u0119pca kierownika zak\u0142adu opieki zdrowotnej medycyny pracy\n7\noficerski\n16\nstarszy asystent (lekarz) zak\u0142adu opieki zdrowotnej medycyny pracy\n8\noficerski\n15\nasystent (lekarz) zak\u0142adu opieki zdrowotnej medycyny pracy\n9\noficerski\n11\nm\u0142odszy asystent (lekarz) zak\u0142adu opieki zdrowotnej medycyny pracy\n10\noficerski\n15\nstarszy psycholog zak\u0142adu opieki zdrowotnej medycyny pracy\n11\noficerski\n12\npsycholog zak\u0142adu opieki zdrowotnej medycyny pracy\n12\noficerski\n11\nm\u0142odszy psycholog zak\u0142adu opieki zdrowotnej medycyny pracy\n13\noficerski\n6\nstarsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n14\noficerski\n5\npiel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n15\noficerski\n4\nm\u0142odsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n16\noficerski\n24\nradca prawny\n17\noficerski\n19\nstarszy kontroler\n18\noficerski\n17\nkontroler\n19\noficerski\n14\nm\u0142odszy kontroler\n20\noficerski\n24\nkierownik zespo\u0142u\n21\noficerski\n22\nspecjalista\n22\noficerski\n17\nstarszy inspektor\n23\noficerski\n14\ninspektor\n24\noficerski\n9\nm\u0142odszy inspektor\n25\nchor\u0105\u017cego\n24\nradca prawny\n26\nchor\u0105\u017cego\n11\nm\u0142odszy asystent (lekarz) zak\u0142adu opieki zdrowotnej medycyny pracy\n27\nchor\u0105\u017cego\n11\nm\u0142odszy psycholog zak\u0142adu opieki zdrowotnej medycyny pracy\n28\nchor\u0105\u017cego\n6\nstarsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n29\nchor\u0105\u017cego\n5\npiel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n30\nchor\u0105\u017cego\n4\nm\u0142odsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n31\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n32\nchor\u0105\u017cego\n9\nstarszy instruktor\n33\nchor\u0105\u017cego\n6\ninstruktor\n34\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n35\npodoficerski\n6\nstarsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n36\npodoficerski\n5\npiel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n37\npodoficerski\n4\nm\u0142odsza piel\u0119gniarka zak\u0142adu opieki zdrowotnej medycyny pracy\n38\npodoficerski\n6\nstarszy kierowca\n39\npodoficerski\n5\nkierowca\n40\npodoficerski\n3\nstarszy referent\n41\npodoficerski\n2\nreferent\n42\npodoficerski\n1\nm\u0142odszy referent\nWydzia\u0142y Zamiejscowe Inspektoratu Wewn\u0119trznego S\u0142u\u017cby Wi\u0119ziennej przy okr\u0119gowych inspektoratach\nS\u0142u\u017cby Wi\u0119ziennej\n43\noficerski\n24\nnaczelnik wydzia\u0142u zamiejscowego\n44\noficerski\n22\nspecjalista\n45\noficerski\n17\nstarszy inspektor\n46\noficerski\n14\ninspektor\n47\noficerski\n9\nm\u0142odszy inspektor\n48\nchor\u0105\u017cego\n24\nradca prawny\n49\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n50\nchor\u0105\u017cego\n9\nstarszy instruktor\n51\nchor\u0105\u017cego\n6\ninstruktor\n52\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n53\npodoficerski\n6\nstarszy kierowca\n54\npodoficerski\n5\nkierowca\n55\npodoficerski\n3\nstarszy referent\n56\npodoficerski\n2\nreferent\n57\npodoficerski\n1\nm\u0142odszy referent\nTabela 4\nUczelnia S\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n40\nRektor-Komendant\n2\noficerski\n36\nprorektor\n3\noficerski\n35\nkanclerz\n4\noficerski\n33\nzast\u0119pca kanclerza\n5\noficerski\n31\nprofesor\n6\noficerski\n30\nprofesor uczelni\n7\noficerski\n31\ng\u0142\u00f3wny ksi\u0119gowy\n8\noficerski\n28\nkierownik dzia\u0142u\n9\noficerski\n26\nzast\u0119pca kierownika dzia\u0142u\n10\noficerski\n27\nadiunkt\n11\noficerski\n26\nstarszy kustosz dyplomowany\n12\noficerski\n21\nkustosz dyplomowany\n13\noficerski\n25\nradca prawny\n14\noficerski\n20\nstarszy wyk\u0142adowca\n15\noficerski\n17\nwyk\u0142adowca\n16\noficerski\n13\nm\u0142odszy wyk\u0142adowca\n17\noficerski\n17\nasystent\n18\noficerski\n13\nadiunkt biblioteczny\n19\noficerski\n13\nlektor\n20\noficerski\n17\ndow\u00f3dca kompanii\n21\noficerski\n24\nstarszy specjalista\n22\noficerski\n22\nspecjalista\n23\noficerski\n17\nstarszy inspektor\n24\noficerski\n14\ninspektor\n25\noficerski\n16\nstarszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n26\noficerski\n13\nasystent (lekarz, farmaceuta, fizjoterapeuta)\n27\noficerski\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n28\noficerski\n9\nm\u0142odszy inspektor\n29\noficerski\n9\nasystent biblioteczny\n30\noficerski\n6\nstarsza piel\u0119gniarka\n31\noficerski\n5\npiel\u0119gniarka\n32\noficerski\n4\nm\u0142odsza piel\u0119gniarka\n33\noficerski\n6\nstarszy ratownik medyczny\n34\noficerski\n5\nratownik medyczny\n35\noficerski\n4\nm\u0142odszy ratownik medyczny\n36\nchor\u0105\u017cego\n25\nradca prawny\n37\nchor\u0105\u017cego\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n38\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n39\nchor\u0105\u017cego\n9\nstarszy instruktor\n40\nchor\u0105\u017cego\n6\ninstruktor\n41\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n42\nchor\u0105\u017cego\n6\nstarsza piel\u0119gniarka\n43\nchor\u0105\u017cego\n5\npiel\u0119gniarka\n44\nchor\u0105\u017cego\n4\nm\u0142odsza piel\u0119gniarka\n45\nchor\u0105\u017cego\n6\nstarszy ratownik medyczny\n46\nchor\u0105\u017cego\n5\nratownik medyczny\n47\nchor\u0105\u017cego\n4\nm\u0142odszy ratownik medyczny\n48\nchor\u0105\u017cego\n5\nszef kuchni\n49\npodoficerski\n6\ntechnik\n50\npodoficerski\n6\nstarszy kierowca\n51\npodoficerski\n5\nkierowca\n52\npodoficerski\n6\nstarszy magazynier\n53\npodoficerski\n5\nszef kuchni\n54\npodoficerski\n5\nkonserwator\n55\npodoficerski\n5\nmagazynier\n56\npodoficerski\n6\nstarsza piel\u0119gniarka\n57\npodoficerski\n5\npiel\u0119gniarka\n58\npodoficerski\n4\nm\u0142odsza piel\u0119gniarka\n59\npodoficerski\n6\nstarszy ratownik medyczny\n60\npodoficerski\n5\nratownik medyczny\n61\npodoficerski\n4\nm\u0142odszy ratownik medyczny\n62\npodoficerski\n3\nstarszy referent\n63\npodoficerski\n2\nreferent\n64\npodoficerski\n1\nm\u0142odszy referent\nTabela 5\nCentralny O\u015brodek Szkolenia S\u0142u\u017cby Wi\u0119ziennej, o\u015brodki szkolenia S\u0142u\u017cby Wi\u0119ziennej,\no\u015brodki doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n37\nkomendant Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej\n2\noficerski\n35\nzast\u0119pca komendanta Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej\n3\noficerski\n35\nkomendant o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n4\noficerski\n30\nzast\u0119pca komendanta o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n5\noficerski\n30\nkomendant o\u015brodka doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej\n6\noficerski\n26\nzast\u0119pca komendanta o\u015brodka doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej\n7\noficerski\n26\ng\u0142\u00f3wny ksi\u0119gowy Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej; g\u0142\u00f3wny ksi\u0119gowy o\u015brodka\nszkolenia S\u0142u\u017cby Wi\u0119ziennej\n8\noficerski\n21\ng\u0142\u00f3wny ksi\u0119gowy o\u015brodka doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej\n9\noficerski\n21\nkierownik zak\u0142adu\n10\noficerski\n21\nkierownik oddzia\u0142u zamiejscowego\n11\noficerski\n20\nkierownik ambulatorium\n12\noficerski\n20\nkierownik dzia\u0142u Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej; kierownik dzia\u0142u\no\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n13\noficerski\n16\nkierownik dzia\u0142u o\u015brodka doskonalenia kadr S\u0142u\u017cby Wi\u0119ziennej\n14\noficerski\n16\nzast\u0119pca kierownika dzia\u0142u Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej\n15\noficerski\n18\nradca prawny\n16\noficerski\n18\nstarszy wyk\u0142adowca\n17\noficerski\n16\nwyk\u0142adowca\n18\noficerski\n11\nm\u0142odszy wyk\u0142adowca\n19\noficerski\n16\nstarszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n20\noficerski\n13\nasystent (lekarz, farmaceuta, fizjoterapeuta)\n21\noficerski\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n22\noficerski\n13\ndow\u00f3dca kompanii Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, dow\u00f3dca kompanii\no\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n23\noficerski\n12\ndow\u00f3dca zmiany Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, dow\u00f3dca zmiany o\u015brodka\nszkolenia S\u0142u\u017cby Wi\u0119ziennej\n24\noficerski\n9\nzast\u0119pca dow\u00f3dcy zmiany Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, zast\u0119pca\ndow\u00f3dcy zmiany o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n25\noficerski\n15\nkierownik zespo\u0142u\n26\noficerski\n14\nspecjalista\n27\noficerski\n12\nstarszy inspektor\n28\noficerski\n11\ninspektor\n29\noficerski\n9\nm\u0142odszy inspektor\n30\noficerski\n6\nstarsza piel\u0119gniarka\n31\noficerski\n5\npiel\u0119gniarka\n32\noficerski\n4\nm\u0142odsza piel\u0119gniarka\n33\noficerski\n6\nstarszy ratownik medyczny\n34\noficerski\n5\nratownik medyczny\n35\noficerski\n4\nm\u0142odszy ratownik medyczny\n36\nchor\u0105\u017cego\n18\nradca prawny\n37\nchor\u0105\u017cego\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n38\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n39\nchor\u0105\u017cego\n9\nstarszy instruktor\n40\nchor\u0105\u017cego\n6\ninstruktor\n41\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n42\nchor\u0105\u017cego\n12\ndow\u00f3dca zmiany Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, dow\u00f3dca zmiany o\u015brodka\nszkolenia S\u0142u\u017cby Wi\u0119ziennej\n43\nchor\u0105\u017cego\n9\nzast\u0119pca dow\u00f3dcy zmiany Centralnego O\u015brodka Szkolenia S\u0142u\u017cby Wi\u0119ziennej, zast\u0119pca\ndow\u00f3dcy zmiany o\u015brodka szkolenia S\u0142u\u017cby Wi\u0119ziennej\n44\nchor\u0105\u017cego\n6\nstarszy oddzia\u0142owy\n45\nchor\u0105\u017cego\n5\noddzia\u0142owy\n46\nchor\u0105\u017cego\n6\nstarsza piel\u0119gniarka\n47\nchor\u0105\u017cego\n5\npiel\u0119gniarka\n48\nchor\u0105\u017cego\n4\nm\u0142odsza piel\u0119gniarka\n49\nchor\u0105\u017cego\n6\nstarszy ratownik medyczny\n50\nchor\u0105\u017cego\n5\nratownik medyczny\n51\nchor\u0105\u017cego\n4\nm\u0142odszy ratownik medyczny\n52\nchor\u0105\u017cego\n5\nszef kuchni\n53\npodoficerski\n6\nstarszy oddzia\u0142owy\n54\npodoficerski\n5\noddzia\u0142owy\n55\npodoficerski\n6\ntechnik\n56\npodoficerski\n6\nstarszy kierowca\n57\npodoficerski\n5\nkierowca\n58\npodoficerski\n6\nstarsza piel\u0119gniarka\n59\npodoficerski\n5\npiel\u0119gniarka\n60\npodoficerski\n4\nm\u0142odsza piel\u0119gniarka\n61\npodoficerski\n6\nstarszy ratownik medyczny\n62\npodoficerski\n5\nratownik medyczny\n63\npodoficerski\n4\nm\u0142odszy ratownik medyczny\n64\npodoficerski\n6\nstarszy magazynier\n65\npodoficerski\n5\nszef kuchni\n66\npodoficerski\n5\nkonserwator\n67\npodoficerski\n5\nmagazynier\n68\npodoficerski\n3\nstarszy stra\u017cnik\n69\npodoficerski\n2\nstra\u017cnik\n70\npodoficerski\n3\nstarszy referent\n71\npodoficerski\n2\nreferent\n72\npodoficerski\n1\nm\u0142odszy referent\nTabela 6\nAreszty \u015bledcze, zak\u0142ady karne, podmioty lecznicze dzia\u0142aj\u0105ce w jednostkach organizacyjnych\nS\u0142u\u017cby Wi\u0119ziennej\nLp.\nKorpus\nGrupy zaszeregowania\nStanowisko s\u0142u\u017cbowe\n1\noficerski\n34\ndyrektor aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n2\noficerski\n32\ndyrektor aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n3\noficerski\n29\nzast\u0119pca dyrektora aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n4\noficerski\n23\nzast\u0119pca dyrektora aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n5\noficerski\n27\ng\u0142\u00f3wny ksi\u0119gowy aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n6\noficerski\n20\ng\u0142\u00f3wny ksi\u0119gowy aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n7\noficerski\n25\ndyrektor szpitala\n8\noficerski\n20\nkierownik ambulatorium aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n9\noficerski\n18\nkierownik ambulatorium aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n10\noficerski\n20\nordynator\n11\noficerski\n23\nkierownik oddzia\u0142u powy\u017cej 200 miejsc\n12\noficerski\n20\nkierownik oddzia\u0142u poni\u017cej 200 miejsc\n13\noficerski\n20\nkierownik dzia\u0142u aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n14\noficerski\n18\nkierownik dzia\u0142u aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n15\noficerski\n16\nkierownik domu matki i dziecka\n16\noficerski\n16\nkierownik poradni lub pracowni\n17\noficerski\n16\nkierownik o\u015brodka diagnostycznego\n18\noficerski\n20\nkierownik apteki\n19\noficerski\n18\nradca prawny\n20\noficerski\n18\nzast\u0119pca kierownika dzia\u0142u aresztu \u015bledczego lub zak\u0142adu karnego powy\u017cej 600 miejsc\n21\noficerski\n16\nzast\u0119pca kierownika dzia\u0142u aresztu \u015bledczego lub zak\u0142adu karnego poni\u017cej 600 miejsc\n22\noficerski\n16\nstarszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n23\noficerski\n15\nasystent (lekarz, farmaceuta, fizjoterapeuta)\n24\noficerski\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n25\noficerski\n15\ndow\u00f3dca zmiany\n26\noficerski\n11\nzast\u0119pca dow\u00f3dcy zmiany\n27\noficerski\n15\ndow\u00f3dca grupy interwencyjnej\n28\noficerski\n15\nstarszy wychowawca\n29\noficerski\n12\nwychowawca\n30\noficerski\n11\nm\u0142odszy wychowawca\n31\noficerski\n15\nstarszy psycholog\n32\noficerski\n12\npsycholog\n33\noficerski\n11\nm\u0142odszy psycholog\n34\noficerski\n16\nkierownik zespo\u0142u\n35\noficerski\n15\nspecjalista\n36\noficerski\n12\nstarszy inspektor\n37\noficerski\n11\ninspektor\n38\noficerski\n9\nprze\u0142o\u017cona piel\u0119gniarek\n39\noficerski\n8\npiel\u0119gniarka oddzia\u0142owa\n40\noficerski\n6\nstarsza piel\u0119gniarka\n41\noficerski\n5\npiel\u0119gniarka\n42\noficerski\n4\nm\u0142odsza piel\u0119gniarka\n43\noficerski\n9\nm\u0142odszy inspektor\n44\noficerski\n6\nstarszy ratownik medyczny\n45\noficerski\n5\nratownik medyczny\n46\noficerski\n4\nm\u0142odszy ratownik medyczny\n47\nchor\u0105\u017cego\n18\nradca prawny\n48\nchor\u0105\u017cego\n11\nm\u0142odszy asystent (lekarz, farmaceuta, fizjoterapeuta)\n49\nchor\u0105\u017cego\n11\nm\u0142odszy wychowawca\n50\nchor\u0105\u017cego\n11\nm\u0142odszy psycholog\n51\nchor\u0105\u017cego\n9\nm\u0142odszy inspektor\n52\nchor\u0105\u017cego\n15\ndow\u00f3dca zmiany\n53\nchor\u0105\u017cego\n15\ndow\u00f3dca grupy interwencyjnej\n54\nchor\u0105\u017cego\n11\nzast\u0119pca dow\u00f3dcy zmiany\n55\nchor\u0105\u017cego\n9\nstarszy instruktor\n56\nchor\u0105\u017cego\n6\ninstruktor\n57\nchor\u0105\u017cego\n4\nm\u0142odszy instruktor\n58\nchor\u0105\u017cego\n8\nstarszy oddzia\u0142owy\n59\nchor\u0105\u017cego\n6\noddzia\u0142owy\n60\nchor\u0105\u017cego\n8\npiel\u0119gniarka oddzia\u0142owa\n61\nchor\u0105\u017cego\n6\nstarsza piel\u0119gniarka\n62\nchor\u0105\u017cego\n5\npiel\u0119gniarka\n63\nchor\u0105\u017cego\n4\nm\u0142odsza piel\u0119gniarka\n64\nchor\u0105\u017cego\n6\nstarszy ratownik medyczny\n65\nchor\u0105\u017cego\n5\nratownik medyczny\n66\nchor\u0105\u017cego\n4\nm\u0142odszy ratownik medyczny\n67\nchor\u0105\u017cego\n6\nszef kuchni\n68\nchor\u0105\u017cego\n5\ndow\u00f3dca grupy konwojowej\n69\npodoficerski\n8\nstarszy oddzia\u0142owy\n70\npodoficerski\n6\noddzia\u0142owy\n71\npodoficerski\n6\ntechnik\n72\npodoficerski\n6\ntechnik medyczny\n73\npodoficerski\n6\nstarszy kierowca\n74\npodoficerski\n5\nkierowca\n75\npodoficerski\n8\npiel\u0119gniarka oddzia\u0142owa\n76\npodoficerski\n6\nstarsza piel\u0119gniarka\n77\npodoficerski\n5\npiel\u0119gniarka\n78\npodoficerski\n4\nm\u0142odsza piel\u0119gniarka\n79\npodoficerski\n6\nstarszy ratownik medyczny\n80\npodoficerski\n5\nratownik medyczny\n81\npodoficerski\n4\nm\u0142odszy ratownik medyczny\n82\npodoficerski\n6\nstarszy magazynier\n83\npodoficerski\n6\nszef kuchni\n84\npodoficerski\n5\nmagazynier\n85\npodoficerski\n5\nkonserwator\n86\npodoficerski\n5\ndow\u00f3dca grupy konwojowej\n87\npodoficerski\n3\nstarszy stra\u017cnik\n88\npodoficerski\n2\nstra\u017cnik\n89\npodoficerski\n3\nstarszy referent\n90\npodoficerski\n2\nreferent\n91\npodoficerski\n1\nm\u0142odszy referent"
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.030309Z",
+    "updated_at": "2026-10-31T18:02:56.030343Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 126,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T20:23:44.356899Z",
+  "updated_at": "2026-10-31T20:23:44.356929Z",
+  "draft_created_at": "2026-10-31T20:22:56.942110Z",
+  "lead_time": 54.372,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 125,
+  "parent_annotation": null,
+  "last_created_by": null
+}

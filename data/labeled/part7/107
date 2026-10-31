@@ -1,0 +1,831 @@
+{
+  "id": 107,
+  "result": [
+    {
+      "value": {
+        "start": 336,
+        "end": 337,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Qwfq1e3jvB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 338,
+        "end": 339,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OCOz4XUYQP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 340,
+        "end": 344,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "tuaxPsISGE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 345,
+        "end": 346,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "SDMhsLAFkT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 347,
+        "end": 350,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Z13UtseZDk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 351,
+        "end": 352,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Lx5rcinWgt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 490,
+        "end": 501,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_qpsGKUCEn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 502,
+        "end": 506,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "S3gvNAvflH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1210,
+        "end": 1214,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "6KckzbllMM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1215,
+        "end": 1217,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "wyY2YZdtMQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1218,
+        "end": 1222,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "9we_ANAsNo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1223,
+        "end": 1224,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "bSvXVIfKPz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1324,
+        "end": 1345,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XUgzsERuDr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1346,
+        "end": 1350,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jC1qtk1ile",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1577,
+        "end": 1588,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "82zFJCO3m9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1589,
+        "end": 1593,
+        "text": "1036",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "36sk_J9pKP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1816,
+        "end": 1827,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "hr2P7i8hHY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1828,
+        "end": 1832,
+        "text": "1969",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CBNQrl8qbG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1931,
+        "end": 1932,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "CsdnUxp9ge",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1933,
+        "end": 1934,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "qDyntphf5e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2118,
+        "end": 2129,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "t9rIDEViMD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2130,
+        "end": 2134,
+        "text": "1969",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NHOMqfGgCZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2572,
+        "end": 2573,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "IBW7FfEh0y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2574,
+        "end": 2575,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Mrn9R6VSnT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2576,
+        "end": 2580,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "OwMzqAQ38R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2581,
+        "end": 2582,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "TAdVIv39x8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2583,
+        "end": 2586,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "OmAPpJhsdb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2587,
+        "end": 2588,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "NCavo3XvNe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2726,
+        "end": 2737,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "FhMniT8Kz0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2738,
+        "end": 2742,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "XxwaaRmDoc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2758,
+        "end": 2762,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "es7eFfLq9L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2763,
+        "end": 2766,
+        "text": "27a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OsjbMKXy6f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2767,
+        "end": 2771,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "h89sa7P9pS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2772,
+        "end": 2773,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "i401ov3nqE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2829,
+        "end": 2850,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "IORf6pcFgo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2851,
+        "end": 2855,
+        "text": "1336",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "_IlajJoYxI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2857,
+        "end": 2861,
+        "text": "1688",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "rRhqZ8pa3-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2864,
+        "end": 2868,
+        "text": "1890",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "BDPcpR_zsj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3294,
+        "end": 3307,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "b2O5JDtLes",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3308,
+        "end": 3310,
+        "text": "39",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "86m24ZWBiE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3435,
+        "end": 3439,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "4tbxu1bfZW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3440,
+        "end": 3441,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Vf2KAXOLnA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3588,
+        "end": 3589,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "e67oKb9-Jn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3590,
+        "end": 3591,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "wk7b7QadXg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3674,
+        "end": 3675,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ugBX9lR_C-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3676,
+        "end": 3677,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "GDmo_BTUEe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3925,
+        "end": 3928,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "UUn7ICjglL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3929,
+        "end": 3930,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Q2cblXU_Jn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3931,
+        "end": 3935,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "BglZ0x8pxK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3936,
+        "end": 3937,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "6PkP4IamD-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4029,
+        "end": 4030,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "lDIJXSA5Cd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4031,
+        "end": 4032,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "7ebiZBp2Sj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 108,
+    "data": {
+      "text": "Obwieszczenie Ministra Klimatu i \u015arodowiska z dnia 26 czerwca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska\nw sprawie specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047) 1) Minister Klimatu i \u015arodowiska kieruje dzia\u0142em administracji rz\u0105dowej - \u015brodowisko,\nna podstawie \u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz.\nU. poz. 2726).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Klimatu i \u015arodowiska z dnia 13 kwietnia 2022 r. w sprawie\nspecjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\nZa\u0142\u0105cznik nr 1 - Granica specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\nZa\u0142\u0105cznik nr 2 - Mapa specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\nZa\u0142\u0105cznik nr 3 - Siedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\n\u017burawie Bagno S\u0142awskie (PLH080047)\nZa\u0142\u0105cznik nr 4 - Gatunki ro\u015blin b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\n\u017burawie Bagno S\u0142awskie (PLH080047)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 13 kwietnia 2022 r. w sprawie\nspecjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\n(Dz. U. poz. 1036), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Klimatu i \u015arodowiska z dnia 7 wrze\u015bnia 2023 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie\n(PLH080047)\n(Dz. U. poz. 1969).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 7 wrze\u015bnia 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie\n(PLH080047)\n(Dz. U. poz. 1969), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Klimatu i \u015arodowiska z dnia 13 kwietnia 2022 r. w sprawie\nspecjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047) 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - \u015brodowisko kieruje Minister Klimatu i \u015arodowiska, na podstawie\n\u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz. U. poz.\n2726).\nNa podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody\n(Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1.\nWyznacza si\u0119 specjalny obszar ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047 2) Kod obszaru zosta\u0142 okre\u015blony zgodnie z decyzj\u0105 wykonawcz\u0105 Komisji (UE) 2022/231 z\ndnia 16 lutego 2022 r. w sprawie przyj\u0119cia pi\u0119tnastego zaktualizowanego wykazu teren\u00f3w\nmaj\u0105cych znaczenie dla Wsp\u00f3lnoty sk\u0142adaj\u0105cych si\u0119 na kontynentalny region biogeograficzny\n(notyfikowan\u0105 jako dokument nr C(2022) 854) (Dz. Urz. UE L 39 z 21.02.2022, str. 14).), obejmuj\u0105cy obszar 41,70 ha, po\u0142o\u017cony w wojew\u00f3dztwie lubuskim.\n2.\nGranica obszaru, o kt\u00f3rym mowa w ust. 1, w postaci wykazu wsp\u00f3\u0142rz\u0119dnych punkt\u00f3w za\u0142amania\ngranicy, jest okre\u015blona w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia.\n\u00a7 2.\nMapa obszaru, o kt\u00f3rym mowa w \u00a7 1, jest okre\u015blona w za\u0142\u0105czniku nr 2 do rozporz\u0105dzenia.\n\u00a7 3.\nObszar, o kt\u00f3rym mowa w \u00a7 1, wyznacza si\u0119 w celu:\n1)\ntrwa\u0142ej ochrony:\na)\nsiedlisk przyrodniczych,\nb)\npopulacji zagro\u017conych wygini\u0119ciem gatunk\u00f3w ro\u015blin lub\n2)\nodtworzenia w\u0142a\u015bciwego stanu ochrony siedlisk przyrodniczych lub w\u0142a\u015bciwego stanu\nochrony gatunk\u00f3w, o kt\u00f3rych mowa w pkt 1 lit. b\n- w stosunku do przedmiot\u00f3w ochrony.\n\u00a7 4.\nPrzedmiotem ochrony na obszarze, o kt\u00f3rym mowa w \u00a7 1, s\u0105:\n1)\nsiedliska przyrodnicze okre\u015blone w za\u0142\u0105czniku nr 3 do rozporz\u0105dzenia;\n2)\ngatunki ro\u015blin, okre\u015blone w za\u0142\u0105czniku nr 4 do rozporz\u0105dzenia, oraz ich siedliska.\n\u00a7 5.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 16 maja 2022 r..\nZa\u0142\u0105cznik nr 1\n-\nGranica specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 2\n-\nMapa specjalnego obszaru ochrony siedlisk \u017burawie Bagno S\u0142awskie (PLH080047)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nSiedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\n\u017burawie Bagno S\u0142awskie (PLH080047)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 4\n-\nGatunki ro\u015blin b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\n\u017burawie Bagno S\u0142awskie (PLH080047)\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.022696Z",
+    "updated_at": "2026-10-31T18:02:56.022717Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 109,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T18:53:14.037935Z",
+  "updated_at": "2026-10-31T18:53:14.037975Z",
+  "draft_created_at": "2026-10-31T18:52:34.789166Z",
+  "lead_time": 80.644,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 108,
+  "parent_annotation": null,
+  "last_created_by": null
+}

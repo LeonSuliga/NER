@@ -1,0 +1,1416 @@
+{
+  "id": 99,
+  "result": [
+    {
+      "value": {
+        "start": 560,
+        "end": 561,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "1zlmBLWtCh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 562,
+        "end": 563,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Koh6bDZSb8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 564,
+        "end": 568,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "cVWpsRAnZe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 569,
+        "end": 570,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "9QIVC6puVS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 571,
+        "end": 574,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "DDds-GAHwa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 575,
+        "end": 576,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "YitXksWlHU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 702,
+        "end": 713,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "poEWly-E_m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 714,
+        "end": 718,
+        "text": "2710",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SsuYOIIGVr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1194,
+        "end": 1198,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "u1pMynr_Ci",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1199,
+        "end": 1201,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "1J_ubN_2Mm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1202,
+        "end": 1206,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "sDiqvOHO6P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1207,
+        "end": 1208,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Aq5JOykntj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1308,
+        "end": 1329,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wFBXxP4jdm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1330,
+        "end": 1334,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "x9EHpMa4yi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1800,
+        "end": 1821,
+        "text": "Dz. U. z 2018 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "iKlwLTJJjn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1822,
+        "end": 1825,
+        "text": "750",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Dv3OwvLEaa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2288,
+        "end": 2299,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "yG1mWnVdEH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2300,
+        "end": 2302,
+        "text": "94",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kRz0JKJPol",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2401,
+        "end": 2402,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "0C_3XDDMpX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2403,
+        "end": 2404,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "OR0zCIWLfN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2828,
+        "end": 2839,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ON0Hqq1w7N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2840,
+        "end": 2842,
+        "text": "94",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1nKp_8mQus",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3502,
+        "end": 3503,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "c9hLOdrs4b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3504,
+        "end": 3505,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "7vz7es7nSU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3506,
+        "end": 3510,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "e3htaxMP5o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3511,
+        "end": 3512,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "uobU16hoP6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3513,
+        "end": 3516,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "oYdHX0INS8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3517,
+        "end": 3518,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Ia2yoT7KmA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3644,
+        "end": 3655,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Jqwe5B5IgU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3656,
+        "end": 3660,
+        "text": "2710",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OLr2TaeJs0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3676,
+        "end": 3680,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "C-E0YhD-gW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3681,
+        "end": 3683,
+        "text": "66",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "h6CUz2A2Pv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3684,
+        "end": 3688,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "R_BQH-ahPN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3689,
+        "end": 3690,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "DUq_Qn-ZXN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3691,
+        "end": 3694,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "5MTHv5HISH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3695,
+        "end": 3696,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "FxFcWrw3nv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3698,
+        "end": 3699,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JWIIH4xCa1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3702,
+        "end": 3703,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "3XvKX6Jfp-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3757,
+        "end": 3778,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "fvM00ghTYO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3779,
+        "end": 3783,
+        "text": "1542",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "12Rm5PT_Tb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3785,
+        "end": 3789,
+        "text": "1598",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iy53lvSgPg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3792,
+        "end": 3796,
+        "text": "1723",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jV3VV_O7Qg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4143,
+        "end": 4147,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "StUFfIzC20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4148,
+        "end": 4150,
+        "text": "65",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "0kANomBdps",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4151,
+        "end": 4155,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "-7U4aC7tI5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4156,
+        "end": 4158,
+        "text": "7b",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tER1ltiYoY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4441,
+        "end": 4462,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vffJBZcQS0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4463,
+        "end": 4466,
+        "text": "321",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "pA5yNtNaUs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5695,
+        "end": 5699,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "tWVV_xNYTV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5700,
+        "end": 5702,
+        "text": "64",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "V7NKxJJe0U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5703,
+        "end": 5707,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "kl4kwVFtPk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5708,
+        "end": 5709,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "3WqVAtigGu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5773,
+        "end": 5774,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "MMrIBuV-tT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5775,
+        "end": 5776,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "WAW_4uBJPW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6200,
+        "end": 6211,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "3i83w7zbgv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6212,
+        "end": 6214,
+        "text": "94",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RcFJU7gOQn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6939,
+        "end": 6943,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ylknORAfGj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6944,
+        "end": 6946,
+        "text": "89",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "LN_uw2Aqbu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6947,
+        "end": 6951,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "M_M2_8A1M-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6952,
+        "end": 6953,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "gMZD2L_xkj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6954,
+        "end": 6957,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "OIix-s8zuY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6958,
+        "end": 6959,
+        "text": "9",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "7NZ3no4MOp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6961,
+        "end": 6963,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "CIpejikLep",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7070,
+        "end": 7074,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "74R5c6ZtCV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7075,
+        "end": 7077,
+        "text": "32",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "B7nO8PLnYQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7078,
+        "end": 7082,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pHIycbBY6s",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7083,
+        "end": 7084,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "4N4e6z4gxh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7085,
+        "end": 7088,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "FG7wWTF67H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7089,
+        "end": 7090,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "egI35WWW3s",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7091,
+        "end": 7092,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "2kzMZG89cy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7094,
+        "end": 7095,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "MuqWiO8h3b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7356,
+        "end": 7360,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "vxkdB-CkSw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7361,
+        "end": 7363,
+        "text": "89",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "-PNgCkOaEn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7364,
+        "end": 7368,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "As4sNa2mEa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7369,
+        "end": 7370,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "32gorTc8_0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7371,
+        "end": 7374,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "iydABdJovT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7375,
+        "end": 7376,
+        "text": "9",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "O4HjadzR7q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7378,
+        "end": 7380,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JM2VrSaaj3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7531,
+        "end": 7535,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3H167rFzJD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7536,
+        "end": 7538,
+        "text": "65",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "uHKawG9Jtq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7539,
+        "end": 7543,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ekQQNXQ-98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7544,
+        "end": 7546,
+        "text": "7b",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hIylaZYOBl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9078,
+        "end": 9082,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "hz6-unjVC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9083,
+        "end": 9084,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qz-bAe6UGr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9839,
+        "end": 9850,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "KwCgyyVEwR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9851,
+        "end": 9855,
+        "text": "1059",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iqcvCpl62W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10133,
+        "end": 10144,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "W3u2KEYutX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10145,
+        "end": 10149,
+        "text": "1559",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AQ503FlwSE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6969,
+        "end": 6971,
+        "text": "15",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "_ouwAnulwe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7100,
+        "end": 7101,
+        "text": "6",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "pK2zjiLMet",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7386,
+        "end": 7388,
+        "text": "15",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "d536_h_ErT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 100,
+    "data": {
+      "text": "Obwieszczenie Ministra Finans\u00f3w z dnia 29 kwietnia 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Finans\u00f3w w sprawie\nokre\u015blenia przypadk\u00f3w, w kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia akcyzowego,\nszczeg\u00f3\u0142owych warunk\u00f3w odnotowywania obci\u0105\u017cenia zabezpieczenia generalnego lub zwolnienia\ngo z tego obci\u0105\u017cenia przez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz przypadk\u00f3w, w\nkt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia generalnego 1) Minister Finans\u00f3w kieruje dzia\u0142em administracji rz\u0105dowej - finanse publiczne, na podstawie\n\u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Finans\u00f3w (Dz. U. poz. 2710).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Finans\u00f3w z dnia 15 grudnia 2014 r. w sprawie okre\u015blenia przypadk\u00f3w,\nw kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia akcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w\nodnotowywania obci\u0105\u017cenia zabezpieczenia generalnego lub zwolnienia go z tego obci\u0105\u017cenia\nprzez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz przypadk\u00f3w, w kt\u00f3rych nie odnotowuje\nsi\u0119 obci\u0105\u017cenia zabezpieczenia generalnego\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Finans\u00f3w z dnia 15 grudnia 2014 r. w sprawie okre\u015blenia przypadk\u00f3w,\nw kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia akcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w\nodnotowywania obci\u0105\u017cenia zabezpieczenia generalnego lub zwolnienia go z tego obci\u0105\u017cenia\nprzez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz przypadk\u00f3w, w kt\u00f3rych nie odnotowuje\nsi\u0119 obci\u0105\u017cenia zabezpieczenia generalnego\n(Dz. U. z 2018 r. poz. 750), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Finans\u00f3w z dnia 9 stycznia 2023 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie okre\u015blenia przypadk\u00f3w, w kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia\nakcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w odnotowywania obci\u0105\u017cenia zabezpieczenia generalnego\nlub zwolnienia go z tego obci\u0105\u017cenia przez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz\nprzypadk\u00f3w, w kt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia generalnego\n(Dz. U. poz. 94).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Finans\u00f3w z dnia 9 stycznia 2023 r. zmieniaj\u0105cego rozporz\u0105dzenie\nw sprawie okre\u015blenia przypadk\u00f3w, w kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia\nakcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w odnotowywania obci\u0105\u017cenia zabezpieczenia generalnego\nlub zwolnienia go z tego obci\u0105\u017cenia przez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz\nprzypadk\u00f3w, w kt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia generalnego\n(Dz. U. poz. 94), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 13 lutego 2023 r.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Finans\u00f3w z dnia 15 grudnia 2014 r. w sprawie okre\u015blenia przypadk\u00f3w,\nw kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom zabezpieczenia akcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w\nodnotowywania obci\u0105\u017cenia zabezpieczenia generalnego lub zwolnienia go z tego obci\u0105\u017cenia\nprzez podmiot obowi\u0105zany do jego z\u0142o\u017cenia, oraz przypadk\u00f3w, w kt\u00f3rych nie odnotowuje\nsi\u0119 obci\u0105\u017cenia zabezpieczenia generalnego 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - finanse publiczne kieruje Minister Finans\u00f3w, na podstawie\n\u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Finans\u00f3w (Dz. U. poz. 2710).\nNa podstawie art. 66 ust. 2 pkt 3, 4 i 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym\n(Dz. U. z 2023 r. poz. 1542, 1598 i 1723) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nprzypadki, w kt\u00f3rych stosuje si\u0119 dla niekt\u00f3rych wyrob\u00f3w akcyzowych ni\u017cszy poziom zabezpieczenia\nakcyzowego ni\u017c okre\u015blony w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej \u201eustaw\u0105\u201d, oraz ten poziom;\n2)\nszczeg\u00f3\u0142owe warunki odnotowywania przez podmiot, o kt\u00f3rym mowa w art. 65 ust. 7b ustawy,\nobci\u0105\u017cenia zabezpieczenia generalnego kwot\u0105 powsta\u0142ego lub mog\u0105cego powsta\u0107 zobowi\u0105zania\npodatkowego albo kwot\u0105 zobowi\u0105zania podatkowego oraz op\u0142aty paliwowej, o kt\u00f3rej mowa\nw ustawie z dnia 27 pa\u017adziernika 1994 r. o autostradach p\u0142atnych oraz o Krajowym Funduszu\nDrogowym\n(Dz. U. z 2024 r. poz. 321), a tak\u017ce zwalniania go z tego obci\u0105\u017cenia;\n3)\nprzypadki, w kt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia generalnego kwot\u0105\npowsta\u0142ego lub mog\u0105cego powsta\u0107 zobowi\u0105zania podatkowego albo kwot\u0105 powsta\u0142ego lub\nmog\u0105cego powsta\u0107 zobowi\u0105zania podatkowego oraz kwot\u0105 op\u0142aty paliwowej, kt\u00f3rej obowi\u0105zek\nzap\u0142aty powsta\u0142 lub mo\u017ce powsta\u0107.\n\u00a7 2.\nW przypadku:\n1)\nprzemieszczania z zastosowaniem procedury zawieszenia poboru akcyzy, przez podmiot\nprowadz\u0105cy sk\u0142ad podatkowy, posiadaj\u0105cy zgod\u0119 na z\u0142o\u017cenie zabezpieczenia rycza\u0142towego:\na)\nalkoholu etylowego obj\u0119tego pozycj\u0105 CN 2207, kt\u00f3ry jest:\n-\nwyprodukowany w gorzelni rolniczej z surowc\u00f3w rolniczych jako nieoczyszczony alkohol\netylowy oraz wyprowadzany ze sk\u0142adu podatkowego producenta i przemieszczany do sk\u0142adu\npodatkowego na terytorium kraju w celu dalszego przetworzenia przez jego odbiorc\u0119\nlub\n-\nalkoholem etylowym odwodnionym wyprodukowanym z surowc\u00f3w rolniczych, kt\u00f3ry w celu\ndalszego przetworzenia przez jego odbiorc\u0119 jako biopaliwo lub paliwo ciek\u0142e jest wyprowadzany\nze sk\u0142adu podatkowego i przemieszczany do innego sk\u0142adu podatkowego na terytorium\nkraju przez podmiot, kt\u00f3ry dokona\u0142 jego odwodnienia, zwolniony z obowi\u0105zku z\u0142o\u017cenia\nzabezpieczenia akcyzowego na podstawie art. 64 ust. 1 ustawy, prowadz\u0105cy ten sk\u0142ad\npodatkowy,\nb)\n(uchylona) 2) Przez \u00a7 1 rozporz\u0105dzenia Ministra Finans\u00f3w z dnia 9 stycznia 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie okre\u015blenia przypadk\u00f3w, w kt\u00f3rych stosuje si\u0119 ni\u017cszy poziom\nzabezpieczenia akcyzowego, szczeg\u00f3\u0142owych warunk\u00f3w odnotowywania obci\u0105\u017cenia zabezpieczenia\ngeneralnego lub zwolnienia go z tego obci\u0105\u017cenia przez podmiot obowi\u0105zany do jego z\u0142o\u017cenia,\noraz przypadk\u00f3w, w kt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia generalnego\n(Dz. U. poz. 94), kt\u00f3re wesz\u0142o w \u017cycie z dniem 13 lutego 2023 r.\n- stosuje si\u0119 zabezpieczenie rycza\u0142towe z\u0142o\u017cone przez podmiot przemieszczaj\u0105cy te\nwyroby w wysoko\u015bci ustalonej na poziomie 15 % kwoty akcyzy, kt\u00f3rej pob\u00f3r jest zawieszony,\na w przypadku wyrob\u00f3w akcyzowych obj\u0119tych na podstawie ustawy z dnia 27 pa\u017adziernika 1994 r. o autostradach p\u0142atnych oraz o Krajowym Funduszu\nDrogowym zabezpieczeniem op\u0142aty paliwowej, w wysoko\u015bci 15 % kwoty akcyzy, kt\u00f3rej pob\u00f3r jest\nzawieszony, powi\u0119kszonej o 15 % kwoty op\u0142aty paliwowej, kt\u00f3rej obowi\u0105zek zap\u0142aty mo\u017ce\npowsta\u0107;\n2)\nprodukcji, magazynowania, wprowadzania do sk\u0142adu podatkowego lub przemieszczania z\nzastosowaniem procedury zawieszenia poboru akcyzy, wyrob\u00f3w akcyzowych, o kt\u00f3rych mowa\nw art. 89 ust. 1 pkt 9, 10 albo 15 ustawy, a tak\u017ce w przypadku wykonywania w odniesieniu\ndo tych wyrob\u00f3w czynno\u015bci, o kt\u00f3rych mowa w art. 32 ust. 3 pkt 1-3, 5 lub 6 ustawy,\nodpowiednio, przez podmiot prowadz\u0105cy sk\u0142ad podatkowy, zarejestrowanego odbiorc\u0119 lub\npodmiot po\u015brednicz\u0105cy - stosuje si\u0119 zabezpieczenie generalne na poziomie r\u00f3wnym kwocie\nakcyzy obliczonej dla danego wyrobu akcyzowego wed\u0142ug stawki okre\u015blonej w art. 89\nust. 1 pkt 9, 10 albo 15 ustawy powi\u0119kszonej o kwot\u0119 op\u0142aty paliwowej, kt\u00f3rej obowi\u0105zek\nzap\u0142aty mo\u017ce powsta\u0107 w stosunku do tych wyrob\u00f3w.\n\u00a7 3.\nPodmiot, o kt\u00f3rym mowa w art. 65 ust. 7b ustawy, mo\u017ce odnotowywa\u0107 obci\u0105\u017cenie zabezpieczenia\ngeneralnego kwot\u0105 powsta\u0142ego lub mog\u0105cego powsta\u0107 zobowi\u0105zania podatkowego albo kwot\u0105\nzobowi\u0105zania podatkowego oraz op\u0142aty paliwowej, kt\u00f3rych obowi\u0105zek zap\u0142aty powsta\u0142\nlub mo\u017ce powsta\u0107, lub odnotowywa\u0107 zwolnienie go z tego obci\u0105\u017cenia, pod warunkiem \u017ce:\n1)\nz\u0142o\u017cy w\u0142a\u015bciwemu naczelnikowi urz\u0119du skarbowego, przynajmniej raz w miesi\u0105cu, w terminie\nwyznaczonym przez tego naczelnika, pisemne o\u015bwiadczenie o stanie wykorzystania zabezpieczenia\ngeneralnego, a na \u017c\u0105danie tego naczelnika, r\u00f3wnie\u017c dokumenty, na podstawie kt\u00f3rych\ndokonano obci\u0105\u017cenia zabezpieczenia generalnego kwot\u0105 powsta\u0142ego lub mog\u0105cego powsta\u0107\nzobowi\u0105zania podatkowego albo kwot\u0105 zobowi\u0105zania podatkowego oraz op\u0142aty paliwowej,\nkt\u00f3rej obowi\u0105zek zap\u0142aty powsta\u0142 lub mo\u017ce powsta\u0107, lub zwolnienia go z tego obci\u0105\u017cenia;\n2)\nkwota wolna zabezpieczenia generalnego nie jest mniejsza od kwoty zobowi\u0105zania podatkowego\nalbo kwoty zobowi\u0105zania podatkowego oraz op\u0142aty paliwowej, kt\u00f3rych obowi\u0105zek zap\u0142aty\npowsta\u0142 lub mo\u017ce powsta\u0107, podlegaj\u0105cych odnotowaniu.\n\u00a7 4.\n1.\nObci\u0105\u017cenia zabezpieczenia generalnego kwot\u0105 powsta\u0142ego lub mog\u0105cego powsta\u0107 zobowi\u0105zania\npodatkowego albo kwot\u0105 zobowi\u0105zania podatkowego oraz op\u0142aty paliwowej, kt\u00f3rej obowi\u0105zek\nzap\u0142aty powsta\u0142 lub mo\u017ce powsta\u0107, nie odnotowuje si\u0119 w przypadku awarii Systemu lub\ninnych wsp\u00f3\u0142dzia\u0142aj\u0105cych z nim system\u00f3w teleinformatycznych, kt\u00f3re zgodnie z ustaw\u0105\ns\u0142u\u017c\u0105 do elektronicznego odnotowywania tego obci\u0105\u017cenia - do czasu usuni\u0119cia awarii.\n2.\nW przypadku, o kt\u00f3rym mowa w ust. 1, obci\u0105\u017cenie zabezpieczenia generalnego kwot\u0105 powsta\u0142ego\nlub mog\u0105cego powsta\u0107 zobowi\u0105zania podatkowego albo kwot\u0105 zobowi\u0105zania podatkowego\noraz op\u0142aty paliwowej, kt\u00f3rych obowi\u0105zek zap\u0142aty powsta\u0142 lub mo\u017ce powsta\u0107, odnotowuje\nsi\u0119 po usuni\u0119ciu awarii.\n\u00a7 5.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2015 r. 3) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Finans\u00f3w z dnia\n23 sierpnia 2010 r. w sprawie okre\u015blenia przypadk\u00f3w, w kt\u00f3rych stosuje si\u0119 ni\u017cszy\npoziom zabezpieczenia akcyzowego, przypadk\u00f3w i warunk\u00f3w, w kt\u00f3rych obci\u0105\u017cenie zabezpieczenia\ngeneralnego lub zwolnienie go z tego obci\u0105\u017cenia odnotowuje podmiot obowi\u0105zany do jego\nz\u0142o\u017cenia, oraz przypadk\u00f3w, w kt\u00f3rych nie odnotowuje si\u0119 obci\u0105\u017cenia zabezpieczenia\ngeneralnego (Dz. U. poz. 1059), kt\u00f3re utraci\u0142o moc z dniem wej\u015bcia w \u017cycie niniejszego\nrozporz\u0105dzenia, w zwi\u0105zku z wej\u015bciem w \u017cycie ustawy z dnia 23 pa\u017adziernika 2014 r.\no zmianie ustawy o autostradach p\u0142atnych oraz o Krajowym Funduszu Drogowym, ustawy\no Funduszu Kolejowym oraz ustawy o podatku akcyzowym (Dz. U. poz. 1559)."
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.019866Z",
+    "updated_at": "2026-10-31T18:02:56.019878Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 101,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T18:33:15.109331Z",
+  "updated_at": "2026-10-31T18:33:15.109371Z",
+  "draft_created_at": "2026-10-31T18:32:34.109797Z",
+  "lead_time": 84.635,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 100,
+  "parent_annotation": null,
+  "last_created_by": null
+}
