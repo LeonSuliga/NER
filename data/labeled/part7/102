@@ -1,0 +1,786 @@
+{
+  "id": 102,
+  "result": [
+    {
+      "value": {
+        "start": 263,
+        "end": 264,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "CQPzDO4eAw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 265,
+        "end": 266,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "LSdT53-497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 267,
+        "end": 271,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pgotQxkJHQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 272,
+        "end": 273,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "PLLLi-3JwD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 398,
+        "end": 409,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "279IKyQGsi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 410,
+        "end": 414,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vbERSfNL_0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 609,
+        "end": 613,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "36C-Z26hvI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 614,
+        "end": 616,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OHzzM5Stox",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 617,
+        "end": 621,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "EnKmE7W7xx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 622,
+        "end": 623,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "PnB10d_YOw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 723,
+        "end": 744,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0jgGeWkPXv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 745,
+        "end": 749,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SH6QsdlPdq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 934,
+        "end": 945,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "8HEgV9qrZF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 946,
+        "end": 950,
+        "text": "2814",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v_D80OdPpf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1132,
+        "end": 1143,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Kil10OA64w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1144,
+        "end": 1148,
+        "text": "1503",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "sufPGLpoWu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1247,
+        "end": 1248,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ancGT1ZmWi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1249,
+        "end": 1250,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "xZogfrYZL5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1393,
+        "end": 1404,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "-Qx_Lsxbds",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1405,
+        "end": 1409,
+        "text": "1503",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1wo5qTLwpU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1823,
+        "end": 1824,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "w2F6WTRucz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1825,
+        "end": 1826,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "lyzJP1guwt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1827,
+        "end": 1831,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "HuEbmcjyhG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1832,
+        "end": 1833,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qyBNBIOV_E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1958,
+        "end": 1969,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "3P9uQkz38-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1970,
+        "end": 1974,
+        "text": "2704",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RzAw3mOVLj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1990,
+        "end": 1994,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "nwpV6dsnnd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1995,
+        "end": 1998,
+        "text": "16g",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "2_Tu0L489H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1999,
+        "end": 2003,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "2mscl5cPQn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2004,
+        "end": 2005,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "xDTJ79yAYW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2077,
+        "end": 2098,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ft3Plb_2Wc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2099,
+        "end": 2103,
+        "text": "1516",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "O04B8wOPvi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2105,
+        "end": 2109,
+        "text": "1617",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "q7EydFctoK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2111,
+        "end": 2115,
+        "text": "1831",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "3G5X0yvUpJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2118,
+        "end": 2122,
+        "text": "1972",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "CXwofUd4MZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2518,
+        "end": 2519,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "OUv9FNWrb9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2520,
+        "end": 2521,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "s_vbWnFMZJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2664,
+        "end": 2675,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "4otQ-u2cY1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2676,
+        "end": 2680,
+        "text": "1503",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "bhPWrJGINF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3317,
+        "end": 3328,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "nfsh-8fV7Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3329,
+        "end": 3333,
+        "text": "1156",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "7jo6yPW3qi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3392,
+        "end": 3396,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "n_5Ez2JpK5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3397,
+        "end": 3399,
+        "text": "17",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "QDCbDk0181",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3521,
+        "end": 3532,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "OroT9I3v7Z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3533,
+        "end": 3537,
+        "text": "2232",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "r6UtDCShwa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3540,
+        "end": 3544,
+        "text": "2459",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ECknoecvNU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3550,
+        "end": 3564,
+        "text": "z 2022 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Dg4p_zr7rr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3565,
+        "end": 3568,
+        "text": "526",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "bQosh3PHT2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3571,
+        "end": 3575,
+        "text": "2306",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WOOtN_zXX9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 103,
+    "data": {
+      "text": "Obwieszczenie Ministra Zdrowia z dnia 21 maja 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Zdrowia w sprawie\nokre\u015blenia priorytetowych dziedzin medycyny 1) Minister Zdrowia kieruje dzia\u0142em administracji rz\u0105dowej - zdrowie, na podstawie \u00a7\n1 ust. 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie\nszczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie okre\u015blenia priorytetowych\ndziedzin medycyny\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie okre\u015blenia priorytetowych\ndziedzin medycyny\n(Dz. U. poz. 2814), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniaj\u0105cym rozporz\u0105dzenie\nw sprawie okre\u015blenia priorytetowych dziedzin medycyny\n(Dz. U. poz. 1503).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniaj\u0105cego rozporz\u0105dzenie\nw sprawie okre\u015blenia priorytetowych dziedzin medycyny\n(Dz. U. poz. 1503), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia, z moc\u0105 od\ndnia 1 lipca 2023 r.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie okre\u015blenia priorytetowych\ndziedzin medycyny 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - zdrowie kieruje Minister Zdrowia, na podstawie \u00a7 1 ust. 2\nrozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w sprawie szczeg\u00f3\u0142owego\nzakresu dzia\u0142ania Ministra Zdrowia (Dz. U. poz. 2704).\nNa podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty\n(Dz. U. z 2023 r. poz. 1516, 1617, 1831 i 1972) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nPriorytetowymi dziedzinami medycyny s\u0105:\n1)\nanestezjologia i intensywna terapia;\n2)\nchirurgia dzieci\u0119ca;\n3)\nchirurgia og\u00f3lna;\n4)\nchirurgia onkologiczna;\n5)\nchoroby wewn\u0119trzne;\n6)\nchoroby zaka\u017ane;\n7)\ngeriatria;\n8)\nhematologia;\n9)\nkardiologia dzieci\u0119ca;\n10)\nmedycyna paliatywna;\n11)\nmedycyna ratunkowa;\n12)\nmedycyna rodzinna;\n13)\nneonatologia;\n13a 2) Dodany przez \u00a7 1 rozporz\u0105dzenia Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie okre\u015blenia priorytetowych dziedzin medycyny (Dz. U. poz.\n1503), kt\u00f3re wesz\u0142o w \u017cycie z moc\u0105 od dnia 1 lipca 2023 r.)\nneurologia;\n14)\nneurologia dzieci\u0119ca;\n15)\nonkologia i hematologia dzieci\u0119ca;\n16)\nonkologia kliniczna;\n17)\npatomorfologia;\n18)\npediatria;\n19)\npsychiatria;\n20)\npsychiatria dzieci i m\u0142odzie\u017cy;\n21)\nradioterapia onkologiczna;\n22)\nstomatologia dzieci\u0119ca.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 29 grudnia 2022 r., z moc\u0105 od dnia 19 grudnia 2022 r. 4) Niniejsze rozporz\u0105dzenie by\u0142o poprzedzone rozporz\u0105dzeniem Ministra Zdrowia z dnia\n30 czerwca 2020 r. w sprawie okre\u015blenia priorytetowych dziedzin medycyny (Dz. U. poz.\n1156), kt\u00f3re utraci\u0142o moc z dniem 19 grudnia 2022 r. zgodnie z art. 17 ustawy z dnia\n17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wy\u017cszym i nauce oraz\nniekt\u00f3rych innych ustaw (Dz. U. poz. 2232 i 2459 oraz z 2022 r. poz. 526 i 2306)."
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.020264Z",
+    "updated_at": "2026-10-31T18:02:56.020273Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 104,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T18:40:29.097296Z",
+  "updated_at": "2026-10-31T18:40:29.097351Z",
+  "draft_created_at": "2026-10-31T18:38:54.698233Z",
+  "lead_time": 140.673,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 103,
+  "parent_annotation": null,
+  "last_created_by": null
+}

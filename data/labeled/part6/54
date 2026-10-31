@@ -1,0 +1,1386 @@
+{
+  "id": 54,
+  "result": [
+    {
+      "value": {
+        "start": 371,
+        "end": 372,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "m3NRefhYiT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 373,
+        "end": 374,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "wVyE2kVQGK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 375,
+        "end": 379,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "uWEqWBebto",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 380,
+        "end": 381,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "h6jct3FVfo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 382,
+        "end": 385,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "aGfwsYDXWE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 386,
+        "end": 387,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "pzyfSXerI_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 536,
+        "end": 547,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "yYbXmcb4z9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 548,
+        "end": 551,
+        "text": "738",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "h8NK6eppKw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1056,
+        "end": 1060,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Hd-_IMLz8f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1061,
+        "end": 1063,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "-OKvLj6oFO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1064,
+        "end": 1068,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "nRLHfoPnlk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1069,
+        "end": 1070,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "8yEFpC0t1m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1170,
+        "end": 1191,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "sQrINQKL9R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1192,
+        "end": 1196,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "yU5-XraGXe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1422,
+        "end": 1443,
+        "text": "Dz. U. z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0_Qh9eV62t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1444,
+        "end": 1447,
+        "text": "316",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LUZOEmQx-B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1671,
+        "end": 1682,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BB17fPWDjO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1683,
+        "end": 1687,
+        "text": "1490",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "4Lz1S1NWR6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1786,
+        "end": 1787,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "IDboVLoF5l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1788,
+        "end": 1789,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Cg1cD6vw99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1974,
+        "end": 1985,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "bwaJWqMnOO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1986,
+        "end": 1990,
+        "text": "1490",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "uoodm-VPXi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2441,
+        "end": 2442,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ikbL0cu40a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2443,
+        "end": 2444,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "REdDFcFcq1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2445,
+        "end": 2449,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ImFw_g3zPp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2450,
+        "end": 2451,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "iLFaYRRsvR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2452,
+        "end": 2455,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "n54kPJ4EAY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2456,
+        "end": 2457,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "OwIW7Ln5Tx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2606,
+        "end": 2617,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Wu7MAQltXJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2618,
+        "end": 2621,
+        "text": "738",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1C97dipOa7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2637,
+        "end": 2641,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OPPMSohYAa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2642,
+        "end": 2645,
+        "text": "39c",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "E_7k1cf5eb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2646,
+        "end": 2650,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "FYsM6ZXC6n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2651,
+        "end": 2652,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "uKUELrJKOD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2712,
+        "end": 2733,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ndfn_uc1h4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2734,
+        "end": 2738,
+        "text": "1080",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Sk91qMkrl0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2740,
+        "end": 2744,
+        "text": "1088",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5cMcl8XlC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2746,
+        "end": 2750,
+        "text": "1489",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "2ZwWzif8dD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2752,
+        "end": 2756,
+        "text": "1723",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Z-rPWwFVgt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2758,
+        "end": 2762,
+        "text": "1860",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "OLRfOpeKiL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2765,
+        "end": 2769,
+        "text": "2608",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "P_z7bifEgB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4882,
+        "end": 4886,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "y-nez67UKI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4887,
+        "end": 4888,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "j0n2GbQIAS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4891,
+        "end": 4892,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "sF9KQ0ICy7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4943,
+        "end": 4947,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "urtvwelTf9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4948,
+        "end": 4949,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "MfO6ztZX_g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5109,
+        "end": 5113,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dFJeIquB88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5114,
+        "end": 5115,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tEcuXEaTbV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5116,
+        "end": 5117,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "4d3UxOF5w7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5490,
+        "end": 5491,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TLhGZ-voDu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5492,
+        "end": 5493,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "91VdZUZp9K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5494,
+        "end": 5498,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "N6n4Za18Yb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5499,
+        "end": 5500,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "n3FuDqvv9P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5501,
+        "end": 5504,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "DSENlD-yFT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5505,
+        "end": 5506,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Q1rwtKBMBh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6051,
+        "end": 6052,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "J-1cKiIWgP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6053,
+        "end": 6054,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Mr8W6z_y5I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6055,
+        "end": 6059,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "AkRvspQx9T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6060,
+        "end": 6061,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "bGaJIsR0Jp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6062,
+        "end": 6065,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "rAg_1DpBlb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6066,
+        "end": 6067,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "zS2czSd0Gp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6910,
+        "end": 6914,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "BdHYKKFDgS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6915,
+        "end": 6916,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "elkaM5LVV6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6917,
+        "end": 6920,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "GdedGQWNSs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6921,
+        "end": 6922,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Z2_r07pl0n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6925,
+        "end": 6929,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Brg02JOY11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6930,
+        "end": 6931,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "cyH_44231Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7789,
+        "end": 7790,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "yd7GODAq5U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7791,
+        "end": 7792,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Dz0B4rBNwn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7977,
+        "end": 7988,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "OTCunyNQ-W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7989,
+        "end": 7993,
+        "text": "1490",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "YXA7Ucv2lo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8250,
+        "end": 8254,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ReWJ9wJWRu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8255,
+        "end": 8256,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "d1kcxtnmxr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8257,
+        "end": 8260,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Tkj_AuvTtp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8261,
+        "end": 8262,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "wERsGNQSJj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8561,
+        "end": 8565,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "pbarJhz4uY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8566,
+        "end": 8567,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "RXgz_NYszd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8568,
+        "end": 8571,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "bTGzjf-mX7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8572,
+        "end": 8573,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "vhGvdbHeTw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9501,
+        "end": 9505,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "R7yWwcNfQV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9506,
+        "end": 9507,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "cQDxTV4Djf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9508,
+        "end": 9511,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Y4qsfPe9IQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9512,
+        "end": 9513,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "88MHqk5lbR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9718,
+        "end": 9722,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TlHmR65b7Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9723,
+        "end": 9724,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2cuosEw92X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10111,
+        "end": 10115,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "UHUX8owDBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10116,
+        "end": 10117,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tD7-ceREvZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10768,
+        "end": 10772,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "whSp4Zdjbg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10773,
+        "end": 10774,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BELwgZy_40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 58,
+    "data": {
+      "text": "Obwieszczenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 23 maja 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych\ni Administracji w sprawie testu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy Granicznej 1) Minister Spraw Wewn\u0119trznych i Administracji kieruje dzia\u0142em administracji rz\u0105dowej\n- sprawy wewn\u0119trzne, na podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w\nz dnia 16 maja 2024 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Spraw Wewn\u0119trznych\ni Administracji (Dz. U. poz. 738).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 30 maja 2011 r.\nw sprawie testu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy Granicznej\nZa\u0142\u0105cznik nr 1 - Opis szczeg\u00f3\u0142owych warunk\u00f3w wykonania \u0107wicze\u0144 w ramach testu sprawno\u015bci fizycznej\nZa\u0142\u0105cznik nr 2 - Tabele punktacji wynik\u00f3w testu sprawno\u015bci fizycznej\nZa\u0142\u0105cznik nr 3 - Tabela przelicze\u0144 punkt\u00f3w uzyskanych w cz\u0119\u015bci i testu sprawno\u015bci fizycznej na oceny\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i Administracji z dnia 30 maja 2011 r.\nw sprawie testu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy Granicznej\n(Dz. U. z 2021 r. poz. 316), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Spraw Wewn\u0119trznych i Administracji z dnia 19 lipca 2023 r.\nzmieniaj\u0105cym rozporz\u0105dzenie w sprawie testu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy\nGranicznej\n(Dz. U. poz. 1490).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i Administracji z dnia 19 lipca 2023 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie testu sprawno\u015bci fizycznej funkcjonariuszy\nStra\u017cy Granicznej\n(Dz. U. poz. 1490), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 pa\u017adziernika 2023 r.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Spraw Wewn\u0119trznych i Administracji z dnia 30 maja 2011 r.\nw sprawie testu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy Granicznej 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - sprawy wewn\u0119trzne kieruje Minister Spraw Wewn\u0119trznych i Administracji,\nna podstawie \u00a7 1 ust. 2 pkt 2 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 16 maja\n2024 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Spraw Wewn\u0119trznych i Administracji\n(Dz. U. poz. 738).\nNa podstawie art. 39c ust. 3 ustawy z dnia 12 pa\u017adziernika 1990 r. o Stra\u017cy Granicznej\n(Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla zakres, szczeg\u00f3\u0142owe warunki, tryb i terminy przeprowadzania\ntestu sprawno\u015bci fizycznej funkcjonariuszy Stra\u017cy Granicznej, zwanych dalej \u201efunkcjonariuszami\u201d,\nszczeg\u00f3\u0142owy spos\u00f3b oceniania testu, przypadki, w jakich mo\u017cna zwolni\u0107 funkcjonariusza\nz testu, oraz prze\u0142o\u017conych w\u0142a\u015bciwych w tych sprawach.\n\u00a7 2.\n1.\nTest sprawno\u015bci fizycznej, zwany dalej \u201etestem\u201d, sk\u0142ada si\u0119 z:\n1)\ncz\u0119\u015bci I - sprawdzaj\u0105cej skoczno\u015b\u0107, szybko\u015b\u0107 oraz si\u0142\u0119, obejmuj\u0105cej:\na)\nskok w dal z miejsca obun\u00f3\u017c,\nb)\nbieg po kopercie,\nc)\nrzut pi\u0142k\u0105 lekarsk\u0105 w prz\u00f3d;\n2)\ncz\u0119\u015bci II - sprawdzaj\u0105cej gibko\u015b\u0107 oraz zr\u0119czno\u015b\u0107, obejmuj\u0105cej pady:\na)\nw prz\u00f3d,\nb)\nw ty\u0142,\nc)\nw bok,\nd)\nw prz\u00f3d z przewrotem.\n2.\nSzczeg\u00f3\u0142owe warunki wykonania \u0107wicze\u0144 w ramach testu okre\u015bla za\u0142\u0105cznik nr 1 do rozporz\u0105dzenia.\n\u00a7 3.\n1.\nFunkcjonariusz przyst\u0119puje do testu nie wcze\u015bniej ni\u017c po up\u0142ywie 6 miesi\u0119cy od dnia\npowstania stosunku s\u0142u\u017cbowego.\n2.\nTest przeprowadza si\u0119 w nast\u0119puj\u0105cych grupach wiekowych funkcjonariuszy:\n1)\nI grupa wiekowa - do 24 lat;\n2)\nII grupa wiekowa - od 25 do 29 lat;\n3)\nIII grupa wiekowa - od 30 do 34 lat;\n4)\nIV grupa wiekowa - od 35 do 39 lat;\n5)\nV grupa wiekowa - od 40 do 44 lat;\n6)\nVI grupa wiekowa - od 45 do 49 lat;\n7)\nVII grupa wiekowa - 50 lat i powy\u017cej.\n3.\nPodstaw\u0105 kwalifikowania funkcjonariusza do grupy wiekowej jest jego rok urodzenia.\n4.\nPrzed przyst\u0105pieniem do testu:\n1)\npotwierdza si\u0119 to\u017csamo\u015b\u0107 funkcjonariusza i posiadanie przez niego aktualnych bada\u0144\nprofilaktycznych albo orzecze\u0144 lekarskich;\n2)\nzapoznaje si\u0119 funkcjonariusza z celem i sposobem przeprowadzenia testu oraz sposobem\njego oceniania.\n5.\nTest jest wykonywany w stroju sportowym. Wykonanie testu poprzedza kilkuminutowa rozgrzewka\nprzeprowadzana samodzielnie przez funkcjonariusza.\n\u00a7 4.\n1.\nTest przeprowadza si\u0119 corocznie, w okresie od wrze\u015bnia do ko\u0144ca pa\u017adziernika danego\nroku.\n2.\nTest mo\u017ce by\u0107 przeprowadzany w dodatkowych terminach, w okresie od stycznia do ko\u0144ca\nlutego nast\u0119pnego roku.\n3.\nTest w terminie poprawkowym dla funkcjonariuszy, kt\u00f3rzy nie uzyskali pozytywnej oceny\nz testu w terminach, o kt\u00f3rych mowa w ust. 1 i 2, przeprowadza si\u0119 w marcu w roku,\no kt\u00f3rym mowa w ust. 2.\n4.\nKomendant G\u0142\u00f3wny Stra\u017cy Granicznej mo\u017ce podj\u0105\u0107 decyzj\u0119 o odst\u0105pieniu od realizacji\ntestu za dany rok lub od realizacji testu w terminach, o kt\u00f3rych mowa w ust. 1-3.\nDecyzja podejmowana jest w przypadkach wyst\u0105pienia zagro\u017cenia epidemicznego, epidemii\nlub kl\u0119ski \u017cywio\u0142owej.\n\u00a7 5.\n1.\nOcena ka\u017cdej cz\u0119\u015bci testu jest dokonywana odr\u0119bnie wed\u0142ug nast\u0119puj\u0105cej skali ocen:\n1)\nocena bardzo dobra (bdb.) - 5;\n2)\nocena dobra (db.) - 4;\n3)\nocena dostateczna (dst.) - 3;\n4)\nocena niedostateczna (ndst.) - 2.\n2.\nOceny cz\u0119\u015bci I testu, o kt\u00f3rej mowa w \u00a7 2 ust. 1 pkt 1, dokonuje si\u0119 w nast\u0119puj\u0105cy\nspos\u00f3b:\n1)\nwykonanie ka\u017cdego \u0107wiczenia jest punktowane odr\u0119bnie;\n2)\npunktacj\u0119 wynik\u00f3w odr\u0119bnie dla m\u0119\u017cczyzn i kobiet ustala si\u0119 zgodnie z tabelami stanowi\u0105cymi\nza\u0142\u0105cznik nr 2 do rozporz\u0105dzenia;\n3)\nliczb\u0119 uzyskanych przez funkcjonariusza punkt\u00f3w za poszczeg\u00f3lne \u0107wiczenia sumuje si\u0119,\na otrzymany wynik przelicza si\u0119 na ocen\u0119, zgodnie z tabel\u0105 stanowi\u0105c\u0105 za\u0142\u0105cznik nr\n3 do rozporz\u0105dzenia;\n4)\nniepodj\u0119cie pr\u00f3by wykonania \u0107wiczenia oznacza nieuzyskanie punkt\u00f3w za to \u0107wiczenie.\n3.\nOceny cz\u0119\u015bci II testu, o kt\u00f3rej mowa w \u00a7 2 ust. 1 pkt 2, dokonuje si\u0119 w nast\u0119puj\u0105cy\nspos\u00f3b:\n1)\nza ka\u017cdy pad funkcjonariusz otrzymuje ocen\u0119 cz\u0105stkow\u0105:\na)\nbardzo dobr\u0105 (bdb.) - 5 - za wykonanie bezb\u0142\u0119dne technicznie i z du\u017c\u0105 dynamik\u0105 ruchu,\nb)\ndobr\u0105 (db.) - 4 - za wykonanie poprawne technicznie, ale bez odpowiedniego tempa,\nc)\ndostateczn\u0105 (dst.) - 3 - za wykonanie z drobnymi b\u0142\u0119dami technicznymi, niezdecydowanie\ni bez odpowiedniego tempa,\nd)\nniedostateczn\u0105 (ndst.) - 2 - za wykonanie z ra\u017c\u0105cymi b\u0142\u0119dami technicznymi oraz w przypadku\nniepodj\u0119cia pr\u00f3by wykonania padu;\n2)\nocen\u0119 ko\u0144cow\u0105 cz\u0119\u015bci II testu ustala si\u0119 jako \u015bredni\u0105 arytmetyczn\u0105 ocen cz\u0105stkowych.\n4.\nOcen\u0119 ko\u0144cow\u0105 testu ustala si\u0119 jako \u015bredni\u0105 arytmetyczn\u0105 ocen uzyskanych z obydwu\ncz\u0119\u015bci testu, z tym \u017ce ocena niedostateczna jednej cz\u0119\u015bci testu powoduje uzyskanie\nniedostatecznej oceny ko\u0144cowej testu.\n5.\nOceny ko\u0144cowe, o kt\u00f3rych mowa w ust. 3 pkt 2 i ust. 4, ustala si\u0119 jako:\n1)\nbardzo dobr\u0105 (bdb.) - 5 - je\u017celi \u015brednia arytmetyczna ocen wynosi wi\u0119cej ni\u017c 4,50;\n2)\ndobr\u0105 (db.) - 4 - je\u017celi \u015brednia arytmetyczna ocen wynosi od 3,51 do 4,50;\n3)\ndostateczn\u0105 (dst.) - 3 - je\u017celi \u015brednia arytmetyczna ocen wynosi od 3,00 do 3,50;\n4)\nniedostateczn\u0105 (ndst.) - 2 - je\u017celi \u015brednia arytmetyczna ocen wynosi mniej ni\u017c 3,00.\n6.\nO wynikach osi\u0105gni\u0119tych podczas testu i uzyskanej ocenie ko\u0144cowej informuje si\u0119 zainteresowanego\nfunkcjonariusza po zako\u0144czeniu testu.\n7.\nFunkcjonariusza, kt\u00f3ry uzyska\u0142 niedostateczn\u0105 ocen\u0119 ko\u0144cow\u0105, informuje si\u0119 o konieczno\u015bci\nponownego przyst\u0105pienia do testu w terminie poprawkowym.\n\u00a7 6.\n1.\nTesty przeprowadzaj\u0105 komisje powo\u0142ywane w:\n1)\nKomendzie G\u0142\u00f3wnej Stra\u017cy Granicznej, zwanej dalej \u201eKomend\u0105 G\u0142\u00f3wn\u0105\u201d, dla funkcjonariuszy\npe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w Komendzie G\u0142\u00f3wnej;\n2 2) W brzmieniu ustalonym przez \u00a7 1 rozporz\u0105dzenia Ministra Spraw Wewn\u0119trznych i Administracji\nz dnia 19 lipca 2023 r. zmieniaj\u0105cego rozporz\u0105dzenie w sprawie testu sprawno\u015bci fizycznej\nfunkcjonariuszy Stra\u017cy Granicznej (Dz. U. poz. 1490), kt\u00f3re wesz\u0142o w \u017cycie z dniem\n1 pa\u017adziernika 2023 r.)\nWy\u017cszej Szkole Stra\u017cy Granicznej, oddzia\u0142ach, o\u015brodkach szkolenia i o\u015brodkach Stra\u017cy\nGranicznej, zwanych dalej \u201ejednostkami\u201d, dla funkcjonariuszy pe\u0142ni\u0105cych w nich s\u0142u\u017cb\u0119.\n1a.\nKomisja, o kt\u00f3rej mowa w ust. 1 pkt 1, przeprowadza test r\u00f3wnie\u017c dla:\n1)\nfunkcjonariuszy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w jednostkach, je\u017celi wykonuj\u0105 oni zadania w Komendzie\nG\u0142\u00f3wnej;\n2)\nfunkcjonariuszy Biura Spraw Wewn\u0119trznych Stra\u017cy Granicznej, zwanego dalej \u201eBSWSG\u201d,\npe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w mie\u015bcie sto\u0142ecznym Warszawie.\n2.\nKomisje, o kt\u00f3rych mowa w ust. 1 pkt 2, z wyj\u0105tkiem komisji powo\u0142anej w Nadwi\u015bla\u0144skim\nOddziale Stra\u017cy Granicznej im. Powstania Warszawskiego z siedzib\u0105 w Warszawie, przeprowadzaj\u0105\ntesty r\u00f3wnie\u017c dla funkcjonariuszy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w Komendzie G\u0142\u00f3wnej, BSWSG lub\nw jednostkach, je\u017celi pozostaj\u0105 oni na zaopatrzeniu jednostki, w kt\u00f3rej test jest\nprowadzony lub wykonuj\u0105 w niej zadania.\n3.\nKomisje powo\u0142uj\u0105:\n1)\nkierownik kom\u00f3rki organizacyjnej w\u0142a\u015bciwej w sprawach osobowych - w Komendzie G\u0142\u00f3wnej;\n2)\nkierownik jednostki - w jednostce.\n4.\nKomisja sk\u0142ada si\u0119 co najmniej z 3 os\u00f3b: przewodnicz\u0105cego, osoby prowadz\u0105cej zaj\u0119cia\nwychowania fizycznego oraz osoby posiadaj\u0105cej kwalifikacje w zakresie udzielania pierwszej\npomocy, co najmniej na poziomie wymaganym do uzyskania za\u015bwiadczenia potwierdzaj\u0105cego\nuko\u0144czenie szkolenia w zakresie kwalifikowanej pierwszej pomocy.\n5.\nNa przewodnicz\u0105cego komisji powo\u0142uje si\u0119 odpowiednio: zast\u0119pc\u0119 kierownika kom\u00f3rki,\no kt\u00f3rym mowa w ust. 3 pkt 1, albo zast\u0119pc\u0119 kierownika jednostki.\n6.\nDo sk\u0142adu komisji, powo\u0142anej w Komendzie G\u0142\u00f3wnej, osob\u0119 posiadaj\u0105c\u0105 kwalifikacje w\nzakresie udzielania pierwszej pomocy kwalifikowanej na poziomie, o kt\u00f3rym mowa w ust.\n4, wyznacza Komendant Nadwi\u015bla\u0144skiego Oddzia\u0142u Stra\u017cy Granicznej im. Powstania Warszawskiego\nw Warszawie.\n7.\nKomisja mo\u017ce by\u0107 podzielona na podkomisje, kt\u00f3re samodzielnie prowadz\u0105 testy, pod\nwarunkiem \u017ce w sk\u0142ad ka\u017cdej z podkomisji wchodzi\u0107 b\u0119dzie osoba prowadz\u0105ca zaj\u0119cia\nwychowania fizycznego oraz osoba posiadaj\u0105ca kwalifikacje w zakresie udzielania pierwszej\npomocy, o kt\u00f3rych mowa w ust. 4.\n8.\nTerminy i miejsca przeprowadzania testu ustalaj\u0105 przewodnicz\u0105cy komisji, o czym zawiadamiaj\u0105\nodpowiednio kierownik\u00f3w kom\u00f3rek organizacyjnych Komendy G\u0142\u00f3wnej, Komendanta BSWSG,\nkierownik\u00f3w kom\u00f3rek organizacyjnych jednostek, a tak\u017ce komendant\u00f3w plac\u00f3wek i dywizjon\u00f3w\nStra\u017cy Granicznej.\n9.\nKierownicy kom\u00f3rek organizacyjnych Komendy G\u0142\u00f3wnej, Komendant BSWSG, kierownicy kom\u00f3rek\norganizacyjnych jednostek, a tak\u017ce komendanci plac\u00f3wek i dywizjon\u00f3w Stra\u017cy Granicznej\nzawiadamiaj\u0105 podleg\u0142ych im funkcjonariuszy o terminie i miejscu przeprowadzania testu.\n\u00a7 7.\n1.\nDokumentacj\u0119 testu prowadzi si\u0119 w formie elektronicznej.\n2.\nDokumentacj\u0119, o kt\u00f3rej mowa w ust. 1, prowadz\u0105 kom\u00f3rki organizacyjne Komendy G\u0142\u00f3wnej\ni jednostek w\u0142a\u015bciwe w sprawach osobowych.\n\u00a7 8.\n1.\nFunkcjonariusza mo\u017cna zwolni\u0107 z testu w nast\u0119puj\u0105cych przypadkach:\n1)\npoddania go, w roku przeprowadzania testu, sprawdzianowi oceniaj\u0105cemu sprawno\u015b\u0107 fizyczn\u0105\ni uzyskania pozytywnej oceny w ramach szkolenia podstawowego, szkolenia z zakresu\nszko\u0142y podoficerskiej, szkolenia z zakresu szko\u0142y chor\u0105\u017cych, przeszkolenia specjalistycznego\ndo mianowania na pierwszy stopie\u0144 oficerski Stra\u017cy Granicznej;\n2)\npozostawania w dyspozycji w\u0142a\u015bciwego prze\u0142o\u017conego w sprawach osobowych;\n3)\nprzebywania na urlopie bezp\u0142atnym;\n4)\nprzebywania na urlopie macierzy\u0144skim, urlopie na warunkach urlopu macierzy\u0144skiego,\nurlopie rodzicielskim lub urlopie wychowawczym;\n5)\noddelegowania do wykonywania zada\u0144 poza Stra\u017c\u0105 Graniczn\u0105;\n6)\nnieobecno\u015bci w s\u0142u\u017cbie z powodu choroby;\n7)\nprzed\u0142o\u017cenia za\u015bwiadczenia lekarskiego o czasowej niezdolno\u015bci do uczestniczenia w\nzaj\u0119ciach wychowania fizycznego.\n2.\nPrze\u0142o\u017conymi w\u0142a\u015bciwymi w sprawach zwolnienia funkcjonariuszy z testu s\u0105:\n1)\nKomendant G\u0142\u00f3wny Stra\u017cy Granicznej w stosunku do:\na)\nKomendanta BSWSG,\nb)\nkierownik\u00f3w jednostek,\nc)\nkierownik\u00f3w kom\u00f3rek organizacyjnych Komendy G\u0142\u00f3wnej,\nd)\nfunkcjonariuszy pozostaj\u0105cych w jego dyspozycji;\n1a)\nKomendant BSWSG w stosunku do:\na)\nfunkcjonariuszy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 w BSWSG,\nb)\nfunkcjonariuszy pozostaj\u0105cych w jego dyspozycji;\n2)\nkierownicy jednostek w stosunku do:\na)\nfunkcjonariuszy pe\u0142ni\u0105cych s\u0142u\u017cb\u0119 na stanowiskach s\u0142u\u017cbowych w podleg\u0142ych im jednostkach,\nb)\nfunkcjonariuszy pozostaj\u0105cych w ich dyspozycji;\n3)\nkierownicy kom\u00f3rek organizacyjnych Komendy G\u0142\u00f3wnej w stosunku do funkcjonariuszy pe\u0142ni\u0105cych\ns\u0142u\u017cb\u0119 na stanowiskach s\u0142u\u017cbowych w podleg\u0142ych im kom\u00f3rkach;\n4)\nkomendanci plac\u00f3wek i dywizjon\u00f3w Stra\u017cy Granicznej w stosunku do funkcjonariuszy pe\u0142ni\u0105cych\ns\u0142u\u017cb\u0119 na stanowiskach s\u0142u\u017cbowych w podleg\u0142ych im plac\u00f3wkach lub dywizjonach.\n\u00a7 9.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 17 czerwca 2011 r..\nZa\u0142\u0105cznik nr 1\n-\nOpis szczeg\u00f3\u0142owych warunk\u00f3w wykonania \u0107wicze\u0144 w ramach testu sprawno\u015bci fizycznej\nCZ\u0118\u015a\u0106 I TESTU\n\u0106WICZENIE 1: Skok w dal z miejsca obun\u00f3\u017c\nWykonuj\u0105cy \u0107wiczenie staje w odleg\u0142o\u015bci 50 cm od materaca na specjalnie oznaczonej\nlinii, wykonuje zamach r\u0119kami i, odbijaj\u0105c si\u0119 jednocze\u015bnie obiema stopami od pod\u0142o\u017ca,\nskacze w prz\u00f3d. Pr\u00f3b\u0119 powtarza si\u0119 trzykrotnie. Oceniany jest najd\u0142u\u017cszy skok mierzony\nod linii wyznaczaj\u0105cej miejsce odbicia do najbli\u017cszego miejsca kontaktu cia\u0142a z materacem.\nPomiaru dokonuje si\u0119 z dok\u0142adno\u015bci\u0105 do 5 cm. W przypadku cofni\u0119cia si\u0119 po skoku pr\u00f3by\nnie zalicza si\u0119. Niezaliczenie trzech pr\u00f3b oznacza niezaliczenie \u0107wiczenia.\n\u0106WICZENIE 2: Bieg po kopercie\nNa prostok\u0105cie o wymiarach 300 x 500 cm umieszcza si\u0119 pi\u0119\u0107 chor\u0105giewek o wysoko\u015bci\n150 cm (po jednej w naro\u017cnikach oraz na przeci\u0119ciu przek\u0105tnych).\npatrz orygina\u0142\nWykonuj\u0105cy \u0107wiczenie startuje od chor\u0105giewki A i biegnie kolejno w kierunku chor\u0105giewki\nB, a nast\u0119pnie C, D, B, E oraz A. Chor\u0105giewki A, C, D i E omija lewym barkiem, a chor\u0105giewk\u0119\nB\nprawym barkiem. Ca\u0142\u0105 tras\u0119 pokonuje si\u0119 trzykrotnie. Zabronione jest dotykanie chor\u0105giewek\nw trakcie biegu. W przypadku przewr\u00f3cenia chor\u0105giewki pr\u00f3b\u0119 powtarza si\u0119. Kolejne\nprzewr\u00f3cenie chor\u0105giewki powoduje niezaliczenie \u0107wiczenia. Pomiaru dokonuje si\u0119 z\ndok\u0142adno\u015bci\u0105 do 0,1s.\n\u0106WICZENIE 3: Rzut pi\u0142k\u0105 lekarsk\u0105 w prz\u00f3d (m\u0119\u017cczy\u017ani 3 kg, kobiety 2 kg)\nWykonuj\u0105cy \u0107wiczenie staje przed lini\u0105 wyznaczaj\u0105c\u0105 pocz\u0105tek strefy rzutu i przyjmuje\npozycj\u0119 wyprostowan\u0105, w lekkim rozkroku ze stopami ustawionymi r\u00f3wnolegle. Nast\u0119pnie,\ntrzymaj\u0105c pi\u0142k\u0119 obur\u0105cz nad g\u0142ow\u0105, wykonuje sk\u0142on w ty\u0142 i przez szybki wyprost wyrzuca\npi\u0142k\u0119 obur\u0105cz ponad g\u0142ow\u0105 w prz\u00f3d. Po rzucie nie wolno przekracza\u0107 linii wyznaczaj\u0105cej\npocz\u0105tek strefy rzutu ani oderwa\u0107 stopy od pod\u0142o\u017ca. Wykonywane s\u0105 trzy pr\u00f3by. Oceniany\njest rzut na najwi\u0119ksz\u0105 odleg\u0142o\u015b\u0107. Pomiaru dokonuje si\u0119 z dok\u0142adno\u015bci\u0105 do 5 cm. W\nprzypadku przekroczenia linii wyznaczaj\u0105cej pocz\u0105tek strefy rzutu lub oderwania stopy\nod pod\u0142o\u017ca pr\u00f3by nie zalicza si\u0119. Niezaliczenie trzech pr\u00f3b oznacza\nniezaliczenie \u0107wiczenia.\nCZ\u0118\u015a\u0106 II TESTU\n1.\nPad w prz\u00f3d\nWykonuje si\u0119 z postawy stoj\u0105c, przez skok lotny w prz\u00f3d na przedramiona i d\u0142onie u\u0142o\u017cone\nna wysoko\u015bci klatki piersiowej; nogi w szerokim rozkroku nale\u017cy wesprze\u0107 na palcach\nst\u00f3p, a tu\u0142\u00f3w na przedramionach. \u017badna inna cz\u0119\u015b\u0107 cia\u0142a nie mo\u017ce dotyka\u0107 pod\u0142o\u017ca.\n2.\nPad w ty\u0142\nWykonuje si\u0119 z postawy stoj\u0105c, przez ugi\u0119cie kolan z jednoczesnym wymachem r\u0105k w prz\u00f3d\nw g\u00f3r\u0119, nast\u0119pnie siad na po\u015bladkach, przetoczenie w ty\u0142 a\u017c do zetkni\u0119cia si\u0119 plec\u00f3w\nz pod\u0142o\u017cem, z r\u00f3wnoczesnym uderzeniem d\u0142oni wraz z ca\u0142\u0105 powierzchni\u0105 r\u0105k o pod\u0142o\u017ce\npod k\u0105tem ok. 45\u00ba w stosunku do linii cia\u0142a; brod\u0119 nale\u017cy przyci\u0105gn\u0105\u0107 do klatki piersiowej,\nchroni\u0105c g\u0142ow\u0119 przed uderzeniem o pod\u0142o\u017ce. Pad w ty\u0142 mo\u017cna \u0142\u0105czy\u0107 z przewrotem w ty\u0142\nprzez bark, sk\u0142aniaj\u0105c g\u0142ow\u0119 w stron\u0119 barku przeciwnego.\n3.\nPad w bok\nWykonuje si\u0119 z postawy stoj\u0105c, przez wykrok nog\u0105 np. lew\u0105 oraz wymach wyprostowanej\nnogi prawej w prz\u00f3d z jednoczesnym ugi\u0119ciem nogi wykrocznej w kolanie i przeniesieniem\nprawej r\u0119ki w prz\u00f3d na lew\u0105 stron\u0119 cia\u0142a. Pad na prawy bok amortyzuje si\u0119 przez siad\nna prawym po\u015bladku, a tak\u017ce silne i szybkie uderzenie praw\u0105 r\u0119k\u0105 o pod\u0142o\u017ce pod k\u0105tem\nok. 45\u00ba (w momencie kontaktu plec\u00f3w z pod\u0142o\u017cem); obie nogi nale\u017cy unie\u015b\u0107 w g\u00f3r\u0119, lewa\nr\u0119ka spoczywa na brzuchu, brod\u0119 nale\u017cy przyci\u0105gn\u0105\u0107 do klatki piersiowej. Pad wykonuje\nsi\u0119 na bok, nie na ca\u0142e plecy! Analogicznie wykonuje si\u0119 pad na lewy bok.\n4.\nPad w prz\u00f3d z przewrotem\nWykonuje si\u0119 z postawy stoj\u0105c, przez sk\u0142on tu\u0142owia w prz\u00f3d z jednoczesnym wykrokiem\nnogi prawej i uniesieniem prawej r\u0119ki, nast\u0119pnie praw\u0105 r\u0119k\u0119 nale\u017cy u\u0142o\u017cy\u0107 na pod\u0142o\u017cu,\nma\u0142ym palcem naprzeciw du\u017cego palucha prawej stopy. Lew\u0105 r\u0119k\u0119 oprze\u0107 na pod\u0142o\u017cu palcami\nku \u015brodkowi cia\u0142a. R\u0119ce ugi\u0105\u0107 w \u0142okciach, brod\u0119 przyci\u0105gn\u0105\u0107 do lewego barku i z tej\npozycji wykona\u0107 przetoczenie od prawego przedramienia przez prawy \u0142okie\u0107, bark, uko\u015bnie\nprzez plecy do lewego biodra, uderzaj\u0105c lew\u0105 r\u0119k\u0105 o pod\u0142o\u017ce pod k\u0105tem ok. 45\u00ba. Pad\nnale\u017cy zako\u0144czy\u0107 le\u017ceniem na lewym boku (tak jak przy padzie w bok - nogi nie powinny\nuderza\u0107 o siebie). Do postawy stoj\u0105cej nale\u017cy przej\u015b\u0107 przez odepchni\u0119cie lew\u0105 r\u0119k\u0105\nod pod\u0142o\u017ca i podkurczenie n\u00f3g. Analogicznie wykonuje si\u0119 pad przez lewy bark.\nZa\u0142\u0105cznik nr 2\n-\nTabele punktacji wynik\u00f3w testu sprawno\u015bci fizycznej\nTabela 1\nFunkcjonariusze m\u0119\u017cczy\u017ani\nLICZBA PUNKT\u00d3W\nSKOK W DAL cm\nBIEG KOPERTA s\nRZUT PI\u0141K\u0104 cm\nLICZBA PUNKT\u00d3W\nSKOK W DAL cm\nBIEG KOPERTA s\nRZUT PI\u0141K\u0104 cm\n1\n2\n3\n4\n1\n2\n3\n4\n80\n285\n20,0\n1300\n49\n223\n26,2\n835\n79\n283\n20,2\n1285\n48\n221\n26,4\n820\n78\n281\n20,4\n1270\n47\n219\n26,6\n805\n77\n279\n20,6\n1255\n46\n217\n26,8\n790\n76\n277\n20,8\n1240\n45\n215\n27,0\n775\n75\n275\n21,0\n1225\n44\n213\n27,2\n760\n74\n273\n21,2\n1210\n43\n211\n27,4\n745\n73\n271\n21,4\n1195\n42\n209\n27,6\n730\n72\n269\n21,6\n1180\n41\n207\n27,8\n715\n71\n267\n21,8\n1165\n40\n205\n28,0\n700\n70\n265\n22,0\n1150\n39\n203\n28,2\n685\n69\n263\n22,2\n1135\n38\n201\n28,4\n670\n68\n261\n22,4\n1120\n37\n199\n28,6\n655\n67\n259\n22,6\n1105\n36\n197\n28,8\n640\n66\n257\n22,8\n1090\n35\n195\n29,0\n625\n65\n255\n23,0\n1075\n34\n193\n29,2\n610\n64\n253\n23,2\n1060\n33\n191\n29,4\n595\n63\n251\n23,4\n1045\n32\n189\n29,6\n580\n62\n249\n23,6\n1030\n31\n187\n29,8\n565\n61\n247\n23,8\n1015\n30\n185\n30,0\n550\n60\n245\n24,0\n1000\n29\n183\n30,2\n535\n59\n243\n24,2\n985\n28\n181\n30,4\n520\n58\n241\n24,4\n970\n27\n179\n30,6\n505\n57\n239\n24,6\n955\n26\n177\n30,8\n490\n56\n237\n24,8\n940\n25\n175\n31,1\n475\n55\n235\n25,0\n925\n24\n173\n31,4\n460\n54\n233\n25,2\n910\n23\n171\n31,7\n445\n53\n231\n25,4\n895\n22\n169\n32,0\n430\n52\n229\n25,6\n880\n21\n167\n32,3\n415\n51\n227\n25,8\n865\n20\n165\n32,6\n400\n50\n225\n26,0\n850\nTabela 2\nFunkcjonariusze kobiety\nLICZBA PUNKT\u00d3W\nSKOK W DAL cm\nBIEG KOPERTA s\nRZUT PI\u0141K\u0104 cm\nLICZBA PUNKT\u00d3W\nSKOK W DAL cm\nBIEG KOPERTA s\nRZUT PI\u0141K\u0104 cm\n1\n2\n3\n4\n1\n2\n3\n4\n80\n225\n22,2\n890\n49\n163\n29,9\n580\n79\n223\n22,4\n880\n48\n161\n30,2\n570\n78\n221\n22,6\n870\n47\n159\n30,5\n560\n77\n219\n22,8\n860\n46\n157\n30,7\n550\n76\n217\n23,0\n850\n45\n155\n31,0\n540\n75\n215\n23,2\n840\n44\n153\n31,2\n530\n74\n213\n23,5\n830\n43\n151\n31,5\n520\n73\n211\n23,7\n820\n42\n149\n31,8\n510\n72\n209\n24,0\n810\n41\n147\n32,2\n500\n71\n207\n24,2\n800\n40\n145\n32,4\n490\n70\n205\n24,5\n790\n39\n143\n32,7\n480\n69\n203\n24,8\n780\n38\n141\n32,9\n470\n68\n201\n25,0\n770\n37\n139\n33,2\n460\n67\n199\n25,3\n760\n36\n137\n33,5\n450\n66\n197\n25,5\n750\n35\n135\n33,7\n440\n65\n195\n25,8\n740\n34\n133\n34,0\n430\n64\n193\n26,0\n730\n33\n131\n34,2\n420\n63\n191\n26,3\n720\n32\n129\n34,5\n410\n62\n189\n26,6\n710\n31\n127\n34,7\n400\n61\n187\n26,8\n700\n30\n125\n35,0\n390\n60\n185\n27,1\n690\n29\n123\n35,3\n380\n59\n183\n27,3\n680\n28\n121\n35,6\n370\n58\n181\n27,6\n670\n27\n117\n35,9\n360\n57\n179\n27,8\n660\n26\n114\n36,2\n350\n56\n177\n28,1\n650\n25\n111\n36,5\n340\n55\n175\n28,3\n640\n24\n108\n36,8\n330\n54\n173\n28,6\n630\n23\n105\n37,1\n320\n53\n171\n28,8\n620\n22\n102\n37,4\n310\n52\n169\n29,1\n610\n21\n99\n37,7\n300\n51\n167\n29,4\n600\n20\n96\n38,0\n290\n50\n165\n29,6\n590\nZa\u0142\u0105cznik nr 3\n-\nTabela przelicze\u0144 punkt\u00f3w uzyskanych w cz\u0119\u015bci i testu sprawno\u015bci fizycznej na oceny\nOCENY\nGRUPY WIEKOWE\nI\nII\nIII\nIV\nV\nVI\nVII\ndo 24 lat\n25-29 lat\n30-34 lat\n35-39 lat\n40-44 lat\n45-49 lat\n50 lat i powy\u017cej\nndst.\n140 i mniej\n135 i mniej\n125 i mniej\n109 i mniej\n97 i mniej\n82 i mniej\n68 i mniej\ndst.\n141-179\n136-174\n126-164\n110-154\n98-141\n83-131\n69-117\ndb.\n180-209\n175-204\n165-194\n155-184\n142-171\n132-161\n118-147\nbdb.\n210 i powy\u017cej\n205 i powy\u017cej\n195 i powy\u017cej\n185 i powy\u017cej\n172 i powy\u017cej\n162 i powy\u017cej\n148 i powy\u017cej"
+    },
+    "meta": {},
+    "created_at": "2026-10-25T22:01:58.741376Z",
+    "updated_at": "2026-10-25T22:01:58.741401Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": null,
+    "file_upload": 59,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-28T14:15:51.628631Z",
+  "updated_at": "2026-10-28T14:15:51.628662Z",
+  "draft_created_at": "2026-10-28T14:13:54.108594Z",
+  "lead_time": 128.504,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 5,
+  "updated_by": 1,
+  "parent_prediction": 58,
+  "parent_annotation": null,
+  "last_created_by": null
+}

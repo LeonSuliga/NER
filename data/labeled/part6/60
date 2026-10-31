@@ -1,0 +1,156 @@
+{
+  "id": 60,
+  "result": [
+    {
+      "value": {
+        "start": 160,
+        "end": 181,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7L7mwuXCsu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 182,
+        "end": 185,
+        "text": "564",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "fELNkWIlT_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 188,
+        "end": 192,
+        "text": "1081",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JIw7JQTpXx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 196,
+        "end": 200,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "U3AmJb9YKN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 201,
+        "end": 203,
+        "text": "73",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "O98HBW1cwd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 204,
+        "end": 208,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "1NXES54XCl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 209,
+        "end": 211,
+        "text": "1b",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Et9AVL1wsV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 66,
+    "data": {
+      "text": "Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o dokumentach publicznych\nTre\u015b\u0107 ustawy\nArt. 1.\nW ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych\n(Dz. U. z 2024 r. poz. 564 i 1081) w art. 73 ust. 1b otrzymuje brzmienie:\n\u201e1b.\nTermin okre\u015blony w komunikacie nie mo\u017ce by\u0107 p\u00f3\u017aniejszy ni\u017c dzie\u0144 1 pa\u017adziernika 2025 r.\u201d.\nArt. 2.\nUstawa wchodzi w \u017cycie z dniem nast\u0119puj\u0105cym po dniu og\u0142oszenia."
+    },
+    "meta": {},
+    "created_at": "2026-10-25T22:01:58.745474Z",
+    "updated_at": "2026-10-25T22:01:58.745487Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": null,
+    "file_upload": 67,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-28T16:20:18.679521Z",
+  "updated_at": "2026-10-28T16:20:18.679550Z",
+  "draft_created_at": "2026-10-28T16:20:14.126042Z",
+  "lead_time": 12.826,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 5,
+  "updated_by": 1,
+  "parent_prediction": 66,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,831 @@
+{
+  "id": 59,
+  "result": [
+    {
+      "value": {
+        "start": 325,
+        "end": 326,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "990NOhs2Mw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 327,
+        "end": 328,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "VjfRwaoYep",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 329,
+        "end": 333,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "a0hvONSnL9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 334,
+        "end": 335,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "qxLFdtFddi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 336,
+        "end": 339,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "zBMNTSEuyr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 340,
+        "end": 341,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "_me1ekmsoa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 479,
+        "end": 490,
+        "text": "Dz.\nU. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "yd7y5V0Muj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 491,
+        "end": 495,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "r8hLzq6kVu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1177,
+        "end": 1181,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ZTexwLD7EQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1182,
+        "end": 1184,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ig9RTSUuBz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1185,
+        "end": 1189,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "90VFG70KaU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1190,
+        "end": 1191,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "PmMI_YT1B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1291,
+        "end": 1312,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TPW8BwK6Dr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1313,
+        "end": 1317,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "XAGeY0gBTK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1530,
+        "end": 1541,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "tomGvtZ02P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1542,
+        "end": 1546,
+        "text": "1935",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RJbP3mvsxT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1756,
+        "end": 1767,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XhOVHRzC6g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1768,
+        "end": 1772,
+        "text": "1481",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PpzQ9L8nCw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1871,
+        "end": 1872,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "5a79yCmGYa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1873,
+        "end": 1874,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "Pv3ew5VIPt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2045,
+        "end": 2056,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7rkDuhb3uj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2057,
+        "end": 2061,
+        "text": "1481",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "zgDDJTsgUz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2501,
+        "end": 2502,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "-IefB3JPLm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2503,
+        "end": 2504,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "znPpFFxpz2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2505,
+        "end": 2509,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "l2nQb5toPG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2510,
+        "end": 2511,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1XTaFNjPdb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2512,
+        "end": 2515,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "XEWxpAb5mN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2516,
+        "end": 2517,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Rs776LOnnq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2655,
+        "end": 2666,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "N0IB3tSsGY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2667,
+        "end": 2671,
+        "text": "2726",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "v_g-lgosWV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2687,
+        "end": 2691,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "koQRy4zyY4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2692,
+        "end": 2695,
+        "text": "27a",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "GkwZQIry7L",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2696,
+        "end": 2700,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "WP51avV7_R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2701,
+        "end": 2702,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "eKYRfcwTEf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2758,
+        "end": 2779,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "LDDGtJZik3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2780,
+        "end": 2784,
+        "text": "1336",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RqXQuD_ekr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2786,
+        "end": 2790,
+        "text": "1688",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "_OWS-kaedh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2793,
+        "end": 2797,
+        "text": "1890",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "NssEes_uNf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3212,
+        "end": 3225,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WUjeBW6ZXs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3226,
+        "end": 3228,
+        "text": "39",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "HIrPyJi2ZO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3419,
+        "end": 3423,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TrnpZ0oZyO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3424,
+        "end": 3425,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "09cvvBn0oK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3573,
+        "end": 3574,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "wYyLeHDg6g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3575,
+        "end": 3576,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "JDwr1rRh1h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3659,
+        "end": 3660,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mjHyolxuUL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3661,
+        "end": 3662,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "t_hixf381W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3929,
+        "end": 3932,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "gvCkK00ikR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3933,
+        "end": 3934,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "n1VWjP-tAp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3935,
+        "end": 3939,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "WEbNa6g8wO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3940,
+        "end": 3941,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "WT22aTo1yy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4033,
+        "end": 4034,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "_9erTXMJuC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4035,
+        "end": 4036,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "GHBNggzcg1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 64,
+    "data": {
+      "text": "Obwieszczenie Ministra Klimatu i \u015arodowiska z dnia 24 czerwca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska\nw sprawie specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025) 1) Minister Klimatu i \u015arodowiska kieruje dzia\u0142em administracji rz\u0105dowej - \u015brodowisko,\nna podstawie \u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia\n2023 r. w sprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz.\nU. poz. 2726).\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 13 lipca 2022 r.\nw sprawie specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\nZa\u0142\u0105cznik nr 1 - Granica specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\nZa\u0142\u0105cznik nr 2 - Mapa specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\nZa\u0142\u0105cznik nr 3 - Siedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\nNad Husowem (PLH180025)\nZa\u0142\u0105cznik nr 4 - Gatunki zwierz\u0105t innych ni\u017c ptaki, b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze\nochrony siedlisk Nad Husowem (PLH180025)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 13 lipca 2022 r. w sprawie specjalnego\nobszaru ochrony siedlisk Nad Husowem (PLH180025)\n(Dz. U. poz. 1935), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Klimatu i \u015arodowiska z dnia 18 lipca 2023 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\n(Dz. U. poz. 1481).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 18 lipca 2023 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\n(Dz. U. poz. 1481), kt\u00f3ry stanowi:\n\u201e\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity rozporz\u0105dzenia Ministra Klimatu i \u015arodowiska z dnia 13 lipca 2022 r.\nw sprawie specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025) 1) Na dzie\u0144 og\u0142oszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej dzia\u0142em\nadministracji rz\u0105dowej - \u015brodowisko kieruje Minister Klimatu i \u015arodowiska, na podstawie\n\u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 19 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Klimatu i \u015arodowiska (Dz. U. poz.\n2726).\nNa podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody\n(Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\n1.\nWyznacza si\u0119 specjalny obszar ochrony siedlisk Nad Husowem (PLH180025 2) Kod obszaru zosta\u0142 okre\u015blony zgodnie z decyzj\u0105 wykonawcz\u0105 Komisji (UE) 2022/231 z\ndnia 16 lutego 2022 r. w sprawie przyj\u0119cia pi\u0119tnastego zaktualizowanego wykazu teren\u00f3w\nmaj\u0105cych znaczenie dla Wsp\u00f3lnoty sk\u0142adaj\u0105cych si\u0119 na kontynentalny region biogeograficzny\n(notyfikowan\u0105 jako dokument nr C(2022) 854) (Dz. Urz. UE L 39 z 21.02.2022, str. 14).), obejmuj\u0105cy obszar 3349,42 ha, po\u0142o\u017cony w wojew\u00f3dztwie podkarpackim, sk\u0142adaj\u0105cy\nsi\u0119 z czterech powi\u0105zanych funkcjonalnie enklaw.\n2.\nGranica obszaru, o kt\u00f3rym mowa w ust. 1, w postaci wykazu wsp\u00f3\u0142rz\u0119dnych punkt\u00f3w za\u0142amania\ngranicy, jest okre\u015b lona w za\u0142\u0105czniku nr 1 do rozporz\u0105dzenia.\n\u00a7 2.\nMapa obszaru, o kt\u00f3rym mowa w \u00a7 1, jest okre\u015blona w za\u0142\u0105czniku nr 2 do rozporz\u0105dzenia.\n\u00a7 3.\nObszar, o kt\u00f3rym mowa w \u00a7 1, wyznacza si\u0119 w celu:\n1)\ntrwa\u0142ej ochrony:\na)\nsiedlisk przyrodniczych,\nb)\npopulacji zagro\u017conych wygini\u0119ciem gatunk\u00f3w zwierz\u0105t innych ni\u017c ptaki lub\n2)\nodtworzenia w\u0142a\u015bciwego stanu ochrony siedlisk przyrodniczych lub w\u0142a\u015bciwego stanu\nochrony gatunk\u00f3w, o kt\u00f3rych mowa w pkt 1 lit. b\n- w stosunku do przedmiot\u00f3w ochrony.\n\u00a7 4.\nPrzedmiotem ochrony na obszarze, o kt\u00f3rym mowa w \u00a7 1, s\u0105:\n1)\nsiedliska przyrodnicze okre\u015blone w za\u0142\u0105czniku nr 3 do rozporz\u0105dzenia;\n2)\ngatunki zwierz\u0105t innych ni\u017c ptaki, okre\u015blone w za\u0142\u0105czniku nr 4 do rozporz\u0105dzenia,\noraz ich siedliska.\n\u00a7 5.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia 3) Rozporz\u0105dzenie zosta\u0142o og\u0142oszone w dniu 13 wrze\u015bnia 2022 r..\nZa\u0142\u0105cznik nr 1\n-\nGranica specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 2\n-\nMapa specjalnego obszaru ochrony siedlisk Nad Husowem (PLH180025)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 3\n-\nSiedliska przyrodnicze b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze ochrony siedlisk\nNad Husowem (PLH180025)\npatrz orygina\u0142\nZa\u0142\u0105cznik nr 4\n-\nGatunki zwierz\u0105t innych ni\u017c ptaki, b\u0119d\u0105ce przedmiotem ochrony na specjalnym obszarze\nochrony siedlisk Nad Husowem (PLH180025)\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-25T22:01:58.743482Z",
+    "updated_at": "2026-10-25T22:01:58.743491Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": null,
+    "file_upload": 65,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-28T16:19:29.185081Z",
+  "updated_at": "2026-10-28T16:19:29.185122Z",
+  "draft_created_at": "2026-10-28T16:18:57.575790Z",
+  "lead_time": 48.908,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 5,
+  "updated_by": 1,
+  "parent_prediction": 64,
+  "parent_annotation": null,
+  "last_created_by": null
+}

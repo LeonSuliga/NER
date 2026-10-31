@@ -1,0 +1,486 @@
+{
+  "id": 103,
+  "result": [
+    {
+      "value": {
+        "start": 459,
+        "end": 463,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ov9hn9Ehco",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 464,
+        "end": 466,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "5YuJjEBGnp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 467,
+        "end": 471,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qDPlsYgF-6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 472,
+        "end": 473,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "oEP4neNSXC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 573,
+        "end": 594,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "1cNTJaNiVi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 595,
+        "end": 599,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "uz0RrjI1ae",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 802,
+        "end": 813,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "kDDmvA2RVi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 814,
+        "end": 817,
+        "text": "967",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "cYdDEPVLjJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1019,
+        "end": 1030,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "28vFTSFIvH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1031,
+        "end": 1035,
+        "text": "2511",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "7bybiEBw7T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1134,
+        "end": 1135,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Fh8VIkBKRw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1136,
+        "end": 1137,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "wpv7dcHTuP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1140,
+        "end": 1141,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "3pZbbng6B_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1142,
+        "end": 1143,
+        "text": "3",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "5-if_2BeVM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1306,
+        "end": 1317,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "QUqufJsz6X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1318,
+        "end": 1322,
+        "text": "2511",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LC8nLLAx7O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1532,
+        "end": 1533,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "kpT48Fcgk9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1534,
+        "end": 1535,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "q7eZUf3EPW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1854,
+        "end": 1858,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "BZtFeNqbcI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1859,
+        "end": 1861,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "plO3BI31jt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1862,
+        "end": 1866,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lsaGHY0w5_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1867,
+        "end": 1868,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ZR_kQgFqsE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1924,
+        "end": 1945,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EbWYdqSt1X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1946,
+        "end": 1950,
+        "text": "1683",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "oquyznSDI8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1953,
+        "end": 1957,
+        "text": "1860",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "oBivmPwCIy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3287,
+        "end": 3288,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "-jb8izUMfc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3289,
+        "end": 3290,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "NXNkjuEDbX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3453,
+        "end": 3464,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_eioZQ6FaX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3465,
+        "end": 3469,
+        "text": "2511",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "I8aqYZv86d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " wronka.agata04@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "wronka.agata04@gmail.com"
+  },
+  "task": {
+    "id": 104,
+    "data": {
+      "text": "Obwieszczenie Ministra Sprawiedliwo\u015bci z dnia 1 czerwca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci w\nsprawie sztandaru jednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 4 sierpnia 2010 r. w sprawie sztandaru\njednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\nZa\u0142\u0105cznik - Akt nadania sztandaru (wz\u00f3r)\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych\ninnych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 4 sierpnia 2010 r. w sprawie sztandaru\njednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 967), z uwzgl\u0119dnieniem zmiany wprowadzonej rozporz\u0105dzeniem Ministra Sprawiedliwo\u015bci z dnia 25 listopada 2022 r. zmieniaj\u0105cym\nrozporz\u0105dzenie w sprawie sztandaru jednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 2511).\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity rozporz\u0105dzenia nie\nobejmuje \u00a7 2 i \u00a7 3 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 25 listopada 2022 r. zmieniaj\u0105cego\nrozporz\u0105dzenie w sprawie sztandaru jednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\n(Dz. U. poz. 2511), kt\u00f3re stanowi\u0105:\n\u201e\u00a7 2.\nSztandary nadane jednostkom organizacyjnym S\u0142u\u017cby Wi\u0119ziennej przed dniem wej\u015bcia w\n\u017cycie niniejszego rozporz\u0105dzenia dostosowuje si\u0119 do wymog\u00f3w okre\u015blonych w rozporz\u0105dzeniu\nzmienianym w \u00a7 1, w brzmieniu nadanym niniejszym rozporz\u0105dzeniem, w terminie do dnia\n15 czerwca 2023 r.\n\u00a7 3.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nRozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 4 sierpnia 2010 r. w sprawie sztandaru\njednostek organizacyjnych S\u0142u\u017cby Wi\u0119ziennej\nNa podstawie art. 16 ust. 4 ustawy z dnia 9 kwietnia 2010 r. o S\u0142u\u017cbie Wi\u0119ziennej\n(Dz. U. z 2023 r. poz. 1683 i 1860) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nRozporz\u0105dzenie okre\u015bla:\n1)\nwymagania dotycz\u0105ce sztandaru;\n2)\nwz\u00f3r aktu nadania sztandaru;\n3)\ntryb i warunki nadania sztandaru;\n4)\nspos\u00f3b przechowywania i ewidencjonowania sztandar\u00f3w;\n5)\nspos\u00f3b przekazywania sztandar\u00f3w w przypadku likwidacji jednostki organizacyjnej S\u0142u\u017cby\nWi\u0119ziennej, zwanej dalej \u201ejednostk\u0105 organizacyjn\u0105\u201d, albo ponownego nadania sztandaru.\n\u00a7 2.\nSztandar jednostki organizacyjnej sk\u0142ada si\u0119 z p\u0142ata, g\u0142owicy, drzewca i szarfy.\n\u00a7 3.\n1.\nP\u0142atem sztandaru jest tkanina o kszta\u0142cie kwadratu o boku d\u0142ugo\u015bci 100 cm, barwy czerwonej\npo stronie g\u0142\u00f3wnej, a barwy szafirowej po stronie odwrotnej. Jeden bok p\u0142ata jest\nwszyty w sk\u00f3r\u0119 przymocowan\u0105 do drzewca gwo\u017adziami po ka\u017cdej stronie p\u0142ata. Boki p\u0142ata,\nz wyj\u0105tkiem boku przytwierdzonego do drzewca, s\u0105 obszyte srebrn\u0105 fr\u0119dzl\u0105 o szeroko\u015bci\n7 lub 9 cm.\n2.\nNa stronie g\u0142\u00f3wnej p\u0142ata sztandaru znajduje si\u0119 umieszczony centralnie wizerunek or\u0142a\nbia\u0142ego o wymiarach 48 x 44 cm, ustalony dla god\u0142a Rzeczypospolitej Polskiej, haftowany\nwypuk\u0142ym srebrnym szychem, a korona, dzi\u00f3b i szpony - haftowane z\u0142otym szychem. Dooko\u0142a\nor\u0142a s\u0105 umieszczone haftowane srebrnym szychem napisy. Nad god\u0142em jest umieszczony\nnapis \u201eS\u0141U\u017bBA WI\u0118ZIENNA\u201d, pod god\u0142em jest umieszczony napis \u201eW S\u0141U\u017bBIE RZECZYPOSPOLITEJ\u201d.\nLitery maj\u0105 wysoko\u015b\u0107 5 cm.\n2a 1) Dodany przez \u00a7 1 rozporz\u0105dzenia Ministra Sprawiedliwo\u015bci z dnia 25 listopada 2022 r.\nzmieniaj\u0105cego rozporz\u0105dzenie w sprawie sztandaru jednostek organizacyjnych S\u0142u\u017cby\nWi\u0119ziennej (Dz. U. poz. 2511), kt\u00f3re wesz\u0142o w \u017cycie z dniem 21 grudnia 2022 r..\nNa stronie g\u0142\u00f3wnej p\u0142ata sztandaru, pomi\u0119dzy god\u0142em a napisem \u201eW S\u0141U\u017bBIE RZECZYPOSPOLITEJ\u201d,\numieszczony jest haftowany z\u0142otym sztychem napis \u201eB\u00d3G HONOR OJCZYZNA\u201d. Litery maj\u0105\nwysoko\u015b\u0107 3 cm.\n3.\nNa stronie odwrotnej p\u0142ata znajduj\u0105 si\u0119 umieszczone centralnie haftowane szychem znak\ngraficzny S\u0142u\u017cby Wi\u0119ziennej lub oznaka S\u0142u\u017cby Wi\u0119ziennej albo symboliczny znak nawi\u0105zuj\u0105cy\ndo tradycji S\u0142u\u017cby Wi\u0119ziennej lub jednostki organizacyjnej oraz nazwa jednostki organizacyjnej.\nLitery nazwy jednostki organizacyjnej s\u0105 dostosowane odpowiednio wielko\u015bci\u0105 i wysoko\u015bci\u0105\ndo d\u0142ugo\u015bci nazwy w\u0142asnej tej jednostki.\n\u00a7 4.\n1.\nG\u0142owica sztandaru, wykonana z bia\u0142ego metalu, sk\u0142ada si\u0119 z wizerunku or\u0142a ustalonego\ndla god\u0142a Rzeczypospolitej Polskiej, podstawy oraz tulei mocuj\u0105cej g\u0142owic\u0119 do drzewca.\n2.\nWewn\u0105trz podstawy g\u0142owicy mo\u017ce by\u0107 umieszczony zminiaturyzowany akt nadania sztandaru\njednostki organizacyjnej.\n\u00a7 5.\n1.\nDrzewce sztandaru o \u015brednicy 4 cm i d\u0142ugo\u015bci 255 cm jest wykonane z drewna toczonego.\nDrzewce jest dwudzielne, po\u0142\u0105czone tulej\u0105 z bia\u0142ego metalu. Na g\u00f3rnym ko\u0144cu drzewca\njest osadzona g\u0142owica, na dolnym - sto\u017ckowe okucie z bia\u0142ego metalu. W g\u00f3rnej cz\u0119\u015bci\ndrzewca pod g\u0142owic\u0105 znajduje si\u0119 jedena\u015bcie k\u00f3\u0142ek umieszczonych co 10 cm, odpowiadaj\u0105cych\nk\u00f3\u0142kom umocowanym na brzegu p\u0142ata sztandaru nieobszytym fr\u0119dzl\u0105, kt\u00f3re spina si\u0119 za\npomoc\u0105 pr\u0119ta.\n2.\nNa drzewcu umieszcza si\u0119 gwo\u017adzie honorowe w dniu wr\u0119czenia sztandaru, kt\u00f3re w szczeg\u00f3lno\u015bci\nmog\u0105 zawiera\u0107 napisy wskazuj\u0105ce fundator\u00f3w sztandaru.\n3.\nNa drzewcu mog\u0105 by\u0107 umieszczane gwo\u017adzie pami\u0105tkowe. Gwo\u017adzie pami\u0105tkowe mog\u0105 zawiera\u0107\nnapisy z datami i wydarzeniami odnosz\u0105cymi si\u0119 do historii jednostki organizacyjnej\noraz napisy upami\u0119tniaj\u0105ce inne wa\u017cne wydarzenia.\n\u00a7 6.\nSzarfa w kolorach bia\u0142ym i czerwonym, ustalonych dla barw Rzeczypospolitej Polskiej,\no szeroko\u015bci 15 cm, jest zawi\u0105zana w kokard\u0119 i umieszczona na tulei g\u0142owicy. Jej oba\nko\u0144ce dochodz\u0105 do dolnego brzegu p\u0142ata i s\u0105 zako\u0144czone fr\u0119dzl\u0105 tak\u0105 jak p\u0142at sztandaru.\n\u00a7 7.\n1.\nBarwny projekt sztandaru w skali 1:3, wraz z opisem i uzasadnieniem proponowanych\nsymboli, liter i cyfr, a tak\u017ce z wykazem gwo\u017adzi honorowych i pami\u0105tkowych wraz z\ntre\u015bci\u0105 napis\u00f3w na nich zamieszczonych, kierownik jednostki organizacyjnej przedstawia\ndrog\u0105 s\u0142u\u017cbow\u0105 Ministrowi Sprawiedliwo\u015bci do zatwierdzenia.\n2.\nProjekt sztandaru jest przechowywany w archiwum Centralnego Zarz\u0105du S\u0142u\u017cby Wi\u0119ziennej.\n\u00a7 8.\nW przypadku ufundowania sztandaru w akcie nadania sztandaru wymienia si\u0119 fundatora.\n\u00a7 9.\n1.\nSztandar wraz z aktem nadania sztandaru wr\u0119cza jednostce organizacyjnej Minister Sprawiedliwo\u015bci\nlub w jego imieniu Dyrektor Generalny S\u0142u\u017cby Wi\u0119ziennej albo inna upowa\u017cniona osoba.\n2.\nWr\u0119czenie sztandaru odbywa si\u0119 w formie uroczystej, okre\u015blonej w ceremoniale S\u0142u\u017cby\nWi\u0119ziennej.\n3.\nWz\u00f3r aktu nadania sztandaru okre\u015bla za\u0142\u0105cznik do rozporz\u0105dzenia.\n\u00a7 10.\n1.\nW czasie wr\u0119czania sztandaru wbija si\u0119 w drzewce sztandaru gwo\u017adzie honorowe; mog\u0105\nby\u0107 tak\u017ce wbijane gwo\u017adzie pami\u0105tkowe.\n2.\nWbijanie gwo\u017adzi honorowych i pami\u0105tkowych odbywa si\u0119 w formie uroczystej, okre\u015blonej\nw ceremoniale S\u0142u\u017cby Wi\u0119ziennej.\n\u00a7 11.\nSztandar znajduje si\u0119 na sta\u0142e w jednostce organizacyjnej, kt\u00f3rej zosta\u0142 nadany. Przechowywany\njest w miejscu zapewniaj\u0105cym jego ochron\u0119 przed utrat\u0105 i zniszczeniem oraz jego nale\u017cyte\nuhonorowanie.\n\u00a7 12.\n1.\nEwidencj\u0119 sztandar\u00f3w nadanych jednostkom organizacyjnym prowadzi Centralny Zarz\u0105d\nS\u0142u\u017cby Wi\u0119ziennej.\n2.\nW ewidencji sztandar\u00f3w uwzgl\u0119dnia si\u0119 w szczeg\u00f3lno\u015bci:\n1)\npe\u0142n\u0105 nazw\u0119 jednostki organizacyjnej;\n2)\noznaczenie fundatora sztandaru;\n3)\ndat\u0119 i miejsce wr\u0119czenia sztandaru;\n4)\nimi\u0119 i nazwisko osoby wr\u0119czaj\u0105cej i przyjmuj\u0105cej sztandar, stanowisko s\u0142u\u017cbowe;\n5)\ndat\u0119 zdania sztandaru do archiwum i numer protoko\u0142u.\n\u00a7 13.\n1.\nW przypadku likwidacji jednostki organizacyjnej lub ponownego nadania jej sztandaru\nkierownik jednostki organizacyjnej przekazuje dotychczasowy sztandar wraz z jego aktem\nnadania do Centralnego Zarz\u0105du S\u0142u\u017cby Wi\u0119ziennej.\n2.\nZ przekazania sztandaru sporz\u0105dza si\u0119 protok\u00f3\u0142, kt\u00f3rego jeden egzemplarz pozostaje\nw jednostce organizacyjnej, a drugi egzemplarz przekazuje si\u0119 do Centralnego Zarz\u0105du\nS\u0142u\u017cby Wi\u0119ziennej.\n3.\nProtok\u00f3\u0142 zawiera opis sztandaru, jego ewentualnych uszkodze\u0144, wzmiank\u0119 o przekazaniu\naktu nadania i wr\u0119czenia sztandaru oraz podpisy osoby przekazuj\u0105cej i przyjmuj\u0105cej.\nDo protoko\u0142u do\u0142\u0105cza si\u0119 zarys dziej\u00f3w sztandaru.\n4.\nDotychczasowy sztandar, za zezwoleniem Dyrektora Generalnego S\u0142u\u017cby Wi\u0119ziennej, mo\u017ce\nby\u0107 wypo\u017cyczony jednostce organizacyjnej lub innej instytucji.\n5.\nPrzekazanie sztandaru odbywa si\u0119 w formie uroczystej, okre\u015blonej w ceremoniale S\u0142u\u017cby\nWi\u0119ziennej.\n\u00a7 14.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 13 sierpnia 2010 r.\nZa\u0142\u0105cznik\n-\nAkt nadania sztandaru (wz\u00f3r)\npatrz orygina\u0142"
+    },
+    "meta": {},
+    "created_at": "2026-10-31T18:02:56.020421Z",
+    "updated_at": "2026-10-31T18:02:56.020444Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 6,
+    "updated_by": null,
+    "file_upload": 105,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-10-31T18:41:44.196874Z",
+  "updated_at": "2026-10-31T18:41:44.196914Z",
+  "draft_created_at": "2026-10-31T18:40:56.504659Z",
+  "lead_time": 71.044,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 6,
+  "updated_by": 1,
+  "parent_prediction": 104,
+  "parent_annotation": null,
+  "last_created_by": null
+}
