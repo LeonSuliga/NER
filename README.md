@@ -9,7 +9,8 @@ Trains and compares NER models for legal citations in Polish legal acts, using h
 ├── data/
 │   ├── raw/                  # Legal act HTML downloaded from the Sejm API (source documents)
 │   ├── processed/            # Cleaned plain-text versions of the raw documents
-│   ├── labeled/              # Hand-labeled Label Studio exports (the training data)
+│   ├── labeled/              # Hand-labeled Label Studio exports (the training data), one folder per part;
+│   │                         #   a part's after_check/ replaces its top-level files, to_check/ is ignored
 │   ├── ner_dataset.json      # Labels converted to project span format
 │   ├── train_bio.json        # Labels converted to token-level BIO tags
 │   └── spacy/                # train/dev/test DocBins shared by all models
@@ -17,8 +18,9 @@ Trains and compares NER models for legal citations in Polish legal acts, using h
 │   ├── audit_annotations.py      # Report label stats and annotation problems
 │   ├── deduplicate_spans.py      # Remove duplicate spans
 │   ├── find_exact_overlaps.py    # List overlapping spans
-│   └── clean_bad_lit_vals.py     # Remove overlapping LIT_VAL spans in files 5, 6, 38
+│   └── clean_bad_lit_vals.py     # Remove LIT_VAL spans that overlap another span
 ├── data_prep/                # Labeled files -> training data
+│   ├── labeled_files.py          # Which files in data/labeled/part*/ are the current labels
 │   ├── labelstudio_to_project.py # data/labeled/   -> data/ner_dataset.json
 │   ├── convert_dataset.py        # ner_dataset.json -> train_bio.json
 │   └── convert_to_spacy.py       # train_bio.json  -> data/spacy/{train,dev,test}.spacy

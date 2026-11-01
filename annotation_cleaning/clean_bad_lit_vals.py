@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Remove overlapping LIT_VAL spans from specific Label Studio files."""
+"""Remove LIT_VAL spans that overlap another span (e.g. 'pkt' tagged as both PKT_KEY and LIT_VAL)."""
 
 import json
+import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-LABELED_DIR = PROJECT_ROOT / "data" / "labeled"
-TARGET_FILES = {"5", "6", "38"}
+sys.path.insert(0, str(PROJECT_ROOT / "data_prep"))
+from labeled_files import display_name, iter_labeled_files  # noqa: E402
 
 
 def extract_span_entry(result):
@@ -52,10 +53,13 @@ def clean_file(path: Path):
         for j in range(i + 1, len(entries)):
             b = entries[j]
             if a["start"] < b["end"] and b["start"] < a["end"]:
-                if a["label"] == "LIT_VAL" or b["label"] == "LIT_VAL":
-                    to_remove.add(a["idx"])
-                    to_remove.add(b["idx"])
+                # drop only the LIT_VAL side; the span it collides with is the correct one
+                for bad in (a, b):
+                    if bad["label"] == "LIT_VAL":
+                        to_remove.add(bad["idx"])
 
+    if not to_remove:
+        return 0
     kept = []
     removed = 0
     for idx, result in enumerate(results):
@@ -73,14 +77,11 @@ def clean_file(path: Path):
 
 def main():
     total_removed = 0
-    for name in sorted(TARGET_FILES):
-        path = LABELED_DIR / name
-        if not path.exists():
-            print(f"MISSING: {path}")
-            continue
+    for path in iter_labeled_files():
         removed = clean_file(path)
         total_removed += removed
-        print(f"{path.name}: removed {removed} overlapping LIT_VAL spans")
+        if removed:
+            print(f"{display_name(path)}: removed {removed} overlapping LIT_VAL spans")
     print(f"Total removed: {total_removed}")
     print("Done. Run: python .\\annotation_cleaning\\audit_annotations.py --root . --only-labeled")
 
