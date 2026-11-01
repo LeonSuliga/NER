@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
-"""Remove duplicate Label Studio spans from files in data/labeled/."""
+"""Remove duplicate Label Studio spans from files in data/labeled/part*/."""
 
 import json
+import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-LABELED_DIR = PROJECT_ROOT / "data" / "labeled"
-
-
-def iter_labeled_files():
-    if not LABELED_DIR.exists():
-        return []
-    return sorted([p for p in LABELED_DIR.iterdir() if p.is_file() and p.name not in {".DS_Store"}], key=lambda p: p.name)
+sys.path.insert(0, str(PROJECT_ROOT / "data_prep"))
+from labeled_files import display_name, iter_labeled_files  # noqa: E402
 
 
 def deduplicate_results(obj):
@@ -53,6 +49,8 @@ def process_file(path: Path):
         obj = json.load(fh)
 
     cleaned, removed = deduplicate_results(obj)
+    if not removed:
+        return 0
 
     with path.open("w", encoding="utf-8") as fh:
         json.dump(cleaned, fh, ensure_ascii=False, indent=2)
@@ -62,9 +60,9 @@ def process_file(path: Path):
 
 
 def main():
-    files = iter_labeled_files()
+    files = list(iter_labeled_files())
     if not files:
-        print("No labeled files found in data/labeled/")
+        print("No labeled files found in data/labeled/part*/")
         return
 
     total_removed = 0
@@ -72,7 +70,7 @@ def main():
     for path in files:
         removed = process_file(path)
         total_removed += removed
-        print(f"{path.name}: removed {removed} duplicate spans")
+        print(f"{display_name(path)}: removed {removed} duplicate spans")
 
     print(f"Total duplicate spans removed: {total_removed}")
     print("Done.")

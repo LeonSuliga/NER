@@ -1,0 +1,133 @@
+{
+  "id": 37,
+  "result": [
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 226,
+        "end": 230,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 231,
+        "end": 233,
+        "text": "35",
+        "labels": [
+          "ART_VAL"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 234,
+        "end": 235,
+        "text": "§",
+        "labels": [
+          "PAR_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 236,
+        "end": 237,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 296,
+        "end": 317,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 318,
+        "end": 321,
+        "text": "390",
+        "labels": [
+          "PUB_VAL"
+        ]
+      }
+    }
+  ],
+  "created_username": " leon.suliga@gmail.com, 1",
+  "created_ago": "15 minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "leon.suliga@gmail.com"
+  },
+  "task": {
+    "id": 37,
+    "data": {
+      "text": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 grudnia 2024 r. w sprawie utworzenia Wydziałów do spraw Wojskowych w Prokuraturze Okręgowej w Olsztynie\ni w Prokuraturze Okręgowej w Lublinie\nTreść rozporządzenia\nNa podstawie art. 35 § 2 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze\n(Dz. U. z 2024 r. poz. 390) zarządza się, co następuje:\n§ 1.\nTworzy się następujące komórki organizacyjne do spraw wojskowych w prokuraturach okręgowych\ni ustala się ich siedziby:\n1)\nWydział do spraw Wojskowych w Prokuraturze Okręgowej w Olsztynie z siedzibą w Olsztynie;\n2)\nWydział do spraw Wojskowych w Prokuraturze Okręgowej w Lublinie z siedzibą w Lublinie.\n§ 2.\nRozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r."
+    },
+    "meta": {},
+    "created_at": "2026-10-25T12:44:06.521579Z",
+    "updated_at": "2026-11-01T10:35:36.556250Z",
+    "is_labeled": true,
+    "allow_skip": null,
+    "overlap": 1,
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 1,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": [
+      {
+        "user_id": 1
+      }
+    ],
+    "file_upload": "5b422d31-DU_2024_1893.json",
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2026-11-01T10:35:36.504441Z",
+  "updated_at": "2026-11-01T10:35:36.504458Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

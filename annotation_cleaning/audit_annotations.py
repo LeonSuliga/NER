@@ -25,9 +25,13 @@ def discover_candidate_files(root: str, only_labeled: bool = False):
         if not os.path.exists(base):
             continue
         for dirpath, dirnames, filenames in os.walk(base):
+            # a part with after_check/ (re-checked labels) is audited from there, not its own files;
+            # to_check/ only holds copies prepared for re-import
+            if "after_check" in dirnames:
+                filenames = []
             dirnames[:] = [
                 d for d in dirnames
-                if d not in {".git", ".idea", ".venv", "__pycache__"}
+                if d not in {".git", ".idea", ".venv", "__pycache__", "to_check"}
                 and (not only_labeled or d.lower() == "labeled" or d.lower() not in RAW_DIR_NAMES)
             ]
             for filename in filenames:
@@ -401,11 +405,12 @@ def _aggregate_labelstudio_docs(docs):
     offset_validation_skipped = 0
 
     for idx, (text, spans, source) in enumerate(docs):
-        for span in spans:
-            label = str(span.get("label", "")).strip()
-            if label:
-                label_counts[label] += 1
         if not text:
+            # compute_span_stats is skipped for these, so count their labels here
+            for span in spans:
+                label = str(span.get("label", "")).strip()
+                if label:
+                    label_counts[label] += 1
             missing_text_docs += 1
             offset_validation_skipped += 1
             continue

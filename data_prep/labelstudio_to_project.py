@@ -2,10 +2,9 @@
 """Convert cleaned Label Studio exports in data/labeled/ into project-native span format."""
 
 import json
-from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-LABELED_DIR = PROJECT_ROOT / "data" / "labeled"
+from labeled_files import PROJECT_ROOT, display_name, iter_labeled_files
+
 OUTPUT_PATH = PROJECT_ROOT / "data" / "ner_dataset.json"
 
 
@@ -64,12 +63,9 @@ def extract_spans(task):
 
 
 def main():
-    files = sorted(LABELED_DIR.iterdir(), key=lambda p: p.name)
     samples = []
 
-    for path in files:
-        if not path.is_file():
-            continue
+    for path in iter_labeled_files():
         try:
             with path.open("r", encoding="utf-8") as fh:
                 obj = json.load(fh)
@@ -83,7 +79,7 @@ def main():
         sample = {
             "text": text,
             "spans": spans,
-            "meta": {"source_file": path.name},
+            "meta": {"source_file": display_name(path)},
         }
         samples.append(sample)
 
