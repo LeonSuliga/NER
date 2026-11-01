@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+part_number = 5
 
 def transform_exact_format_for_label_studio(file_input):
     """
@@ -8,7 +9,7 @@ def transform_exact_format_for_label_studio(file_input):
     do formatu bezpośrednio akceptowanego przez mechanizm importu Label Studio.
     """
     # Główna ścieżka do pliku w folderze data/labeled/part3/
-    base_dir = Path("data/labeled/part3")
+    base_dir = Path(f"data/labeled/part{part_number}/")
     path = base_dir / str(file_input)
 
     # Obsługa pliku bez rozszerzenia lub z rozszerzeniem w docelowym folderze
@@ -86,6 +87,6 @@ def transform_exact_format_for_label_studio(file_input):
 
 
 if __name__ == "__main__":
-    for i in range(1, 50):
+    for i in range(1, 150):
         name = str(i)
         transform_exact_format_for_label_studio(name)
