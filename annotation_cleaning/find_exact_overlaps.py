@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Print exact overlapping span pairs for the known problematic Label Studio files."""
+"""Print exact overlapping span pairs in the labeled Label Studio files."""
 
 import json
+import sys
 from pathlib import Path
 
-TARGETS = list(range(1, 49))
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(PROJECT_ROOT / "data_prep"))
+from labeled_files import display_name, iter_labeled_files  # noqa: E402
 
 
 def load_doc(path: Path):
@@ -43,12 +45,7 @@ def find_overlaps(spans):
 total_overlap_files = 0
 total_overlap_pairs = 0
 
-for idx in TARGETS:
-    path = PROJECT_ROOT / "data" / "labeled" / str(idx)
-    if not path.exists():
-        print(f"MISSING: {path}")
-        continue
-
+for path in iter_labeled_files():
     task = load_doc(path)
     text = task.get("task", {}).get("data", {}).get("text")
     if text is None:
@@ -56,7 +53,7 @@ for idx in TARGETS:
     spans = extract_spans(task)
     overlaps = find_overlaps(spans)
 
-    print(f"\n=== FILE: {path} ===")
+    print(f"\n=== FILE: {display_name(path)} ===")
     print(f"Document text length: {len(text) if text is not None else 'N/A'}")
     print(f"Total spans: {len(spans)}")
     print(f"Overlap pairs: {len(overlaps)}")
