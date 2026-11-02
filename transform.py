@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-part_number = 5
+part_number = 1
 
 def transform_exact_format_for_label_studio(file_input):
     """
