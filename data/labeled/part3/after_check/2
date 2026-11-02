@@ -12663,21 +12663,6 @@
     },
     {
       "value": {
-        "start": 137558,
-        "end": 137559,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "RedL5iYpro",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 137560,
         "end": 137561,
         "text": "b",
@@ -12776,21 +12761,6 @@
         ]
       },
       "id": "fy0ZbjrdFQ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 137628,
-        "end": 137629,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "IEOIRsp7yI",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -15180,10 +15150,25 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 78025,
+        "end": 78026,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "sjoyl7q-wn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "16\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -15197,7 +15182,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.483822Z",
-    "updated_at": "2026-10-28T16:04:52.483822Z",
+    "updated_at": "2026-10-28T16:21:27.526109Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -15217,14 +15202,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.583619Z",
-  "updated_at": "2026-10-28T16:04:52.583619Z",
+  "updated_at": "2026-10-28T16:21:27.583697Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 288.126,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

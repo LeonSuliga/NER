@@ -1143,36 +1143,6 @@
     },
     {
       "value": {
-        "start": 4081,
-        "end": 4084,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "RljGMFjfgZ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 4081,
-        "end": 4084,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "9o0d0Zo5rT",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 4085,
         "end": 4087,
         "text": "10",
@@ -2208,36 +2178,6 @@
     },
     {
       "value": {
-        "start": 5362,
-        "end": 5365,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "MNNhpkLbsU",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 5362,
-        "end": 5365,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "4eJwnNbhEJ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 5366,
         "end": 5368,
         "text": "38",
@@ -3041,36 +2981,6 @@
         ]
       },
       "id": "wiEJaHVzOf",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 5665,
-        "end": 5668,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "VHvlzPrYLa",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 5665,
-        "end": 5668,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "R1lpZKp5GA",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -4001,36 +3911,6 @@
         ]
       },
       "id": "NgaB3wHyBP",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 5921,
-        "end": 5924,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "647b-dEt30",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 5921,
-        "end": 5924,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "8GsMwHTKeR",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -14208,36 +14088,6 @@
     },
     {
       "value": {
-        "start": 92336,
-        "end": 92340,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "Rp2HjQvZc4",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 92341,
-        "end": 92344,
-        "text": "28h",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "YBOiVB68MA",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 92378,
         "end": 92382,
         "text": "art.",
@@ -18405,10 +18255,55 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 4081,
+        "end": 4084,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "lQGp0vdwdq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5362,
+        "end": 5365,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "CSGcfSfsZt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5921,
+        "end": 5924,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "v9P0iClyUs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "1\u00a0day, 5\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -18422,7 +18317,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.485822Z",
-    "updated_at": "2026-10-28T16:04:52.485822Z",
+    "updated_at": "2026-10-29T21:51:08.774045Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -18442,14 +18337,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.596526Z",
-  "updated_at": "2026-10-28T16:04:52.596526Z",
+  "updated_at": "2026-10-29T21:51:08.815685Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 393.632,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

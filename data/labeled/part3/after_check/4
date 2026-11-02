@@ -3993,21 +3993,6 @@
     },
     {
       "value": {
-        "start": 8722,
-        "end": 8723,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "k5in-_F4UP",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 8724,
         "end": 8725,
         "text": "c",
@@ -4016,51 +4001,6 @@
         ]
       },
       "id": "JzLOM8GiOh",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 8726,
-        "end": 8730,
-        "text": "oraz",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "zxBc9RILlF",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 8731,
-        "end": 8734,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "Wh9Kyfo1GN",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 8731,
-        "end": 8734,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "5-nHupXpEz",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -4286,36 +4226,6 @@
         ]
       },
       "id": "t9D50CRLJP",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 8913,
-        "end": 8916,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "M1pmQWgkIT",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 8913,
-        "end": 8916,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "6LwLloXfuC",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -16668,21 +16578,6 @@
     },
     {
       "value": {
-        "start": 85399,
-        "end": 85403,
-        "text": "oraz",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "w-pGgnUTUh",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 85404,
         "end": 85405,
         "text": "b",
@@ -20250,10 +20145,40 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8731,
+        "end": 8734,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "QQEVFZE8Zn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8913,
+        "end": 8916,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "yFQIvCmlJN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "26\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -20267,7 +20192,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.484839Z",
-    "updated_at": "2026-10-28T16:04:52.485822Z",
+    "updated_at": "2026-10-28T16:31:48.132607Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -20287,14 +20212,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.594511Z",
-  "updated_at": "2026-10-28T16:04:52.594511Z",
+  "updated_at": "2026-10-28T16:31:48.174146Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 454.613,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

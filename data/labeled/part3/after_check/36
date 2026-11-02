@@ -17358,36 +17358,6 @@
     },
     {
       "value": {
-        "start": 44252,
-        "end": 44256,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "uuWEzluWw6",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 44257,
-        "end": 44260,
-        "text": "30a",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "5SQ5k0rbfQ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 44297,
         "end": 44301,
         "text": "art.",
@@ -20891,36 +20861,6 @@
         ]
       },
       "id": "Xybmp9tjkE",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 59524,
-        "end": 59528,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "7Vp92uFxym",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 59529,
-        "end": 59531,
-        "text": "32",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "kMqgF2VBTC",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -24566,21 +24506,6 @@
         ]
       },
       "id": "dVGB7kgZyt",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 75255,
-        "end": 75256,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "HlxUl1Fp_N",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -28293,36 +28218,6 @@
     },
     {
       "value": {
-        "start": 98912,
-        "end": 98916,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "mrSARXwC8z",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 98917,
-        "end": 98919,
-        "text": "55",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "saoCRDnWyZ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 99076,
         "end": 99080,
         "text": "art.",
@@ -28695,10 +28590,25 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 28153,
+        "end": 28154,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "iyvKcaUa6V",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "5\u00a0days, 4\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -28712,7 +28622,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.496072Z",
-    "updated_at": "2026-10-28T16:04:52.496072Z",
+    "updated_at": "2026-11-02T20:06:33.897591Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -28732,14 +28642,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.639993Z",
-  "updated_at": "2026-10-28T16:04:52.641027Z",
+  "updated_at": "2026-11-02T20:06:33.945449Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 155.708,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

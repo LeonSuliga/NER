@@ -903,36 +903,6 @@
     },
     {
       "value": {
-        "start": 2140,
-        "end": 2143,
-        "text": "pkt",
-        "labels": [
-          "PKT_KEY"
-        ]
-      },
-      "id": "AaxN7vpHaG",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 2140,
-        "end": 2143,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "_a1kACzC6l",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 2144,
         "end": 2146,
         "text": "10",
@@ -15618,36 +15588,6 @@
     },
     {
       "value": {
-        "start": 82010,
-        "end": 82014,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "iEqANcWXT7",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 82015,
-        "end": 82017,
-        "text": "45",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "9D2x4t3_iy",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 82232,
         "end": 82253,
         "text": "Dz. U. z 2023 r. poz.",
@@ -20733,36 +20673,6 @@
     },
     {
       "value": {
-        "start": 126125,
-        "end": 126129,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "jkPvj8ex69",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 126130,
-        "end": 126133,
-        "text": "105",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "8NvuDqO0sd",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 126245,
         "end": 126249,
         "text": "ust.",
@@ -23025,10 +22935,85 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2140,
+        "end": 2143,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "-AVflLbvc2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5560,
+        "end": 5565,
+        "text": "tiret",
+        "labels": [
+          "TIR_KEY"
+        ]
+      },
+      "id": "RYuz6gCF4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5566,
+        "end": 5568,
+        "text": "13",
+        "labels": [
+          "TIR_VAL"
+        ]
+      },
+      "id": "ZtMCQJpVXs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5923,
+        "end": 5928,
+        "text": "tiret",
+        "labels": [
+          "TIR_KEY"
+        ]
+      },
+      "id": "9LDigEfSyo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 5929,
+        "end": 5931,
+        "text": "18",
+        "labels": [
+          "TIR_VAL"
+        ]
+      },
+      "id": "niekKQ6bwU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "5\u00a0days, 3\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -23042,7 +23027,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.495073Z",
-    "updated_at": "2026-10-28T16:04:52.495073Z",
+    "updated_at": "2026-11-02T20:02:46.068534Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -23062,14 +23047,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.631266Z",
-  "updated_at": "2026-10-28T16:04:52.631266Z",
+  "updated_at": "2026-11-02T20:02:46.111109Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 244.62800000000001,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
