@@ -675,10 +675,40 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 878,
+        "end": 891,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "BasAn0ivsZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 892,
+        "end": 901,
+        "text": "2023/2831",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "uV9w8tSyia",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "3\u00a0hours, 43\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -692,7 +722,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.814808Z",
-    "updated_at": "2026-11-02T15:36:57.814866Z",
+    "updated_at": "2026-11-02T19:20:57.481741Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -705,21 +735,21 @@
     "unresolved_comment_count": 0,
     "last_comment_updated_at": null,
     "project": 2,
-    "updated_by": null,
+    "updated_by": 1,
     "file_upload": 357,
     "comment_authors": []
   },
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.901406Z",
-  "updated_at": "2026-11-02T15:36:57.901439Z",
+  "updated_at": "2026-11-02T19:20:57.549801Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 48.888000000000005,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

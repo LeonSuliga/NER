@@ -948,21 +948,6 @@
     },
     {
       "value": {
-        "start": 12268,
-        "end": 12271,
-        "text": "19f",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "H9mr4ccGAd",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 12274,
         "end": 12278,
         "text": "art.",
@@ -971,21 +956,6 @@
         ]
       },
       "id": "HRRGDIxIAq",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 12279,
-        "end": 12282,
-        "text": "19g",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "bzRqvCcxNh",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -2463,21 +2433,6 @@
     },
     {
       "value": {
-        "start": 26261,
-        "end": 26264,
-        "text": "19f",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "YE-Gnm0HB1",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 26267,
         "end": 26271,
         "text": "art.",
@@ -2486,21 +2441,6 @@
         ]
       },
       "id": "dWOKJ3sE2b",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 26272,
-        "end": 26275,
-        "text": "19g",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "5Lu0m29ruz",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -7143,21 +7083,6 @@
     },
     {
       "value": {
-        "start": 71838,
-        "end": 71839,
-        "text": "2",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "Ig04LDR50m",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 71843,
         "end": 71847,
         "text": "art.",
@@ -9363,36 +9288,6 @@
     },
     {
       "value": {
-        "start": 13755,
-        "end": 13766,
-        "text": "Dz. Urz. UE",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "3rlyvfEqj5",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 13767,
-        "end": 13772,
-        "text": "L 396",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "3dwd5x1jXt",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
         "start": 16541,
         "end": 16555,
         "text": "z 2024 r. poz.",
@@ -9600,10 +9495,145 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2147,
+        "end": 2160,
+        "text": "Dz.\\nUrz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "9OiP44ViQA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2161,
+        "end": 2164,
+        "text": "128",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "RgdWzFCZu1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 12268,
+        "end": 12272,
+        "text": "19fa",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "p6w4Bo1X8H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 12279,
+        "end": 12283,
+        "text": "19ga",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "0oWHxkFsCo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 13755,
+        "end": 13768,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EF2hYgxwLa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 13769,
+        "end": 13772,
+        "text": "396",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "SUjRL0_Jsy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 26261,
+        "end": 26265,
+        "text": "19fa",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "HPYyo5lKYb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 26272,
+        "end": 26276,
+        "text": "19ga",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "u7F3XeP1Zj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 62086,
+        "end": 62087,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Uy6dSWxrpI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "3\u00a0hours, 41\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -9617,7 +9647,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.814494Z",
-    "updated_at": "2026-11-02T15:36:57.814519Z",
+    "updated_at": "2026-11-02T19:18:06.961569Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -9637,14 +9667,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.900331Z",
-  "updated_at": "2026-11-02T15:36:57.900367Z",
+  "updated_at": "2026-11-02T19:18:07.018517Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 355.56,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

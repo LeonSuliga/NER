@@ -11208,36 +11208,6 @@
     },
     {
       "value": {
-        "start": 58513,
-        "end": 58514,
-        "text": "\u00a7",
-        "labels": [
-          "PAR_KEY"
-        ]
-      },
-      "id": "-ZB1cquYmp",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 58515,
-        "end": 58517,
-        "text": "13",
-        "labels": [
-          "PAR_VAL"
-        ]
-      },
-      "id": "r4l6A7czSI",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 58875,
         "end": 58879,
         "text": "ust.",
@@ -14520,10 +14490,55 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 54684,
+        "end": 54690,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "g_DQ7lY04B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 54691,
+        "end": 54697,
+        "text": "drugie",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "7tHT9LLSMb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 66810,
+        "end": 66814,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "X512sN0dHs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "55\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -14537,7 +14552,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.808139Z",
-    "updated_at": "2026-11-02T15:36:57.808181Z",
+    "updated_at": "2026-11-02T16:32:45.087168Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -14557,14 +14572,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.883166Z",
-  "updated_at": "2026-11-02T15:36:57.883192Z",
+  "updated_at": "2026-11-02T16:32:45.151227Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 706.255,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

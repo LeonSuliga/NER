@@ -138,21 +138,6 @@
     },
     {
       "value": {
-        "start": 555,
-        "end": 558,
-        "text": "14l",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "6unp3ZyH-A",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 560,
         "end": 564,
         "text": "ust.",
@@ -858,96 +843,6 @@
     },
     {
       "value": {
-        "start": 3553,
-        "end": 3564,
-        "text": "Dz. Urz. UE",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "5bkbeN_mfS",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 3659,
-        "end": 3670,
-        "text": "Dz. Urz. UE",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "VLdYM2mjYw",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 3703,
-        "end": 3714,
-        "text": "Dz. Urz. UE",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "8VZm0rw7Kn",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 3565,
-        "end": 3570,
-        "text": "C 249",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "5dCaWGmJA4",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 3671,
-        "end": 3676,
-        "text": "C 224",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "-5ypNU2H6Y",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 3715,
-        "end": 3726,
-        "text": "C/2023/1212",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "iOrOTOyS7i",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
         "start": 5254,
         "end": 5259,
         "text": "14lzf",
@@ -963,14 +858,14 @@
     },
     {
       "value": {
-        "start": 7625,
-        "end": 7636,
-        "text": "Dz. Urz. UE",
+        "start": 555,
+        "end": 559,
+        "text": "14lc",
         "labels": [
-          "PUB_KEY"
+          "ART_VAL"
         ]
       },
-      "id": "nk2gtUmM-j",
+      "id": "UFQS5Z9toi",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -978,14 +873,119 @@
     },
     {
       "value": {
-        "start": 7637,
-        "end": 7642,
-        "text": "L 248",
+        "start": 3553,
+        "end": 3566,
+        "text": "Dz. Urz. UE C",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "e27dYygLM4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3567,
+        "end": 3570,
+        "text": "249",
         "labels": [
           "PUB_VAL"
         ]
       },
-      "id": "fjxRabpyaT",
+      "id": "0CwnhN9NIV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3659,
+        "end": 3672,
+        "text": "Dz. Urz. UE C",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "q5bvUrbe6J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3673,
+        "end": 3676,
+        "text": "224",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "n2HYVsJ_q9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3703,
+        "end": 3716,
+        "text": "Dz. Urz. UE C",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "PARpwpBMAr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3717,
+        "end": 3726,
+        "text": "2023/1212",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "F_fTtlg2wr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7625,
+        "end": 7638,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_m1q9PpNIo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7639,
+        "end": 7642,
+        "text": "248",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Qf1ui3MCDL",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -993,7 +993,7 @@
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "1\u00a0hour, 17\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -1007,7 +1007,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.812231Z",
-    "updated_at": "2026-11-02T15:36:57.812254Z",
+    "updated_at": "2026-11-02T16:54:36.093306Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -1027,14 +1027,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.891784Z",
-  "updated_at": "2026-11-02T15:36:57.891801Z",
+  "updated_at": "2026-11-02T16:54:36.147666Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 224.453,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

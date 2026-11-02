@@ -243,21 +243,6 @@
     },
     {
       "value": {
-        "start": 1452,
-        "end": 1456,
-        "text": "2021",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "WdWKCQRqg1",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 1465,
         "end": 1469,
         "text": "2012",
@@ -536,21 +521,6 @@
         ]
       },
       "id": "CG9py_jqYZ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 2974,
-        "end": 2978,
-        "text": "2021",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "YmJkXaCLPe",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -6866,36 +6836,6 @@
         ]
       },
       "id": "XaMQGyt7rQ",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 30592,
-        "end": 30593,
-        "text": "\u00a7",
-        "labels": [
-          "PAR_KEY"
-        ]
-      },
-      "id": "tiATUAM6fG",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 30594,
-        "end": 30596,
-        "text": "16",
-        "labels": [
-          "PAR_VAL"
-        ]
-      },
-      "id": "8b1jKXHTie",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -16113,36 +16053,6 @@
     },
     {
       "value": {
-        "start": 7294,
-        "end": 7303,
-        "text": "z 2023 r.",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "0E4mtOwhKq",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 8327,
-        "end": 8336,
-        "text": "z 2024 r.",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "pGVN88KmpA",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
         "start": 16920,
         "end": 16929,
         "text": "z 2021 r.",
@@ -16215,10 +16125,70 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 7294,
+        "end": 7308,
+        "text": "z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ftYDnwgOGk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2972,
+        "end": 2986,
+        "text": "z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "j4qJNKoax5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1450,
+        "end": 1464,
+        "text": "z 2021 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "sYVq5o6rwP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 8327,
+        "end": 8341,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "4mpXzePwSp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "18\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -16232,7 +16202,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.802945Z",
-    "updated_at": "2026-11-02T15:36:57.802980Z",
+    "updated_at": "2026-11-02T15:55:18.136135Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -16252,14 +16222,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.870164Z",
-  "updated_at": "2026-11-02T15:36:57.870194Z",
+  "updated_at": "2026-11-02T15:55:18.212081Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 637.074,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

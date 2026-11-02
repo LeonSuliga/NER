@@ -975,10 +975,40 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3354,
+        "end": 3367,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "JulW9L5l2u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3368,
+        "end": 3371,
+        "text": "353",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KT7r81bfkY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "23\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -992,7 +1022,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.804152Z",
-    "updated_at": "2026-11-02T15:36:57.804192Z",
+    "updated_at": "2026-11-02T16:00:27.011671Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -1012,14 +1042,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.870615Z",
-  "updated_at": "2026-11-02T15:36:57.870639Z",
+  "updated_at": "2026-11-02T16:00:27.066088Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 185.794,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

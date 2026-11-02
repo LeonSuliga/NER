@@ -5928,21 +5928,6 @@
     },
     {
       "value": {
-        "start": 54726,
-        "end": 54727,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "SeMjmxiqZ9",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 54728,
         "end": 54729,
         "text": "b",
@@ -5951,21 +5936,6 @@
         ]
       },
       "id": "nOmfakj8Xv",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 54730,
-        "end": 54731,
-        "text": "i",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "qU-XA-BFRt",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -6195,10 +6165,40 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 19894,
+        "end": 19898,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Sw5uqnBjdu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 54732,
+        "end": 54735,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Fa-vfs48pF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "27\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -6212,7 +6212,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.805278Z",
-    "updated_at": "2026-11-02T15:36:57.805325Z",
+    "updated_at": "2026-11-02T16:04:24.920636Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -6232,14 +6232,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.872797Z",
-  "updated_at": "2026-11-02T15:36:57.872831Z",
+  "updated_at": "2026-11-02T16:04:24.988282Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 234.198,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

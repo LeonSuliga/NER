@@ -7203,21 +7203,6 @@
     },
     {
       "value": {
-        "start": 23969,
-        "end": 23973,
-        "text": "2018",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "4Bc3te4uOD",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 23982,
         "end": 23985,
         "text": "650",
@@ -7294,13 +7279,28 @@
     {
       "value": {
         "start": 14027,
-        "end": 14036,
-        "text": "z 2023 r.",
+        "end": 14041,
+        "text": "z 2023 r. poz.",
         "labels": [
           "PUB_KEY"
         ]
       },
-      "id": "dEXkEm20uX",
+      "id": "Mdz8VN-Lmn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 23967,
+        "end": 23981,
+        "text": "z 2018 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "EAsEjs0eBV",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -7308,7 +7308,7 @@
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "20\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -7322,7 +7322,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.801251Z",
-    "updated_at": "2026-11-02T15:38:57.686219Z",
+    "updated_at": "2026-11-02T15:57:14.965256Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -7342,9 +7342,9 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.864281Z",
-  "updated_at": "2026-11-02T15:38:57.441067Z",
+  "updated_at": "2026-11-02T15:57:15.030516Z",
   "draft_created_at": null,
-  "lead_time": 111.225,
+  "lead_time": 172.334,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,

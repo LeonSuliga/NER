@@ -2178,36 +2178,6 @@
     },
     {
       "value": {
-        "start": 9927,
-        "end": 9931,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "jRPGNAy0bq",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 9932,
-        "end": 9933,
-        "text": "9",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "DD9IR487MC",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 9967,
         "end": 9971,
         "text": "art.",
@@ -2636,36 +2606,6 @@
         ]
       },
       "id": "HriuTotYyD",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 10951,
-        "end": 10955,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "g2SexZfmX_",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 10956,
-        "end": 10958,
-        "text": "10",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "2qtS75hi9G",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -4233,7 +4173,7 @@
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "3\u00a0hours, 49\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -4247,7 +4187,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.816189Z",
-    "updated_at": "2026-11-02T15:36:57.816202Z",
+    "updated_at": "2026-11-02T19:26:46.191116Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -4267,14 +4207,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.906767Z",
-  "updated_at": "2026-11-02T15:36:57.906794Z",
+  "updated_at": "2026-11-02T19:26:46.237299Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 58.289,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

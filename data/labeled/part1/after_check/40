@@ -375,10 +375,70 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 655,
+        "end": 672,
+        "text": "Dz. Urz. MEN poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "jFKhl1zo6l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 673,
+        "end": 675,
+        "text": "31",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "nxJ1xAcTd0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 696,
+        "end": 698,
+        "text": "25",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "1taawCtYJP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 681,
+        "end": 695,
+        "text": "z 1994 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "wGFMhoHq7f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "4\u00a0minutes",
+  "created_ago": "4\u00a0hours, 15\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -392,7 +452,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T15:36:57.819511Z",
-    "updated_at": "2026-11-02T15:36:57.819528Z",
+    "updated_at": "2026-11-02T19:52:32.778076Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -412,14 +472,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T15:36:57.920042Z",
-  "updated_at": "2026-11-02T15:36:57.920071Z",
+  "updated_at": "2026-11-02T19:52:32.822006Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 64.618,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 2,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
