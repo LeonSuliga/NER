@@ -15333,36 +15333,6 @@
     },
     {
       "value": {
-        "start": 65175,
-        "end": 65211,
-        "text": "Dz. Urz. UE L 352 z 24.12.2013, str.",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "l6ZDdchhvA",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 65212,
-        "end": 65213,
-        "text": "1",
-        "labels": [
-          "PUB_VAL"
-        ]
-      },
-      "id": "Dgiw_1-c3V",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 65307,
         "end": 65311,
         "text": "art.",
@@ -16965,10 +16935,70 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4176,
+        "end": 4177,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "rP1z63r_Yt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 56100,
+        "end": 56101,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "pGD1_KA4VD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 65175,
+        "end": 65188,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "ydDK1qXIvS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 65189,
+        "end": 65192,
+        "text": "352",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "jpLcOjlr1b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "3\u00a0minutes",
+  "created_ago": "29\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -16982,7 +17012,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T20:27:10.190966Z",
-    "updated_at": "2026-11-02T20:27:10.190977Z",
+    "updated_at": "2026-11-02T20:56:38.779229Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -17002,14 +17032,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T20:27:10.326971Z",
-  "updated_at": "2026-11-02T20:27:10.326998Z",
+  "updated_at": "2026-11-02T20:56:38.834404Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 203.625,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 14,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

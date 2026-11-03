@@ -28492,21 +28492,6 @@
         "end": 117639,
         "text": "pierwsze",
         "labels": [
-          "TIR_VAL"
-        ]
-      },
-      "id": "EpyQN7NEKr",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 117631,
-        "end": 117639,
-        "text": "pierwsze",
-        "labels": [
           "PODW_TIR_VAL"
         ]
       },
@@ -28646,21 +28631,6 @@
         ]
       },
       "id": "krtrScngpY",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 117938,
-        "end": 117944,
-        "text": "drugie",
-        "labels": [
-          "TIR_VAL"
-        ]
-      },
-      "id": "iWWFIGDps7",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -28972,21 +28942,6 @@
         "end": 118542,
         "text": "trzecie",
         "labels": [
-          "TIR_VAL"
-        ]
-      },
-      "id": "Nq__3K6Pc0",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 118535,
-        "end": 118542,
-        "text": "trzecie",
-        "labels": [
           "PODW_TIR_VAL"
         ]
       },
@@ -29212,21 +29167,6 @@
         "end": 119601,
         "text": "czwarte",
         "labels": [
-          "TIR_VAL"
-        ]
-      },
-      "id": "gTxqlubt_U",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 119594,
-        "end": 119601,
-        "text": "czwarte",
-        "labels": [
           "PODW_TIR_VAL"
         ]
       },
@@ -29366,21 +29306,6 @@
         ]
       },
       "id": "ImnOl6mLr7",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 119875,
-        "end": 119882,
-        "text": "czwarte",
-        "labels": [
-          "TIR_VAL"
-        ]
-      },
-      "id": "fBZR2M2mQj",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -32156,21 +32081,6 @@
         ]
       },
       "id": "6wkHaZyt01",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 127148,
-        "end": 127151,
-        "text": "pkt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "f7fsr-swfy",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -57048,36 +56958,6 @@
     },
     {
       "value": {
-        "start": 210020,
-        "end": 210024,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "MDYUUluMcu",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 210025,
-        "end": 210027,
-        "text": "44",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "yniEI6nRoE",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 210064,
         "end": 210068,
         "text": "art.",
@@ -76545,10 +76425,40 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 114714,
+        "end": 114715,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "pW7406ChGZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 127293,
+        "end": 127296,
+        "text": "13a",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "mhpyqdOBNJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "3\u00a0minutes",
+  "created_ago": "2\u00a0hours, 49\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -76562,7 +76472,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T20:27:10.208479Z",
-    "updated_at": "2026-11-02T20:27:10.208502Z",
+    "updated_at": "2026-11-02T23:16:42.279314Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -76582,14 +76492,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T20:27:10.393225Z",
-  "updated_at": "2026-11-02T20:27:10.393272Z",
+  "updated_at": "2026-11-02T23:16:42.408748Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 664.793,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 14,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

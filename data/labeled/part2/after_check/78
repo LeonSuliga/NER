@@ -2640,10 +2640,25 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9619,
+        "end": 9620,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-kdt2lo_A_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "3\u00a0minutes",
+  "created_ago": "3\u00a0hours, 3\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -2657,7 +2672,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T20:27:10.211676Z",
-    "updated_at": "2026-11-02T20:27:10.211685Z",
+    "updated_at": "2026-11-02T23:30:22.216788Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -2677,14 +2692,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T20:27:10.402664Z",
-  "updated_at": "2026-11-02T20:27:10.402689Z",
+  "updated_at": "2026-11-02T23:30:22.277257Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 78.307,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 14,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

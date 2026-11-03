@@ -2508,21 +2508,6 @@
     },
     {
       "value": {
-        "start": 6072,
-        "end": 6073,
-        "text": "2",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "yXkjU427N7",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 6190,
         "end": 6194,
         "text": "art.",
@@ -2883,21 +2868,6 @@
     },
     {
       "value": {
-        "start": 6973,
-        "end": 6974,
-        "text": "2",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "NP4yIMYLq1",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 6976,
         "end": 6980,
         "text": "art.",
@@ -2981,21 +2951,6 @@
         ]
       },
       "id": "z-6C9W-3Ix",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 7021,
-        "end": 7022,
-        "text": "3",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "Gfn4mJrHJw",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -3326,21 +3281,6 @@
         ]
       },
       "id": "B97LR0QhWB",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 7133,
-        "end": 7134,
-        "text": "4",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "o2BOkjNJWD",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -11298,21 +11238,6 @@
     },
     {
       "value": {
-        "start": 27197,
-        "end": 27199,
-        "text": "1d",
-        "labels": [
-          "UST_VAL"
-        ]
-      },
-      "id": "78lbpLUIJ0",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 27373,
         "end": 27377,
         "text": "art.",
@@ -11786,21 +11711,6 @@
         ]
       },
       "id": "GAyin2EFev",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 29068,
-        "end": 29070,
-        "text": "1d",
-        "labels": [
-          "UST_VAL"
-        ]
-      },
-      "id": "RV7hHm5cGR",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -75660,10 +75570,145 @@
       "to_name": "text",
       "type": "labels",
       "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 26781,
+        "end": 26783,
+        "text": "2a",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "4VzCp9haZ7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 27197,
+        "end": 27200,
+        "text": "1dd",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "eJSgmpxpwn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 27202,
+        "end": 27205,
+        "text": "1df",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "limi316wTJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 27208,
+        "end": 27211,
+        "text": "1dg",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ANWuN-6uLa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 29068,
+        "end": 29071,
+        "text": "1dc",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "6Ab7u4veZc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 29073,
+        "end": 29076,
+        "text": "1df",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "W2aimB1o_C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 29081,
+        "end": 29084,
+        "text": "1dg",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_W08WE4Wc2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 100631,
+        "end": 100632,
+        "text": "7",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hSNP-shFM9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 284449,
+        "end": 284450,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2HYlxRpcQo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "3\u00a0minutes",
+  "created_ago": "2\u00a0hours, 26\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -75677,7 +75722,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T20:27:10.205529Z",
-    "updated_at": "2026-11-02T20:27:10.205552Z",
+    "updated_at": "2026-11-02T22:53:18.252021Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -75697,14 +75742,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T20:27:10.377259Z",
-  "updated_at": "2026-11-02T20:27:10.377303Z",
+  "updated_at": "2026-11-02T22:53:18.351965Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 1363.432,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 14,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

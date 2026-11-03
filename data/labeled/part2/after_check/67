@@ -9813,21 +9813,6 @@
     },
     {
       "value": {
-        "start": 86739,
-        "end": 86740,
-        "text": "2",
-        "labels": [
-          "UST_VAL"
-        ]
-      },
-      "id": "0JjGvOCxDv",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 86814,
         "end": 86818,
         "text": "ust.",
@@ -26141,21 +26126,6 @@
         ]
       },
       "id": "Nq44anbooq",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 236443,
-        "end": 236444,
-        "text": "b",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "3wLDlbWe0b",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -76863,21 +76833,6 @@
     },
     {
       "value": {
-        "start": 736980,
-        "end": 736981,
-        "text": "w",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "zLK2e3R_3O",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 736991,
         "end": 736995,
         "text": "art.",
@@ -77516,21 +77471,6 @@
         ]
       },
       "id": "CwN3V5WomU",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "manual"
-    },
-    {
-      "value": {
-        "start": 9102,
-        "end": 9115,
-        "text": "Dz. Urz. UE L",
-        "labels": [
-          "PUB_KEY"
-        ]
-      },
-      "id": "VEaYtLj3H8",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -79080,10 +79020,250 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 34260,
+        "end": 34273,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Iifxzvps-c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 34274,
+        "end": 34277,
+        "text": "302",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kt5xuaUHS3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 42558,
+        "end": 42595,
+        "text": "Dz. Urz. UE Polskie wydanie specjalne",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "pJfApMoLNW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9102,
+        "end": 9115,
+        "text": "Dz. Urz. UE L",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VEaYtLj3H8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 63636,
+        "end": 63637,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "0hlgK_4BHP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 173149,
+        "end": 173150,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "oHfFgZ6F6g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 261867,
+        "end": 261870,
+        "text": "53b",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "m4bLZLH04g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 262000,
+        "end": 262003,
+        "text": "53b",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Fv7obN2nF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 441837,
+        "end": 441838,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "dugGlRVC93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 441922,
+        "end": 441923,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-tiyijak5K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 567576,
+        "end": 567577,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "hSXYN-CUDx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 567765,
+        "end": 567766,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "8SBXw5dVAj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 600719,
+        "end": 600720,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "mSOptm1xQc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 627371,
+        "end": 627372,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zhxZHHz48q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 682297,
+        "end": 682298,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-fBil-MiIy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 735355,
+        "end": 735356,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "0HIiURSCXl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "3\u00a0minutes",
+  "created_ago": "21\u00a0hours, 32\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -79097,7 +79277,7 @@
     },
     "meta": {},
     "created_at": "2026-11-02T20:27:10.202203Z",
-    "updated_at": "2026-11-02T20:27:10.202244Z",
+    "updated_at": "2026-11-03T18:00:02.239292Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -79110,21 +79290,21 @@
     "unresolved_comment_count": 0,
     "last_comment_updated_at": null,
     "project": 14,
-    "updated_by": null,
+    "updated_by": 1,
     "file_upload": 452,
     "comment_authors": []
   },
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-02T20:27:10.361583Z",
-  "updated_at": "2026-11-02T20:27:10.361623Z",
+  "updated_at": "2026-11-03T18:00:02.349510Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 2408.3940000000002,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 14,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
