@@ -19473,36 +19473,6 @@
     },
     {
       "value": {
-        "start": 95275,
-        "end": 95279,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "9jBZbCztvK",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 95280,
-        "end": 95282,
-        "text": "96",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "x8NDd1ittx",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 95391,
         "end": 95395,
         "text": "art.",
@@ -23598,36 +23568,6 @@
     },
     {
       "value": {
-        "start": 120375,
-        "end": 120379,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "v689NK510c",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 120380,
-        "end": 120383,
-        "text": "112",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "bS4hA0zayg",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 120489,
         "end": 120493,
         "text": "art.",
@@ -25725,10 +25665,25 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3798,
+        "end": 3801,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "W0P4z5UEeo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "2\u00a0minutes",
+  "created_ago": "24\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -25742,7 +25697,7 @@
     },
     "meta": {},
     "created_at": "2026-11-03T18:06:07.025146Z",
-    "updated_at": "2026-11-03T18:06:07.025170Z",
+    "updated_at": "2026-11-03T18:30:29.649884Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -25762,14 +25717,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-03T18:06:07.124237Z",
-  "updated_at": "2026-11-03T18:06:07.124263Z",
+  "updated_at": "2026-11-03T18:30:29.718629Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 306.031,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 16,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

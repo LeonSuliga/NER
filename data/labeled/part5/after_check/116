@@ -1623,21 +1623,6 @@
     },
     {
       "value": {
-        "start": 3126,
-        "end": 3128,
-        "text": "kt",
-        "labels": [
-          "LIT_VAL"
-        ]
-      },
-      "id": "p0uw6TUnsN",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 3193,
         "end": 3197,
         "text": "art.",
@@ -22803,36 +22788,6 @@
     },
     {
       "value": {
-        "start": 97739,
-        "end": 97743,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "27SXnvOj5h",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 97744,
-        "end": 97746,
-        "text": "36",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "4OdJtNiO8M",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 98105,
         "end": 98109,
         "text": "art.",
@@ -29088,7 +29043,7 @@
     }
   ],
   "created_username": " wronka.agata04@gmail.com, 1",
-  "created_ago": "2\u00a0minutes",
+  "created_ago": "2\u00a0hours, 8\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -29102,7 +29057,7 @@
     },
     "meta": {},
     "created_at": "2026-11-03T18:06:07.028277Z",
-    "updated_at": "2026-11-03T18:06:07.028302Z",
+    "updated_at": "2026-11-03T20:14:12.445312Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -29122,14 +29077,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-03T18:06:07.132822Z",
-  "updated_at": "2026-11-03T18:06:07.132856Z",
+  "updated_at": "2026-11-03T20:14:12.582103Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 286.144,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 16,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
