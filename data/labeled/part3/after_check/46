@@ -3603,21 +3603,6 @@
     },
     {
       "value": {
-        "start": 17335,
-        "end": 17336,
-        "text": "2",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "wsIguA2wk6",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 17795,
         "end": 17799,
         "text": "ust.",
@@ -14595,10 +14580,145 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 30562,
+        "end": 30566,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TlaopRWoIP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 30567,
+        "end": 30568,
+        "text": "I",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ipXY1BlX2w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41080,
+        "end": 41084,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "m46-aoXt6e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41085,
+        "end": 41088,
+        "text": "39b",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "hURSMCGDj_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41089,
+        "end": 41093,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "coiEfhtOop",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41094,
+        "end": 41095,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "GDxbGzdhCI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41096,
+        "end": 41099,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "d6YBRafJHX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 41100,
+        "end": 41101,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "oWDidpzi84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 65496,
+        "end": 65497,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QfMmRdoaUf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "5\u00a0days, 4\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -14612,7 +14732,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.497319Z",
-    "updated_at": "2026-10-28T16:04:52.497319Z",
+    "updated_at": "2026-11-02T20:18:16.802340Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -14632,14 +14752,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.648038Z",
-  "updated_at": "2026-10-28T16:04:52.648038Z",
+  "updated_at": "2026-11-02T20:18:16.858217Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 340.252,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

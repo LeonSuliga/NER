@@ -13908,36 +13908,6 @@
     },
     {
       "value": {
-        "start": 99616,
-        "end": 99620,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "8F82k1Um9e",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 99621,
-        "end": 99623,
-        "text": "63",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "bHY7S4BKm5",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 99766,
         "end": 99787,
         "text": "Dz. U. z 2024 r. poz.",
@@ -37128,7 +37098,7 @@
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "5\u00a0days, 4\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -37142,7 +37112,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.499450Z",
-    "updated_at": "2026-10-28T16:04:52.499450Z",
+    "updated_at": "2026-11-02T20:25:59.728157Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -37162,14 +37132,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.732596Z",
-  "updated_at": "2026-10-28T16:04:52.732596Z",
+  "updated_at": "2026-11-02T20:25:59.776035Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 313.342,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

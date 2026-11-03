@@ -723,36 +723,6 @@
     },
     {
       "value": {
-        "start": 3096,
-        "end": 3097,
-        "text": "\u00a7",
-        "labels": [
-          "PAR_KEY"
-        ]
-      },
-      "id": "kr6ycaqz4W",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 3098,
-        "end": 3099,
-        "text": "1",
-        "labels": [
-          "PAR_VAL"
-        ]
-      },
-      "id": "ttBTOwWwrv",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 3577,
         "end": 3578,
         "text": "\u00a7",
@@ -866,36 +836,6 @@
         ]
       },
       "id": "FxgSvWYias",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 3696,
-        "end": 3697,
-        "text": "\u00a7",
-        "labels": [
-          "PAR_KEY"
-        ]
-      },
-      "id": "i4R5tgAIWS",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 3698,
-        "end": 3699,
-        "text": "3",
-        "labels": [
-          "PAR_VAL"
-        ]
-      },
-      "id": "v-rq0bzJ4m",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -1653,7 +1593,7 @@
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "7\u00a0minutes",
+  "created_ago": "1\u00a0day, 6\u00a0hours",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -1667,7 +1607,7 @@
     },
     "meta": {},
     "created_at": "2026-10-28T16:04:52.491048Z",
-    "updated_at": "2026-10-28T16:04:52.491048Z",
+    "updated_at": "2026-10-29T22:09:33.398952Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -1687,14 +1627,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-10-28T16:04:52.612964Z",
-  "updated_at": "2026-10-28T16:04:52.612964Z",
+  "updated_at": "2026-10-29T22:09:33.414965Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 40.269,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
