@@ -1,0 +1,129 @@
+{
+  "id": 37,
+  "result": [
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 226,
+        "end": 230,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 231,
+        "end": 233,
+        "text": "35",
+        "labels": [
+          "ART_VAL"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 234,
+        "end": 235,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 236,
+        "end": 237,
+        "text": "2",
+        "labels": [
+          "PAR_VAL"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 296,
+        "end": 317,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      }
+    },
+    {
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+        "start": 318,
+        "end": 321,
+        "text": "390",
+        "labels": [
+          "PUB_VAL"
+        ]
+      }
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "2\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 37,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Sprawiedliwo\u015bci z dnia 16 grudnia 2024 r. w sprawie utworzenia Wydzia\u0142\u00f3w do spraw Wojskowych w Prokuraturze Okr\u0119gowej w Olsztynie\ni w Prokuraturze Okr\u0119gowej w Lublinie\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 35 \u00a7 2 ustawy z dnia 28 stycznia 2016 r. - Prawo o prokuraturze\n(Dz. U. z 2024 r. poz. 390) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nTworzy si\u0119 nast\u0119puj\u0105ce kom\u00f3rki organizacyjne do spraw wojskowych w prokuraturach okr\u0119gowych\ni ustala si\u0119 ich siedziby:\n1)\nWydzia\u0142 do spraw Wojskowych w Prokuraturze Okr\u0119gowej w Olsztynie z siedzib\u0105 w Olsztynie;\n2)\nWydzia\u0142 do spraw Wojskowych w Prokuraturze Okr\u0119gowej w Lublinie z siedzib\u0105 w Lublinie.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie z dniem 1 stycznia 2025 r."
+    },
+    "meta": {},
+    "created_at": "2026-11-05T15:44:26.397296Z",
+    "updated_at": "2026-11-05T15:44:26.397296Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 241,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": true,
+  "created_at": "2026-11-05T15:44:26.467881Z",
+  "updated_at": "2026-11-05T15:44:26.467881Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": null,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
