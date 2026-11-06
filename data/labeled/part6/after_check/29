@@ -1,0 +1,3051 @@
+{
+  "id": 29,
+  "result": [
+    {
+      "value": {
+        "start": 302,
+        "end": 303,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "dXu7FcDL2k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 304,
+        "end": 305,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "8JZnJJpYh-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 306,
+        "end": 310,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "G72ST54srP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 311,
+        "end": 312,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_6kE0G_vYR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 313,
+        "end": 316,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "gVTMoU29f6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 317,
+        "end": 318,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "dxA7phKbDl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 450,
+        "end": 461,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "c_GDCebE7v",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 462,
+        "end": 466,
+        "text": "2725",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kKsLvSAGBd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 636,
+        "end": 640,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "hcWb3VR0BX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 641,
+        "end": 643,
+        "text": "92",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "zCQ8lwPCLW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 644,
+        "end": 648,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TQ7Y6TQwKR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 649,
+        "end": 650,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "AoODUNopZc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 699,
+        "end": 720,
+        "text": "Dz. U. z 2023 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "cx1Cg4qQn1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 721,
+        "end": 725,
+        "text": "2110",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JNmydQkZnT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 731,
+        "end": 745,
+        "text": "z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "rFJxVxZoaf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 746,
+        "end": 749,
+        "text": "731",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WW3qfCAlZ4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 752,
+        "end": 756,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "03rr7-331N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 974,
+        "end": 985,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "tJfaXxyxu-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 986,
+        "end": 989,
+        "text": "264",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "FTVfHcMi5k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1041,
+        "end": 1044,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "2LKmMfBoHI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1045,
+        "end": 1046,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "kSKBp2JG60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1058,
+        "end": 1061,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "zLIw78ZG2y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1062,
+        "end": 1064,
+        "text": "5a",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JAydhTHNwI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1179,
+        "end": 1183,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "jLaF23DlUn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1184,
+        "end": 1185,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "asBWmFTK4I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1186,
+        "end": 1189,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "bqhfzDaN_U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1190,
+        "end": 1191,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "LGoyhWnASi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1302,
+        "end": 1323,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "VW-szMA122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1324,
+        "end": 1327,
+        "text": "182",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "eohEQhga9P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1446,
+        "end": 1467,
+        "text": "Dz. U. z 2024 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Nwt5MWS59Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1468,
+        "end": 1471,
+        "text": "725",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "suEIeAeP5K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1473,
+        "end": 1476,
+        "text": "834",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Y_nzTXRyJk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1479,
+        "end": 1483,
+        "text": "1222",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "ZRUPl0qsI7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1491,
+        "end": 1494,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "UzYI4cr0eJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1495,
+        "end": 1497,
+        "text": "11",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "2XK6q80cfU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1500,
+        "end": 1502,
+        "text": "12",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "EhlJkm3JH9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1744,
+        "end": 1765,
+        "text": "Dz. U. z 1959 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "RLu2UU2aPu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1766,
+        "end": 1769,
+        "text": "212",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "om8oJvAuoS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1772,
+        "end": 1775,
+        "text": "214",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "h6j2Zhp-Ox",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1837,
+        "end": 1858,
+        "text": "Dz. U. z 1963 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "t3Cj9AyXzU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1859,
+        "end": 1862,
+        "text": "137",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "DuFcWn5Bbw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1865,
+        "end": 1868,
+        "text": "138",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "KJt9-jcT0t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1870,
+        "end": 1884,
+        "text": "z 1969 r.\npoz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "QRo7PZITim",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1885,
+        "end": 1888,
+        "text": "210",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kmIsQNQkSr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1891,
+        "end": 1894,
+        "text": "211",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Hc9qkrxrwm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1896,
+        "end": 1910,
+        "text": "z 1976 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XIQtamm39T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1911,
+        "end": 1914,
+        "text": "130",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "TWCP_tLDSJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1916,
+        "end": 1919,
+        "text": "131",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "klPtZeYQZO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1921,
+        "end": 1924,
+        "text": "188",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "M1kj6-0Y1b",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1926,
+        "end": 1929,
+        "text": "189",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "iqdLhxq_dj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1931,
+        "end": 1934,
+        "text": "227",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "PTp3y3VsXk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1937,
+        "end": 1940,
+        "text": "228",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "kqVOFVzUZj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1942,
+        "end": 1956,
+        "text": "z 1984 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "7i2nOS44RC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1957,
+        "end": 1960,
+        "text": "199",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "36Y4lfHKjk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1963,
+        "end": 1966,
+        "text": "200",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "V0Dcfqxqch",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1968,
+        "end": 1982,
+        "text": "z 2000 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Ior9-65mm7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1983,
+        "end": 1986,
+        "text": "446",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "-u7IEgtq1y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1989,
+        "end": 1992,
+        "text": "447",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AV1GZI4Y1f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1994,
+        "end": 2008,
+        "text": "z 2002 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "fshjU51eZN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2009,
+        "end": 2012,
+        "text": "527",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "3oWMLhdSHB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2015,
+        "end": 2018,
+        "text": "528",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "xaCSSqF4wh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2020,
+        "end": 2034,
+        "text": "z 2003 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "x5VvYJskPG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2035,
+        "end": 2038,
+        "text": "700",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "AxDuoK8bja",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2041,
+        "end": 2044,
+        "text": "701",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "_GONAlOncT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2050,
+        "end": 2064,
+        "text": "z 2012 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TT2Y-sur3N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2065,
+        "end": 2068,
+        "text": "368",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "0O8lKBimoG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2070,
+        "end": 2073,
+        "text": "369",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "gzfXYXLv1Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2075,
+        "end": 2078,
+        "text": "370",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "e-jfKt0E5O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2081,
+        "end": 2084,
+        "text": "371",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Dj0vXeCdv1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2856,
+        "end": 2857,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "mvdprlEAqv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2858,
+        "end": 2860,
+        "text": "13",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "oIF_qsaGDb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2861,
+        "end": 2865,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "umypBc92m0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2866,
+        "end": 2867,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1jayncBOaY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3110,
+        "end": 3111,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ns_yOsFsV1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3112,
+        "end": 3114,
+        "text": "14",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ZPQeBUBzT7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3514,
+        "end": 3517,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ckKe_vqEMc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3518,
+        "end": 3520,
+        "text": "11",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ieYRnZbThR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4056,
+        "end": 4057,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "TCA0gAi1UB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4058,
+        "end": 4060,
+        "text": "23",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "bQEjXhkDev",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4067,
+        "end": 4071,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_DoKEuCYFf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4072,
+        "end": 4073,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "t3id5FBK9K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4085,
+        "end": 4091,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "KpJbBq5LGm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4092,
+        "end": 4098,
+        "text": "drugie",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "sekeJEqwlX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4225,
+        "end": 4229,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qT2ClXk11Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4230,
+        "end": 4231,
+        "text": "5",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "XLrlifFthX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4243,
+        "end": 4249,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "HLhTy_mw9d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4250,
+        "end": 4256,
+        "text": "drugie",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "CU9fjAzGxM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4383,
+        "end": 4384,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "FbU6UbtMqW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4385,
+        "end": 4387,
+        "text": "24",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "NXUOEzp7PK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4388,
+        "end": 4392,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "CwfOOkHgWs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4393,
+        "end": 4394,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-n0eA8bdd4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4766,
+        "end": 4767,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "3xran0SJ9U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4768,
+        "end": 4770,
+        "text": "26",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "vjCAb0BPC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4866,
+        "end": 4867,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "JLHb1RVUA-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4868,
+        "end": 4870,
+        "text": "24",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "UZDR8QLS0u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4873,
+        "end": 4874,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "YrFRX7NKVx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4875,
+        "end": 4877,
+        "text": "25",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "YrMjPfBKkk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5229,
+        "end": 5230,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "N8PwdiH9oL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5231,
+        "end": 5233,
+        "text": "27",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "mq8F9ctY6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5234,
+        "end": 5240,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "bwVrVMJgW1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5241,
+        "end": 5249,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "Zt_Xnhy0kT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5405,
+        "end": 5406,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "dnprXietNX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5407,
+        "end": 5409,
+        "text": "33",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "cGAioYDMbo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5410,
+        "end": 5414,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "h5AQ_7WlwU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5415,
+        "end": 5416,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "Hxq7cquPAp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5871,
+        "end": 5872,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "cVvpoM4wEX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5873,
+        "end": 5875,
+        "text": "37",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "C1CbLCf15a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5887,
+        "end": 5888,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nATx5U-qSK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 5889,
+        "end": 5892,
+        "text": "37a",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ZvZDpLv9yh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6425,
+        "end": 6429,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "LIpg7VXCbR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6430,
+        "end": 6431,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "FvBuoZ1oPl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6782,
+        "end": 6786,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "jgfKwn2qc9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 6787,
+        "end": 6788,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "iSeRb9iwGJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7020,
+        "end": 7024,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ekTxXbKSLI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7025,
+        "end": 7026,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QgRnGePlJe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7102,
+        "end": 7106,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "3j3q2_brPo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7107,
+        "end": 7108,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "KMnOHq6vml",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7231,
+        "end": 7232,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "-kOH5GwHO_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7233,
+        "end": 7235,
+        "text": "40",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "c-fqIFU8Bs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7238,
+        "end": 7242,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Hs_IEpuYEg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7243,
+        "end": 7244,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ksKb12dz6y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7256,
+        "end": 7259,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "nBmkNuIXdh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7260,
+        "end": 7262,
+        "text": "11",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "n4uJ-CK18a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7270,
+        "end": 7271,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "U-kZVZtCIs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7272,
+        "end": 7274,
+        "text": "41",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "zkQZOkTUOX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7275,
+        "end": 7278,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "DBTmzN4Qzs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7279,
+        "end": 7280,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "8-g1g3drfc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7722,
+        "end": 7723,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "BT7gcVKwwu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7724,
+        "end": 7726,
+        "text": "46",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "n7eZsZi6_w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7729,
+        "end": 7733,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "thd5Q0anaM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7734,
+        "end": 7735,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "93YR2ZWIhd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7736,
+        "end": 7739,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "yUXuaLnHVj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7740,
+        "end": 7741,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "AG9D8EZjnp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7744,
+        "end": 7745,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "rUQ_zPT5yb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8114,
+        "end": 8115,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "KcHhoQ-ICu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8116,
+        "end": 8118,
+        "text": "52",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ZS1QUXy18P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8119,
+        "end": 8123,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "lRqfYGKF16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8124,
+        "end": 8125,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "bZQKpWKSmy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8200,
+        "end": 8204,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "5mEbnCkNJH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8205,
+        "end": 8207,
+        "text": "87",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "UjutskdYvk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8208,
+        "end": 8212,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "LYC1OK4BFL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8213,
+        "end": 8214,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "rqeWWRASho",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9177,
+        "end": 9178,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "pln-AVlsEO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9179,
+        "end": 9181,
+        "text": "54",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "o6w01u6Vk1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9182,
+        "end": 9186,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "A8dyOFVRSn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9187,
+        "end": 9188,
+        "text": "6",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "unkTlyZ89I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9243,
+        "end": 9247,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "QkEOHFSUxT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9248,
+        "end": 9249,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "QhA82XDk_Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9250,
+        "end": 9253,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "DETvN7vQ0Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9254,
+        "end": 9255,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "9hYyUmQNlR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9256,
+        "end": 9260,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "zQ8iLIaOUi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9261,
+        "end": 9262,
+        "text": "e",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "HbUByB1i3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9263,
+        "end": 9264,
+        "text": "h",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "l4YdoADsGL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9325,
+        "end": 9329,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "TWNdVrUqQM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9330,
+        "end": 9331,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "6_BbptFjca",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9332,
+        "end": 9335,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "MEQqcrO5fG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9336,
+        "end": 9337,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Yk0d74m2Gn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9484,
+        "end": 9488,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Iv-jACPheU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9489,
+        "end": 9491,
+        "text": "19",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "9MUS3QxBAR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9492,
+        "end": 9496,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Aq7HDfK_SU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9497,
+        "end": 9498,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hAbOQilsXm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9499,
+        "end": 9502,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "25ysHLV97m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9503,
+        "end": 9505,
+        "text": "11",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Z_-W_kss8w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9624,
+        "end": 9628,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3YYp0ympTP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9629,
+        "end": 9631,
+        "text": "43",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "g_sdcAi_oe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9652,
+        "end": 9653,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "ydYrL6R95M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9654,
+        "end": 9656,
+        "text": "57",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "9c-d4pY4Vp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9830,
+        "end": 9831,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "nSFVE5AQ5U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9832,
+        "end": 9834,
+        "text": "59",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ehgm38Gc5P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9835,
+        "end": 9838,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "gD_S1oXh3n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9839,
+        "end": 9840,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "JeHlPsZuod",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10961,
+        "end": 10962,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "dRsGjKjeVR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10963,
+        "end": 10965,
+        "text": "59",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "ItsFiCbYth",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10966,
+        "end": 10969,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "8Y9wOS6uxN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10970,
+        "end": 10971,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "n8h25GLCsD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11001,
+        "end": 11002,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "cNIcU6q81I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11003,
+        "end": 11004,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "4xwu7_Jm0g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11243,
+        "end": 11247,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "d65BCuY4XF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11248,
+        "end": 11249,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "V_9x6nIzcs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11263,
+        "end": 11264,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "Cw59_tJNyw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11265,
+        "end": 11267,
+        "text": "55",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "0A34Q5r9hc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11268,
+        "end": 11272,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "t2WTlJ2jeU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11273,
+        "end": 11274,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "esaoEnObOZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11276,
+        "end": 11277,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "muByXsQP-C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11280,
+        "end": 11284,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qc5e4lX9ca",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11285,
+        "end": 11286,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "XtpYCa06iC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11287,
+        "end": 11290,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "E_eQGoMEW_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11291,
+        "end": 11292,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "DP2aNiuLsr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11293,
+        "end": 11294,
+        "text": "8",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "z6iOscCJjx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11297,
+        "end": 11299,
+        "text": "10",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "be_qAEWovi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11329,
+        "end": 11330,
+        "text": "\u00a7",
+        "labels": [
+          "PAR_KEY"
+        ]
+      },
+      "id": "u2S-FmgBo0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11331,
+        "end": 11332,
+        "text": "1",
+        "labels": [
+          "PAR_VAL"
+        ]
+      },
+      "id": "KDsxBrRcAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2826,
+        "end": 2838,
+        "text": "Dz. Urz. ULC",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "F05AQCevIH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2844,
+        "end": 2846,
+        "text": "42",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "VjZbiZZvUk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2341,
+        "end": 2353,
+        "text": "Dz. Urz. ULC",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "XLONoH0e-P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2359,
+        "end": 2361,
+        "text": "41",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "LO3RLR-Ugk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3967,
+        "end": 3979,
+        "text": "Dz. Urz. ULC",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "V6_5G9Uvy0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 3985,
+        "end": 3987,
+        "text": "41",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "vUOBxHZF94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9075,
+        "end": 9087,
+        "text": "Dz. Urz. ULC",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "vHwUAYdmau",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 9093,
+        "end": 9095,
+        "text": "80",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "QUJnWNh5kJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 29,
+    "data": {
+      "text": "Rozporz\u0105dzenie Ministra Infrastruktury z dnia 7 pa\u017adziernika 2024 r. zmieniaj\u0105ce rozporz\u0105dzenie w sprawie przeszk\u00f3d lotniczych, powierzchni ograniczaj\u0105cych\nprzeszkody oraz urz\u0105dze\u0144 o charakterze niebezpiecznym 1) Minister Infrastruktury kieruje dzia\u0142em administracji rz\u0105dowej - transport, na podstawie\n\u00a7 1 ust. 2 pkt 3 rozporz\u0105dzenia Prezesa Rady Ministr\u00f3w z dnia 18 grudnia 2023 r. w\nsprawie szczeg\u00f3\u0142owego zakresu dzia\u0142ania Ministra Infrastruktury (Dz. U. poz. 2725).\nSpis tre\u015bci\nTre\u015b\u0107 rozporz\u0105dzenia\nZa\u0142\u0105cznik - Tabela 2. Parametry powierzchni wznoszenia dla dr\u00f3g startowych przeznaczonych do startu\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 92 ust. 2 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze\n(Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW rozporz\u0105dzeniu Ministra Infrastruktury z dnia 12 stycznia 2021 r. w sprawie przeszk\u00f3d\nlotniczych, powierzchni ograniczaj\u0105cych przeszkody oraz urz\u0105dze\u0144 o charakterze niebezpiecznym\n(Dz. U. poz. 264) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\n1)\nw \u00a7 2:\na)\npo pkt 5 dodaje si\u0119 pkt 5a w brzmieniu:\n\u201e5a)\nmorskiej turbinie wiatrowej - nale\u017cy przez to rozumie\u0107 morsk\u0105 turbin\u0119 wiatrow\u0105, o\nkt\u00f3rej mowa w art. 3 pkt 4 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej\nw morskich farmach wiatrowych\n(Dz. U. z 2024 r. poz. 182), wraz z cz\u0119\u015bci\u0105 budowlan\u0105 stanowi\u0105c\u0105 budowl\u0119 w rozumieniu przepis\u00f3w ustawy z dnia 7 lipca 1994 r. - Prawo budowlane\n(Dz. U. z 2024 r. poz. 725, 834 i 1222);\u201d,\nb)\npkt 11 i 12 otrzymuj\u0105 brzmienie:\n\u201e11)\nZa\u0142\u0105czniku 14 tom I - nale\u017cy przez to rozumie\u0107 Za\u0142\u0105cznik 14 \u201eLotniska\u201d tom I \u201eProjektowanie\ni eksploatacja lotnisk\u201d do Konwencji o mi\u0119dzynarodowym lotnictwie cywilnym, sporz\u0105dzonej\nw Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z p\u00f3\u017an. zm. 2) Zmiany wymienionej umowy zosta\u0142y og\u0142oszone w Dz. U. z 1963 r. poz. 137 i 138, z 1969 r.\npoz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i\n200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701\noraz z 2012 r. poz. 368, 369, 370 i 371.), og\u0142oszony w za\u0142\u0105czniku do obwieszczenia nr 17 Prezesa Urz\u0119du Lotnictwa Cywilnego\nz dnia 2 lipca 2021 r. w sprawie og\u0142oszenia tekstu Za\u0142\u0105cznika 14, tomu I do Konwencji\no mi\u0119dzynarodowym lotnictwie cywilnym, sporz\u0105dzonej w Chicago dnia 7 grudnia 1944 r.\n(Dz. Urz. ULC poz. 41);\n12)\nZa\u0142\u0105czniku 14 tom II - nale\u017cy przez to rozumie\u0107 Za\u0142\u0105cznik 14 \u201eLotniska\u201d tom II \u201eLotniska\ndla \u015bmig\u0142owc\u00f3w\u201d do Konwencji o mi\u0119dzynarodowym lotnictwie cywilnym, sporz\u0105dzonej w\nChicago dnia 7 grudnia 1944 r., og\u0142oszony w za\u0142\u0105czniku do obwieszczenia nr 18 Prezesa\nUrz\u0119du Lotnictwa Cywilnego z dnia 2 lipca 2021 r. w sprawie og\u0142oszenia tekstu Za\u0142\u0105cznika\n14, tomu II do Konwencji o mi\u0119dzynarodowym lotnictwie cywilnym, sporz\u0105dzonej w Chicago\ndnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 42).\u201d;\n2)\nw \u00a7 13 ust. 1 otrzymuje brzmienie:\n\u201e1.\nMaksymalne warto\u015bci wysoko\u015bci i nachylenia oraz minimalne warto\u015bci innych wymiar\u00f3w\npowierzchni ograniczaj\u0105cych przeszkody dla dr\u00f3g startowych na lotniskach dla samolot\u00f3w\nokre\u015bla za\u0142\u0105cznik nr 3 do rozporz\u0105dzenia.\u201d;\n3)\n\u00a7 14 otrzymuje brzmienie:\n\u201e\u00a7 14.\nPowierzchnia podej\u015bcia jest pozioma od punktu, w kt\u00f3rym p\u0142aszczyzna o nachyleniu 2,5\n% przecina p\u0142aszczyzn\u0119 poziom\u0105 po\u0142o\u017con\u0105 na wysoko\u015bci 150 m powy\u017cej wysoko\u015bci progu\ndrogi startowej albo p\u0142aszczyzn\u0119 poziom\u0105 przechodz\u0105c\u0105 przez najwy\u017cszy punkt dowolnego\nobiektu, wed\u0142ug kt\u00f3rego wyznacza si\u0119 wysoko\u015b\u0107 zapewniaj\u0105c\u0105 minimalne przewy\u017cszenie\nnad przeszkodami, o kt\u00f3rej mowa w pkt 11.10.7.2 rozdzia\u0142u 11 \u201eMapa podej\u015bcia wed\u0142ug\nwskaza\u0144 przyrz\u0105d\u00f3w - ICAO\u201d Za\u0142\u0105cznika 4 \u201eMapy lotnicze\u201d do Konwencji o mi\u0119dzynarodowym\nlotnictwie cywilnym, sporz\u0105dzonej w Chicago dnia 7 grudnia 1944 r., og\u0142oszonego w\nza\u0142\u0105czniku do obwieszczenia nr 13 Prezesa Urz\u0119du Lotnictwa Cywilnego z dnia 2 czerwca\n2023 r. w sprawie og\u0142oszenia tekstu Za\u0142\u0105cznika 4 do Konwencji o mi\u0119dzynarodowym lotnictwie\ncywilnym, sporz\u0105dzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 41), w\nzale\u017cno\u015bci od tego, kt\u00f3ra z tych wysoko\u015bci jest wi\u0119ksza.\u201d;\n4)\nw \u00a7 23:\na)\nw ust. 4 dodaje si\u0119 zdanie drugie w brzmieniu:\n\u201ePrzy okre\u015blaniu g\u00f3rnego poziomu obiekt\u00f3w zabudowy nie uwzgl\u0119dnia si\u0119 s\u0105siaduj\u0105cych\nprzeszk\u00f3d lotniczych.\u201d,\nb)\nw ust. 5 dodaje si\u0119 zdanie drugie w brzmieniu:\n\u201ePrzy okre\u015blaniu g\u00f3rnego poziomu obiekt\u00f3w zabudowy nie uwzgl\u0119dnia si\u0119 s\u0105siaduj\u0105cych\nprzeszk\u00f3d lotniczych.\u201d;\n5)\nw \u00a7 24 ust. 1 otrzymuje brzmienie:\n\u201e1.\nPrzeszkod\u0119 lotnicz\u0105, kt\u00f3rej rzut na co najmniej jedn\u0105 z p\u0142aszczyzn pionowych ma w\nobu wymiarach 1,5 m albo wi\u0119cej, a stosunek wymiaru d\u0142u\u017cszego do kr\u00f3tszego przeszkody\nlotniczej wynosi 3 lub wi\u0119cej, nieb\u0119d\u0105c\u0105 elektrowni\u0105 wiatrow\u0105 albo morsk\u0105 turbin\u0105\nwiatrow\u0105, oznakowuje si\u0119 przez pomalowanie w pasy prostopad\u0142e do d\u0142u\u017cszego z jej wymiar\u00f3w.\u201d;\n6)\n\u00a7 26 otrzymuje brzmienie:\n\u201e\u00a7 26.\nPrzeszkod\u0119 lotnicz\u0105 inn\u0105 ni\u017c przeszkody lotnicze, o kt\u00f3rych mowa w \u00a7 24 i \u00a7 25, nieb\u0119d\u0105c\u0105\nelektrowni\u0105 wiatrow\u0105, morsk\u0105 turbin\u0105 wiatrow\u0105 i przewodami linii napowietrznych albo\nich zespo\u0142em, oznakowuje si\u0119 przez pomalowanie kolorem czerwonym albo pomara\u0144czowym,\na w przypadku gdy kolory te nie s\u0105 widoczne na tle otoczenia przeszkody lotniczej\n- u\u017cywa si\u0119 koloru kontrastuj\u0105cego z otoczeniem, na tle kt\u00f3rego b\u0119dzie widziany.\u201d;\n7)\nw \u00a7 27 zdanie pierwsze otrzymuje brzmienie:\n\u201ePrzeszkod\u0119 lotnicz\u0105 b\u0119d\u0105c\u0105 elektrowni\u0105 wiatrow\u0105 albo morsk\u0105 turbin\u0105 wiatrow\u0105 oznakowuje\nsi\u0119 przez pomalowanie kolorem bia\u0142ym.\u201d;\n8)\nw \u00a7 33 ust. 1 otrzymuje brzmienie:\n\u201e1.\nOznakowanie przeszkody lotniczej otoczonej zabudow\u0105 lub lasem wykonuje si\u0119 od najwy\u017cszego\npunktu albo najwy\u017cszego poziomu przeszkody lotniczej do g\u00f3rnego poziomu obiekt\u00f3w zabudowy\nlub g\u00f3rnego poziomu lasu, a cz\u0119\u015b\u0107 oznakowania poni\u017cej g\u00f3rnego poziomu obiekt\u00f3w zabudowy\nlub g\u00f3rnego poziomu lasu mo\u017ce zosta\u0107 pomini\u0119ta. Przy okre\u015blaniu g\u00f3rnego poziomu obiekt\u00f3w\nzabudowy nie uwzgl\u0119dnia si\u0119 s\u0105siaduj\u0105cych przeszk\u00f3d lotniczych.\u201d;\n9)\npo \u00a7 37 dodaje si\u0119 \u00a7 37a w brzmieniu:\n\u201e\u00a7 37a.\n1.\nOznakowanie nocne przeszkody lotniczej b\u0119d\u0105cej morsk\u0105 turbin\u0105 wiatrow\u0105 wykonuje si\u0119\nprzez u\u017cycie \u015bwiat\u0142a przeszkodowego \u015bredniej intensywno\u015bci typu B, umieszczonego na\nnajwy\u017cszym punkcie gondoli, przy czym dopuszcza si\u0119 umieszczenie tego \u015bwiat\u0142a ni\u017cej\nna gondoli pod warunkiem zapewnienia jego widoczno\u015bci dla statk\u00f3w powietrznych w zakresie\n360\u00b0 oraz wykluczenia mo\u017cliwo\u015bci kolizji z prac\u0105 serwisowych statk\u00f3w powietrznych\nobs\u0142uguj\u0105cych tak\u0105 morsk\u0105 turbin\u0119 wiatrow\u0105.\n2.\nPrzeszkod\u0119 lotnicz\u0105, o kt\u00f3rej mowa w ust. 1, o wysoko\u015bci 150 m powy\u017cej poziomu otaczaj\u0105cej\nwody i wy\u017csz\u0105 oznakowuje si\u0119 dodatkowo przez u\u017cycie co najmniej trzech \u015bwiate\u0142 niskiej\nintensywno\u015bci typu E umieszczonych na jednym poziomie wyznaczonym w po\u0142owie odleg\u0142o\u015bci\n(z tolerancj\u0105 do 10 %) mi\u0119dzy \u015brednim poziomem morza a najwy\u017cszym punktem gondoli.\n3.\nNa przeszkodzie lotniczej, o kt\u00f3rej mowa w ust. 1, o wysoko\u015bci 150 m powy\u017cej poziomu\notaczaj\u0105cej wody i wy\u017cszej umieszcza si\u0119 rezerwowe \u015bwiat\u0142o przeszkodowe \u015bredniej intensywno\u015bci\ntypu B, kt\u00f3re uruchamia si\u0119 automatycznie w przypadku awarii \u015bwiat\u0142a przeszkodowego,\no kt\u00f3rym mowa w ust. 1.\n4.\nW przypadku gdy co najmniej dwie przeszkody lotnicze, o kt\u00f3rych mowa w ust. 1, znajduj\u0105\nsi\u0119 w odleg\u0142o\u015bci do 1852 m od siebie, rozmieszczone na nich \u015bwiat\u0142a przeszkodowe b\u0142yskaj\u0105\nr\u00f3wnocze\u015bnie.\u201d;\n10)\nw \u00a7 40 w ust. 2 uchyla si\u0119 pkt 11;\n11)\nw \u00a7 41 pkt 2 otrzymuje brzmienie:\n\u201e2)\nco najmniej trzy przeszkody lotnicze nieb\u0119d\u0105ce elektrowniami wiatrowymi albo morskimi\nturbinami wiatrowymi znajduj\u0105 si\u0119 w odleg\u0142o\u015bci nie wi\u0119kszej ni\u017c 100 m mi\u0119dzy kolejnymi\nprzeszkodami lotniczymi znajduj\u0105cymi si\u0119 w granicach powierzchni ograniczaj\u0105cych przeszkody\nalbo nie wi\u0119cej ni\u017c 900 m mi\u0119dzy kolejnymi przeszkodami lotniczymi znajduj\u0105cymi si\u0119\npoza granicami powierzchni ograniczaj\u0105cych przeszkody, lub\u201d;\n12)\nw \u00a7 46 w ust. 2 pkt 1 i 2 otrzymuj\u0105 brzmienie:\n\u201e1)\nb\u0119d\u0105ce \u015bwiat\u0142ami podej\u015bcia, \u015bwiat\u0142ami drogi startowej, \u015bwiat\u0142ami zabezpieczenia przerwanego\nstartu, \u015bwiat\u0142ami drogi ko\u0142owania lub wska\u017anikami \u015bcie\u017cki podej\u015bcia;\n2)\nb\u0119d\u0105ce znakami pionowymi, oznacznikami granicy pola wzlot\u00f3w, oznacznikami dla drogi\nstartowej pokrytej \u015bniegiem lub oznacznikami dr\u00f3g ko\u0142owania bez nawierzchni sztucznej;\u201d;\n13)\nw \u00a7 52 ust. 2 otrzymuje brzmienie:\n\u201e2.\nDopuszcza si\u0119 powstanie obiektu, o kt\u00f3rym mowa w art. 87 ust. 4 ustawy, po z\u0142o\u017ceniu\nprzez zarz\u0105dzaj\u0105cego lotniskiem albo jednostk\u0119 organizacyjn\u0105 zarz\u0105dzaj\u0105c\u0105 lotniskiem\nwpisanym wy\u0142\u0105cznie do rejestru lotnisk i l\u0105dowisk wojskowych albo wpisanym wy\u0142\u0105cznie\ndo rejestru lotnisk i l\u0105dowisk lotnictwa s\u0142u\u017cb porz\u0105dku publicznego, w kt\u00f3rego granicach\npowierzchni ograniczaj\u0105cych przeszkody ma znajdowa\u0107 si\u0119 ten obiekt, wniosku o publikacj\u0119\ninformacji NOTAM lub suplementu, o kt\u00f3rych mowa w rozdziale 6 \u201eAktualizacje informacji\nlotniczych\u201d Za\u0142\u0105cznika 15 \u201eS\u0142u\u017cby informacji lotniczej\u201d do Konwencji o mi\u0119dzynarodowym\nlotnictwie cywilnym, sporz\u0105dzonej w Chicago dnia 7 grudnia 1944 r., og\u0142oszonego w\nza\u0142\u0105czniku do obwieszczenia nr 20 Prezesa Urz\u0119du Lotnictwa Cywilnego z dnia 30 grudnia\n2020 r. w sprawie og\u0142oszenia tekstu Za\u0142\u0105cznika 15 do Konwencji o mi\u0119dzynarodowym lotnictwie\ncywilnym, sporz\u0105dzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 80), i\noznakowaniu obiektu zgodnie z wymaganiami okre\u015blonymi w rozdziale 4.\u201d;\n14)\nw \u00a7 54 ust. 6 otrzymuje brzmienie:\n\u201e6.\nInformacje, o kt\u00f3rych mowa w ust. 4 pkt 1 lit. e-h, zawarte w zg\u0142oszeniu przeszkody\nlotniczej, o kt\u00f3rym mowa w ust. 3 pkt 2, pochodz\u0105 z geodezyjnych pomiar\u00f3w sytuacyjnych\ni wysoko\u015bciowych, wykonanych zgodnie ze standardami okre\u015blonymi w przepisach wydanych\nna podstawie art. 19 ust. 1 pkt 11 ustawy - Prawo geodezyjne i kartograficzne przez\nosob\u0119 posiadaj\u0105c\u0105 odpowiednie uprawnienia zawodowe, o kt\u00f3rych mowa w art. 43 tej ustawy.\u201d;\n15)\nw \u00a7 57 wyrazy \u201eoraz ministrowi w\u0142a\u015bciwemu do spraw wewn\u0119trznych\u201d zast\u0119puje si\u0119 wyrazami \u201e, ministrowi w\u0142a\u015bciwemu do spraw wewn\u0119trznych oraz do Mi\u0119dzynarodowego Biura NOTAM\u201d;\n16)\nw \u00a7 59 pkt 1 otrzymuje brzmienie:\n\u201e1)\nt\u0142ocznie gazu ziemnego i stacje gazowe, mog\u0105ce spowodowa\u0107 niekontrolowany upust gazu\no chmurze zagra\u017caj\u0105cej wybuchem:\na)\nwy\u017cszej ni\u017c 10 metr\u00f3w nad poziom terenu - w przypadku gdy znajduj\u0105 si\u0119 w granicach\npowierzchni ograniczaj\u0105cych przeszkody, a chmura zagra\u017caj\u0105ca wybuchem b\u0119dzie wy\u017csza\nni\u017c wysoko\u015bci okre\u015blone przez te powierzchnie,\nb)\nwy\u017cszej ni\u017c 100 metr\u00f3w nad poziom terenu - w przypadku gdy znajduj\u0105 si\u0119 poza granicami\npowierzchni ograniczaj\u0105cych przeszkody;\u201d;\n17)\nw za\u0142\u0105czniku nr 3 do rozporz\u0105dzenia:\na)\ntytu\u0142 otrzymuje brzmienie:\n\u201eMaksymalne warto\u015bci wysoko\u015bci i nachylenia oraz minimalne warto\u015bci innych wymiar\u00f3w\npowierzchni ograniczaj\u0105cych przeszkody dla dr\u00f3g startowych na lotniskach dla samolot\u00f3w\u201d,\nb)\ntabela 2 \u201eParametry powierzchni wznoszenia dla dr\u00f3g startowych przeznaczonych do startu\u201d\notrzymuje brzmienie okre\u015blone w za\u0142\u0105czniku do niniejszego rozporz\u0105dzenia;\n18)\ntytu\u0142 za\u0142\u0105cznika nr 5 do rozporz\u0105dzenia otrzymuje brzmienie:\n\u201eSpos\u00f3b oznakowania dziennego przez pomalowanie przeszkody lotniczej otoczonej zabudow\u0105\nlub lasem\u201d.\n\u00a7 2.\n1.\nZg\u0142oszenia stacji gazowych, o kt\u00f3rych mowa w \u00a7 59 pkt 1 rozporz\u0105dzenia zmienianego\nw \u00a7 1 w brzmieniu nadanym niniejszym rozporz\u0105dzeniem, u\u017cytkowanych przed dniem wej\u015bcia\nw \u017cycie niniejszego rozporz\u0105dzenia, dokonuje si\u0119 w terminie 6 miesi\u0119cy od dnia wej\u015bcia\nw \u017cycie niniejszego rozporz\u0105dzenia.\n2.\nDo zg\u0142oszenia, o kt\u00f3rym mowa w ust. 1, stosuje si\u0119 \u00a7 55 ust. 1, 2 i ust. 4 pkt 1-8\ni 10 rozporz\u0105dzenia zmienianego w \u00a7 1.\n\u00a7 3.\nDo post\u0119powa\u0144 wszcz\u0119tych i niezako\u0144czonych przed dniem wej\u015bcia w \u017cycie niniejszego\nrozporz\u0105dzenia dotycz\u0105cych zwolnienia z obowi\u0105zku oznakowania przeszkody lotniczej\nalbo zezwolenia na zmian\u0119 sposobu lub rodzaju jej oznakowania stosuje si\u0119 przepisy\ndotychczasowe.\n\u00a7 4.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\nZa\u0142\u0105cznik\n-\nTabela 2. Parametry powierzchni wznoszenia dla dr\u00f3g startowych przeznaczonych do startu\nDROGI STARTOWE PRZEZNACZONE DO STARTU\nPowierzchnia i parametry\nCyfra kodu referencyjnego lotniska\n1\n2\n3 lub 4\n(1)\n(2)\n(3)\n(4)\nPOWIERZCHNIA WZNOSZENIA\nD\u0142ugo\u015b\u0107 kraw\u0119dzi dolnej (dla dr\u00f3g startowych o nawierzchni sztucznej)\n60m d)\n80 m d)\n180 m\nD\u0142ugo\u015b\u0107 kraw\u0119dzi dolnej (dla dr\u00f3g startowych bez nawierzchni sztucznej)\n70 m\n70 m\n110m\nOdleg\u0142o\u015b\u0107 od ko\u0144ca drogi startowej b)\n30 m\n60 m\n60 m\nRozchylenie (z ka\u017cdej strony)\n10%\n10%\n12,5 %\nSzeroko\u015b\u0107 ko\u0144cowa\n380 m\n580 m\n1200 m 1800 m c)\nD\u0142ugo\u015b\u0107\n1600 m\n2500 m\n15 000 m\nNachylenie a)\n5%\n4%\n2 % e)\na) Mierzone w p\u0142aszczy\u017anie pionowej. b) Powierzchnia wznoszenia zaczyna si\u0119 na ko\u0144cu zabezpieczenia wyd\u0142u\u017conego startu, je\u017celi\nd\u0142ugo\u015b\u0107 tego zabezpieczenia przekracza 30 m dla drogi startowej o cyfrze kodu referencyjnego\nlotniska 1 albo 60 m dla drogi startowej o cyfrze kodu referencyjnego lotniska 2-4. c) 1800 m, je\u017celi przewidywana \u015bcie\u017cka wznoszenia zawiera zmian\u0119 kierunku wi\u0119ksz\u0105 ni\u017c\n15\u015f przy wykonywaniu operacji w warunkach meteorologicznych do lot\u00f3w z wykorzystaniem\nprzyrz\u0105d\u00f3w (IMC) lub warunkach meteorologicznych do lot\u00f3w z widoczno\u015bci\u0105 (VMC) w nocy. d) Je\u017celi istnieje zabezpieczenie wyd\u0142u\u017conego startu, d\u0142ugo\u015b\u0107 kraw\u0119dzi dolnej powinna\nwynosi\u0107 150 m. e) Je\u017celi \u017caden obiekt nie osi\u0105ga wysoko\u015bci powierzchni wznoszenia o nachyleniu 2 %\n(1:50), mo\u017cna ustanowi\u0107 powierzchni\u0119 woln\u0105 od przeszk\u00f3d o nachyleniu 1,6% (1:62,5).\nPrzeprowadza si\u0119 analiz\u0119 parametr\u00f3w operacyjnych samolot\u00f3w, dla kt\u00f3rych dana droga\nstartowa jest przeznaczona, aby okre\u015bli\u0107, czy po\u017c\u0105dane jest zmniejszenie nachylenia,\nje\u017celi maj\u0105 by\u0107 spe\u0142nione krytyczne warunki operacji lotniczych. W przypadku zmniejszenia\nnachylenia nale\u017cy dokona\u0107 korekty d\u0142ugo\u015bci powierzchni wznoszenia w taki spos\u00f3b, aby\nzapewni\u0107 zabezpieczenie do wysoko\u015bci 300 m."
+    },
+    "meta": {},
+    "created_at": "2026-11-06T15:29:16.278788Z",
+    "updated_at": "2026-11-06T15:29:16.278788Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 276,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": true,
+  "created_at": "2026-11-06T15:29:16.372141Z",
+  "updated_at": "2026-11-06T15:29:16.372141Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": null,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

@@ -1,0 +1,3546 @@
+{
+  "id": 7,
+  "result": [
+    {
+      "value": {
+        "start": 825,
+        "end": 829,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "_mzjm4fEWs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 830,
+        "end": 832,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "F0DWXRQB8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 833,
+        "end": 837,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Q37kJCr_jc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 838,
+        "end": 839,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fbQ6JzLEN4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 840,
+        "end": 846,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "bM_ChZv-6_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 847,
+        "end": 855,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "X_U0ti4AVY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 955,
+        "end": 976,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "qW139XXj-z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 977,
+        "end": 981,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "x20M8jjx0X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1478,
+        "end": 1489,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "qdzksFozJ9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1490,
+        "end": 1494,
+        "text": "1821",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "REus9qN_TF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1667,
+        "end": 1671,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "k62bSTDpJs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1672,
+        "end": 1674,
+        "text": "21",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "nUN_1bhs5Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1990,
+        "end": 1994,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "fPEbLLhZZB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1995,
+        "end": 1997,
+        "text": "23",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "J2rgg5V7B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2000,
+        "end": 2004,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "w9vvZjiIfH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2005,
+        "end": 2006,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "E9QJzmDzvm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2007,
+        "end": 2010,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "33oAZoNPAz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2011,
+        "end": 2012,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "qYThGGhgzH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2114,
+        "end": 2118,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "a2pP-kQYgL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2119,
+        "end": 2120,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "jRcMVyYh2R",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2373,
+        "end": 2377,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "HGQ_NKlFWn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2378,
+        "end": 2379,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "6eYlxlykNI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2380,
+        "end": 2381,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "WBZwTKwQk1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2573,
+        "end": 2584,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "31f9QxXMqJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2585,
+        "end": 2589,
+        "text": "1821",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "JERd4Fpik1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2765,
+        "end": 2769,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "gJzkVCvJZH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2770,
+        "end": 2771,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "VPE7VrrAaL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2772,
+        "end": 2776,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "aLnxPaPpCR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2777,
+        "end": 2778,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "8orI6uR_ez",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2799,
+        "end": 2803,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "NEPJnzp9Ch",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2804,
+        "end": 2805,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "h0w5Osrf5X",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3441,
+        "end": 3445,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "IihGuU04dT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3446,
+        "end": 3447,
+        "text": "6",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "2MCjxTbsGX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3448,
+        "end": 3452,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "nYLl5X4OQJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3453,
+        "end": 3454,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BdlkG66qfp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3475,
+        "end": 3479,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "0qVxQz1KO9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3480,
+        "end": 3481,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "iuczyEyIJ3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3742,
+        "end": 3746,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "EDjos9zOSq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3747,
+        "end": 3748,
+        "text": "6",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "NvMOIaBLE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3749,
+        "end": 3753,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "qCg9UNL4_N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3754,
+        "end": 3755,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "P1aseubDQ_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3776,
+        "end": 3780,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "2llkOEUo5_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 3781,
+        "end": 3782,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "iKo2vwz-mw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4002,
+        "end": 4006,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "hQAVamUk90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4007,
+        "end": 4008,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zETVOjPrBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4122,
+        "end": 4126,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "oHKIswtknN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4127,
+        "end": 4128,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "bxhcxaenHx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4129,
+        "end": 4133,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "B5_c1GLahG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4134,
+        "end": 4135,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "H9x6ZMG2Cc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4138,
+        "end": 4142,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "JL16AFV_oP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4143,
+        "end": 4144,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "QqevSUXhLb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4145,
+        "end": 4149,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "bXHBq4LWtK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4150,
+        "end": 4151,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "7p4Rq-CUdL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4172,
+        "end": 4176,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "_3ya3etODa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4177,
+        "end": 4178,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "VvSE-iG7HV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4299,
+        "end": 4303,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "WYOq21dwYD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4304,
+        "end": 4305,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fUkCPGSgSc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4306,
+        "end": 4309,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "CJNqRtrQdQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4310,
+        "end": 4311,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "DyQ3NDcAGP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4314,
+        "end": 4315,
+        "text": "5",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "UKGnnPy-Iv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4469,
+        "end": 4473,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "lrwvyuemdB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4474,
+        "end": 4475,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "BCErTM88ZY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4476,
+        "end": 4480,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "y_5Ll5yX0n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4481,
+        "end": 4482,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "USIji678TN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4503,
+        "end": 4507,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "erGdDvirWu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4508,
+        "end": 4509,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "9yQ2T4pk7x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4818,
+        "end": 4822,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "mKf8zzFBuu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4823,
+        "end": 4825,
+        "text": "20",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "y6mimR7RPR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4826,
+        "end": 4830,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "H7lQkkyspZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4831,
+        "end": 4832,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "pqPBHjxi0T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4853,
+        "end": 4857,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "MCvYlE-fOr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 4858,
+        "end": 4859,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "um_Aur4qNe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7545,
+        "end": 7549,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "jUgg8bPRHX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7550,
+        "end": 7551,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "GhjhUqMocu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7552,
+        "end": 7555,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "50yv4khO-G",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7556,
+        "end": 7557,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "3m5pkOvBWA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7749,
+        "end": 7760,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "PpJb2Pd2dn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 7761,
+        "end": 7765,
+        "text": "1821",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "We2nrkJY0K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8755,
+        "end": 8759,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "76CqTfiVJp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8760,
+        "end": 8761,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "VG0FRYBJCa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8762,
+        "end": 8765,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "rIYWVxoMQU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8766,
+        "end": 8767,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "rbs_NPOfs-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8768,
+        "end": 8772,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "bgCqLKSP28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8773,
+        "end": 8774,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "_r6pbEMlwd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8990,
+        "end": 8994,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "9K101ZTyer",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8995,
+        "end": 8996,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "ZGCPVMwp7J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 8997,
+        "end": 9000,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "s-hwgDYFWU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9001,
+        "end": 9002,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "vbdtlpsVi_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9003,
+        "end": 9007,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "ua8hPmTALK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9008,
+        "end": 9009,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "FqhmZeFQ99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9231,
+        "end": 9235,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "JF27lugX43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9236,
+        "end": 9237,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "U3HPAkPG6W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9311,
+        "end": 9315,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "xVkWjRndYz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9316,
+        "end": 9317,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "1au6C4mjEI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9318,
+        "end": 9321,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "NBvgZUX2Ig",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9322,
+        "end": 9323,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ebx2i4_3XJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9324,
+        "end": 9328,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "jDT60hId6S",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9329,
+        "end": 9330,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "Se_pxtsBbn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9559,
+        "end": 9563,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "ahAtclW0Lq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9564,
+        "end": 9565,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "k__rDnBeQj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9566,
+        "end": 9569,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "5GpkMOAEMI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 9570,
+        "end": 9571,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "8GFr2Aay_F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10001,
+        "end": 10005,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "7G35sOwmBe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10006,
+        "end": 10007,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "MO5eC6QXBc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10008,
+        "end": 10011,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "Ygs1ELcvUQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10012,
+        "end": 10013,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "zXxtolI7Pf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10014,
+        "end": 10018,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "nN6sQDJxfa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10019,
+        "end": 10020,
+        "text": "c",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "GrrEYK1v7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10105,
+        "end": 10109,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "3ONR6oKkyO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10110,
+        "end": 10111,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "f54w43goiY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10840,
+        "end": 10844,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1Z2K4XPLrK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10845,
+        "end": 10846,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "z5PhsO_zKF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10847,
+        "end": 10851,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dhL1r_2vQB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10852,
+        "end": 10853,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "-ILjdDzbZk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10856,
+        "end": 10857,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ryeIwBgqCz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10914,
+        "end": 10918,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Ara5zFCiIm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 10919,
+        "end": 10920,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "6uqtbH0y8O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11078,
+        "end": 11082,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3GpBexMMa-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11083,
+        "end": 11084,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "hvr0ke6XUQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11085,
+        "end": 11088,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "xUhavN0yNu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11089,
+        "end": 11090,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Ljc2n0-x4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11302,
+        "end": 11306,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "eErFhxjIBK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11307,
+        "end": 11308,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "C-av7OatBl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11309,
+        "end": 11313,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "fw7dEhXAiP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11314,
+        "end": 11315,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "ogtO_XDHWo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11403,
+        "end": 11407,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "3CxH6ujwKc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11408,
+        "end": 11409,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "qqMmTNvkFj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11410,
+        "end": 11414,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "e9CiPZoGjC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11415,
+        "end": 11416,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "1oLTzMaNQL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11571,
+        "end": 11575,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "7Ry0-MyJ3z",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11576,
+        "end": 11577,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Tf5uOEYfFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11578,
+        "end": 11581,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "cVKXw7KAnX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11582,
+        "end": 11583,
+        "text": "3",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "yhj29MK2kR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11798,
+        "end": 11802,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "LJK_ooZrce",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11803,
+        "end": 11804,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "4BuGR3GJoh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11805,
+        "end": 11809,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "v1rq-MF1Pp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11810,
+        "end": 11811,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "i2LgMTM3N6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11814,
+        "end": 11815,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "FdDy-FD9x6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11992,
+        "end": 11996,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "PYgcKLB8pX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11997,
+        "end": 11998,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "pJrvbq0ppe",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 11999,
+        "end": 12003,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Bu7v9M_5lr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12004,
+        "end": 12005,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "jWBbO5WNYa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12260,
+        "end": 12264,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "QhhFKD_qL_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 12265,
+        "end": 12266,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "argjXuUGyY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13094,
+        "end": 13098,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "X1BQ0mTXSO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13099,
+        "end": 13100,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zTjambMYRv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13172,
+        "end": 13176,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "b_ajNYUzix",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13177,
+        "end": 13178,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "OcBQ9kUowB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13179,
+        "end": 13183,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "aiGikE8Iyw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13184,
+        "end": 13185,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "uqT7vAzlF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13309,
+        "end": 13313,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "dqk3xC7omp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13314,
+        "end": 13315,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "tMEMR2Ysfc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13325,
+        "end": 13329,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "93vYzEvfIj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13330,
+        "end": 13331,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "M4CLB2FN47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13332,
+        "end": 13336,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "OLvbr1gDm1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13337,
+        "end": 13338,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_3XyOXO5bo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13440,
+        "end": 13444,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "OqpdOlE4Il",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13445,
+        "end": 13446,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "r3MCUyVZcn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13449,
+        "end": 13450,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "SNs_qUSqv5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13843,
+        "end": 13847,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "1teBpHZlJo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 13848,
+        "end": 13849,
+        "text": "3",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "u8OMOqqvxY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14159,
+        "end": 14163,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "y6QolzqoFp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14164,
+        "end": 14165,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "id83P84-IV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14166,
+        "end": 14170,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "_kkCkPf8RO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14171,
+        "end": 14172,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "2U8x2-avSl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14175,
+        "end": 14176,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "hCAODYabOy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14182,
+        "end": 14186,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "i3u6ITT6w8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 14187,
+        "end": 14188,
+        "text": "9",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "dosex-pyt8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15558,
+        "end": 15562,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "tabpm7YqI7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15563,
+        "end": 15564,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "uf3917x56P",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15565,
+        "end": 15569,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "1hUESe-Dgo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 15570,
+        "end": 15571,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "VpnoRurRjy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16472,
+        "end": 16476,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "4O0ITL3KYJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16477,
+        "end": 16478,
+        "text": "8",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "uJHpmnZnfr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16479,
+        "end": 16483,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "sRG1KS6-tB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16484,
+        "end": 16485,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "8CaJj9ub7h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16488,
+        "end": 16489,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "zhzIDWvPYH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16495,
+        "end": 16499,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "c2vmbYU5FW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 16500,
+        "end": 16501,
+        "text": "9",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "NdZmJbfZq3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18199,
+        "end": 18203,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "-by1LcYiTR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 18204,
+        "end": 18205,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "_KFsS4KTSa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19011,
+        "end": 19015,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "XclXfTj0mW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19016,
+        "end": 19018,
+        "text": "19",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "-Dj3xSipQC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19019,
+        "end": 19023,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Lulik6k-L1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19024,
+        "end": 19025,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "uPcDFnD_k7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19153,
+        "end": 19157,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "dqViya9JHt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19158,
+        "end": 19159,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "w7M0AKS3XT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19160,
+        "end": 19163,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "6vMVvKGyvU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19164,
+        "end": 19165,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "y8Gqi3EpRZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19166,
+        "end": 19170,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "eiwLO4AcTr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 19171,
+        "end": 19172,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "0IztzvC4Mn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20209,
+        "end": 20213,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "b2pc9tHpq9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20214,
+        "end": 20215,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "2PicN6gtnN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20216,
+        "end": 20219,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "zZHjtJIv6S",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20220,
+        "end": 20221,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "_rV7JkkEN_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20222,
+        "end": 20226,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "AJLBJvYnGE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20227,
+        "end": 20228,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "qF6PiZetK4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20488,
+        "end": 20492,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "ACIkiSv_4i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20493,
+        "end": 20494,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "tb1w5L-mKM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20495,
+        "end": 20498,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "3Vb92lnF4W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20499,
+        "end": 20500,
+        "text": "4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "O7Ga1-DifZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20501,
+        "end": 20505,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "Ke2uqBLeMu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 20506,
+        "end": 20507,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "7NUYQ5GwIS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21433,
+        "end": 21437,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "980-xQ_2ny",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21438,
+        "end": 21439,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "5wr08mOpYL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21440,
+        "end": 21444,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "GcN3-YI7of",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21445,
+        "end": 21446,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "fR7laJhUQE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21829,
+        "end": 21833,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "zkwvhIJ-Lf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21834,
+        "end": 21835,
+        "text": "6",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Sq3fHivu-r",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21836,
+        "end": 21840,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "Md11Z1nlTP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 21841,
+        "end": 21842,
+        "text": "4",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "BTrUVog9Ok",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22068,
+        "end": 22072,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "5WDX8uw7ni",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22073,
+        "end": 22074,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "cXxibO-lNr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22258,
+        "end": 22269,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "mMgd_16Wm3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22270,
+        "end": 22273,
+        "text": "124",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "p6ldQLhC-F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22279,
+        "end": 22293,
+        "text": "z 2003 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "rfTFhMUoX7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22294,
+        "end": 22297,
+        "text": "508",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "57cgg0476g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22379,
+        "end": 22383,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "Z0q9Beu84c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22384,
+        "end": 22385,
+        "text": "4",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "1nRhX6M9W0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22386,
+        "end": 22390,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "kx5eZ1NR6c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22391,
+        "end": 22392,
+        "text": "2",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "3pU1hcThCR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22395,
+        "end": 22399,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "lPlF7v8QbS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22400,
+        "end": 22401,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "WbAS63TbQ7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22402,
+        "end": 22406,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "j2mM_neCDY",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 22407,
+        "end": 22408,
+        "text": "3",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "T_EDBo-3tt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1225,
+        "end": 1243,
+        "text": "Dz. U. Nr 90, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "0094QtqfMr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1244,
+        "end": 1247,
+        "text": "759",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Y9bnqsweRP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1847,
+        "end": 1865,
+        "text": "Dz. U. Nr 90, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "5HJwXByi95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1866,
+        "end": 1869,
+        "text": "759",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "3WYd4NEtat",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1962,
+        "end": 1981,
+        "text": "Dz. U. Nr 116, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WzQzWBbh1h",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1982,
+        "end": 1986,
+        "text": "1206",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "daPPlqahnt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2293,
+        "end": 2311,
+        "text": "Dz. U. Nr 90, poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "WqaDhiMPI4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 2312,
+        "end": 2315,
+        "text": "759",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "IMx38KHxVw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 7,
+    "data": {
+      "text": "Obwieszczenie Marsza\u0142ka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu ustawy o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du\nTerytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w\nUnii Europejskiej\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity ustawy z dnia 6 maja 2005 r. o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du\nTerytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w\nUnii Europejskiej\nRozdzia\u0142 1 - Przepis og\u00f3lny\nRozdzia\u0142 2 - Komisja Wsp\u00f3lna Rz\u0105du i Samorz\u0105du Terytorialnego\nRozdzia\u0142 3 - Zasady i tryb wyznaczania kandydat\u00f3w na przedstawicieli Rzeczypospolitej Polskiej\nw Komitecie Region\u00f3w Unii Europejskiej\nRozdzia\u0142 4 - Przepisy zmieniaj\u0105ce, przej\u015bciowe i dostosowuj\u0105ce\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych\ni niekt\u00f3rych innych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 maja 2005 r. o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego oraz\no przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w Unii Europejskiej\n(Dz. U. Nr 90, poz. 759), z uwzgl\u0119dnieniem zmian wprowadzonych ustaw\u0105 z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du\nTerytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w\nUnii Europejskiej\n(Dz. U. poz. 1821) oraz zmian wynikaj\u0105cych z przepis\u00f3w og\u0142oszonych przed dniem 21 czerwca 2024 r.\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:\n1)\nart. 21 ustawy z dnia 6 maja 2005 r. o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego\noraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w Unii Europejskiej\n(Dz. U. Nr 90, poz. 759), kt\u00f3ry stanowi:\n\u201eArt. 21.\nW ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju\n(Dz. U. Nr 116, poz. 1206) w art. 23 w ust. 4 pkt 5 otrzymuje brzmienie:\n\u201e5)\nog\u00f3lnopolskich organizacji jednostek samorz\u0105du terytorialnego okre\u015blonych w art. 5 ustawy z dnia 6 maja 2005 r. o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego\noraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w Unii Europejskiej\n(Dz. U. Nr 90, poz. 759), zwanych dalej \u201eog\u00f3lnopolskimi organizacjami\u201d;\u201d.\u201d;\u201d;\n2)\nart. 2-4 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wsp\u00f3lnej Rz\u0105du\ni Samorz\u0105du Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie\nRegion\u00f3w Unii Europejskiej\n(Dz. U. poz. 1821), kt\u00f3re stanowi\u0105:\n\u201eArt. 2.\n1.\nDo up\u0142ywu kadencji organ\u00f3w jednostek samorz\u0105du terytorialnego, w trakcie kt\u00f3rej niniejsza\nustawa wesz\u0142a w \u017cycie, organizacjami, o kt\u00f3rych mowa w art. 5 ust. 1 ustawy zmienianej\nw art. 1 w brzmieniu nadanym niniejsz\u0105 ustaw\u0105, s\u0105 odpowiednio:\n1)\ndla jednostek samorz\u0105du gminnego:\na)\nUnia Metropolii Polskich,\nb)\nZwi\u0105zek Miast Polskich,\nc)\nUnia Miasteczek Polskich,\nd)\nZwi\u0105zek Gmin Wiejskich Rzeczypospolitej Polskiej;\n2)\ndla jednostek samorz\u0105du powiatowego - Zwi\u0105zek Powiat\u00f3w Polskich;\n3)\ndla jednostek samorz\u0105du wojew\u00f3dztwa - Zwi\u0105zek Wojew\u00f3dztw Rzeczypospolitej Polskiej;\n4)\ndla wszystkich kategorii jednostek samorz\u0105du terytorialnego - Zwi\u0105zek Samorz\u0105d\u00f3w Polskich;\n5)\ndla regionalnych organizacji samorz\u0105dowych - Og\u00f3lnopolskie Porozumienie Organizacji\nSamorz\u0105dowych.\n2.\nRada Ministr\u00f3w wyda rozporz\u0105dzenie, o kt\u00f3rym mowa w art. 6 ust. 4 ustawy zmienianej\nw art. 1 w brzmieniu nadanym niniejsz\u0105 ustaw\u0105, w terminie 6 miesi\u0119cy od dnia rozpocz\u0119cia\nkadencji organ\u00f3w jednostek samorz\u0105du terytorialnego nast\u0119puj\u0105cej po kadencji, w trakcie\nkt\u00f3rej niniejsza ustawa wesz\u0142a w \u017cycie.\n3.\nDo czasu wydania rozporz\u0105dzenia, o kt\u00f3rym mowa w art. 6 ust. 4 ustawy zmienianej w\nart. 1 w brzmieniu nadanym niniejsz\u0105 ustaw\u0105, Komisja Wsp\u00f3lna Rz\u0105du i Samorz\u0105du Terytorialnego\ndzia\u0142a w sk\u0142adzie przedstawicieli wyznaczonych przez og\u00f3lnopolskie organizacje jednostek\nsamorz\u0105du terytorialnego, o kt\u00f3rych mowa w ust. 1. Zmiany przedstawicieli w Komisji\nWsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego nast\u0119puj\u0105 z uwzgl\u0119dnieniem przepis\u00f3w art.\n4 ust. 2 i art. 5 ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejsz\u0105\nustaw\u0105.\n4.\nOg\u00f3lnopolskie organizacje jednostek samorz\u0105du terytorialnego, o kt\u00f3rych mowa w ust.\n1 pkt 4 i 5, wyznaczaj\u0105 przedstawicieli w Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego\nw terminie 1 miesi\u0105ca od dnia wej\u015bcia w \u017cycie niniejszej ustawy. Przepis art. 5 ust.\n3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejsz\u0105 ustaw\u0105 stosuje si\u0119.\nArt. 3.\nDo wyznaczania kandydat\u00f3w na cz\u0142onk\u00f3w i kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w Komitetu\nRegion\u00f3w Unii Europejskiej w kadencji, w trakcie kt\u00f3rej niniejsza ustawa wesz\u0142a w\n\u017cycie, uprawnione s\u0105 organizacje jednostek samorz\u0105du terytorialnego, o kt\u00f3rych mowa\nw art. 20 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.\nArt. 4.\nUstawa wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity ustawy z dnia 6 maja 2005 r. o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du\nTerytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Region\u00f3w\nUnii Europejskiej\nRozdzia\u0142 1\nPrzepis og\u00f3lny\nArt. 1.\nUstawa okre\u015bla zasady funkcjonowania i tryb wy\u0142aniania Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du\nTerytorialnego oraz zasady i tryb wyznaczania kandydat\u00f3w na przedstawicieli Rzeczypospolitej\nPolskiej w Komitecie Region\u00f3w Unii Europejskiej.\nRozdzia\u0142 2\nKomisja Wsp\u00f3lna Rz\u0105du i Samorz\u0105du Terytorialnego\nArt. 2.\n1.\nKomisja Wsp\u00f3lna Rz\u0105du i Samorz\u0105du Terytorialnego, zwana dalej \u201eKomisj\u0105 Wsp\u00f3ln\u0105\u201d, stanowi\nforum wypracowywania wsp\u00f3lnego stanowiska Rz\u0105du i samorz\u0105du terytorialnego.\n2.\nKomisja Wsp\u00f3lna rozpatruje problemy zwi\u0105zane z funkcjonowaniem samorz\u0105du terytorialnego\ni z polityk\u0105 pa\u0144stwa wobec samorz\u0105du terytorialnego, a tak\u017ce sprawy dotycz\u0105ce samorz\u0105du\nterytorialnego znajduj\u0105ce si\u0119 w zakresie dzia\u0142ania Unii Europejskiej i organizacji\nmi\u0119dzynarodowych, do kt\u00f3rych Rzeczpospolita Polska nale\u017cy.\n3.\nUprawnienia Komisji Wsp\u00f3lnej nie naruszaj\u0105 w\u0142a\u015bciwo\u015bci organ\u00f3w w\u0142adzy publicznej.\nArt. 3.\nDo zada\u0144 Komisji Wsp\u00f3lnej nale\u017cy:\n1)\nwypracowywanie wsp\u00f3lnego stanowiska Rz\u0105du i samorz\u0105du terytorialnego w zakresie ustalania\npriorytet\u00f3w gospodarczych i spo\u0142ecznych w sprawach dotycz\u0105cych:\na)\ngospodarki komunalnej i funkcjonowania samorz\u0105du gminnego i samorz\u0105du powiatowego,\nb)\nrozwoju regionalnego i funkcjonowania samorz\u0105du wojew\u00f3dztwa;\n2)\ndokonywanie przegl\u0105d\u00f3w i ocen warunk\u00f3w prawnych i finansowych funkcjonowania samorz\u0105du\nterytorialnego, w tym tak\u017ce powiatowych s\u0142u\u017cb, inspekcji i stra\u017cy oraz organ\u00f3w nadzoru\ni kontroli nad samorz\u0105dem terytorialnym;\n3)\nocena stanu funkcjonowania samorz\u0105du terytorialnego w odniesieniu do procesu integracji\nw ramach Unii Europejskiej, w tym wykorzystywania przez jednostki samorz\u0105du terytorialnego\n\u015brodk\u00f3w finansowych;\n4)\nanalizowanie informacji o przygotowywanych projektach akt\u00f3w prawnych, dokument\u00f3w i\nprogram\u00f3w rz\u0105dowych dotycz\u0105cych problematyki samorz\u0105du terytorialnego, w szczeg\u00f3lno\u015bci\nprzewidywanych skutk\u00f3w finansowych;\n5)\nopiniowanie projekt\u00f3w akt\u00f3w normatywnych, program\u00f3w i innych dokument\u00f3w rz\u0105dowych\ndotycz\u0105cych problematyki samorz\u0105du terytorialnego, w tym tak\u017ce okre\u015blaj\u0105cych relacje\npomi\u0119dzy samorz\u0105dem terytorialnym a innymi organami administracji publicznej.\nArt. 4.\n1.\nW sk\u0142ad Komisji Wsp\u00f3lnej wchodz\u0105 przedstawiciele strony rz\u0105dowej i strony samorz\u0105dowej\nw r\u00f3wnej liczbie.\n2.\nStron\u0119 rz\u0105dow\u0105 w Komisji Wsp\u00f3lnej stanowi\u0105:\n1)\nminister w\u0142a\u015bciwy do spraw administracji publicznej;\n2 1) Ze zmian\u0105 wprowadzon\u0105 przez art. 1 pkt 1 ustawy z dnia 13 lipca 2023 r. o zmianie\nustawy o Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego oraz o przedstawicielach\nRzeczypospolitej Polskiej w Komitecie Region\u00f3w Unii Europejskiej (Dz. U. poz. 1821),\nkt\u00f3ra wesz\u0142a w \u017cycie z dniem 22 wrze\u015bnia 2023 r.)\n15 przedstawicieli powo\u0142ywanych i odwo\u0142ywanych przez Prezesa Rady Ministr\u00f3w na wniosek\nministra w\u0142a\u015bciwego do spraw administracji publicznej.\nArt. 5.\n1.\nStron\u0119 samorz\u0105dow\u0105 w Komisji Wsp\u00f3lnej stanowi\u0105 wyznaczeni przedstawiciele og\u00f3lnopolskich\norganizacji jednostek samorz\u0105du terytorialnego, w tym:\n1)\npo 2 osoby wyznaczone przez og\u00f3lnopolskie organizacje reprezentuj\u0105ce nast\u0119puj\u0105ce kategorie\njednostek samorz\u0105du gminnego:\na)\ngminy licz\u0105ce powy\u017cej 300 tysi\u0119cy mieszka\u0144c\u00f3w,\nb)\ngminy posiadaj\u0105ce status miasta,\nc)\ngminy, kt\u00f3rych siedziby w\u0142adz znajduj\u0105 si\u0119 w miastach po\u0142o\u017conych na terytorium tych\ngmin,\nd)\ngminy nieposiadaj\u0105ce statusu miasta i niemaj\u0105ce siedzib swych w\u0142adz w miastach po\u0142o\u017conych\nna terytorium tych gmin;\n2)\n2 osoby wyznaczone przez og\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 jednostki samorz\u0105du\npowiatowego;\n3)\n2 osoby wyznaczone przez og\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 jednostki samorz\u0105du\nwojew\u00f3dztw;\n4 2) Dodany przez art. 1 pkt 2 lit. a ustawy, o kt\u00f3rej mowa w odno\u015bniku 1.)\n2 osoby wyznaczone przez og\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 wszystkie kategorie\njednostek samorz\u0105du terytorialnego, zrzeszaj\u0105c\u0105 co najmniej 100 cz\u0142onk\u00f3w;\n5 2) Dodany przez art. 1 pkt 2 lit. a ustawy, o kt\u00f3rej mowa w odno\u015bniku 1.)\n2 osoby wyznaczone przez og\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 regionalne organizacje\nsamorz\u0105dowe.\n2.\nOg\u00f3lnopolskie organizacje jednostek samorz\u0105du terytorialnego, o kt\u00f3rych mowa w ust.\n1, powinny spe\u0142nia\u0107 nast\u0119puj\u0105ce kryteria:\n1 3) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o kt\u00f3rej mowa w odno\u015bniku\n1.)\nreprezentowa\u0107 jednostki funkcjonuj\u0105ce na danym stopniu podzia\u0142u terytorialnego pa\u0144stwa,\na w przypadku jednostek samorz\u0105du gminnego - jedn\u0105 z kategorii tych jednostek, spo\u015br\u00f3d\nwymienionych w ust. 1 pkt 1 lub reprezentowa\u0107 regionalne organizacje samorz\u0105dowe;\n2)\ndzia\u0142a\u0107 przez okres nie kr\u00f3tszy ni\u017c kadencja wybieranych w g\u0142osowaniu powszechnym\norgan\u00f3w stanowi\u0105cych jednostek samorz\u0105du terytorialnego na danym stopniu podzia\u0142u;\n3)\nreprezentowa\u0107 jednostki samorz\u0105du terytorialnego, kt\u00f3rych cz\u0142onkostwo w danej organizacji\nwynika bezpo\u015brednio z rozstrzygni\u0119cia organu jednostki samorz\u0105du terytorialnego.\n3 4) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o kt\u00f3rej mowa w odno\u015bniku\n1..\nWyznaczenie przedstawicieli, o kt\u00f3rych mowa w ust. 1, nast\u0119puje w trybie i na zasadach\nokre\u015blonych w aktach statutowych lub porozumieniach w\u0142a\u015bciwych organizacji jednostek\nsamorz\u0105du terytorialnego. O wyznaczeniu przedstawicieli organ statutowy lub przedstawiciel\nporozumienia w\u0142a\u015bciwej organizacji jednostek samorz\u0105du terytorialnego zawiadamia niezw\u0142ocznie\nministra w\u0142a\u015bciwego do spraw administracji publicznej.\nArt. 6.\n1.\nOg\u00f3lnopolskie organizacje jednostek samorz\u0105du terytorialnego sk\u0142adaj\u0105 na bie\u017c\u0105co Radzie\nMinistr\u00f3w, za po\u015brednictwem ministra w\u0142a\u015bciwego do spraw administracji publicznej,\nwnioski o uznanie za organizacje uprawnione do wyznaczania przedstawicieli do Komisji\nWsp\u00f3lnej. Do wniosku nale\u017cy do\u0142\u0105czy\u0107 dokumenty potwierdzaj\u0105ce spe\u0142nianie kryteri\u00f3w,\no kt\u00f3rych mowa w art. 5 ust. 1 i 2.\n2.\nRada Ministr\u00f3w rozpatruje wnioski, o kt\u00f3rych mowa w ust. 1, w terminie 6 miesi\u0119cy\nod dnia rozpocz\u0119cia kadencji nowo wybranych organ\u00f3w stanowi\u0105cych jednostek samorz\u0105du\nterytorialnego.\n3 5) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1..\nJe\u017celi dwie lub wi\u0119cej og\u00f3lnopolskich organizacji jednostek samorz\u0105du terytorialnego\nreprezentuj\u0105cych te same kategorie jednostek samorz\u0105du terytorialnego, o kt\u00f3rych mowa\nw art. 5 ust. 1, lub reprezentuj\u0105cych regionalne organizacje samorz\u0105dowe spe\u0142nia kryteria\nwymienione w art. 5 ust. 2, uprawnion\u0105 do wyznaczenia przedstawicieli do Komisji Wsp\u00f3lnej\njest ta organizacja, kt\u00f3ra ma najwi\u0119ksz\u0105 liczb\u0119 cz\u0142onk\u00f3w.\n4 5) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1..\nRada Ministr\u00f3w okre\u015bla, w drodze rozporz\u0105dzenia, organizacje, kt\u00f3re s\u0105 uprawnione\ndo wyznaczania przedstawicieli do Komisji Wsp\u00f3lnej, kieruj\u0105c si\u0119 kryteriami, o kt\u00f3rych\nmowa w art. 5 ust. 1 i 2, po rozpatrzeniu wniosk\u00f3w og\u00f3lnopolskich organizacji jednostek\nsamorz\u0105du terytorialnego reprezentuj\u0105cych te same kategorie jednostek samorz\u0105du terytorialnego,\no kt\u00f3rych mowa w art. 5 ust. 1, lub regionalne organizacje samorz\u0105dowe.\nArt. 7.\n1.\nKomisja Wsp\u00f3lna wyra\u017ca opini\u0119 na zasadzie jej uzgodnienia przez obie strony Komisji.\nOpinia mo\u017ce zawiera\u0107 odr\u0119bne stanowiska w kwestiach szczeg\u00f3\u0142owych.\n2.\nW przypadku braku uzgodnienia, o kt\u00f3rym mowa w ust. 1, ka\u017cda ze stron przyjmuje w\u0142asne\nstanowisko w sprawie b\u0119d\u0105cej przedmiotem obrad.\n3.\nW przypadkach gdy przepisy odr\u0119bne przewiduj\u0105 obowi\u0105zek zasi\u0119gni\u0119cia opinii Komisji\nWsp\u00f3lnej lub opinii strony samorz\u0105dowej Komisji o projekcie aktu normatywnego lub\ninnego dokumentu, termin wyra\u017cenia opinii o projekcie wynosi 30 dni od dnia dor\u0119czenia\nprojektu. Nieprzedstawienie opinii w terminie oznacza rezygnacj\u0119 z prawa jej wyra\u017cenia.\nArt. 8.\n1.\nCz\u0142onkowie Rady Ministr\u00f3w oraz inne podmioty w\u0142a\u015bciwe do przygotowania projekt\u00f3w akt\u00f3w\nnormatywnych, program\u00f3w i innych dokument\u00f3w rz\u0105dowych dotycz\u0105cych problematyki samorz\u0105du\nterytorialnego przedstawiaj\u0105 Komisji Wsp\u00f3lnej do zaopiniowania projekty tych dokument\u00f3w\nwraz z prognoz\u0105 ich skutk\u00f3w finansowych.\n2.\nOpinia Komisji Wsp\u00f3lnej dotycz\u0105ca projekt\u00f3w dokument\u00f3w rz\u0105dowych, o kt\u00f3rych mowa w\nust. 1, jest do\u0142\u0105czana do projektu dokumentu. W przypadkach, o kt\u00f3rych mowa w art.\n7 ust. 2, do projektu dokumentu do\u0142\u0105cza si\u0119 stanowisko ka\u017cdej ze stron Komisji Wsp\u00f3lnej.\n3.\nDo opinii i stanowisk, o kt\u00f3rych mowa w ust. 2, przepis art. 7 ust. 3 stosuje si\u0119\nodpowiednio.\nArt. 9.\nKa\u017cda ze stron Komisji Wsp\u00f3lnej, poza przypadkami, o kt\u00f3rych mowa w art. 7 i 8, mo\u017ce\nr\u00f3wnie\u017c zaj\u0105\u0107 stanowisko w sprawie dotycz\u0105cej problematyki samorz\u0105du terytorialnego,\njak te\u017c wnioskowa\u0107 do drugiej strony o podj\u0119cie sprawy, kt\u00f3r\u0105 uzna za maj\u0105c\u0105 znaczenie\nz punktu widzenia problematyki samorz\u0105du terytorialnego.\nArt. 10.\n1.\nKomisja Wsp\u00f3lna powo\u0142uje sta\u0142e zespo\u0142y problemowe.\n2.\nDo zakresu dzia\u0142ania sta\u0142ych zespo\u0142\u00f3w problemowych nale\u017cy wykonywanie zada\u0144 wynikaj\u0105cych\nz art. 3 w zakresie okre\u015blonym przez Komisj\u0119 Wsp\u00f3ln\u0105 i przedstawianie Komisji Wsp\u00f3lnej\nwynik\u00f3w prac.\n3.\nW razie potrzeby Komisja Wsp\u00f3lna mo\u017ce powo\u0142a\u0107 dora\u017ane zespo\u0142y problemowe.\n4.\nDo sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych Komisja Wsp\u00f3lna mo\u017ce powo\u0142ywa\u0107 osoby\nspoza jej sk\u0142adu.\n5.\nDo zespo\u0142\u00f3w problemowych przepisy art. 7 ust. 1 i 2 oraz art. 9 stosuje si\u0119 odpowiednio.\nArt. 11.\n1.\nPracami Komisji Wsp\u00f3lnej kieruj\u0105 wsp\u00f3\u0142przewodnicz\u0105cy:\n1)\nminister w\u0142a\u015bciwy do spraw administracji publicznej, jako przedstawiciel strony rz\u0105dowej;\n2)\nprzedstawiciel samorz\u0105du terytorialnego, wybrany przez cz\u0142onk\u00f3w strony samorz\u0105dowej\nspo\u015br\u00f3d ich grona.\n2.\nDo zada\u0144 wsp\u00f3\u0142przewodnicz\u0105cych nale\u017cy:\n1)\nprzewodniczenie posiedzeniom Komisji Wsp\u00f3lnej;\n2)\nustalanie harmonogramu prac Komisji Wsp\u00f3lnej, w szczeg\u00f3lno\u015bci ustalanie termin\u00f3w i\nporz\u0105dku obrad kolejnych posiedze\u0144 Komisji przy uwzgl\u0119dnieniu wniosk\u00f3w zg\u0142aszanych\nprzez cz\u0142onk\u00f3w Komisji;\n3)\nustalanie sk\u0142ad\u00f3w osobowych sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych;\n4)\npowo\u0142ywanie i odwo\u0142ywanie wsp\u00f3\u0142przewodnicz\u0105cych sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych.\n3.\nWsp\u00f3\u0142przewodnicz\u0105cy Komisji Wsp\u00f3lnej reprezentuj\u0105cy stron\u0119 rz\u0105dow\u0105 na wniosek wsp\u00f3\u0142przewodnicz\u0105cego\nreprezentuj\u0105cego stron\u0119 samorz\u0105dow\u0105 lub z w\u0142asnej inicjatywy mo\u017ce powo\u0142ywa\u0107 ekspert\u00f3w\nKomisji oraz zleca\u0107 wykonanie opinii i ekspertyz na rzecz Komisji.\n4.\nWsp\u00f3\u0142przewodnicz\u0105cy Komisji Wsp\u00f3lnej mog\u0105 zaprasza\u0107 do udzia\u0142u w pracach Komisji oraz\njej sta\u0142ych i dora\u017anych zespo\u0142\u00f3w, z g\u0142osem doradczym, przedstawicieli administracji\nrz\u0105dowej, samorz\u0105du terytorialnego oraz innych organizacji i instytucji.\nArt. 12.\nKomisja Wsp\u00f3lna rozpatruje sprawy wniesione przez:\n1)\ncz\u0142onk\u00f3w Rady Ministr\u00f3w oraz inne podmioty, o kt\u00f3rych mowa w art. 8 ust. 1;\n2)\nwsp\u00f3\u0142przewodnicz\u0105cych Komisji;\n3)\nsta\u0142e i dora\u017ane zespo\u0142y problemowe.\nArt. 13.\n1.\nPracami sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych kieruj\u0105 ich wsp\u00f3\u0142przewodnicz\u0105cy,\nreprezentuj\u0105cy stron\u0119 rz\u0105dow\u0105 i stron\u0119 samorz\u0105dow\u0105.\n2.\nDo zada\u0144 wsp\u00f3\u0142przewodnicz\u0105cych zespo\u0142\u00f3w nale\u017cy:\n1)\nprzewodniczenie posiedzeniom zespo\u0142\u00f3w;\n2)\nustalanie harmonogramu prac zespo\u0142\u00f3w;\n3)\nsporz\u0105dzanie okresowych informacji dla Komisji Wsp\u00f3lnej o pracach zespo\u0142\u00f3w;\n4)\nustalanie termin\u00f3w i zakresu tematycznego kolejnych posiedze\u0144 zespo\u0142\u00f3w.\nArt. 14.\n1.\nPosiedzenia Komisji Wsp\u00f3lnej odbywaj\u0105 si\u0119 w zale\u017cno\u015bci od potrzeb, nie rzadziej jednak\nni\u017c raz na 2 miesi\u0105ce.\n2.\nPosiedzenia sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych odbywaj\u0105 si\u0119 w zale\u017cno\u015bci od\npotrzeb.\n3.\nZ posiedzenia Komisji Wsp\u00f3lnej oraz sta\u0142ych i dora\u017anych zespo\u0142\u00f3w problemowych sporz\u0105dza\nsi\u0119 protok\u00f3\u0142. Do protoko\u0142u do\u0142\u0105cza si\u0119 w szczeg\u00f3lno\u015bci dokumenty, o kt\u00f3rych mowa w\nart. 8 ust. 1 i 2 oraz art. 9.\nArt. 15.\n1.\nPosiedzenia Komisji Wsp\u00f3lnej i zespo\u0142\u00f3w problemowych zwo\u0142uje odpowiednio wsp\u00f3\u0142przewodnicz\u0105cy\nKomisji lub zespo\u0142u reprezentuj\u0105cy stron\u0119 rz\u0105dow\u0105, dzia\u0142aj\u0105c w uzgodnieniu ze wsp\u00f3\u0142przewodnicz\u0105cym\nreprezentuj\u0105cym stron\u0119 samorz\u0105dow\u0105, z w\u0142asnej inicjatywy lub na wniosek wsp\u00f3\u0142przewodnicz\u0105cego\nreprezentuj\u0105cego stron\u0119 samorz\u0105dow\u0105.\n2.\nPierwsze posiedzenie Komisji Wsp\u00f3lnej, w nowym sk\u0142adzie, zwo\u0142uje minister w\u0142a\u015bciwy\ndo spraw administracji publicznej w terminie 30 dni od dnia zawiadomienia go o wyznaczeniu\nprzedstawicieli strony samorz\u0105dowej do Komisji Wsp\u00f3lnej.\n3.\nObs\u0142ug\u0119 organizacyjn\u0105 prac Komisji Wsp\u00f3lnej i jej zespo\u0142\u00f3w problemowych zapewnia sekretarz\nKomisji wyznaczony przez wsp\u00f3\u0142przewodnicz\u0105cego Komisji reprezentuj\u0105cego stron\u0119 rz\u0105dow\u0105,\ndzia\u0142aj\u0105c w porozumieniu z sekretarzem wyznaczonym przez wsp\u00f3\u0142przewodnicz\u0105cego reprezentuj\u0105cego\nstron\u0119 samorz\u0105dow\u0105. Sekretarz komisji wyznaczony przez wsp\u00f3\u0142przewodnicz\u0105cego Komisji\nreprezentuj\u0105cego stron\u0119 rz\u0105dow\u0105 wykonuje zadania przy pomocy sekretariatu Komisji.\nArt. 16.\nCz\u0142onkom Komisji Wsp\u00f3lnej oraz cz\u0142onkom zespo\u0142\u00f3w problemowych nieb\u0119d\u0105cych cz\u0142onkami\nKomisji nie przys\u0142uguje wynagrodzenie.\nArt. 17.\nKomisja Wsp\u00f3lna uchwala sw\u00f3j regulamin, kt\u00f3ry okre\u015bla szczeg\u00f3\u0142owy tryb pracy Komisji\ni jej sta\u0142ych zespo\u0142\u00f3w problemowych oraz zakres zada\u0144 poszczeg\u00f3lnych zespo\u0142\u00f3w i ich\nliczb\u0119. Regulamin pracy Komisji Wsp\u00f3lnej podlega og\u0142oszeniu w Dzienniku Urz\u0119dowym\nRzeczypospolitej Polskiej \u201eMonitor Polski\u201d.\nArt. 18.\n1.\nObs\u0142ug\u0119 organizacyjn\u0105, techniczn\u0105 i kancelaryjno-biurow\u0105 Komisji Wsp\u00f3lnej, jej zespo\u0142\u00f3w\ni sekretariatu zapewnia urz\u0105d obs\u0142uguj\u0105cy ministra w\u0142a\u015bciwego do spraw administracji\npublicznej.\n2.\nKoszty finansowania obs\u0142ugi, o kt\u00f3rej mowa w ust. 1, s\u0105 pokrywane ze \u015brodk\u00f3w bud\u017cetu\npa\u0144stwa, z cz\u0119\u015bci, kt\u00f3rej dysponentem jest minister w\u0142a\u015bciwy do spraw administracji\npublicznej.\nRozdzia\u0142 3\nZasady i tryb wyznaczania kandydat\u00f3w na przedstawicieli Rzeczypospolitej Polskiej\nw Komitecie Region\u00f3w Unii Europejskiej\nArt. 19.\n1.\nRada Ministr\u00f3w przedk\u0142ada Radzie Unii Europejskiej wniosek zawieraj\u0105cy list\u0119 21 kandydat\u00f3w\nna cz\u0142onk\u00f3w i 21 kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w Komitetu Region\u00f3w Unii Europejskiej,\nzwanego dalej \u201eKomitetem Region\u00f3w\u201d.\n2.\nKandydat\u00f3w na cz\u0142onk\u00f3w i kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w Komitetu Region\u00f3w wyznacza\nsi\u0119 spo\u015br\u00f3d os\u00f3b b\u0119d\u0105cych:\n1)\nradnymi gminy, powiatu lub wojew\u00f3dztwa;\n2)\nw\u00f3jtem (burmistrzem, prezydentem miasta), cz\u0142onkami zarz\u0105du powiatu lub cz\u0142onkami\nzarz\u0105du wojew\u00f3dztwa.\nArt. 20.\n1.\nRada Ministr\u00f3w na li\u015bcie, o kt\u00f3rej mowa w art. 19 ust. 1, umieszcza kandydat\u00f3w na\ncz\u0142onk\u00f3w i kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w, wyznaczonych przez:\n1 6) Ze zmianami wprowadzonymi przez art. 1 pkt 4 lit. a ustawy, o kt\u00f3rej mowa w odno\u015bniku\n1.)\nog\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 jednostki samorz\u0105du wojew\u00f3dztw - w liczbie\n8 kandydat\u00f3w na cz\u0142onk\u00f3w i 8 kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w,\n2)\nog\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 jednostki samorz\u0105du powiatowego - w liczbie\n3 kandydat\u00f3w na cz\u0142onk\u00f3w i 3 kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w,\n3)\nog\u00f3lnopolskie organizacje reprezentuj\u0105ce nast\u0119puj\u0105ce kategorie jednostek samorz\u0105du\ngminnego:\na)\ngminy licz\u0105ce powy\u017cej 300 tysi\u0119cy mieszka\u0144c\u00f3w - w liczbie 2 kandydat\u00f3w na cz\u0142onk\u00f3w\ni 2 kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w,\nb)\ngminy posiadaj\u0105ce status miasta - w liczbie 3 kandydat\u00f3w na cz\u0142onk\u00f3w i 3 kandydat\u00f3w\nna zast\u0119pc\u00f3w cz\u0142onk\u00f3w,\nc)\ngminy, kt\u00f3rych siedziby w\u0142adz znajduj\u0105 si\u0119 w miastach po\u0142o\u017conych na terytorium tych\ngmin - w liczbie 1 kandydata na cz\u0142onka i 1 kandydata na zast\u0119pc\u0119 cz\u0142onka,\nd)\ngminy nieposiadaj\u0105ce statusu miasta i niemaj\u0105ce siedzib swych w\u0142adz w miastach po\u0142o\u017conych\nna terytorium tych gmin - w liczbie 2 kandydat\u00f3w na cz\u0142onk\u00f3w i 2 kandydat\u00f3w na zast\u0119pc\u00f3w\ncz\u0142onk\u00f3w,\n4 7) Dodany przez art. 1 pkt 4 lit. b ustawy, o kt\u00f3rej mowa w odno\u015bniku 1.)\nog\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 wszystkie kategorie jednostek samorz\u0105du terytorialnego,\nzrzeszaj\u0105c\u0105 co najmniej 100 cz\u0142onk\u00f3w - w liczbie 1 kandydata na cz\u0142onka i 1 kandydata\nna zast\u0119pc\u0119 cz\u0142onka,\n5 7) Dodany przez art. 1 pkt 4 lit. b ustawy, o kt\u00f3rej mowa w odno\u015bniku 1.)\nog\u00f3lnopolsk\u0105 organizacj\u0119 reprezentuj\u0105c\u0105 regionalne organizacje samorz\u0105dowe - w liczbie\n1 kandydata na cz\u0142onka i 1 kandydata na zast\u0119pc\u0119 cz\u0142onka\n- reprezentowane w Komisji Wsp\u00f3lnej.\n2.\nStrona samorz\u0105dowa Komisji Wsp\u00f3lnej zapewnia reprezentowanie przez kandydat\u00f3w na cz\u0142onk\u00f3w\ni kandydat\u00f3w na zast\u0119pc\u00f3w cz\u0142onk\u00f3w w Komitecie Region\u00f3w wszystkich wojew\u00f3dztw.\nRozdzia\u0142 4\nPrzepisy zmieniaj\u0105ce, przej\u015bciowe i dostosowuj\u0105ce\nArt. 21.\n(pomini\u0119ty) 8) Zamieszczony w obwieszczeniu.\nArt. 22.\nJe\u017celi dotychczasowe przepisy odwo\u0142uj\u0105 si\u0119 do Komisji Wsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego\nalbo reprezentacji lub przedstawicielstwa samorz\u0105d\u00f3w terytorialnych, nale\u017cy przez\nto rozumie\u0107 Komisj\u0119 Wsp\u00f3ln\u0105 Rz\u0105du i Samorz\u0105du Terytorialnego dzia\u0142aj\u0105c\u0105 na podstawie\nprzepis\u00f3w niniejszej ustawy.\nArt. 23.\n1.\nW kadencji organ\u00f3w jednostek samorz\u0105du terytorialnego wybranych w 2002 r. organizacjami,\no kt\u00f3rych mowa w art. 5 ust. 1, s\u0105 odpowiednio:\n1)\ndla jednostek samorz\u0105du gminnego:\na)\nUnia Metropolii Polskich,\nb)\nZwi\u0105zek Miast Polskich,\nc)\nUnia Miasteczek Polskich,\nd)\nZwi\u0105zek Gmin Wiejskich Rzeczypospolitej Polskiej;\n2)\ndla jednostek samorz\u0105du powiatowego - Zwi\u0105zek Powiat\u00f3w Polskich;\n3)\ndla jednostek samorz\u0105du wojew\u00f3dztwa - Zwi\u0105zek Wojew\u00f3dztw Rzeczypospolitej Polskiej.\n2.\nRozporz\u0105dzenie, o kt\u00f3rym mowa w art. 6 ust. 4, Rada Ministr\u00f3w wyda w terminie 6 miesi\u0119cy\nod dnia rozpocz\u0119cia kadencji organ\u00f3w jednostek samorz\u0105du terytorialnego nast\u0119puj\u0105cej\npo kadencji, w kt\u00f3rej ustawa wesz\u0142a w \u017cycie.\n3.\nDo czasu wydania rozporz\u0105dzenia, o kt\u00f3rym mowa w ust. 2, Komisja Wsp\u00f3lna dzia\u0142a w\nsk\u0142adzie powo\u0142anym na podstawie rozporz\u0105dzenia Rady Ministr\u00f3w z dnia 5 lutego 2002 r. w sprawie powo\u0142ania Komisji\nWsp\u00f3lnej Rz\u0105du i Samorz\u0105du Terytorialnego\n(Dz. U. poz. 124 oraz z 2003 r. poz. 508). Zmiany przedstawicieli w Komisji Wsp\u00f3lnej nast\u0119puj\u0105 z uwzgl\u0119dnieniem przepis\u00f3w art.\n4 ust. 2 i art. 5 ust. 3.\nArt. 24.\nW przypadku wyga\u015bni\u0119cia mandatu przedstawiciela Rzeczypospolitej Polskiej w Komitecie\nRegion\u00f3w do wyznaczenia kandydata na przedstawiciela stosuje si\u0119 przepisy niniejszej\nustawy.\nArt. 25.\nUstawa wchodzi w \u017cycie po up\u0142ywie 30 dni od dnia og\u0142oszenia 9) Ustawa zosta\u0142a og\u0142oszona w dniu 23 maja 2005 r.."
+    },
+    "meta": {},
+    "created_at": "2026-11-06T15:29:16.271651Z",
+    "updated_at": "2026-11-06T15:29:16.271651Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 254,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": true,
+  "created_at": "2026-11-06T15:29:16.363217Z",
+  "updated_at": "2026-11-06T15:29:16.363217Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": null,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
