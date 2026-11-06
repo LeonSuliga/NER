@@ -303,36 +303,6 @@
     },
     {
       "value": {
-        "start": 1956,
-        "end": 1960,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "SmJzvEotM_",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 1961,
-        "end": 1962,
-        "text": "1",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "yeYbH9lKxc",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 2135,
         "end": 2156,
         "text": "Dz. U. z 2022 r. poz.",
@@ -401,36 +371,6 @@
         ]
       },
       "id": "ZnmeufhmQ5",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 2235,
-        "end": 2239,
-        "text": "Art.",
-        "labels": [
-          "ART_KEY"
-        ]
-      },
-      "id": "dDWOTJAISa",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 2240,
-        "end": 2241,
-        "text": "2",
-        "labels": [
-          "ART_VAL"
-        ]
-      },
-      "id": "2xGWZTJnYx",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -3408,7 +3348,7 @@
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "0\u00a0minutes",
+  "created_ago": "2\u00a0hours, 34\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -3422,7 +3362,7 @@
     },
     "meta": {},
     "created_at": "2026-11-06T15:29:16.278788Z",
-    "updated_at": "2026-11-06T15:29:16.278788Z",
+    "updated_at": "2026-11-06T18:03:20.176219Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -3442,14 +3382,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-06T15:29:16.374728Z",
-  "updated_at": "2026-11-06T15:29:16.374728Z",
+  "updated_at": "2026-11-06T18:03:20.202098Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 20.261,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
