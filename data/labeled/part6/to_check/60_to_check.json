@@ -1,0 +1,119 @@
+[
+  {
+    "data": {
+      "text": "Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o dokumentach publicznych\nTreść ustawy\nArt. 1.\nW ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych\n(Dz. U. z 2024 r. poz. 564 i 1081) w art. 73 ust. 1b otrzymuje brzmienie:\n„1b.\nTermin określony w komunikacie nie może być późniejszy niż dzień 1 października 2025 r.”.\nArt. 2.\nUstawa wchodzi w życie z dniem następującym po dniu ogłoszenia."
+    },
+    "id": 66,
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 160,
+              "end": 181,
+              "text": "Dz. U. z 2024 r. poz.",
+              "labels": [
+                "PUB_KEY"
+              ]
+            },
+            "id": "7L7mwuXCsu",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 182,
+              "end": 185,
+              "text": "564",
+              "labels": [
+                "PUB_VAL"
+              ]
+            },
+            "id": "fELNkWIlT_",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 188,
+              "end": 192,
+              "text": "1081",
+              "labels": [
+                "PUB_VAL"
+              ]
+            },
+            "id": "JIw7JQTpXx",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 196,
+              "end": 200,
+              "text": "art.",
+              "labels": [
+                "ART_KEY"
+              ]
+            },
+            "id": "U3AmJb9YKN",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 201,
+              "end": 203,
+              "text": "73",
+              "labels": [
+                "ART_VAL"
+              ]
+            },
+            "id": "O98HBW1cwd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 204,
+              "end": 208,
+              "text": "ust.",
+              "labels": [
+                "UST_KEY"
+              ]
+            },
+            "id": "1NXES54XCl",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 209,
+              "end": 211,
+              "text": "1b",
+              "labels": [
+                "UST_VAL"
+              ]
+            },
+            "id": "Et9AVL1wsV",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          }
+        ]
+      }
+    ]
+  }
+]
