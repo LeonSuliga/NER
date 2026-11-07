@@ -1293,21 +1293,6 @@
     },
     {
       "value": {
-        "start": 66286,
-        "end": 66287,
-        "text": "4",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "sWBDFg1qvC",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
         "start": 103607,
         "end": 103610,
         "text": "pkt",
@@ -1316,21 +1301,6 @@
         ]
       },
       "id": "A6UjqqEB8X",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 103611,
-        "end": 103612,
-        "text": "9",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "vF5zabaanL",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -1556,21 +1526,6 @@
         ]
       },
       "id": "aMo2tewJqs",
-      "from_name": "label",
-      "to_name": "text",
-      "type": "labels",
-      "origin": "prediction"
-    },
-    {
-      "value": {
-        "start": 168576,
-        "end": 168577,
-        "text": "8",
-        "labels": [
-          "PKT_VAL"
-        ]
-      },
-      "id": "KIF_5doLhR",
       "from_name": "label",
       "to_name": "text",
       "type": "labels",
@@ -2310,10 +2265,70 @@
       "to_name": "text",
       "type": "labels",
       "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 66286,
+        "end": 66289,
+        "text": "4.4",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "oEtSSI6Dre",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 66292,
+        "end": 66296,
+        "text": "4.19",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "aLCDXClEwj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 103611,
+        "end": 103615,
+        "text": "9.30",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ldRhHllV1x",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 168576,
+        "end": 168580,
+        "text": "8.22",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "DEYaiw8kRK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
     }
   ],
   "created_username": " s197920@student.pg.edu.pl, 1",
-  "created_ago": "0\u00a0minutes",
+  "created_ago": "2\u00a0hours, 57\u00a0minutes",
   "completed_by": {
     "id": 1,
     "first_name": "",
@@ -2327,7 +2342,7 @@
     },
     "meta": {},
     "created_at": "2026-11-07T10:59:39.627726Z",
-    "updated_at": "2026-11-07T10:59:39.627726Z",
+    "updated_at": "2026-11-07T13:56:43.590866Z",
     "is_labeled": true,
     "allow_skip": true,
     "overlap": 1,
@@ -2347,14 +2362,14 @@
   "was_cancelled": false,
   "ground_truth": true,
   "created_at": "2026-11-07T10:59:41.395014Z",
-  "updated_at": "2026-11-07T10:59:41.395014Z",
+  "updated_at": "2026-11-07T13:56:43.621868Z",
   "draft_created_at": null,
-  "lead_time": null,
+  "lead_time": 209.586,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": null,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null
