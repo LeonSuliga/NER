@@ -1,0 +1,1671 @@
+{
+  "id": 9,
+  "result": [
+    {
+      "value": {
+        "start": 388,
+        "end": 392,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "FBRzrkvfGN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 393,
+        "end": 395,
+        "text": "16",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "CvRgSioumg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 396,
+        "end": 400,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "kuRoVyuWxm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 401,
+        "end": 402,
+        "text": "1",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "RpGFnlmZ8m",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 403,
+        "end": 409,
+        "text": "zdanie",
+        "labels": [
+          "ZDA_KEY"
+        ]
+      },
+      "id": "YKDNUEgDnR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 410,
+        "end": 418,
+        "text": "pierwsze",
+        "labels": [
+          "ZDA_VAL"
+        ]
+      },
+      "id": "2sFtL-wTpB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 518,
+        "end": 539,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Dt7kFlAIEs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 540,
+        "end": 544,
+        "text": "1461",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "n4ByppSkMl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 730,
+        "end": 741,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "uNfPPavHvc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 742,
+        "end": 745,
+        "text": "648",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "WJ_y5RjnDz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 905,
+        "end": 916,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "Fh-RkhkYq3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 917,
+        "end": 920,
+        "text": "212",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Qwxj7ZycU-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1086,
+        "end": 1090,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "I4EyrvrPKw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1091,
+        "end": 1093,
+        "text": "13",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "675KnLVLsf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1214,
+        "end": 1225,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "TNc3W_HK4l",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1226,
+        "end": 1229,
+        "text": "212",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "5PG-0IDouu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1334,
+        "end": 1338,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "YxUK-ERUwI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1339,
+        "end": 1340,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "hXDty0kwDx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1341,
+        "end": 1344,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "_Gn-6jy_QZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1345,
+        "end": 1346,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "uLTSZDmnv4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1348,
+        "end": 1351,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "yH-Waww98O",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1352,
+        "end": 1353,
+        "text": "9",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ovSL4GOLKz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1354,
+        "end": 1358,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "0w1POHDIPN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1359,
+        "end": 1360,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "HjpHlhRlkB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1362,
+        "end": 1365,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "5VwzDNTev7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1366,
+        "end": 1368,
+        "text": "20",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "N_CeB9Mk7n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1370,
+        "end": 1372,
+        "text": "21",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "n0EyUykcgp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1374,
+        "end": 1376,
+        "text": "26",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "C5N9FQM6Tf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1378,
+        "end": 1380,
+        "text": "33",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Pi_OAbCRPd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1382,
+        "end": 1384,
+        "text": "34",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "IdIZJ78Sy_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1386,
+        "end": 1388,
+        "text": "37",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "3wRidlvq-i",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1390,
+        "end": 1392,
+        "text": "43",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "TYjPiGcUqh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1394,
+        "end": 1396,
+        "text": "48",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "J2ZFy4JaII",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1398,
+        "end": 1400,
+        "text": "50",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "ctYC-k4BZ-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1402,
+        "end": 1404,
+        "text": "53",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "SNFESD0veB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1406,
+        "end": 1409,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "0hogaRTJRV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1410,
+        "end": 1412,
+        "text": "55",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Ihv3LjkIXj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1413,
+        "end": 1417,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "SiroJAeMw6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1418,
+        "end": 1419,
+        "text": "c",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "TSCiCE4ApV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1421,
+        "end": 1424,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "FoodpB7lt2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1425,
+        "end": 1427,
+        "text": "57",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "uPzKkcEHhl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1429,
+        "end": 1431,
+        "text": "58",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "bkfEKQvAnh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1433,
+        "end": 1435,
+        "text": "63",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "eYI-z6m2DZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1437,
+        "end": 1439,
+        "text": "64",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "lHaMncPIrK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1442,
+        "end": 1444,
+        "text": "68",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "4wpYqT3WUu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1450,
+        "end": 1454,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "d84pv9HDj7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1455,
+        "end": 1456,
+        "text": "7",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "v2psOp7N12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1458,
+        "end": 1462,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "RMGWFCMyfi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1463,
+        "end": 1465,
+        "text": "11",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "stUXl5-PgS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1468,
+        "end": 1472,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "QfQ0vUU-ph",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1473,
+        "end": 1475,
+        "text": "12",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "RQE2YuC6lV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1543,
+        "end": 1547,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "BedlF9iRkX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1548,
+        "end": 1549,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "9ovm40P3xT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1550,
+        "end": 1553,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "MmRC8PDt1V",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1554,
+        "end": 1556,
+        "text": "49",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "7yrtDoLAbx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1557,
+        "end": 1561,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "Jls32PoEFh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1562,
+        "end": 1563,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "hn3hA6elMi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1632,
+        "end": 1636,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "EtFP05-rCi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1637,
+        "end": 1638,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "HMiMu7NKCp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1639,
+        "end": 1642,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "1uwTs_YR4N",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1643,
+        "end": 1645,
+        "text": "23",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "PElZYlLWTs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1647,
+        "end": 1649,
+        "text": "24",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "8-OPOoiWXb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1652,
+        "end": 1654,
+        "text": "65",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "GbvBHCBs8J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1723,
+        "end": 1727,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "8gm-sPS9ul",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1728,
+        "end": 1729,
+        "text": "1",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "Tde-5laEjq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1730,
+        "end": 1733,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "KyORZCFw-s",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1734,
+        "end": 1735,
+        "text": "7",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "RuFlLoSYv_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1737,
+        "end": 1739,
+        "text": "14",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "hVl_-zdy3M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1741,
+        "end": 1743,
+        "text": "15",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "sovr1XYza-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1745,
+        "end": 1747,
+        "text": "28",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "xkIApESNc4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1749,
+        "end": 1751,
+        "text": "31",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "E0sODc6Ti2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1753,
+        "end": 1756,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "6iNGp9hg_M",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1757,
+        "end": 1759,
+        "text": "45",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "qiIn50TLmk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1760,
+        "end": 1764,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "lWL1iDp6xi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1765,
+        "end": 1766,
+        "text": "a",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "B4ByzAUdSP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1769,
+        "end": 1772,
+        "text": "lit",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "8YHdp0NKK6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1798,
+        "end": 1802,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "DWCuMFB9fq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1803,
+        "end": 1805,
+        "text": "9b",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "D9CsG8s9-w",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1807,
+        "end": 1810,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "UZfwAfejsD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1811,
+        "end": 1813,
+        "text": "46",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "N0keVkSKvq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1815,
+        "end": 1817,
+        "text": "47",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "Xpk_Tb24y_",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1819,
+        "end": 1822,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "7M6EMLPl7W",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1823,
+        "end": 1825,
+        "text": "49",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "kLAVB0dzjv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1826,
+        "end": 1830,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "S1Kb8whTjq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1831,
+        "end": 1832,
+        "text": "c",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "BsIw5OVwxO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1838,
+        "end": 1840,
+        "text": "54",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "V9gyr6tV1T",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1842,
+        "end": 1845,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "KAiMlYyLrP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1846,
+        "end": 1848,
+        "text": "55",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "6ex8cQ-TfJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1849,
+        "end": 1853,
+        "text": "lit.",
+        "labels": [
+          "LIT_KEY"
+        ]
+      },
+      "id": "HBn7PZa1yG",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1854,
+        "end": 1855,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "SdvXXT0KZt",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1861,
+        "end": 1863,
+        "text": "56",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "qVpgYXlL4e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1866,
+        "end": 1868,
+        "text": "60",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "pRCRyMJ4uc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1874,
+        "end": 1878,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "65IGKQ2fsp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1879,
+        "end": 1881,
+        "text": "10",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "qqhCbmVjKv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2132,
+        "end": 2136,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "7KwpoiOxNo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2137,
+        "end": 2138,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "IFkQ6gF-0H",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2139,
+        "end": 2142,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "B22Q2bSN3-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2143,
+        "end": 2144,
+        "text": "1",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "mE7nCXnjUr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2265,
+        "end": 2276,
+        "text": "Dz. U. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "_Lj01_TMfh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2277,
+        "end": 2280,
+        "text": "212",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "lYAtYwinZH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2368,
+        "end": 2372,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "00K-YUmHCV",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2373,
+        "end": 2374,
+        "text": "2",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "X0k6Lww7HT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2375,
+        "end": 2378,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "3j5gAu6mnN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 2379,
+        "end": 2380,
+        "text": "2",
+        "labels": [
+          "PKT_VAL"
+        ]
+      },
+      "id": "nDk8xBjrG6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 1362,
+        "end": 1365,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "JwFumukZrB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1774,
+        "end": 1775,
+        "text": "b",
+        "labels": [
+          "LIT_VAL"
+        ]
+      },
+      "id": "cGLXMaXjIx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1834,
+        "end": 1837,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ni3V-Bf4Up",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": 1857,
+        "end": 1860,
+        "text": "pkt",
+        "labels": [
+          "PKT_KEY"
+        ]
+      },
+      "id": "ZofVtedjeo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 9,
+    "data": {
+      "text": "Obwieszczenie Marsza\u0142ka Sejmu Rzeczypospolitej Polskiej z dnia 10 lipca 2024 r. w sprawie og\u0142oszenia jednolitego tekstu ustawy o finansowaniu Akademii Katolickiej\nw Warszawie z bud\u017cetu pa\u0144stwa\nSpis tre\u015bci\nTre\u015b\u0107 obwieszczenia\nZa\u0142\u0105cznik - Tekst jednolity ustawy z dnia 5 kwietnia 2006 r. o finansowaniu Akademii Katolickiej\nw Warszawie z bud\u017cetu pa\u0144stwa\nTre\u015b\u0107 obwieszczenia\n1.\nNa podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o og\u0142aszaniu akt\u00f3w normatywnych\ni niekt\u00f3rych innych akt\u00f3w prawnych\n(Dz. U. z 2019 r. poz. 1461) og\u0142asza si\u0119 w za\u0142\u0105czniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydzia\u0142u Teologicznego\nw Warszawie z bud\u017cetu pa\u0144stwa\n(Dz. U. poz. 648), z uwzgl\u0119dnieniem zmian wprowadzonych ustaw\u0105 z dnia 13 stycznia 2023 r. o zmianie ustawy - Prawo o szkolnictwie wy\u017cszym\ni nauce oraz niekt\u00f3rych innych ustaw\n(Dz. U. poz. 212) oraz zmian wynikaj\u0105cych z przepis\u00f3w og\u0142oszonych przed dniem 3 lipca 2024 r.\n2.\nPodany w za\u0142\u0105czniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje\nart. 13 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy - Prawo o szkolnictwie\nwy\u017cszym i nauce oraz niekt\u00f3rych innych ustaw\n(Dz. U. poz. 212), kt\u00f3ry stanowi:\n\u201eArt. 13.\nUstawa wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia, z wyj\u0105tkiem:\n1)\nart. 1 pkt 1, pkt 9 lit. a, pkt 20, 21, 26, 33, 34, 37, 43, 48, 50, 53, pkt 55 lit.\nc, pkt 57, 58, 63, 64 i 68 oraz art. 7, art. 11 i art. 12, kt\u00f3re wchodz\u0105 w \u017cycie z\ndniem nast\u0119puj\u0105cym po dniu og\u0142oszenia;\n2)\nart. 1 pkt 49 lit. a, kt\u00f3ry wchodzi w \u017cycie po up\u0142ywie 3 miesi\u0119cy od dnia og\u0142oszenia;\n3)\nart. 1 pkt 23, 24 i 65, kt\u00f3re wchodz\u0105 w \u017cycie po up\u0142ywie 6 miesi\u0119cy od dnia og\u0142oszenia;\n4)\nart. 1 pkt 7, 14, 15, 28, 31, pkt 45 lit. a i lit. b w zakresie dodawanego ust. 9b,\npkt 46, 47, pkt 49 lit. c, pkt 54, pkt 55 lit. b, pkt 56 i 60 oraz art. 10, kt\u00f3re\nwchodz\u0105 w \u017cycie z dniem 1 pa\u017adziernika 2023 r.\u201d.\nZa\u0142\u0105cznik\n-\nTekst jednolity ustawy z dnia 5 kwietnia 2006 r. o finansowaniu Akademii Katolickiej\nw Warszawie z bud\u017cetu pa\u0144stwa 1) Og\u00f3lne okre\u015blenie przedmiotu ustawy w brzmieniu ustalonym przez art. 2 pkt 1 ustawy\nz dnia 13 stycznia 2023 r. o zmianie ustawy - Prawo o szkolnictwie wy\u017cszym i nauce\noraz niekt\u00f3rych innych ustaw (Dz. U. poz. 212), kt\u00f3ra wesz\u0142a w \u017cycie z dniem 15 lutego\n2023 r.\nArt. 1 2) W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o kt\u00f3rej mowa w odno\u015bniku 1..\nAkademia Katolicka w Warszawie otrzymuje dotacje i inne \u015brodki z bud\u017cetu pa\u0144stwa na\nzasadach okre\u015blonych dla uczelni publicznych.\nArt. 2.\nUstawa wchodzi w \u017cycie z dniem 1 pa\u017adziernika 2006 r."
+    },
+    "meta": {},
+    "created_at": "2026-11-06T15:29:16.271651Z",
+    "updated_at": "2026-11-06T15:29:16.271651Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 256,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": true,
+  "created_at": "2026-11-06T15:29:16.363217Z",
+  "updated_at": "2026-11-06T15:29:16.363217Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": null,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

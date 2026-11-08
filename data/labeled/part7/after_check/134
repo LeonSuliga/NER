@@ -1,0 +1,141 @@
+{
+  "id": 134,
+  "result": [
+    {
+      "value": {
+        "start": 202,
+        "end": 206,
+        "text": "art.",
+        "labels": [
+          "ART_KEY"
+        ]
+      },
+      "id": "blB6-2Ccai",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 207,
+        "end": 208,
+        "text": "5",
+        "labels": [
+          "ART_VAL"
+        ]
+      },
+      "id": "G6yvUtaXsi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 209,
+        "end": 213,
+        "text": "ust.",
+        "labels": [
+          "UST_KEY"
+        ]
+      },
+      "id": "W_bb8zDTq4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 214,
+        "end": 216,
+        "text": "10",
+        "labels": [
+          "UST_VAL"
+        ]
+      },
+      "id": "CTvnFdV4wo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 305,
+        "end": 326,
+        "text": "Dz. U. z 2019 r. poz.",
+        "labels": [
+          "PUB_KEY"
+        ]
+      },
+      "id": "NMsCDCsAsT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    },
+    {
+      "value": {
+        "start": 327,
+        "end": 330,
+        "text": "477",
+        "labels": [
+          "PUB_VAL"
+        ]
+      },
+      "id": "Nzo3wOOk-f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+    }
+  ],
+  "created_username": " s197920@student.pg.edu.pl, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "s197920@student.pg.edu.pl"
+  },
+  "task": {
+    "id": 134,
+    "data": {
+      "text": "Rozporz\u0105dzenie Rady Ministr\u00f3w z dnia 22 listopada 2024 r. w sprawie wysoko\u015bci dop\u0142at do sk\u0142adek z tytu\u0142u ubezpieczenia upraw rolnych i zwierz\u0105t\ngospodarskich w 2025 r.\nTre\u015b\u0107 rozporz\u0105dzenia\nNa podstawie art. 5 ust. 10 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierz\u0105t\ngospodarskich\n(Dz. U. z 2019 r. poz. 477) zarz\u0105dza si\u0119, co nast\u0119puje:\n\u00a7 1.\nW 2025 r. dop\u0142ata do sk\u0142adki z tytu\u0142u ubezpieczenia:\n1)\nupraw zb\u00f3\u017c, kukurydzy, rzepaku, rzepiku, chmielu, tytoniu, warzyw gruntowych, drzew\ni krzew\u00f3w owocowych, truskawek, ziemniak\u00f3w, burak\u00f3w cukrowych lub ro\u015blin str\u0105czkowych\n- wynosi 65 % sk\u0142adki do 1 ha uprawy;\n2)\nbyd\u0142a, koni, owiec, k\u00f3z, drobiu lub \u015bwi\u0144 - wynosi 65 % sk\u0142adki do 1 sztuki.\n\u00a7 2.\nRozporz\u0105dzenie wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia."
+    },
+    "meta": {},
+    "created_at": "2026-11-07T10:59:39.625522Z",
+    "updated_at": "2026-11-07T10:59:39.625522Z",
+    "is_labeled": true,
+    "allow_skip": true,
+    "overlap": 1,
+    "inner_id": 134,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "precomputed_agreement": null,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": null,
+    "file_upload": 474,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": true,
+  "created_at": "2026-11-07T10:59:41.378627Z",
+  "updated_at": "2026-11-07T10:59:41.378627Z",
+  "draft_created_at": null,
+  "lead_time": null,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": null,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
